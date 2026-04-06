@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<style>
+* { margin: 0; padding: 0; }
+body {
+  width: 1080px;
+  height: 1440px;
+  background: url('cover.png') no-repeat center center;
+  background-size: cover;
+  font-family: "PingFang SC", "Microsoft YaHei", Arial, sans-serif;
+  position: relative;
+  overflow: hidden;
+}
+.layer {
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 60px 80px 50px;
+}
+.top-section {
+  text-align: center;
+  margin-top: 60px;
+}
+.recruit-badge {
+  display: inline-block;
+  background: linear-gradient(135deg, #f97316, #fb923c);
+  color: #fff;
+  font-size: 20px;
+  font-weight: 800;
+  padding: 10px 32px;
+  border-radius: 40px;
+  letter-spacing: 4px;
+  box-shadow: 0 4px 20px rgba(249, 115, 22, 0.4);
+  margin-bottom: 20px;
+}
+.main-title {
+  font-size: 88px;
+  font-weight: 900;
+  color: #fff;
+  letter-spacing: 6px;
+  text-shadow: 0 4px 24px rgba(0,0,0,0.5), 0 2px 8px rgba(0,0,0,0.3);
+  line-height: 1;
+}
+.main-title span {
+  display: block;
+  font-size: 44px;
+  font-weight: 700;
+  letter-spacing: 8px;
+  margin-top: 8px;
+  opacity: 0.95;
+}
+.bottom-section {
+  text-align: center;
+}
+.slogan {
+  font-size: 36px;
+  font-weight: 700;
+  color: #fff;
+  letter-spacing: 4px;
+  text-shadow: 0 3px 16px rgba(0,0,0,0.5);
+  margin-bottom: 28px;
+}
+.cta-row {
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.cta-tag {
+  background: rgba(255,255,255,0.18);
+  backdrop-filter: blur(10px);
+  border: 1.5px solid rgba(255,255,255,0.4);
+  color: #fff;
+  font-size: 16px;
+  font-weight: 600;
+  padding: 10px 22px;
+  border-radius: 30px;
+  letter-spacing: 1px;
+}
+.cta-email {
+  background: #fff;
+  color: #4f46e5;
+  font-size: 16px;
+  font-weight: 800;
+  padding: 12px 28px;
+  border-radius: 30px;
+  letter-spacing: 1px;
+  box-shadow: 0 4px 20px rgba(79, 70, 229, 0.4);
+}
+.stars {
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  bottom: 0;
+  pointer-events: none;
+}
+.star {
+  position: absolute;
+  color: #fff;
+  font-size: 18px;
+  opacity: 0.7;
+}
+</style>
+</head>
+<body>
+<div class="layer">
+  <div class="top-section">
+    <div class="recruit-badge">⭐ 2026 春季招聘</div>
+    <div class="main-title">
+      星光科技
+      <span>STARLIGHT TECH</span>
+    </div>
+  </div>
+  <div class="bottom-section">
+    <div class="slogan">做热爱的事，和对味的人</div>
+    <div class="cta-row">
+      <div class="cta-tag">前端工程师</div>
+      <div class="cta-tag">UI设计师</div>
+      <div class="cta-tag">产品经理</div>
+      <div class="cta-tag">内容编辑</div>
+      <div class="cta-email">📧 join@starlight.tech</div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

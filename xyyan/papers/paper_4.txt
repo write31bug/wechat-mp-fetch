@@ -1,0 +1,492 @@
+
+--- Page 1 ---
+Life Sciences 386 (2026) 124152
+Contents lists available at ScienceDirect
+Life Sciences
+journal homepage: www.elsevier.com/locate/lifescie
+The E3 ubiquitin ligase midline 1 reduces the intrinsic antibacterial activity
+of hepatocytes by promoting HRG degradation during sepsis
+Junjie Shua,1, Wei Maa,1, Haoru Liua, Haisu Daib, Hao Zhangc, Rui Gaoa, Xue Yanga,
+Wanqi Tanga, Yang Huanga, Xiaoyuan Maa, Huaping Lianga,*, Xia Yanga,*
+aDepartment of Wound Infection and Drugs, State Key Laboratory of Trauma and Chemical Poisoning, Daping Hospital, Army Medical University (Third Military
+Medical University), Chongqing, 400042, PR China
+bDepartment of Hepatobiliary Surgery, Southwest Hospital, Army Medical University (Third Military Medical University), Chongqing, 400042, PR China
+cDepartment of Critical Care Medicine, Daping Hospital, Army Medical University (Third Military Medical University), Chongqing, 400042, PR China
+A R T I C L E I N F O A B S T R A C T
+Keywords: Aims: The ubiquitination system in hepatocytes and its direct role in antibacterial defense during sepsis remain
+Hepatocyte poorly understood. This study investigated the mechanism by which the E3 ubiquitin ligase Midline 1 (Mid1)
+Mid1 regulates the degradation of histidine-rich glycoprotein (HRG) during bacterial infection, and a proof-of-concept
+HRG
+approach was proposed to block Mid1 and relieve hepatic sepsis.
+Antibacterial capacity
+Material and methods: Transcriptomic analysis of livers from a mouse cecal ligation and puncture (CLP) model
+Sepsis
+was used to reveal changes in the global ubiquitination and Mid1 level. Immunoprecipitation, coupled with mass
+Ubiquitination
+spectrometry, and native PAGE, was used to assess the proteins that bind to Mid1. The therapeutic effects of Mid1
+in vivo were evaluated through hepatocyte-specific siRNAs and inhibitors.
+Key findings: Mid1 was significantly upregulated in hepatocytes from both CLP mice and patients with acute
+infection, accompanied by increased global ubiquitination. Inhibiting Mid1 in hepatocytes enhanced their
+antibacterial capacity and reduced infection-induced cellular damage in cellulo and in vivo experiments. Mid1
+overexpression increased bacterial survival in AML12 hepatocyte cell lines. Mechanistically, Mid1 physically
+directly binds the HRG and targets it for ubiquitin-proteasomal degradation. Crucially, HRG, identified as a novel
+Mid1 substrate, is critical for antibacterial defense—blocking HRG abolished the protective effects of Mid1
+knockdown. Hepatocyte-specific Mid1 siRNA and DPP4 inhibitors improved systemic outcomes and survival in
+septic mice.
+Significance: This study highlights that the Mid1-HRG ubiquitination axis is a critical regulator of sepsis pro-
+gression, suggesting a novel therapeutic strategy to augment the liver's intrinsic antibacterial activity.
+Abbreviations IL-1β interleukin-1β
+IP immunoprecipitation
+AAV adeno-associated virus IRF3 interferon regulatory factor 3
+AST aspartate aminotransferase LDH lactate dehydrogenase
+CHX cycloheximide LPS lipopolysaccharide
+CLP cecal ligation and puncture Mid1 midline-1
+CR creatinine MS mass spectrometry
+CRP C-reactive protein PI propidium iodide
+DPP4 dipeptidyl peptidase-4 PLT platelet
+HRG histidine-rich glycoprotein PP2Ac protein phosphatase 2A catalytic subunit
+ICAM-1 intercellular cell adhesion molecule 1 SAA serum amyloid A
+* Corresponding authors.
+E-mail addresses: 13638356728@163.com(H. Liang), oceanyx@tmmu.edu.cn(X. Yang).
+1 These authors contributed equally.
+https://doi.org/10.1016/j.lfs.2025.124152
+Received 27 August 2025; Received in revised form 5 December 2025; Accepted 11 December 2025
+Available online 17 December 2025
+0024-3205/© 2025 Elsevier Inc. All rights are reserved, including those for text and data mining, AI training, and similar technologies.
+--- Page 2 ---
+J. Shu et al. L i f e S c i e n c e s 386 (2026) 124152
+STAT1 signal transducer and activator of transcription 1 function, and enhanced survival in septic mice. In summary, these
+TNF-α tumor necrosis factor alpha findings reveal that the Mid1-HRG axis is as a novel regulator of liver
+sepsis progression, suggesting a crucial target for sepsis therapies.
+1. Introduction
+2. Material and methods
+Sepsis is now defined as a dysregulated host response to infection,
+resulting in life-threatening organ dysfunction. The disease is critical, 2.1. Bacterial strains and culture conditions
+and the incidence and mortality rates remain high [1]. Excessive in-
+flammatory responses and cytokine storms during sepsis have been The E. coli and MRSA (ATCC 43300) strains were cultured overnight
+consistently cited as the main causes of high mortality. However, drugs in Luria-Bertani (LB) medium at 37 ◦C with shaking at 200 rpm. The
+targeting important inflammatory mediators (e.g., TNF-α, IL-1β, and following morning, they reached the logarithmic growth phase. Bacte-
+toll-like receptors) have not yielded satisfactory clinical results in rial growth was monitored by measuring the optical density at 600 nm
+improving the survival rates of sepsis patients [2]. Recent studies have (OD600), where an OD600 of 1.0 corresponded to approximately 1 ×
+shown that innate immune dysfunction and acquired immunosuppres- 109 colony-forming units (CFU)/ml for E. coli [19] and an OD600 of 0.5
+sion jointly contribute to multiorgan injury and sepsis-related mortality; to approximately 1.5 ×108 CFU/ml for MRSA [20]. The bacterial sus-
+thus, a strategy for enhancing the immune response has been proposed. pensions were then diluted to the required concentrations for subse-
+However, relevant studies lack evidence from large-scale randomized quent in vivo (animal model) and in cellulo (cell model) experiments.
+controlled trials (RCTs) and are therefore not included in current sepsis
+treatment guidelines [3]. The treatments recommended by guidelines
+2.2. Animals
+mainly include resuscitation, organ support, early administration of
+antibiotics, and control of the infection focus. Nevertheless, specific Male C57BL/6 J mice (6–8 weeks old) were obtained from Charles
+treatment methods are still lacking.
+River Laboratory (Beijing, China) and housed in a specific pathogen-free
+Histidine-rich glycoprotein (HRG), a hepatocyte-secreted serum
+(SPF) facility at the Animal Experiment Center of the Army Medical
+protein, circulates at relatively high concentrations in human serum
+Center (Chongqing, China). The mice were maintained under controlled
+(100–150 μg/ml) and has been hailed as the “Swiss Army Knife” of conditions (22–25 ◦C, 12-h light/dark cycle) with adequate ventilation
+serum proteins owing to its multifunctional properties [4]. During
+and free access to food and water. All animal experiments were
+sepsis, the serum HRG concentration decreases [5] and is a reliable
+approved by the Animal Ethics Committee of the Army Medical Uni-
+biomarker for determining the presence of bacterial infection and the
+versity (approval no. AMUWEC20247132) and conducted in compliance
+severity of the disease in patients [6]. In the context of infection and
+with the guidelines of the Institutional Animal Care and Use Committee.
+inflammation, HRG has diverse protective effects [7], including pro-
+moting macrophage phagocytosis [8], restraining the excessive activa-
+2.3. Human liver tissue samples
+tion of neutrophils [9], inhibiting the formation of insoluble immune
+complexes (IIC) [10], and neutralizing endotoxins [11]. HRG exerts
+Healthy human liver tissue samples were obtained from macro-
+direct antibacterial effects by disrupting bacterial cell wall integrity in
+scopically normal residual tissue of patients undergoing resection for
+gram-negative bacteria (Escherichia coli and Pseudomonas aeruginosa)
+benign liver diseases. Infected liver tissue samples were obtained from
+and gram-positive bacteria (Enterococcus faecalis and Staphylococcus
+patients diagnosed with acute cholangitis, a condition resulting from the
+aureus) [12]. Exogenous HRG supplementation (20 mg/kg) significantly
+combination of bacterial infection and biliary obstruction [21]. This
+improves survival rates in septic mice [9], highlighting its therapeutic
+study was approved by the Ethics Committee of the Army Medical
+potential. Despite these promising findings, large-scale production of
+Center (approval no. YYLS2025038). Written informed consent was
+medical-grade HRGs remains economically unfeasible, preventing the
+clinical translation of “exogenous HRG supplementation therapy” to obtained from all participants in accordance with the principles outlined
+in the Declaration of Helsinki. The donors consented to the pseudony-
+date. The regulatory mechanisms of HRG in hepatocytes during sepsis
+mized use of their tissue samples and clinical data (sex, age, diagnosis)
+require further investigation.
+for research and publication purposes. No compensation was provided
+Mid1, a RING finger family E3 ubiquitin ligase, plays a pivotal role in
+for participation.
+diverse disease processes. It is involved in multiple contexts, including
+asthma (in bronchial epithelial cells) [13], esophagitis (in the esopha-
+geal epithelium) [14], and sepsis-induced lung injury (in postcapillary 2.4. Mouse sepsis and peritonitis models
+venous endothelial cells) [15]. In spinal cord injury, the inhibition of
+MID1 transcription promotes macrophage M2 polarization, which in Cecal ligation and puncture (CLP) model: Following laparotomy, the
+turn favors the reconstruction of the neural stem cell microenvironment cecum was exposed, and the fecal contents were concentrated in the
+[16]. In multiple sclerosis models, Mid1 promotes effector T cell distal cecum. The cecum was ligated and punctured approximately 1.2
+migration to the central nervous system by upregulating the mTOR/ cm from the distal end, allowing a small amount of fecal material to
+microtubule pathway [17]. Phosphatase 2Ac (PP2Ac) and interferon extrude before being returned to the abdominal cavity. The incision was
+regulatory factor 3 (IRF3) serve as substrates for Mid1-mediated ubiq- then sutured.
+uitination. Ubiquitin-mediated degradation of IRF3 suppresses type I LPS-induced peritonitis model: Lipopolysaccharide (LPS) was dis-
+interferon (IFN-I) production and impairs antiviral responses [18]. solved in sterile saline and administered intraperitoneally (10 mg/kg).
+However, little is known regarding the role of hepatocyte Mid1 in septic After 12 or 24 h, the mice were euthanized, and specimens were
+liver injury. collected for further analysis.
+In this study, we identified a significant increase in total ubiquiti- Mouse serum was collected and analyzed via an automated
+nation levels and Mid1 expression in septic liver tissues. Hepatocyte- biochemical analyzer (Beckman Coulter) to measure the following pa-
+specific Mid1 knockdown attenuated hepatocyte damage and rameters. Liver function markers included alanine aminotransferase
+enhanced bacterial clearance both in cellulo and in vivo. We now (ALT), aspartate aminotransferase (AST), total bilirubin (TB), lactate
+demonstrated for the first time that HRG is a novel substrate of Mid1- dehydrogenase (LDH), and gamma-glutamyl transferase (GGT). Kidney
+mediated ubiquitination. Therapeutically, hepatocyte-targeted Mid1 function marker: Creatinine (Crea). Hematological parameter: Platelet
+siRNA and an oral DPP4 inhibitor effectively suppressed hepatic Mid1 count (PLT). HRG levels were quantified by immunoblotting and ELISA
+expression. This intervention elevated serum HRG levels, improved liver (RayBiotech, Cat#Q9ESB3).
+2
+--- Page 3 ---
+J. Shu et al. L i f e S c i e n c e s 386 (2026) 124152
+2.5. Histopathological analysis hepatocytes, Kupffer macrophages, liver sinusoidal endothelial cells
+(LSECs), and hepatic stellate cells (JS1). The cells were treated with or
+Mouse liver samples were fixed in 4 % paraformaldehyde, dehy- without E. coli (MOI of 10:1), LPS (1 μg/ml; Sigma, Cat#L5293), TAK-
+drated, embedded in paraffin, and sectioned. For morphological 243 (1 μM; MCE, Cat#HY-100487), CHX (10 μg/ml; MCE, Cat#HY-
+assessment, hematoxylin and eosin (H&E) staining was performed. 12320), or MG132 (10 μM; MCE, Cat#HY-13259). Notably, antibiotics
+Immunohistochemistry was performed using a two-step universal kit were excluded from the medium during the bacterial challenge experi-
+(ZSGB-BIO, Cat#PV-8000). Briefly, the sections were dewaxed, rehy- ments. After treatment, the cells were harvested for RT-qPCR and
+drated, and treated with PBST (PBS containing 0.1 % Triton X-100) for Immunoblot analysis.
+10 min, followed by antigen retrieval. Endogenous peroxidase activity
+was blocked by incubating the sections with a peroxidase inhibitor at 2.9. Heparin-bacterial competition assay for HRG binding
+room temperature (RT) for 10 min. An anti-Mid1 (Abclonal,
+Cat#A7291) antibody was applied, and the samples were incubated The method employed for the heparin-bacterial competition assay to
+overnight at 4 ◦C. After washing with PBS, an enzyme-linked sheep anti- evaluate HRG binding was adapted from the literature [23]. In sum-
+mouse/rabbit IgG polymer was added, and the mixture was incubated at mary, AML12 cells (2 ×10^6) were cultured in antibiotic-free medium
+37 ◦C for 20 min. After another PBS wash, the sections were developed for 12 h and subsequently infected with E. coli (1.5 ×10^8 CFU) per well.
+with DAB chromogen, counterstained with hematoxylin, and differen- Heparin (0, 10, 100, 200 and 400 μg/ml) was then added to each well
+tiated until the nuclei appeared blue. Finally, the sections were dehy- and incubated at 37 ◦C for 2 h. Following incubation, the cells were
+drated, cleared, and mounted for microscopic analysis. centrifuged at 300 ×g for 5 min, and the supernatants were collected.
+For immunofluorescence staining, endogenous peroxidases were These supernatants were utilized directly for soluble protein analysis,
+blocked as described for IHC. The following primary antibodies were while the cell pellets were lysed in RIPA buffer. Equal volumes of each
+used: anti-Mid1 rabbit antibody (ABclonal, Cat#A7291), anti-CD3 rab- supernatant along with equivalent amounts of proteins from the pellet
+bit antibody (Abcam, Cat#ab16669), anti-CD15 rabbit antibody samples were subjected to immunoblotting analysis.
+(Abcam, ab15377), anti-CD68 rabbit antibody (Abcam,
+Cat#ab125212), and anti-HRG mouse antibody (Santa Cruz, Cat#sc- 2.10. Immunoprecipitation
+398,239). The sections were incubated overnight at 4 ◦C with primary
+antibodies, washed with PBS, and then incubated with the following Cultured cells were lysed on ice for 10 min in RIPA buffer supple-
+secondary antibodies: Alexa Fluor 488-labelled anti-mouse IgG (Thermo mented with protease inhibitors, after which the lysate was centrifuged.
+Fisher, Cat#A-21202) or Alexa Fluor 647-labelled anti-rabbit IgG The total protein in the supernatant was collected, quantified and
+(Thermo Fisher, Cat#A-21245). After 2 h at RT, the nuclei were stained incubated with an anti-Mid1 antibody (Thermo Scientific, Cat#
+with DAPI (5 min, RT). The sections were washed, mounted with an anti- PA5–36305 and Abclonal, Cat# A7291), an anti-ubiquitin antibody
+fade medium, and coverslipped. The fluorescence signals were detected (Santa Cruz, Cat# sc-8017), and the corresponding isotype IgG (CST,
+via an OLYMPUS superresolution microscope system. Cat# 3900). A Pierce Coimmunoprecipitation Kit (Thermo Scientific,
+Cat# 88828) was used according to the manufacturer's protocol, fol-
+2.6. Isolation of primary hepatocytes lowed by immunoblot analysis.
+Primary hepatocytes were isolated using an established protocol 2.11. Native PAGE protocol
+[22]. Briefly, the liver tissue was digested to create a hepatocyte sus-
+pension, which was then filtered through a 70 μm cell strainer. The The cell samples were collected and lysed with a non-denaturing lysis
+filtrate was centrifuged at 50 ×g for 2 min at 4 ◦C to pellet the hepato- buffer (Sangon Biotech, Cat# C51001). The lysate was centrifuged to
+cytes. The resulting cell pellet was resuspended in the appropriate me- pellet the cellular debris, and the supernatant was mixed with native
+dium for subsequent experiments. PAGE protein loading buffer (Beyotime, Cat# P0016) to prepare the
+samples. An 8 % SDS-free acrylamide gel was used for separation.
+2.7. Cell culture and transfection Electrophoresis was performed at a low temperature using Tris-Glycine
+electrophoresis buffer (pH 8.8), followed by immunoblot analysis. In
+The following cell lines were cultured under standard conditions parallel, the gel was stained with Coomassie Brilliant Blue (Beyotime,
+(37 ◦C, 5 %CO2, humidified atmosphere): AML12 (Alpha mouse liver 12; Cat# P0003) to visualize the protein bands.
+Procell Life Science Technology Co., Ltd., Wuhan, China) in AML12-
+specific medium, Kupffer macrophages in RPMI-1640 medium, and 2.12. Immunoblot analysis
+liver sinusoidal endothelial cells (LSECs) and hepatic stellate cells (JS1)
+in DMEM-H medium. All culture media were supplemented with 10 % Tissue samples and cultured cells (particularly diluted mouse serum
+fetal bovine serum and 100 U/ml penicillin-streptomycin. and cultured supernatant for HRG analysis) were lysed via RIPA buffer
+AML12 cells were transfected with lentiviral vectors for delivery via (CST, #9806) supplemented with protease and phosphatase inhibitors
+gene-editing systems. Murine Mid1 knockdown: Cells were transduced (CST, Cat#5872). The lysates were centrifuged for clarification, and the
+with a siRNA-containing lentivirus (target sequence: GACCGATGAC- supernatants were collected for immunoblotting. Equal amounts of total
+CAGTTAATCTGTGTTTTTT) constructed by Beijing Qingke Biotech- protein were loaded onto Tris-glycine extended stain-free poly-
+nology Co., Ltd. Murine Mid1 overexpression: Mid1 transcript variant 3 acrylamide gels. Electrophoresis was performed to separate the proteins
+sequence from NCBI GenBank (NM_001290504.1) was cloned and under denaturing conditions. Total protein, measured using a ChemiDoc
+inserted into lentiviral vector particles (GenePharma Technology Co., Touch Imaging System (Bio-Rad), serve as a stain-free loading control
+Ltd.). The cells were transduced with a Mid1-overexpressing lentivirus. for normalization. After the proteins were transferred to a PVDF or
+The optimal multiplicity of infection (MOI) was determined through nitrocellulose membrane, the membrane was blocked to prevent
+preliminary screening. Stable cell lines were established according to the nonspecific binding of antibodies binding prior to immunoblotting. The
+manufacturers' protocols and subsequently validated. PVDF membranes were incubated with the following primary anti-
+bodies: (HRG (ABclonal, Cat# A8431), Mid1 (Thermo Scientific, Cat#
+2.8. In cellulo model PA5–36305), Capza1 (ABclonal, Cat# A3776), PP2Acα (Santa Cruz,
+Cat# sc-80,665), total ubiquitination (PTMBIO, Cat# PTM-5798),
+An in cellulo coculture system was established using AML12 ubiquitin (ABclonal, Cat# A19686), GAPDH (CST, Cat# 5174), β-actin
+3
+--- Page 4 ---
+J. Shu et al. L i f e S c i e n c e s 386 (2026) 124152
+(CST, Cat# 4967), Albumin (ABclonal, Cat# A24161), and HNF4α Illumina NovaSeq 6000 platform (Illumina, USA) with a PE150 read
+(Bioyuntime, Cat# AF7122). Then, secondary antibodies and chemilu- length following the manufacturer's standard protocol. Low-quality
+minescent detection protocols were used as previously described. reads, adapter-contaminated reads, and reads with >10 % unknown
+Immunoreactive protein bands were visualized via the ChemiDoc Touch bases were filtered out to obtain clean reads. Clean reads were mapped
+System (Bio-Rad, USA). to the mouse reference genome (GRCm39) via HISAT2 (v2.2.1), and
+gene expression levels were quantified as FPKM values. DEGs between
+2.13. RT-qPCR groups were identified via DESeq2 (v1.34.0) with the following cutoffs:
+log2(fold change) > 2 and adjusted p value <0.05. The functional
+Total RNA was extracted from the samples using TRIzol reagent, annotation of the DEGs was performed via Gene Ontology (GO)
+following the manufacturer's protocol. Complementary DNA (cDNA) enrichment analysis and Kyoto Encyclopedia of Genes and Genomes
+was synthesized via the HiScript II One-Step RT-PCR Kit (Vazyme, Cat# (KEGG) pathway enrichment analysis, with significance defined as an
+RR014BP611). Gene expression was analyzed via quantitative PCR adjusted p value <0.05. The results were visualized via ggplot2 (v3.4.4)
+(qPCR) with ChamQ SYBR qPCR Master Mix (Vazyme, Cat#Q321) on a in R software (v4.2.3).
+CFX96 Touch Real-Time PCR System (Bio-Rad). GAPDH served as the
+internal control, and relative gene expression levels were calculated via 2.18. Immunoprecipitation coupled mass spectrometry (IP-MS) analysis
+the 2 (cid:0) ΔΔCt method. The mRNA expression of the target gene was
+compared to that of the control group, following previously established The IP protocol is described in section 2.10. The eluted proteins were
+protocols. reduced with 10 mM dithiothreitol, alkylated with 20 mM iodoaceta-
+The sequences of primers used were as follows: mide, and digested with trypsin at 37 ◦C overnight. Tryptic peptides
+mMid1F: CCAGGTCCTAATTCCCGAAATCA; were analyzed via a Q Exactive HF-X mass spectrometer coupled with an
+mMid1R: GGGTTGGGAGCTGTTAGGTAATC. Easy-nLC 1200 ultrahigh-performance liquid chromatography system.
+mGAPDH F: CAGTGGCAAAGTGGAGATTGTTG; The MS1 scan range was 350–1800 m/z; MS2 scans were performed with
+mGAPDH R: TCGCTCCTGGAAGATGGTGAT. higher-energy collisional dissociation. Peptide and protein identification
+hMID1F: CTGACCTGCCCTATTTGTCTG; was performed via MaxQuant (v1.6) against the UniProt mouse protein
+hMID1R: GCACAGTGTGATACTAGGATGC. database. The false discovery rate (FDR) for peptide and protein iden-
+tification was set to <1 %. For protein quantification, the label-free
+2.14. Flow cytometry quantification (LFQ) intensity was used, and interacting proteins of
+Mid1 were screened with the following cutoff: LFQ intensity ratio >2
+A PE Annexin V Apoptosis Detection Kit with 7-AAD (BioLegend, and p value <0.05.
+Cat# 640934) was used to identify apoptotic and necrotic cells. After 12
+h of coculture with E. coli, the cells were collected and stained according 2.19. GalNAc-siMid1
+to the manufacturer's protocol, followed by incubation in the dark at
+room temperature. The stained cells were then analyzed via an ACEA GalNAc-siMid1 was designed on the basis of Mid1 mRNA (GenBank:
+NovoCyte™ flow cytometer, and the data were processed with FlowJo NM_001290504.1). Sense sequences: 5’-GUAAUCUCACCAAUCUUAU-
+V10.3 software. 3′; antisense sequences: 5’-AUAAGA UUGGUGAGAUUACUC-3′. siRNA
+strands were chemically synthesized by GenePharma (Shanghai, China)
+2.15. Viral vector construction, siRNA preparation and administration with 2’-O-methyl modification at the 3′-terminal nucleotides for
+nuclease resistance. Duplexes were purified by HPLC, and their integrity
+An adenoviral vector was constructed via the GV698 promoter. The was verified via 15 % urea-PAGE. GalNAc was conjugated to the 3′-end
+sequence for Mid1 was: GACCGATGACCAGTTAATCTGTGTTTTTT. For of the siRNA sense strand via a 6‑carbon spacer phosphorothioate (PS)
+in vivo delivery, 100 μl of adeno-associated virus (AAV; 2 ×1012 viral linker, enabling binding to the hepatocyte asialoglycoprotein receptor
+particles/ml) was administered intravenously, with AAV-NC serving as (ASGPR).
+the negative control. The infection model was successfully established
+three weeks after injection. 2.20. Statistical analysis
+The following Cy3-labelled siRNAs were synthesized by GenePharma
+Technology Co. (Shanghai, China): Mid1-targeting siRNA (mid1-siRNA; Statistical analyses were performed using two-tailed unpaired Stu-
+antisense: 5′-AUAAGAUUGGUGAGAUUACUC-3′); scrambled control dent's t-tests or one-way ANOVA with Tukey's multiple comparisons test,
+siRNA (siN. C; antisense: 5′-ACGUGACACGUUCGGAGAATT-3′). siRNAs based on the data distribution and experimental design. Specific statis-
+were administered intravenously (60 μg per 20 g body weight) 12 h prior tical tests for each dataset are detailed in the corresponding figure leg-
+to CLP induction. ends. The experiments were repeated at least three times. Data
+processing was performed via GraphPad Prism 9.1 and SPSS 25.0 for
+2.16. Bacterial viability analysis analysis and visualization. A *p* < 0.05 was considered statistically
+significant.
+To assess bacterial viability, the cells were cultured in media without
+antibiotics and infected with MRSA or E. coli at a multiplicity of infection 3. Results
+(MOI) of 2 for 18 h. Bacterial viability was then evaluated via the LIVE/
+DEAD Bacterial Viability Kit (Invitrogen, Cat# L7012), following the 3.1. E3 ubiquitin ligase Mid1 in the liver is elevated in both a mouse
+manufacturer's protocol (live bacteria: green fluorescence; dead bacte- model of sepsis and infected patients
+ria: red fluorescence). The fluorescence signals were visualized and
+quantified via an Olympus superresolution microscope system. To investigate changes in ubiquitination in the livers of septic mice,
+we first assessed global ubiquitination levels. We found that livers from
+2.17. Transcriptomic analyses cecal ligation and puncture (CLP) mice exhibited significantly greater
+ubiquitination than did those from sham controls (Fig. 1A). The intra-
+Total RNA was extracted from the livers of CLP (n =5), Sham (n =3), venous administration of the ubiquitination inhibitor TAK-243
+CLP_NC (n = 3), and CLP_shMid1 (n = 3) mice for CLP vs Sham and decreased total ubiquitination by immunoblotting (Fig. 1B, S1A) and
+CLP_NC vs CLP_shMid1 analysis. RNA sequencing was performed on the reduced the mRNA expression levels of the inflammatory factors TNF-α,
+4
+--- Page 5 ---
+J. Shu et al. L i f e S c i e n c e s 386 (2026) 124152
+IL-1β and Tnfaip3 (TNFα-induced protein 3) according to RT-qPCR enhance Mid1 stability, thereby driving its accumulation independent of
+(Fig. S1B) in the livers of CLP mice but did not alleviate liver injury its transcriptional regulation. These data suggest that Mid1 upregulation
+(Fig. S1C) or improve survival rates (Fig. 1C). To determine whether a upon stimulation is achieved through a combination of transcriptional
+specific ubiquitin ligase plays a dominant role, we performed tran- induction and potential protein stabilization. Supernatants from shMid1
+scriptomic analysis of CLP and sham mouse livers. A total of 393 DEGs cells collected 12 h post-infection (E. coli or MRSA) yielded significantly
+were enriched in inflammatory response, immune regulation, and he- fewer bacterial colonies than shNC controls did in plating assays,
+patocyte function pathways (Fig. 1D; Fig. S1D, E). Focusing on E3 whereas Lv-Mid1 supernatants produced more colonies (Fig. 3D, E).
+ubiquitin ligases from the UBIBROWSER database, we identified three Consistent with these findings, live/dead bacterial staining revealed
+candidate E3 ubiquitin ligases (mid1, Pdzrn3, and Rnf180) (Fig. S1F). fewer live bacteria and a higher dead-to-live bacteria ratio in shMid1
+The heatmap shows DEGs of genes of partially interested in the livers of supernatants but a lower ratio in the Lv-Mid1 groups (Fig. 3F, G). These
+the Sham and CLP groups (Fig. 1E). A chord diagram showing the results demonstrated that Mid1 suppression bolsters the antibacterial
+functional enrichment of these DEGs is shown in Fig. 1F. These results capacity of hepatocytes. Consistent with these findings, shMid1 AML12
+suggested that Mid1 presented the highest expression and pathway hepatocytes presented fewer bacteria, but Mid1 overexpression (Lv-
+enrichment. Consistently, mid1 mRNA and protein (Fig. 1G-H) expres- Mid1) AML12 hepatocytes presented more bacteria after incubation
+sion levels in the liver were elevated in both the LPS-induced sepsis with E. coli for 24 h, according to microscopy images (Fig. 3H) and
+model and the CLP-induced sepsis model. Moreover, liver samples from bacterial growth curve analysis (Fig. 3I). Trypan blue staining revealed
+patients with acute cholangitis also presented increased MID1 mRNA significantly fewer dead cells in the shMid1 groups than in the control or
+(Fig. 1I) and protein expression (Fig. 1J-K, S1G). These findings suggest Lv-mid1 groups post-infection (Fig. 3H, J). Flow cytometry (annexin V-
+that mid1 may play a critical role in infection-related liver pathology. PE/7-AAD) confirmed these results (Fig. 3K). These results indicate that
+Mid1 inhibition decreases the number of bacterial colonies and miti-
+3.2. Mid1 expression is predominantly elevated in hepatocytes from septic gates infection-induced hepatocyte damage in cells.
+liver tissue
+3.4. Hepatocyte-specific Mid1 knockdown improves organ status and
+Although hepatocytes constitute the majority of liver cells, we sought survival in septic mice
+to specifically determine whether Mid1 upregulation during sepsis oc-
+curs primarily in these cells. To investigate this, we isolated hepatocytes To investigate the role of Mid1 in sepsis, we performed in vivo ex-
+from CLP mice via gradient centrifugation, and separated them into periments using a liver-targeted adeno-associated virus (AAV) to
+hepatocyte and nonhepatocyte fractions (Fig. 2A). Successful separation construct a hepatocyte-specific Mid1 knockdown mouse model (Mid1-
+was confirmed by analyzing hepatocyte-specific and inflammatory hep-KD) (Fig. 4A). RT-qPCR confirmed the knockdown efficiency
+markers (Fig. 2B). The Mid1 mRNA and protein (Fig. 2B-C) levels were (Fig. 4B), and fluorescence imaging of multiple organs demonstrated
+significantly greater in hepatocytes than in nonhepatocyte cells via AAV-specific liver tropism (Fig. 4C). Compared with the AAV-NC group,
+quantitative analysis. We further validated these findings in different the Mid1hep-KD group presented a significantly greater survival rate after
+cell lines (not only primary hepatocytes) treated with LPS or infected cecal ligation and puncture (CLP) or intraperitoneal E. coli infection
+with E. coli for 12 h, including hepatocytes (AML12), Kupffer cells (Fig. 4D). Additionally, the AST (aspartate aminotransferase), Cr
+(macrophages), liver sinusoidal endothelial cells (LSECs), and hepatic (creatinine) and LDH (lactate dehydrogenase) activities were signifi-
+stellate cells (JS1), and the Mid1 protein (Fig. 2D) and mRNA (Fig. 2E) cantly lower in the Mid1hep-KD group than in the control group, but the
+expression levels were predominantly elevated in hepatocytes. Primary number of PLTs (platelets) was significantly greater (Fig. 4E, Fig. S2B).
+hepatocytes were isolated from wild-type C57BL/6 J mice via in situ Blood PLTs are key mediators of inflammation and infection [24]. These
+perfusion (Fig. S2A) and, after 24 h of culture, were treated with LPS or results suggested that Mid1 blockade alleviated liver and kidney injury
+infected with E. coli for 12 h. Subsequent analyses revealed a differential induced by CLP. Notably, bacterial loads in major organs were markedly
+response. While E. coli infection robustly increased both Mid1 mRNA reduced in Mid1hep-KD mice (Fig. 4F, G).
+(Fig. 2F) and protein levels (Fig. 2G-I); LPS stimulation resulted in only a Histopathological analysis of liver tissue revealed extensive immune
+marginal upregulation compared to the control. This disparity is likely cell infiltration in both the Mid1hep-KD and AAV-NC groups after CLP or
+attributable to the distinct signaling mechanisms engaged by purified E. coli challenge. However, compared with control mice, Mid1hep-KD
+LPS (primarily via TLR4) versus whole E. coli, which activates a broader group mice presented significantly smaller areas of hepatocyte degen-
+repertoire of pattern recognition receptors. Collectively, these results eration and necrosis (orange arrows) and less immune cell infiltrates
+demonstrate that Mid1 is upregulated in hepatocytes during bacterial (green arrows) in H&E-stained liver sections (Fig. 4H) and a lower his-
+infection, with a notably stronger induction by whole bacteria than by tological activity index (Fig. 4I). We further assessed inflammatory re-
+LPS alone. sponses in peritoneal macrophages. The mRNA expression levels of
+proinflammatory factors (TNFα, IL-1β and TGFβ) and the key tran-
+3.3. Mid1 inhibition enhances hepatocyte antibacterial activity and scription factor STAT1 were significantly decreased after CLP. However,
+reduces the degree of cellular damage induced by infection the mRNA expression level of CD206, a marker of anti-inflammatory M2
+macrophages, was lower in the Mid1hep-KD group than in the AAV-NC
+To investigate the role of Mid1 in hepatocytes during infection, we group, suggesting a greater risk of cytokine storm in the AAV-NC
+generated murine Mid1-knockdown (shMid1) and Mid1-overexpressing group (Fig. S2C). In summary, hepatocyte-specific Mid1 knockdown
+(Lv-Mid1) AML12 hepatocyte cell lines, the efficiency of which was improves organ function, reduces bacterial dissemination, and enhances
+confirmed via RT-qPCR (Fig. 3A) and immunoblot analysis (Fig. 3B, C). survival in septic mice, potentially by mitigating excessive
+Notably, under unstimulated conditions with low basal Mid1 expression, inflammation.
+shRNA-mediated knockdown only slightly reduced Mid1 protein levels.
+In contrast, upon stimulation, the shRNA directly abrogated the robust, 3.5. HRG is a substrate of Mid1-mediated ubiquitination
+inducible synthesis of Mid1, resulting in a far more pronounced reduc-
+tion in Mid1 abundance (Fig. 3B). Correspondingly, Lv-Mid1 cells To further explore the mechanism of Mid1 function, we performed
+exhibited further elevation of Mid1 protein levels following stimulation immunoprecipitation (IP) using an anti-Mid1 antibody in liver lysates
+with LPS or E. coli (Fig. 3C). These observations led us to hypothesize from CLP and sham mice, followed by mass spectrometry analysis (IP-
+that LPS or E. coli signaling either inhibits a pathway responsible for MS) to identify Mid1-binding proteins, particularly those that were
+Mid1 degradation or promotes post-translational modifications that differentially expressed between the two groups. The results revealed
+5
+--- Page 6 ---
+J. Shu et al. L i f e S c i e n c e s 386 (2026) 124152
+Fig. 1. The level of Mid1 in the liver, which is associated with inflammation, was significantly elevated. (A) Immunoblot analysis of overall ubiquitination levels in
+the livers of mice 12 h after CLP; Sham surgery was used as a control. The results of the immunoblot analysis of 3 biological replicates are shown alongside (mean
+with SEM, *p <0.05, paired Student's t-test). (B) Immunoblot analysis of the overall ubiquitination level in livers from mice after 20 mg/kg TAk-243 or vehicle
+treatment (t.v.i.) 24 h before CLP. The results of the immunoblot analysis of 3 biological replicates are shown alongside (mean with SEM, *p <0.05, one-way
+ANOVA). (C) Survival of CLP mice after Tak-243 treatment (t.v.i.) for 24 h. Survival data are shown as Kaplan–Meier curves. (D) Volcano map of differentially
+expressed genes in the livers of CLP and control mice. Some of the top 50 genes (including Mid1) are shown. (E) Heatmap of differential gene expression in livers from
+CLP and control mice. (F) Chord diagram showing the functional enrichment of the 393 DEGs. The intensity of the red and blue squares represents the magnitude of
+the difference between them. (G) Immunoblot analysis of Mid1 in the liver 12 h after intraperitoneal injection of LPS or CLP. Quantification of the results from 3
+biological replicates is shown (mean with SEM, *p <0.05, **p <0.01; one-way ANOVA). (H) RT-qPCR of Mid1 in the liver 12 h after the intraperitoneal injection of
+LPS or CLP (****p <0.0001, one-way ANOVA). (I) RT-qPCR analysis of Mid1 mRNA levels in healthy and cholangitis liver samples from patients (**p <0.01,
+unpaired Student's t-test). (J) Hematoxylin-eosin staining (left) and immunohistochemistry of Mid1 (right) in livers from mice and humans. (K) H-scores of Mid1-
+positive hepatocytes in mice and humans from (J) (mean with SD, **p <0.01, Mann-Whitney test).
+6
+--- Page 7 ---
+J. Shu et al. L i f e S c i e n c e s 386 (2026) 124152
+Fig. 2. Mid1 upregulation in the septic liver occurs predominantly in hepatocytes. (A) Experimental workflow for hepatocyte/nonhepatocyte separation via gradient
+centrifugation. (B) Immunoblot analysis of the protein levels of ALB, HNF4α, and Mid1 in the hepatocyte and nonhepatocyte fractions at 12 h and 24 h post-CLP. The
+results of the immunoblot analysis of 3 biological replicates are shown alongside (mean with SEM, **p <0.01, paired Student's t-test). (C) RT-qPCR analysis of Mid1
+mRNA levels in hepatocyte and nonhepatocyte fractions at 12 h and 24 h post-CLP. (D) Immunoblot analysis of Mid1 protein expression in different liver cell lines
+(AML12 hepatocytes, JS1 stellate cells, Kupffer macrophages, and LSECs) following LPS treatment or E. coli infection. The results of the immunoblot analysis of 3
+biological replicates are shown alongside (mean with SEM, **p <0.01, one-way ANOVA). (E) RT-qPCR analysis of Mid1 mRNA expression in liver cell lines after LPS
+treatment or E. coli infection for 12 h (*p <0.05, **p <0.01, ***p <0.001, ****p <0.0001; one-way ANOVA). (F) Mid1 mRNA expression in primary mouse
+hepatocytes after LPS treatment or E. coli infection for 12 h, as determined by RT-qPCR (**p <0.01, ****p <0.0001, one-way ANOVA). (G) Immunoblot analysis of
+Mid1 protein levels in primary mouse hepatocytes after LPS treatment or E. coli infection for 12 h. Quantification of 3 biological replicates is shown (mean with SD,
+***p <0.001, one-way ANOVA). (H) Mid1 expression in primary mouse hepatocytes after LPS treatment or E. coli infection for 12 h, as determined by immuno-
+fluorescence. (I) Statistical analysis of the intensity of Mid1 staining in (H) (means with SDs, *p <0.05; one-way ANOVA).
+7
+--- Page 8 ---
+J. Shu et al. L i f e S c i e n c e s 386 (2026) 124152
+Fig. 3. Mid1 regulates antibacterial capacity and resistance to infection in hepatocytes. (A) RT-qPCR analysis of relative Mid1 mRNA levels in shMid1 and Lv-Mid1
+cell lines compared with their respective controls (*p <0.05, ***p <0.001, unpaired Student's t-test). (B–C) Immunoblot analysis of Mid1 protein expression in
+shMid1 and Lv-Mid1 cell lines following LPS treatment or E. coli infection for 12 h. Quantification of 3 biological replicates is shown (means with SDs, multiple paired
+t-tests). (D) Representative images of bacterial colonies in cell supernatants collected 12 h post-infection (E. coli or MRSA). (E) Quantification of colony-forming units
+(CFUs) from (D). The connected dots indicate paired experimental replicates (*p <0.05, paired Student's t-test). (F) Live/dead bacterial staining (confocal micro-
+scopy) of supernatants 12 h post-infection. Green: viable bacteria (SYTO9); red: dead bacteria (propidium iodide). (G) Quantification of bacterial viability from (F) (n
+=3 fields per group; **p <0.01, ***p <0.001, chi-square test). (H) Phase-contrast microscopy and trypan blue staining of AML12 hepatocytes 24 h post-E. coli
+infection. (I) Bacterial growth kinetics in cell lines with differential Mid1 expression. (J) Trypan blue-positive cell counts from H (n =6 fields per group; ***p <
+0.001, chi-square test). (K) Apoptosis/necrosis analysis by flow cytometry (annexin V-PE vs. 7-AAD). Quadrant II: dead cells.
+that the capping protein Capza1, antimicrobial protein HRG, and other determine whether Mid1 interacts with HRG, native PAGE, immuno-
+molecules were potential Mid1 interacting proteins (Table 1). Tran- blotting and coimmunoprecipitation analyses were applied. Native
+scriptome differential analysis of livers from Mid1hep-KD and NC mice 12 PAGE permits high-resolution separation of multiprotein complexes
+h after CLP was performed. According to the GO/KEGG pathway under native conditions to illustrate protein-protein interaction [25].
+enrichment results, the response to lipopolysaccharide, response to Mid1 (Fig. 5C left) and HRG (Fig. 5C middle) were visualized almost
+chemokines, positive regulation of cytokine production and heparin exclusively from multiprotein complexes of the same molecular weight
+binding were identified (Fig. 5A). The molecular function enrichment of (>310 kDa) by immunoblotting. Blue native PAGE revealed the multi-
+the HRG PPI network associated with STING was also enriched in hep- protein complexes of whole cell lysates (Fig. 5C right). While these re-
+arin binding, signaling receptor binding and lipoprotein lipase activator sults indicated the presence of protein complexes containing various
+activity (Fig. 5B). The protein-protein interaction (PPI) network of proteins, likely including Mid1 and HRG, they did not prove a direct
+HRGs, the biological process (BP) and cellular component (CC) enrich- interaction between them. To investigate this, we performed co-
+ment of the HRG network were shown in Fig. S3a, 3b, and 3c, respec- immunoprecipitation assays, which confirmed that Mid1 interacts
+tively. The heparin-binding and response to lipopolysaccharide with HRG (Fig. 5D). Furthermore, immunofluorescence analysis
+pathways, both closely associated with HRG function, were significantly demonstrated that Mid1 and HRG colocalized in the liver (Fig. 5E, S4a,
+enriched, suggesting a potential link between Mid1 and HRG. To b), and this colocalization exhibited a negative correlation under CLP-
+8
+--- Page 9 ---
+J. Shu et al. L i f e S c i e n c e s 386 (2026) 124152
+induced sepsis-like conditions (Fig. 5F). In addition, hepatocytes 24 h prior to CLP induction (Fig. 7A). Fluorescence imaging of organs 12
+exhibited increased ubiquitination levels and elevated Mid1 expression h post-CLP confirmed the liver-specific knockdown efficiency of
+in CLP model mice; whereas HRG levels decreased in both hepatocytes GalNAc-siMid1 (Fig. 7B), which was further validated by RT-qPCR
+and serum (Fig. 5G). To determine whether Mid1 regulates HRG abun- (Fig. 7C). Compared with CLP control mice, GalNAc-siMid1 mice pre-
+dance, we conducted cellulo experiments and showed that Mid1 inhibi- sented significantly lower bacterial loads in multiple organs (Fig. 7D, E)
+tion in hepatocytes significantly increased the levels of intracellular and improved serological marker and HRG concentrations (Fig. 7F,
+HRG and its secretion into culture supernatants after infection (Fig. 5H). S6A). Immunoblot analysis revealed elevated levels of hepatocyte-
+Similarly, in vivo experiments revealed higher serum and liver HRG derived HRGs in both the serum and liver tissue of the GalNAc-siMid1
+levels in Mid1hep-KD mice than in NC mice postsepsis induction (Fig. 5I). group (Fig. 7G). Given recent evidence that dipeptidyl peptidase-4
+To further investigate the underlying mechanism, we used the protea- (DPP4) knockout suppresses Mid1 expression [26], we evaluated the
+some inhibitor MG132 to evaluate whether Mid1 mediates HRG ubiq- therapeutic potential of the oral DPP4 inhibitor linagliptin. In CLP mice,
+uitination. Compared with untreated control hepatocytes, AML12 linagliptin administration modestly reduced hepatic Mid1 mRNA levels
+shMid1 hepatocytes stimulated with the proteasome inhibitor MG132 compared with saline treatment (Fig. 7H, I). It did not affect glycemic
+presented increased intracellular HRG levels and ubiquitin-bound pro- fluctuations, as measured by continuous glucose monitoring (Fig. 7J),
+tein content according to immunoblotting (Fig. 5J left). Ubiquitin but increased overall survival (Fig. 7K). These findings demonstrate that
+immunoprecipitation assays further demonstrated that HRG-ubiquitin GalNAc-siMid1 may serve as promising therapeutic agents for sepsis by
+binding was markedly reduced upon Mid1 knockdown (Fig. 5J right), targeting hepatic Mid1.
+confirming that the E3 ubiquitin ligase Mid1 mediates HRG ubiquiti-
+nation. The quantification revealed a significant difference (Fig. 5K). 3.8. Discussion
+These results suggest that HRG undergoes ubiquitin-dependent degra-
+dation following sepsis. Moreover, treatment with the protein synthesis Previous studies have revealed that hepatocytes, the major paren-
+inhibitor cycloheximide (CHX) revealed that Mid1 overexpression (Lv- chymal cells in the liver, maintain the homeostasis of inflammation [27]
+Mid1) markedly reduced HRG protein levels in AML12 cells, whereas and host–pathogen interactions, such as those involving HIV [28], HBV
+Mid1-knockdown (shMid1) had no notable effect (Fig. 5L). Critically, [29], and HCV [30]. However, there is limited evidence suggesting that
+the degradation of HRG in Mid1-overexpressing cells treated with CHX hepatocytes can directly combat bacterial infections. This study aimed
+was effectively blocked by the proteasome inhibitor MG132 (Fig. 5L, M, to investigate the role and underlying mechanism of the hepatocyte
+S4c), demonstrating that Mid1 promotes HRG degradation via the ubiquitin E3 ligase Mid1 in regulating antibacterial defense during
+ubiquitin-proteasome pathway. In summary, these findings demonstrate sepsis.
+that HRG serves as a substrate for Mid1-mediated ubiquitination in Hepatocytes produce various immune-modulating factors, including
+hepatocytes. C-reactive protein (CRP), serum amyloid A (SAA), LPS-binding protein
+(LBP), CD14, MD-2, fibrinogen [31], hepatocyte growth factor (HGF)
+3.6. HRG antagonization attenuates the antibacterial phenotype of [32], and lipocalin-2 (LCN2) [33], to activate the host response to
+shMid1 cells control bacterial infections. Additionally, primary mouse hepatocytes
+enhance the type I interferon response, whereas HepG2 cells induce a
+As shown in Fig. S2C, inflammatory factor expression levels in type III interferon response to defend against Listeria monocytogenes
+peritoneal macrophages from Mid1hep-KD mice were altered. To deter- infection. Bacterial infections also alter the expression of genes associ-
+mine whether Mid1 knockdown modulates immune cell activity via ated with cholesterol metabolism in HepG2 and Huh7 cells [34]. Studies
+HRG, we performed immunofluorescence colocalization of the hepatic in mice have shown that the MyD88 pathway in hepatocytes infected
++ +
+HRG with T cells (CD3 ), neutrophils (CD15 ), and macrophages with lethal Ehrlichia triggers CASP11 activation, gasdermin D cleavage,
+(CD68 + ) in Mid1hep-KD mice after CLP. The results revealed significant IL-6 production, and inhibition of bacterial proliferation [35]. In addi-
++
+interactions between HRG-CD68 macrophages, which were further tion to their immune functions, hepatocytes contribute to metabolic
+enhanced in Mid1hep-KD mice. Additionally, CD15 + neutrophil infiltra- adaptation during infections by enhancing gluconeogenesis and fatty
+tion in the liver was markedly lower in Mid1hep-KD mice than in control acid β-oxidation, processes closely linked to sepsis prognosis [36,37].
+mice (Fig. 6A, B). Mid1 has multiple substrates, including the well- Hepatocytes also engage in cross-talk with other immune cells during
+characterized protein PP2Ac, which was also upregulated in hepato- bacterial infections. For example, in turtles infected with Aeromonas
+cytes from CLP mice (Fig. 6C) and E. coli-infected shMid1 cells (Fig. 6D). hydrophila, hepatic tissues presented increased numbers of endothelial
+To determine the role of HRG in Mid1-mediated antimicrobial effects, and Kupffer cells but reduced numbers of T cells, NK cells, dendritic
+we treated E. coli-infected shMid1 cells with 400 μg/ml heparin, a cells, and erythroid cells [38]. Despite these findings, research on
+competitive HRG antagonist. Immunoblot analysis revealed that heparin hepatocyte-mediated infection responses remains limited compared
+reduced HRG binding to bacteria, resulting in more HRG remaining in with the extensive studies on the anti-inflammatory and immunomod-
+the supernatant (Fig. 6E). Bacterial plating assays confirmed that hep- ulatory mechanisms of immune cells [39]. These results suggest that the
+arin treatment significantly suppressed the increased antibacterial ac- potential roles of hepatocytes in bacterial infection, underscoring the
+tivity of shMid1 cells (Fig. 6F, G, S5A) and increased cell death (Fig. 6H). need for further therapeutic strategies for septic liver injury.
+However, CCK-8 cytotoxicity assays (Fig. S5B) and bacterial PI staining Our transcriptomic analysis revealed that mid1 is upregulated in the
+(Fig. S5C) also demonstrated that this heparin concentration did not liver during sepsis. Initially, identified as a microtubule-associated
+affect cell or bacterial viability. In contrast, clinical heparin doses (1–10 protein, mid1 was linked to Opitz syndrome through genetic muta-
+μg/ml) failed to antagonize HRG or reverse the phenotype (Fig. S5D), tions [40]. Subsequent studies have demonstrated its involvement in
+underscoring the specificity of the role of HRG. These findings suggest immune regulation, including T-cell migration in atherosclerosis [26]
+that hepatocytes regulate antibacterial activity through the Mid1-HRG and effector T-cell trafficking in experimental autoimmune encephalo-
+axis. myelitis (EAE) [17]. Some studies have defined Mid1 as a transcription
+factor [41]. MID1 binds to ATXN2, ATXN3, and ATXN7 mRNAs to
+3.7. Hepatocyte-specific Mid1 siRNA and DPP4 inhibitors improve the promote protein synthesis in a CAG repeat-containing mRNA-dependent
+systemic status and survival of CLP mice manner [42]. Our unpublished results suggest that HRG transcription in
+hepatocytes from CLP mice is suppressed [9]. However, the role of Mid1
+Using the GalNAc-siRNA conjugate delivery platform, we developed in liver-related diseases and infections remains unclear and warrants
+a hepatocyte-targeted GalNAc-siMid1 and administered it intravenously further investigation. Only a few studies have identified Mid1 as a
+9
+--- Page 10 ---
+J. Shu et al. L i f e S c i e n c e s 386 (2026) 124152
+Fig. 4. Hepatocyte-specific Mid1 knockdown enhances sepsis outcomes. (A) Schematic of the experimental design for generating Mid1hep-KD mice. (B) Relative Mid1
+knockdown efficiency in livers from Mid1hep-KD mice 12 h post intraperitoneal injection of E. coli or CLP. (C) Fluorescence imaging (EGFP) of organs from Mid1hep-KD
+and negative control (NC) mice. (D) Survival analysis of Mid1hep-KD and NC mice following E. coli challenge or CLP. (E) Serum biochemical marker levels in Mid1hep-
+KD and NC mice at 12 h post-infection or CLP. (p <0.05, **p <0.01, **p <0.0001; unpaired Student's t-test or Mann-Whitney U test). (F) Bacterial colony growth
+from organ lysates. Whole organs were homogenized, and lysates were plated at high, medium, and low dilutions. (G) Quantification of bacterial colony-forming
+units (CFUs). Each dot represents one mouse. (p- values were determined by unpaired Student's t-test or Mann-Whitney U test). (H) H&E-stained liver sections
+from infected Mid1hep-KD and NC mice. Degenerated/necrotic hepatocytes (orange arrows) and immune cell infiltrates (green arrows) are indicated. (I) Histological
+activity indices (Knodell scores) from (H) (means with SDs, **p <0.01; one-way ANOVA). NC, negative control.
+significant factor in the pathogenesis of liver disease. Mid1 is upregu- Additionally, mid1 modulates endothelial cell ICAM-1 expression and
+lated in Kupffer cells during hepatic ischemia-reperfusion injury (IRI). neutrophil adhesion in the lungs of septic mice [15].
+Inhibition of Mid1 attenuates liver damage by reducing neutrophil Mid1 regulates the innate immune response by ubiquitinating key
+infiltration, intrahepatic inflammation, and hepatocyte apoptosis [43]. signaling molecules, including IRF3 [18], IFNAR2 [44], and f NSP9
+10

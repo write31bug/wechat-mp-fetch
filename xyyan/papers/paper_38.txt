@@ -1,0 +1,199 @@
+
+--- Page 1 ---
+Published OnlineFirst November 10, 2009; DOI: 10.1158/1541-7786.MCR-09-0094
+Activated Platelets Provide a Functional Microenvironment
+for the Antiangiogenic Fragment of Histidine-Rich
+Glycoprotein
+Åsa Thulin,1 Maria Ringvall,1 Anna Dimberg,2 Karin Kårehed,4 Timo Väisänen,6,7
+Marja-Riitta Väisänen,6,7 Osama Hamad,3 Jian Wang,8 Rolf Bjerkvig,8
+Bo Nilsson,3 Taina Pihlajaniemi,6 Helena Åkerud,4 Kristian Pietras,9
+Wilhelm Jahnen-Dechent,10 Agneta Siegbahn,5 and Anna-Karin Olsson1
+1Department ofMedical Biochemistry andMicrobiology, Uppsala University, Uppsala Biomedical Center;
+Departments of 2Genetics and Pathology and3Oncology, Radiology and Clinical Immunology, Uppsala
+University, RudbeckLaboratory; Departments of4Women'sand Children's Health and5Medical Sciences,
+UppsalaUniversity, UppsalaUniversity Hospital, Uppsala, Sweden;6Biocenter Oulu, Department of
+Medical Biochemistry and Molecular Biology, University ofOulu; 7Department ofPathology,
+OuluUniversity Hospital, Oulu, Finland; 8Department ofBiomedicine, University ofBergen,
+Bergen,Norway; 9Department of Medical Biochemistry and Biophysics, KarolinskaInstitute,
+Stockholm,Sweden; and10Department of Biomedical Engineering, RWTH Aachen University,
+Biointerface Laboratory,Aachen, Germany
+Abstract Previousstudieshaveshownthatzinc-dependentbinding
+Theangiogenesisinhibitorhistidine-richglycoprotein(HRG) oftheHis/Pro-richdomainofHRGtoheparansulfateon
+constitutesoneofseveralexamplesofmoleculesregulating endothelialcellsisrequiredforinhibitionofangiogenesis.
+bothangiogenesisandhemostasis.Theantiangiogenic Wedescribeanovelmechanismtoincreasethelocal
+propertiesofHRGaremediatedviaitsproteolytically concentrationandactivityofanangiogenesisinhibitor,
+releasedhistidine-andproline-rich(His/Pro-rich)domain. whichmayreflectahostresponsetocounteract
+Usingacombinationofimmunohistochemistryandmass angiogenesisduringpathologicconditions.Ourfinding
+spectrometry,wehereprovidebiochemicalevidenceforthe thattumorangiogenesisiselevatedinHRG-deficient
+presenceofaproteolyticpeptide,correspondingtothe micesupportsthisconclusion.(MolCancerRes2009;7(11):
+antiangiogenicdomainofHRG,invivoinhumantissue.This 1792–802)
+findingsupportsaroleforHRGasanendogenousregulator
+ofangiogenesis.Interestingly,theHis/Pro-richpeptide
+boundtothevesselwallintissuefromcancerpatientsbut Introduction
+nottothevasculatureintissuefromhealthypersons. Local regulation of angiogenesis—formation of new capil-
+Moreover,theHis/Pro-richpeptidewasfoundinclose larybloodvessels—isessentialduringdevelopmentandphys-
+associationwithplatelets.Relesatefrominvitro–activated iologic conditions such as wound healing and the female
+plateletspromotedbindingoftheHis/Pro-richdomainof menstrualcycle.However,prolongedandexcessiveangiogen-
+HRGtoendothelialcells,aneffectmediatedbyZn2+. esis has been implicated in several pathologic processes, for
+instance, rheumatoid arthritis, retinopathy, and tumor growth
+(1). The normal vasculature is tightly regulated by naturally
+occurringproangiogenicandantiangiogenicfactors.Datafrom
+Received 3/9/09; revised 9/15/09; accepted 10/5/09; published OnlineFirst miceeitherlackingoroverexpressingpositiveornegativereg-
+11/10/09.
+Grantsupport:TheSwedishCancerSociety,TheSwedishResearchCouncil, ulatorsofangiogenesisshowtheirimportanceduringdevelop-
+andTheSwedishSocietyofMedicine(A.-K.Olsson)andHealthCouncilof ment,physiologicprocesses,ordisease.Themostwellknown
+theAcademyofFinlandandFinnishCancerFoundation(T.Pihlajaniemi).The proangiogenicfactortodateisvascularendothelialgrowthfac-
+studywasinpartsupportedbygrantstoProf.LenaClaesson-Welsh(Department
+of Genetics and Pathology, Uppsala University) from the Swedish Cancer tor(VEGF),whichisrequiredforthedevelopmentofavascu-
+Society,InnoventusProjectAB,andtheEuropeanCommissionFP6Integrated larsystemduringembryogenesisandisalsoacentralregulator
+ProjectAngiotargetingintheareaoflifesciences,genomics,andbiotechnology
+ofadultneovascularization(2).Manyendogenousfactorsneg-
+forhealth.
+Thecostsofpublicationofthisarticleweredefrayedinpartbythepaymentof atively regulating angiogenesis have also been described, and
+pagecharges.Thisarticlemustthereforebeherebymarkedadvertisementin their function was supported by data from gene targeting in
+accordancewith18U.S.C.Section1734solelytoindicatethisfact.
+Note:SupplementarydataforthisarticleareavailableatMolecularCancer mice(3).Forexample,micelackingtheangiogenesisinhibitor
+ResearchOnline(http://mcr.aacrjournals.org/). thrombospondin-2, a basement membrane protein, show en-
+Å.ThulinandM.Ringvallcontributedequallytothiswork. hanced skin carcinogenesis and increased tumor angiogenesis
+Requestsforreprints:Anna-KarinOlsson,DepartmentofMedicalBiochemistry
+andMicrobiology,UppsalaUniversity,UppsalaBiomedicalCenter,Husargatan3, (4).Severaloftheidentifiedinhibitorsgaintheirantiangiogenic
+Box582,SE-75123Uppsala,Sweden.Phone:46-18-4714399;Fax:46-18- properties asa result ofproteolytic processing (5).
+4714673.E-mail:anna-karin.olsson@imbim.uu.se
+Platelets contain a large number of both proangiogenic
+Copyright©2009AmericanAssociationforCancerResearch.
+doi:10.1158/1541-7786.MCR-09-0094 and antiangiogenic factors, and regulation of angiogenesis by
+1792 MolCancerRes2009;7(11).November2009
+Downloaded from mcr.aacrjournals.org on April 2, 2015. © 2009 American Association for Cancer Research.
+--- Page 2 ---
+Published OnlineFirst November 10, 2009; DOI: 10.1158/1541-7786.MCR-09-0094
+AntiangiogenicFragmentofHRG 1793
+plateletswassuggestedasearlyas1968(6).Examplesofpos- antiangiogenic domain of HRG, using synthetically produced
+itiveregulatorsofangiogenesisfoundinplateletsareVEGF-A, peptides covering the His/Pro-rich domain, we identified a
+VEGF-C,platelet-derivedgrowthfactor,andfibroblastgrowth 35–aminoacidpeptide(HRGP330)thatretainedtheantiangio-
+factor-2,whereas negative regulators includethrombospondin, genicproperties invitroandin vivo (24).
+platelet factor 4 (PF4), and plasminogen activator inhibitor In the present study, we address whether the His/Pro-rich
+type-1(7,8).Plateletsareanuclearcellularfragments,derived domainofHRGisproteolyticallyreleasedfromthefull-length
+from megakaryocytes in the bone marrow, and play a crucial protein in vivo in human tissue. This is an important aspect
+roleinregulatingbloodhemostasis.Atsitesofbloodvesselin- becausethepresence ofaproteolyticallyreleased His/Pro-rich
+jury,plateletsareactivatedandaggregateatthesiteofthedam- domainofHRGinvivo(andnotonlyininvitropreparations)
+agedendotheliumtopreventhemorrhage.Besidestheirrolein wouldsignificantly strengthenitsroleasanendogenousregu-
+hemostasis, platelets contribute to nonhemostatic processes latorofangiogenesis.Ourdatashowthataproteolyticfragment
+such as immunity, tumor metastasis, and angiogenesis (9-11). of HRG, corresponding to the antiangiogenic peptide
+Despite their content of both positive and negative regulators HRGP330,ispresentinvivo.Moreover,elevatedtumorangio-
+of blood vessel formation, platelets have in several different genesis in HRG-deficient mice support a role for HRG as a
+experimental settings been shown to stimulate angiogenesis regulator of pathologic angiogenesis. Based on these data,
+(11-15). This apparent contradiction may be explained by re- we provide a model for how activated platelets can provide a
+cent data from Italiano and coworkers (16). They show that microenvironmentthatpromotesactivityoftheantiangiogenic
+proangiogenicandantiangiogenicfactorsmaybestoredinsep- fragment of HRG.
+arateα-granulesinthesameplateletandthatthesegranulescan
+releasetheircontentdifferentiallydependingonthestimulithe
+platelets are exposed to. These data show a more fine-tuned Results
+regulationofplateletdegranulationthanwaspreviouslyknown. A Proteolytic Fragment Derived from the His/Pro-Rich
+Histidine-rich glycoprotein (HRG; alternatively, HRGP/ Domain of HRG IsPresent Invivo
+HPRG)hasbeenidentifiedasanangiogenesisinhibitorinvitro ToaddressthepresenceofproteolyticfragmentsofHRGin
+andinvivobyusandothers(17,18).HRGisa75-kDasingle- humantissue,threerabbitpolyclonalpeptideantibodies(0115,
+chain heparin-binding plasma protein produced by the liver 0116, and 0119), directed toward distinct regions of HRG
+(19). Structurally, HRG consists of three distinct domains: an (Fig.1A),wereusedforimmunohistochemical stainingofhu-
+NH -terminal part with two cystatin (cysteine proteinase mantissue.Asdescribedabove,HRGisonlyexpressedbythe
+2
+inhibitor)–like domains, which classifies HRG as a member liverbutpresentinthecirculation.Theantibodyraisedagainst
+ofthecystatinsuperfamilytogetherwith,forexample,kinino- aminoacids321to344withintheHis/Pro-richdomainofHRG
+genandfetuin;acentralhistidine/proline-rich(His/Pro-rich)do- (0119) generated a patch-like staining along the blood vessels
+main organized in tandem repeats of a consensus GHHPH insectionsoffrozenhumankidneytumortissue,whichwasnot
+motif;andaCOOH-terminaldomain.Multiplebindingpartners seen with either the antibody raised against a COOH-terminal
+for HRG have been reported, such as heparin/heparan sulfate, peptide(0115)ortheantibodydirectedagainstanNH -terminal
+2
+divalentcations,andcomponentsinthecoagulation-fibrinolysis peptide(0116)inHRG(Fig.1B).Bloodvesselswerevisualized
+system;plasminogenandfibrinogen;aswellascomponentsin bybindingtotheFITC-conjugatedlectinUlexeuropaeusagglu-
+theimmunesystemsuchasTlymphocytes,monocytes/macro- tinin1(UEA-1).BecausetheantibodydirectedtowardtheHis/
+phages,andimmunoglobulins(19).Monocyteswerepreviously Pro-richdomainrecognizedstructuresthatwerenotdetectedby
+believedtoexpressHRGbecauseHRGbindstothecellsurface either the COOH-terminal or the NH -terminal antibody, this
+2
+ofmonocytes,butmorerecentdatashowthatRNAisfoundon- finding indicates that a fragment corresponding to the His/Pro-
+lyintheliver(20).Inaddition,HRGhasbeenfoundwithinpla- richdomainofHRGisproteolyticallyreleasedinvivo.
+teletsandmegakaryocytes(21).HRGconstitutesoneofseveral An alternative explanation for the discrepancy in staining
+examplesofmoleculesregulatingbothangiogenesisandhemo- pattern generated by the three antibodies—0115, 0116, and
+stasis. Mice lacking the HRG gene are viable and fertile but 0119—could be that the epitopes in HRG recognized by
+have an enhanced coagulation resulting in decreased bleeding 0115 and 0116 are masked in vivo. However, when immuno-
+times(22).ItisunknownwhetherHRGisinvolvedinphysio- histochemistrywasdoneontissuewithahighamountofinfil-
+logicangiogenesisduringdevelopment,butitseemsnotcrucial trating monocytes, which are known to carry HRG on their
+forproperdevelopment.Moreover,nosignificantdifferencein cell surface (25), the antibodies recognized HRG equally well
+time required for wound healing in adult wild-type and HRG (Supplementary Fig. S1A). In addition, human liver tissue,
+knockoutanimalswasrecorded(22),indicatingthatphysiologic where HRG is actually expressed, was positively stained by
+angiogenesisisnotregulatedbyHRG. all three antibodies (Supplementary Fig. S1B). This finding
+Proteolytic fragments of discrete mass are consistently shows that epitope masking is not the reason why the anti-
+found in purified fractions of HRG from human plasma (23). bodies directed against the NH -terminal and COOH-terminal
+2
+We have previously shown that one of these fragments, a regions didnot generate anystaining.
+30-kDa peptide derived from the histidine- and proline-rich Tomapthelocationofthe0119stainingmoreprecisely,we
+(His/Pro-rich) domain of HRG, mediates the antiangiogenic used paraffin-embedded tissue, where the structures are more
+effect of HRG and that this peptide must be released from preservedcomparedwithfrozentissue. Usingconfocalmicro-
+the full-length protein to exert its effect as an inhibitor of an- scope analysis, we were able to show that the staining was
+giogenesis (18). Moreover, in a screen for the minimal active located alongthe luminal side of the vesselwall (Fig. 1C).
+MolCancerRes2009;7(11).November2009
+Downloaded from mcr.aacrjournals.org on April 2, 2015. © 2009 American Association for Cancer Research.
+--- Page 3 ---
+Published OnlineFirst November 10, 2009; DOI: 10.1158/1541-7786.MCR-09-0094
+1794 Thulinetal.
+FIGURE 1. AHis/Pro-rich
+fragmentofHRGispresentin
+humantissue.A.Schematic
+illustration of HRG. Binding
+epitopesofantibodies0116,
+0119,and0115,respectively,
+areindicatedbyaline.B.Im-
+munohistochemicalstainingof
+ahumankidneytumorusing
+the FITC-conjugated lectin
+UEA-1todetectbloodvessels
+(green)togetherwithantibodies
+0116 (left), 0119 (middle),
+and0115(right).C.Confocal
+microscopeanalysisofparaffin-
+embeddedhumankidneytumor
+tissue,coimmunostainedwith
+0119(red)andthevascular
+markerCD31(green).Blue,
+nuclei.D.Immunohistochemi-
+calstainingofahumankidney
+tumorafterpreincubationofthe
+antibody0119withthepeptide
+itwasraisedagainst.E.HRG
+purifiedfromhumanplasma
+(5or20μg)wasimmunopre-
+cipitated (IP) using equal
+amounts of the antibodies
+0115,0116,and0119andim-
+munoblotted(IB)withamouse
+monoclonalantibodyagainst
+HRG(MO37,Takara).Scale
+bars,20μm.
+Specificity in the staining was shown by preincubation of Toaddressthisquestioninmoredetailinalargecollectionof
+the0119antibodywiththepeptideitwasraisedagainst,which samples, weusedatissuearraycontaining83colonsamples
+completelyabolishedthestaining(Fig.1D).Moreover,immu- fromuntransformed(n=18)andtransformed(n=65)tissue
+noprecipitation of native HRG with 0115, 0116, and 0119 from47individuals.Thetissuearraywascostainedusingthe
+showed that all three antibodies were capable of recognizing 0119 antibody and an antibody against the vascular marker
+nativeHRG (Fig. 1E). CD31.Theamountof0119staininginthecolonsampleswas
+quantified by manual counting of individual 0119-positive
+patchesandrelatedtothenumberofvesselsinthetissue.This
+The His/Pro-Rich Fragment Is Present in Tissue from
+wasdonetocompensateforvaryingdegreeofvascularizationin
+Cancer Patientsbut notinHealthy Individuals
+the analyzed tissues because the 0119-specific staining was
+Toinvestigate if thestaining pattern detected inFig. 1 was
+foundonlyinconnectiontovessels.Nosignificantdifference
+specifictokidneytumortissueorpresentalsoinotherorgans,
+betweenuntransformedandtransformedtissue,withrespectto
+human colon tumor and glioma tissue were included in the
+the amount of staining forthe His/Pro-rich domain of HRG,
+analysis. The patch-like staining generated by the 0119 anti- wasdetectedinthislargecollectionofsamples(datanotshown).
+body was present along the vasculature also in tumors from Atumormaynotonlyhavelocaleffectsbutcanalsoinduce
+theseorgans(Fig.2A,left).Untransformedtissuefromkidney, systemic changes in an affected individual. Therefore, we did
+colon, and brain, removed at the same time as the tumor, was immunohistochemistry on placenta, one of the few tissues
+immunostained in the same way to investigate whether this available from a healthy person, using CD31 to detect vessels
+staining pattern was specific for tumor tissue (Fig. 2A, right). andthe0119antibody.Placentascollectedfrom20healthyin-
+We could not detect any apparent differences between the tu- dividuals were used for the analysis. Interestingly, no 0119
+morandthecorrespondinguntransformedtissuefromthesame stainingcouldbedetectedalongthevesselwallinthesetissues
+organ,with respect tothe staining patterngenerated by0119. (Fig. 2B).
+MolCancerRes2009;7(11).November2009
+Downloaded from mcr.aacrjournals.org on April 2, 2015. © 2009 American Association for Cancer Research.

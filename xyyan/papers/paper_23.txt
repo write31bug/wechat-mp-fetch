@@ -1,0 +1,164 @@
+
+--- Page 1 ---
+ClinicRevAllergImmunol(2008)34:307–312
+DOI10.1007/s12016-007-8058-6
+Histidine-Rich Glycoprotein Modulation
+of Immune/Autoimmune, Vascular, and Coagulation Systems
+Miri Blank&Yehuda Shoenfeld
+Publishedonline:25January2008
+#HumanaPressInc.2007
+Abstract Histidine-richglycoprotein(HRG)isplasmagly- update on the molecular, structural, biological, and clinical
+coprotein that has a multidomain structure, interacts with propertiesofHRGandassociatedautoimmunityconditions.
+many ligands, and exhibit many modulatory functions in
+diverse biological systems. HRG ligands include Zn2+, Keywords Histidine-richglycoprotein.Immunecomplex.
+tropomyosin, heparin and heparan sulphate, plasminogen, Thrombospodine.Clearance.Protectivemolecule.Lupus.
+plasmin,fibrinogen,thrombospondin,IgG,FcgR,andcom- Rheumatoidarthritis.Angiogenesis.Autoimmunity
+plement. In many cases, the histidine-rich region of the
+moleculeenhancesligandbindingafterinteractionwithZn2+
+or exposure to low pH, conditions associated with sites of Introduction
+tissue injury or tumor growth. The multidomain nature of
+HRG and diverse ligand binding properties indicates that it Histidine-rich glycoprotein (HRG) is a heparin-binding
+canactasanextracellularadaptorprotein,bridgingtogether plasma protein 67- to 75-kDa protein, composed of 507
+different ligands mainly on cell surfaces. Apart from cell aminoacidresidues,presentontheplasmaatconcentration
+surface molecules, HRG can differentially target IgG, pre- of ~100 μg/ml [1, 2]. HRG is present in the blood of ver-
+venting generation of insoluble immune complexes. HRG tebrates,includinghumansandsomeinvertebrates[1,2].In
+binds to most cells primarily via heparan sulphate pro- mammals, the majority of HRG is synthesized by the liver,
+teoglycans. HRG can enhance clearance of apoptotic and found in the plasma, stored in the α-granules of thrombo-
+necroticphagocytesaswellasimmunecomplexes.Theanti- cytes, and is released upon thrombin activation [3]. Struc-
+angiogenicpropertiesofHRGarewellestablishedinvitroand turally, the HRG molecule consists of three main domains:
+in vivo. HRG can modulate other physiological processes (a) The NH2-terminal domain contains two cysteine pro-
+such as cell adhesion and migration, fibrinolysis and tease inhibitor (cystatin)-like stretches, which allows the
+coagulation,complementactivation.Thisreviewpresentsan classification of HRG as a member of the cystatin super-
+family together with α2HS-glycoprotein, cystatin, and
+: kininogen. (b) The central domain is very rich in proline
+M.Blank Y.Shoenfeld
+and histidine residues, and the human form contains
+TheAutoimmuneDiseaseCenterandInternalMedicineB,
+multiple GHHPH pentapeptide tandem repeats. The central
+SacklerFacultyofMedicine,Tel-AvivUniversity,
+TelAviv,Israel domain and the COOH-terminal domain are disulfide
+bonded to the cystatin-like stretched in the NH2-terminal
+Y.Shoenfeld
+domain[4].ThisspecificarchitectureoftheHRGmolecule
+IncumbentoftheLauraSchwarz-KippResearchof
+facilitates several functions by simultaneous interaction
+AutoimmuneDiseases,Tel-AvivUniversity,
+TelAviv,Israel with numerous ligands. Previous studies have shown that
+HRG binds to heparin, heparan sulfates, thrombospondin
+Y.Shoenfeld(*)
+(TSP), fibrinogen, plasminogen, certain complement pro-
+DepartmentofMedicineB,ShebaMedicalCenter,
+teins, divalent metal ions, and immunoglobulins [1, 4–6].
+Tel-Hashomer52621,Israel
+e-mail:Shoenfel@post.tau.ac.il Based on the multiple ligand binding potential, HRG binds
+--- Page 2 ---
+308 ClinicRevAllergImmunol(2008)34:307–312
+to a wide range of cells such as endothelial cells, fibro- can inhibit the formation of IIC formed by interaction of
+blasts, Tcells, macrophages, erythrocytes, platelets, mono- rheumatoid factor (RF) with human IgG-containing IC.
+cytoidcell lines,andnecroticcells[5,7–11].Thereceptors Employing light scattering techniques, the effect of HRG
+for HRG on these cells have not been finally identified; on the formation of IIC between RF and IC containing
+however,inhibitionstudiessuggestthatHRGbindstoTSP, human IgG was tested in three different models [23]. In all
+FcR, and glycosaminoglycans [5, 9, 10]. The multi-pattern three models, physiological concentrations of HRG could
+binding properties of HRG enable its diverse biological block the formation of IIC induced by RF. Optical
+activities. The various functions of HRG molecule known biosensor studies of the RF-IgG interaction also revealed
+so far encompass modulation of fibrinogenesis [12], inhi- that HRG can mask theepitopes on IgG recognized by RF,
+bition of insoluble immune complex formation [13], en- therefore, block the RF binding to ICs [23]. Furthermore,
+hancement of apoptotic cells clearance by macrophages HRG can partially solubilize IIC [23]. These data indicate
+[14, 15], anti-angiogenic activities [16–18], and antibacte- that HRG can regulate the formation of IIC induced by RF
+rial activity [19]. This review will focus on the biological at three levels: namely, by inhibiting the initial recognition
+activities of HRG and its association with autoimmunity. of IgG containing IC by RF, by inhibiting the subsequent
+IICofIgGcontainingICbyRF,andbysolubilizingalready
+formed IIC. These findings raised the possibility that HRG
+HRG as a Protective Molecule may be an important inhibitor of the formation of patho-
+genic IC diseases such as SLE and RF.
+HRG Binds to Human C1q and IgG and Inhibits Insoluble
+Immune Complexes Formation HRG Regulates the Binding of Monomeric IgG
+and Immune Complexes to Monocytes
+Certain autoimmune diseases such as systemic lupus ery-
+thematosus (SLE) or rheumatoid arthritis are associated HRG can interact with FcγRI and block monomeric IgG
+withtheproduction ofautoantibodies [20,21].Basedonin binding to monocytes. When incorporated in IgG contain-
+vitro studies, autoantibodies can be cross-linked with their ing IC, HRG can enhance the uptake of IC by monocytes,
+cognate antigens to form insoluble immune complexes probably via its heparan sulfate-binding domain.
+(IIC), which can precipitate on the tissues (e.g., kidney or ItiswellestablishedthatmonomericIgGbindstoFcγRI
+joint synovial membrane) and lead to a lack of molecular on mononuclear cells and HRG interacts with mouse
+transport and consequent tissue injury. Evidence suggests peritoneal macrophages [24]. HRG differentially regulates
+that the complement components C3b and C1q can modu- the functions of FcγR subclasses. For example, HRG
+lateformationofIICinvitro.C1q isknowntoenhance the reduced the efficiency of FcγRII (Fcγ2b/γ1R)-dependent
+formation of IIC by binding to IgG molecules via the C2 phagocytosis of erythrocytes conjugated with monoclonal
+domainandmayleadtothecross-linkingofIgGmolecules. IgG2b or IgG1 by macrophages pretreated with HRG for
+Studies addressing the effect of HRG and C1q on the 24 h. However, when similar studies were performed using
+formation of IIC between ovalbumin and polyclonal rabbit erythrocytescoated with monoclonal IgG2a, HRG wasless
+anti-ovalbumin IgG revealed that physiological concentra- effective in inhibiting FcγRII (Fcγ2b/γ1R)-mediated
+tions of HRG bind strongly to C1q and to IgG , inhibiting phagocytosis [18]. HRG bind FcγRI expressed on human
+the formation of IIC in vitro [6]. C1q and IgG binding monocytic cell lines THP1 and U937 [9]. This claim is
+region on HRG are located in the N-terminal fragment. proven by inhibition of HRG binding to THP1 by anti-
+HRG bind differentially immunoglobulin subclasses [22]. FcγRI Abs and the lack of IgG interference with the
+HRG bind to the kappa L-chain containing IgG1 and IgG2 binding of HRG to the T cell lines lack FcγRI [9]. Pre-
+(IgG1kappa and IgG2kappa) inapproximatelyfour and ap- treatment of THP1 cells with HRG at physiological con-
+proximatelytenfoldfasterthanthatforthebindingofHRG centration significantly inhibit the binding of monomeric
+tolambda L-chain containing IgG1 and IgG2 (IgG1lambda humanIgGtoTHP1cellsviamaskingtheIgGbindingsite
+and IgG2lambda), respectively. In contrast, the binding of ontheFcγRI.AdditionofICtoHRG-THP1-IgGcrosstalk
+HRG to IgG3kappa and IgG4kappa is 9- and 20-fold did not change the ability of HRG to inhibit the binding of
+slowerthanthatforthebindingofHRGtoIgG3lambdaand monomeric IgG to THP1 cells. However, the fact that
+IgG4lambda, respectively. The binding of HRG to immu- pretreatment of the cells with HRG did not affect the
+noglobulins containing the kappa L-chain (particularly binding of IC to these cells point to the possibility that the
+IgG1kappa), but not lambda L-chain, is potentiated in the IC bind low affinity FcR not recognized by HRG.
+presence of a physiological concentration Zn2+. Interestingly, pre-incubation of monomeric IgG with HRG
+Based on the results that HRG can bind to IgG and enhancetheIgGtargetingTHP1cells.Theincorporationof
+inhibittheIIC,itwasofinteresttodeterminewhetherHRG HRG into IC may increase the avidity of these IC for the
+--- Page 3 ---
+ClinicRevAllergImmunol(2008)34:307–312 330099
+cell surface because of the formation of multivalent inter- mAb inhibit HRG binding toHMDM,whereas naked DNA
+actions between IC and heparan sulfate receptors for HRG. inhibit HRG binding to apoptotic cells. Thus, anti-FcγRI or
+It should be noted that the molar ratio of HRG/IgG is an DNAabrogatetheHRG-dependentingestion.Thesefindings
+important factor in determining whether HRG potentiate indicate that HRG, by acting as a bridge between DNA on
+(HRG/IgG molar ratio ~1–10:1) or inhibits (HRG/IgG apoptotic cells and FcγRI on HMDM, is an important
+molar ratio=50:1) the binding of free IgG to FcγRI. In mediatorfortheclearanceofapoptoticcellsbymacrophages.
+the normal physiological conditions, plasma HRG (2 μM) It can be summarized that HRG-dependent clearance
+will not enhance the binding of free IgG (~60 μM) to mechanisms are active earlier than other systems such as
+monocytes,asthemolarratioofHRG/IgGis~1:30,andthe CRPorTSP,asHRG,bothatacutephaseandphysiological
+most HRG would be associated with soluble IgG and concentrations, can potentiate apoptotic cell uptake by
+unavailable to interact with FcγRI [9]. macrophages, whereas CRP or TSP-mediated mechanisms
+are activated only at acute phase [14]. In parallel, Jones et
+HRG Enhance the Clearance of Apoptotic Cells al. [29] showed that HRG can link necrotic cells to mono-
+cytesviacytoplasmicligandsinheparin-sulfate-independent
+Duringthelastdecade,bunchofevidenceproveadefectin manner exposed on necrotic cells. This interaction is
+clearance of apoptotic cells in SLE progression [25–27]. It mediated by the amino-terminal domain of HRG. It is im-
+was proposed that long circulating apoptotic cell, which portant to notice that circulating HRG level is significantly
+exposenuclearcontentstotheimmunesystem,followedby lowerinlupuspatients[30], suggesting active involvement
+generation of neoantigens as a result of re-clustering of the of HRG during acute as well as chronic inflammation. One
+internal antigens and post-translation modification process- mayspeculatethatlowlevelsofHRGinlupusplasmamay
+esallarethesourceofmorethan100autoantigensinlupus explain partially the decreased clearance potential of
+[20, 21]. Because of the brakeage of self tolerance, auto- phagocytic cells.
+immune processes are switched on and may induce auto-
+immune state. Therefore, efficient masking of autoantigen HRG Modulation of Angiogenesis
+epitopesandeffectiveclearanceofapoptoticcellsbyphago-
+cytesareessentialtopreventautioimmunereactions.Several HRG as anti-angiogenesis molecule Angiogenesis is criti-
+receptorsandligandsareknowntoserveasmediatorsforthe calforthegrowthandproliferationoftumorsaswellasfor
+uptakeofapoptoticcellsbymacrophages,somedependenton normal development such as wound healing, placenta
+the direct interaction of apoptotic cells with phagocyte development menstrual cycle [31]. In normal physiological
+receptors such as CD14, phosphatidylserine, and scavenger condition, the vascular-bad is regulated by pro- and anti-
+receptors, in association with cytoskeletal proteins such as angiogenic factors. Prolonged and excessive angiogenesis
+ABC1 cassette transporters, dock 180, and Wiskott–Aldrich isimplicatedinanumberofpathologicalconditionssuchas
+syndromeproteinonphagocytes.Otherligandbindingrequire rheumatoidarthritis,diabeticretinopathy,andtumorgrowth
+anintermediatemoleculebetweenthecirculatingproteinand andmetastases.Thevasculatureisregulatedbypro-andanti-
+the cells, for example, the acute phases C-reactive protein angiogenicfactorssuchasfibroblastgrowthfactor(FGF)and
+(CRP) at high levels, engages with phosphatidylserine on vascular endothelial growth factor (VEGF), stimulators of
+apoptotic cells and activates the classical complement cas- endothelialcellsinvitroandinvivo.Todate,numberofself
+cade,resultinginthereleaseofC1qanddepositionofC3bon endogenous factors serve as negative regulators for angio-
+apoptoticcells.Additionalexampleisthehighconcentration genesis (e.g., plasma proteins, basmant membrane proteins,
+ofsecretedformsofTSPwhichpotentiateuptakebybridging andserineproteaseinhibitors-serpins),allinhibitendothelial
+apoptoticcellsandtheα β /CD36complexonmacrophages cellchemotaxixinvitroandinvivo[32].
+v 3
+[28]. HGR specifically bind to apoptotic T cells and to Zhang et al. [33] demonstrate the anti-angiogenic ac-
+mature human monocyte-derived macrophages (HMDM) tivity of HRG in vitro. Others show rabbit-HRG-mediated
+and potentiate the ingestion of apoptotic cells [14]. The inhibition of endothelial cells tube formation stimulated by
+HRG-dependent mechanism mediates removal of apoptotic FGF-2 or VEGF on a Matrigel surface as well as cell pro-
+cells under normal conditions, whereas in pathological con- liferation of FGF-2-stimulated endothelial cells [16]. Using
+ditionssuchasacuteorchronicinflammatorydisorders,TSP proteolytic fragments of HRG, it could be demonstrated
+and CRP/complement-dependent mechanisms also contrib- that the anti-angiogenic activity of HRG is localized in the
+ute.Gorganietal.[14]showthatpurifiedHRGincreasethe His/Pro-rich domain and further confirmed in two in vivo
+number of human HMDM-containing apoptotic cells and models of angiogenesis: the chorioallantoic membrane of
+accelerate the ingestion. HRG potentiate phagocytosis of the chick assay and the mouse Matrigel plug assay.
+apoptotic cells through bridging naked DNA on apoptotic Caspase-3 activation is observed in endothelial cells
+cells with FcγRI on mature macrophages [14]. Anti-FcγRI stimulated with FGF-2 in the presence of HRG, suggesting

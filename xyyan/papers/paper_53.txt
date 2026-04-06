@@ -1,0 +1,155 @@
+
+--- Page 1 ---
+THROMBOSIS RESEARCH 40; 653-661, 1985
+0049-3848/85 $3.00 + .OO Printed in the USA.
+Copyright (c) 1985 Pergamon Press Ltd. All rights reserved.
+PROTEOLYSIS OF HISTIDINE-RICH GLYCOPROTEIN IN PLASMA
+AND IN PATIENTS UNDERGOING THROMBOLYTIC THERAPY
+Ann Smith, Tleana Nuiry and William T. Morgan
+Department of Biochemistry
+Louisiana State University Medical Center
+New Orleans, LA 70112
+U.S.A.
+(Received 3.12.1984; Accepted in revised form 20.8.1985
+by Editor R.W. Colman)
+ABSTRACT
+Plasmin and kallikrein but not thrombin cleave purified
+histidine-rich glycoprotein (HRG), and heparin binding inhibits
+the proteolysis of HRG. To assess the proteolysis of HRG in
+plasma, immunoaffinity chromatography was used to isolate HRG
+from human plasma samples and the extent of protein cleavage was
+determined after electrophoresis under reduced, denaturing
+conditions. In blood drawn into streptokinase or into urdkinase,
+HRG (78 kDa) was degraded producing peptides ranging in apparent
+molecular weight from 67 to 9 kDa. In patients undergoing
+thrombolytic therapy almost no intact HRG remains after 30
+minutes, but the levels of circulating HRG are unchanged,
+indicating that cleaved HRG is not quickly or extensively removed
+from the circulation.
+INTRODUCTION
+Thrombolytic therapy of conditions such as venous thrombosis,
+occlusive vascular disease and disseminated intravascular coagulation
+utilizes plasminogen actfvators like tissue plasminogen activator (TPA),
+streptokinase (SK) and urokinase (UK). Although these agents have long
+been in clinical use, the side effects of this therapy have yet to be
+fully assessed.
+Recent evidence suggests that histidine-rich glycocoprotein (HRG) is
+an anti-fibrinolytic agent which acts by binding to the primary lysine-
+binding site of plasminogen (1). Interestingly, HRG binds to heparin
+counteracting its anticoagulant properties (2,3) and alleviates the
+inhibition by heparin of thrombin-induced platelet aggregration in vitro
+--
+Key words: Histidine-rich glycoprotein, thromholytic therapy, plasmin,
+immunoaffinity chromatography
+653
+--- Page 2 ---
+654 PROTEOLYSIS OF HRG Vol. 40, No. 5
+(4). Since HRG is cleaved by plasmin in vitro (5,6), increased plasmin
+activity caused by thrombolytic therapy couldaffect circulating HRG with
+possible deleterious consequences.
+Immunoelectrophoresis (5' and immunodiffusIon (see below) with
+polyclonal anti-sera and gel permeation chromatography (7) do not
+distinguish proteolytically-cleaved RRG from the intact protein in
+plasma. Therefore, in this work immunoaffinity chromatography was used to
+isolate HRG from plasma and electrophoresis under reduced, denaturing
+conditions to demonstrate the proteolysis. The results presented here are
+the fjrst to determine the extent of proteolytic cleavage of HRG in
+normal plasma -i-n vitro and
+-
+i
+-
+n viva in patients undergoing thrombolytic
+therapy.
+MATERJALS AND METHODS
+Plasma was obtained from healthy volunteers after informed consent and
+approval of the InstItutional Review Board for human investigation. Blood
+was routinely drawn into a cocktail of protease inhibitors containing
+kallikrein inhibitor (Antagosan, Behring, 400 units/ml final
+concentration), benzamidine (10 mM), EGTA (10 mM) and 10 mM sodium
+citrate. Red cells were removed by centrifugation at 2000 g for 20
+minutes at 4OC. In experiments to assess the effects on HRG of
+increased plasmin activity or of heparin, blood samples were drawn into SK
+(500 units/ml plasma) or into UK (20 units/ml plasma) with and without
+heparin (4.2 units/ml plasma) and incubated on ice for 1 hour. The plasma
+samples were frozen in aliquots 3n liquid N2 and stored at -7O'C until
+analyzed.
+The three patients investigated received streptokinase therapy as an
+emergency measure to remove clots obstructing major coronary blood
+vessels. The clots were visualised before infusion and the patency of the
+previously occluded vessels estahlished after infusion by routine
+angiograms. All three patients had a previous history of myocardial
+infarcts and therapy was begun within 8 hours of the onset of chest pain.
+After informed consent was obtained, the patients received heparin (5000
+units) to maintain patency of the catheters and a blood sample was taken
+before a bolus injection of SK fpre-SK sample) foll.owedb y an infusion of
+SK at a flow of about 5,000 units per minute. Tmmediately after the
+infusion of SK the second blood sample was taken (post-SK sample).
+Patient 1 was a 70 year old male who received 20,000 units bolus followed
+by 108,000 units infused over 45 minutes. Patient 2 was a 53 year old
+male who received 90,000 units bolus, 300,000 units infused into the right
+coronary artery followed by a further 100,000 units bolus and 400,000
+units infusion at a second clot site in the left coronary artery. Patient
+3 was a 66 year old female who received 20,000 units bolus and 300,000
+units infused over 60 minutes. Blood samples were drawn into the cocktail
+of inhibitors described above and the plasma frozen in aliquots in liquid
+N2 and stored at -7O'C until analyzed.
+Human HRG was isolated by chromatography on phosphocellulose (8) or on
+carboxymethylcellulose (9). The purity of HRG preparations was assessed
+by slab gel electrophoresis in the presence of sodium dodecylsulphate
+(SDS) fl0) using 3-17% acrylamide gradients oy 19% acrylamide. The
+reducing agent dithiothreitol (DTT) was included to monitor the integrity
+of the protein which is extensively disulphide-linked. The concentration
+--- Page 3 ---
+Vol. 40, No. 5 PROTEOLYSIS OF HRG 655
+of purified HRG was assessed usi an El% of 5.85 at 278 nm (11).
+Iodination of purified HRG with I was carried out using Iodobeads
+(Pierce), under conditions that produced incorporation of one I per
+Labeling of HRG, human serum albumin and human plasminogen with I@
+H2CC was accomplished by the NaCNBH3 method (12).
+Mancini (13) and Ouchterlony (14) immunodiffusion techniques and
+preparation of the IgG-BioGel CM-A immunoaffinity chromatography medium
+(15) were carried out using monospecific polyclonal goat antibody to human
+HRG. HRG levels in plasma were measured by the Mancini method as described
+(22). Protein eluted from the immunoaffinity column by thiocyanate was
+extensively dialyzed against water and lyophilized before
+electrophoresis. The column was routinely rinsed with buffer and
+thiocyanate between samples to remove any residual protein. Human HRG
+isolated by immunoaffinity chromatography was subjected to polyacrylamide
+electrophoresis (10) under reduced denaturing conditions using 10% or 3-
+17% gradient polyacrylamide slab gels. Protein bands were detected after
+electrophoresis by staining with Coomassie blue R250 or silver (16).
+The "Western" blot procedure (17) was used to demonstrate that all the
+protein bands in the thiocyanate-eluted fractions, after transfer to a
+nitrocellulose filter, contained antigenic determinants recognized by the
+antiserum produced in this laboratory. The only exceptions are two faint
+bands observed in some samples that were identified as heavy (55 kDa) and
+light (30 kDa) chains of goat IgG. The blotting procedure was not used
+with unfractionated plasma since the large amount of albumin present
+relative to HRG obscures certain fragments of HRG.
+Plasminogen was isolated from human plasma (18) and activated either
+with UK (Calbiochem) or SK (KABI) as described (19). Amidolytic activity
+was measured using the chromogenic peptide substrate, S2251 (KABI).
+Thrombin (Sigma) activity was generally 3U/ug protein, and kallikrein
+(Calbiochem) activity was 0.5U/ug protein. Limited proteolytic
+digestions of HRG were carried out at 37'C in 15 mM phosphate buffer, pH
+7.4 containing 150 mM sodium chloride using l:lO, 1:30, 1:50 and 1:lOO
+ratios by weight of protease to HRG. Incubating purified HRG with SK or
+with plasminogen alone had no effect. Heparin was added where indicated 20
+minutes before the enzyme. The reaction was stopped by addition of
+electrophoresis solubilisation buffer containing 0.5% SDS and 10 mM DTT
+and heating at 100°C for 5 minutes.
+RESULTS
+Purified HRG is susceptible to proteolysis by plasmin in vitro
+(5,6), but little is known of the sensitivity of HRG to other zoteases
+and of its cleavage in plasma. As a first step the sensitivity of
+purified HRG to plasmin, thrombin and kallikrein was investigated since
+these three enzymes are all serine proteases involved in hemostasis. Time
+course studies of the action of plasmin on purified HRG (Figure 1) reveal
+that a 9 kDa non-disulphide linked peptide is first cleaved from the 78
+kDa native protein producing a 67 kDa species followed by the slower
+appearance of the 60, 48, 40 and 30 kDa peptides which are the histidine-
+proline-glycine-rich and -poor peptides previously reported (6) (Figure 5,
+tracks 1 to 4). Thrombin does not act on HRG (Figure 1, tracks 5 and 6).
+In contrast, kallikrein extensively cleaves human HRG (Figure 1, tracks 7
+and 8) producing a 48 kDa peptide that is somewhat protease-resistant but
+finally degraded by kallikrein (Figure 1, track 8).

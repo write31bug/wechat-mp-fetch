@@ -1,0 +1,337 @@
+
+--- Page 1 ---
+Journal of Equine Veterinary Science 102 (2021) 103620
+Contents lists available at ScienceDirect
+Journal of Equine Veterinary Science
+journal homepage: www.j-evs.com
+Histidine-Rich Glycoprotein Functions as a Dual Regulator of
+Neutrophil Activity in Horses
+Ryo Muko a, Hiroshi Matsuda b, Masa-aki Oikawa c, Taekyun Shin d, Kenshiro Matsuda b , 1,
+Hiroaki Sato e, Tomoya Sunouchi b, Akane Tanaka a , b , ∗
+a Cooperative Major in Advanced Health Science, Graduate School of Bio-Applications and System Engineering, Tokyo University of Agriculture and
+Technology, Division of Animal Life Science, Institute of Agriculture, Tokyo, Japan
+b Laboratory of Comparative Animal Medicine, Division of Animal Life Science, Institute of Agriculture, Tokyo University of Agriculture and Technology,
+Fuchu, Tokyo, Japan
+c Diagnostic and Research Laboratory, Equine Veterinary Medical Center, Education City, Doha, Qatar
+d Department of Veterinary Anatomy, College of Veterinary Medicine and Veterinary Medical Research Institute, Jeju National University, Jeju, South Korea
+e Ritto Training Center, Japan Racing Association, Shiga, Japan
+a r t i c l e i n f o a b s t r a c t
+Article history: Histidine-rich glycoprotein (HRG) is an abundant plasma protein that has been identified in most mam-
+Received 24 February 2021 mals. We first identified whole genome sequence of equine HRG (e HRG ) and succeeded to purify eHRG
+Received in revised form 30 March 2021 from plasma of horses. Since HRG interacts with various ligands, this protein is thought to be involved
+Accepted 6 April 2021
+in immune response, coagulation, and angiogenesis. Systemic inflammatory response syndrome (SIRS) is
+Available online 16 April 2021
+characterized as a non-specific, clinical, pro-inflammatory immune response that damage organs and tis-
+Keywords: sues in the host. Recent reports revealed that blood HRG levels in human patients with SIRS are approx-
+Horses imately 50% lower than those in healthy controls, indicating the use of HRG as a biomarker or treatment
+Histidine-rich glycoprotein for SIRS. SIRS is also a serious issue in equine medicine. In this study, we investigated various effects
+Neutrophils of eHRG on neutrophil functions, including adhesion, migration, phagocytosis, reactive oxygen species
+Reactive oxygen species (ROS) production, and lysosome maturation using neutrophils isolated from horses. Microscopic obser-
+Systemic inflammatory response syndrome
+vation showed that the addition of eHRG to the culture diminished adhesion of neutrophils stimulated
+with LPS. Using the Boyden chamber technique, we showed that eHRG reduced neutrophil chemotaxis
+induced by recombinant human IL-8. Luminol-dependent chemiluminescence assay demonstrated that
+eHRG restrained the peak of LPS-promoted ROS production from neutrophils. In contrast, eHRG promoted
+phagocytic activity evaluated with uptake of fluorescent dye conjugated particles, as well as lysosomal
+maturation assessed using fluorescent staining for lysosomes of equine neutrophils. These results indi-
+cated that eHRG acts as a dual regulator of neutrophils in horses.
+©2021 The Author(s). Published by Elsevier Inc.
+This is an open access article under the CC BY-NC-ND license
+( http://creativecommons.org/licenses/by-nc-nd/4.0/ )
+1. Introduction
+Conflict of Interest: The authors declare no potential conflicts of interest. None
+Histidine-rich glycoprotein (HRG) is an abundant plasma gly-
+of the authors has any financial or personal relationships that could inappropriately
+influence or bias the content of the article.
+coprotein that interacts with many types of molecules, including
+Animal welfare/ethical statement: The experimental protocol was approved by heparin, phospholipids, plasminogen, fibrinogen, immunoglobulin
+the standards specified in the guidelines provided by the Animal Care and Use Com- G, C1q, heme, and zinc ions [1–5] . Past observations have indi-
+mittee of the Tokyo University of Agriculture and Technology as well as those in the cated that HRG is involved in immune response, coagulation, and
+Science Council of Japan’s guidelines for the use of experimental animals (approval
+angiogenesis. Recently, HRG has been reported to affect neutrophil
+nos. 30-104 and R02-46).
+∗ Corresponding author at: Akane Tanaka, Laboratory of Comparative Animal adhesion, morphology, and reactive oxygen species (ROS) produc-
+Medicine, Division of Animal Life Science, Tokyo University of Agriculture and Tech- tion from neutrophils of mice and humans [6] . Human neutrophils
+nology, Fuchu, Tokyo, Japan. incubated with HRG maintained a spherical shape compared to
+E-mail address: akane@cc.tuat.ac.jp (A. Tanaka). those incubated without HRG, indicating that HRG has suppressive
+1 Current address: Kenshiro Matsuda, Department of Immunology, Research & effects on neutrophils. Recently, we demonstrated the whole se-
+Development Center for Innovative Drug Discovery, University of Tsukuba, Tsukuba,
+Ibaraki, Japan
+https://doi.org/10.1016/j.jevs.2021.103620
+0737-0806/©2021TheAuthor(s).PublishedbyElsevierInc.ThisisanopenaccessarticleundertheCCBY-NC-NDlicense
+( http://creativecommons.org/licenses/by-nc-nd/4.0/ )
+--- Page 2 ---
+R. Muko, H. Matsuda, M.-a. Oikawa et al. Journal of Equine Veterinary Science 102 (2021) 103620
+quence of equine HRG (eHRG) and isolated eHRG from the serum and the sepharose was washed with 50 mM Tris-HCl (pH 7.5) con-
+of horses [7] . In addition, we determined that eHRG is produced taining 0.5 M NaCl and 20 mM imidazole. A flow-through solu-
+by the liver in horses, similar to mice and humans [7] . However, tion was stored and used as a control. The binding eHRG was then
+the role of eHRG in infections and/or inflammatory conditions in eluted with 50 mM Tris-HCl (pH 7.5) containing 0.5 M NaCl and
+horses remains unclear. 500 mM imidazole. The elution fraction was further purified by
+Equine systemic inflammatory response syndrome (SIRS), which centrifugation using an Amicon Ultra 0.5 mL 30 kDa centrifuga-
+often develops in horses with colic and colitis, was first defined by tion filter (Millipore, Bedford, MA, USA). We have been creating the
+referring to the definition of human SIRS [ 8 , 9 ]. In a recent equine quantitative ELISA method for eHRG in equine plasma. From our
+medicine, SIRS criteria in foals and adult horses have been pre- preliminary data, eHRG concentrations in the plasma of healthy
+μ
+sented [8–10] . Particularly in adult horses, intestinal diseases com- horses would be 1–10 M. According to the results, we set eHRG
+μ
+plicated with SIRS would be associated with a high risk of death concentrations 1–10 M in all experiments.
+[8] . The rate of SIRS horses transferred to the ICU is 31.3%, and the
+case fatality rate of SIRS horses is 38.8% [8] . However, the mech- 2.3. Morphology and Adhesion Assay
+anisms that initiate a series of processes resulting in SIRS remain
+uncertain. Moreover, a sensitive biomarker and an effective treat- To analyze neutrophilic morphology in the presence of eHRG,
+ment protocol for equine SIRS have not yet been determined. purified equine neutrophils resuspended in RPMI-1640 medium
+The recent study revealed the 50% decline of plasma HRG in with calcein-AM (Dojindo, Kumamoto, Japan) were seeded at a
+human patients with SIRS comparing with healthy subjects and density of 1 × 10 5 cells/well in a 96-well plate with or without
+μ
+suggested the possibility of HRG as a new biomarker for SIRS [11] . 5 M eHRG and incubated at 37 °C and 5% CO
+2
+for 1 h. We used
+μ μ
+In addition, HRG-deficient mice were more susceptible to Candida 56.7 g/mL flow-through solution (56.7 g/mL: the same protein
+μ
+parapsilosis and Streptococcus pyogenes [ 12 , 13 ], indicating the pro- concentration of 1 M eHRG) as a control. After incubation, the
+tective role of HRG against infectious pathogens. In fact, admin- neutrophil shape was assessed using a Keyence BZ-X810 fluores-
+istration of HRG to septic mice in a cecal ligation and puncture cence microscope (Osaka, Japan).
+model improved their viability [6] . These results raise the possi- The adhesion assay was performed using the described method
+bility that HRG constitutes a novel strategy for the early diagnosis with a slight modification [6] . Purified equine neutrophils (5 ×10 4
+and treatment of SIRS. cells/well) were suspended in a 96-well plate in culture medium
+In this study, we examined the effects of eHRG on equine neu- (RPMI-1640 medium containing 10% fetal bovine serum, 100 U/mL
+μ
+trophils to investigate the role of eHRG in inflammatory condi- penicillin, 100 g/mL streptomycin, and 2 mM GlutaMAX [Thermo
+tions. We found that eHRG suppressed lipopolysaccharide (LPS)- Fisher Scientific, Waltham, MA, USA]) with calcein-AM in the pres-
+μ μ
+stimulated adhesion and ROS production in neutrophils. In addi- ence or absence of 1, 5, or 10 M purified eHRG or 56.7 g/mL
+tion, eHRG reduced interleukin (IL)-8-induced migration of equine flow-through solution for 1 h at 37 °C and 5% CO
+2
+. After incuba-
+neutrophils. In contrast, eHRG enhanced LPS-activated phagocy- tion, 50 ng/mL LPS (Sigma-Aldrich, St. Louis, MO, USA) was added
+tosis and lysosome maturation in equine neutrophils. Here, we to each well, and the cells were incubated for 1 h. Then, each well
+μ
+demonstrated for the first time that eHRG affects the regulation was washed lightly with 100 L culture medium, and the num-
+of neutrophil functions in horses. ber of adherent neutrophils with fluorescence was counted using a
+Keyence BZ-X810 fluorescence microscope. Obtained data from six
+2. Material and Methods independent experiments was used for statistical analysis.
+2.1. Isolation of Equine Neutrophils 2.4. Chemotaxis Assay
+Equine blood was collected from the jugular vein using hep- The chemotactic activity of IL-8-stimulated neutrophils was
+arinized tubes. Collected blood was centrifuged at 1,500 rpm for measured using the ChemoTx Chemotaxis System (Neuro Probe,
+μ
+15 min, and the lower fraction containing the buffy coat and red Gaithersburg, MD, USA) with a 3 m pore size [17–19] . Culture
+blood cells was layered on top of Percoll (GE Healthcare, Piscat- medium with or without 5 ng/mL recombinant human IL-8 (rhIL-8;
+μ
+away, NJ, USA) layers (70% and 85%) [ 14 , 15 ]. After density gra- R&D Systems, Minneapolis, MN, USA) and 1, 5, or 10 M purified
+dient centrifugation at 400 × g for 20 min, the cells between eHRG or flow-through solution was added to the bottom cham-
+μ
+the 70% and 85% layers were collected. The collected cells un- ber. As a negative control, 1 g/mL anti-human IL-8 antibody was
+derwent Giemsa staining to confirm the purity of the neutrophils added to the bottom wells. Neutrophils stained with calcein-AM
+and a trypan blue dye exclusion test to determine their viability. were applied to the upper part above the filter (2 ×10 4 cells/well)
+Neutrophils were resuspended in Roswell Park Memorial Institute in the presence of each concentration of eHRG or flow-through
+(RPMI)-1640 medium (Life Technologies, Gaithersburg, MD, USA) solution, and the plate was incubated at 37 °C and 5% CO
+2
+for 1
+and stored at room temperature with rotation. The purity of neu- h. After incubation, the solution in the upper part was removed,
+trophils determined by Giemsa staining was > 95%. We collected and the cells in the bottom chamber were collected via trypsin-
+samples from 2 healthy warm-blooded horses (KWPN and West- ethylenediaminetetraacetic acid treatment. Then, the fluorescence
+falen, geldings, 18 and 19 years old) according to the standards of neutrophils that migrated to the bottom chamber was counted
+specified in the guidelines provided by the Animal Care and Use using a Keyence BZ-X810 fluorescence microscope. The proportion
+Committee of the Tokyo University of Agriculture and Technology of pHrodo-positive area (red) in Calcein-AM-positive area (green)
+as well as those in the Science Council of Japan’s guidelines for the was calculated using the Keyence Hybrid Cell Count application.
+use of experimental animals (approval nos. 30-104 and R02-46). Calculated data was shown as the ratio to the negative control.
+Obtained data from three independent experiments was used for
+2.2. HRG Purification from Equine Plasma statistical analysis.
+eHRG was purified using equine plasma as described previously 2.5. Phagocytosis Assay
+[ 7 , 16 ]. Briefly, equine plasma was incubated with Ni Sepharose 6
+Fast Flow (GE Healthcare, Piscataway, NJ) for 10 min at room tem- The phagocytic activity of neutrophils was measured using
+perature. After incubation, a flow-through solution was collected, pHrodo Escherichia coli BioParticles conjugate (Thermo Fisher Sci-
+2
+--- Page 3 ---
+R. Muko, H. Matsuda, M.-a. Oikawa et al. Journal of Equine Veterinary Science 102 (2021) 103620
+entific) according to the manufacturer’s protocol. Neutrophils were
+resuspended in Hank’s Balanced Salt Solution (HBSS) with calcein-
+AM in the presence or absence of various concentrations of eHRG
+μ
+or 56.7 g/mL flow-through solution and seeded into each well of
+a 96-well plate (1 × 10 5 cells/well), which was then incubated at
+37 °C with 5% CO
+2
+for 1 h. For opsonization, pHrodo E. coli BioPar-
+ticles were incubated with 50% horse serum in HBSS at 37 °C with
+5% CO
+2
+for 30 min. Then, pHrodo E. coli BioParticles were collected
+by centrifugation and resuspended in HBSS. The opsonized pHrodo
+E. coli BioParticles were added to each well, and the plate was in-
+cubated for 1 h. The plate was subsequently centrifuged at 400 ×g
+for 5 min, and the fluorescence of phagocytosed particles was ob-
+served using a Keyence BZ-X810 fluorescence microscope. The pro-
+portion of pHrodo-positive area (red) in Calcein-AM-positive area
+(green) was calculated using the Keyence Hybrid Cell Count appli-
+cation. Obtained data from six independent experiments was used
+for statistical analysis.
+2.6. Luminol-Dependent Chemiluminescence Assay
+ROS production by neutrophils was measured using a described
+method with a slight modification [ 19 , 20 ]. Equine neutrophils
+in culture medium were seeded into a 96-well plate (2 × 10 5
+μ
+cells/well) and incubated in the presence or absence of 1 M eHRG
+μ
+or flow-through solution for 1 h. After incubation, 100 M luminol
+(Sigma-Aldrich) was added with or without 50 ng/mL LPS and/or
+μ μ
+1 M eHRG and 56.7 g/mL flow-through solution, and chemilu-
+minescence was measured every minute using a Mithras LB 940
+microplate reader (Berthold Technologies, Bad Wildbad, Germany).
+Obtained data from three independent experiments was used for
+statistical analysis.
+2.7. Fluorescence Analysis of Lysosomal Acidification
+Fig. 1. (A) Morphology of equine neutrophils in the presence of equine histidine-
+Lysosomal acidification of equine neutrophils was analyzed us- rich glycoprotein (eHRG). Purified neutrophils labelled with calcein-AM were cul-
+ing LysoTracker Red DND-99 (Thermo Fisher Scientific) according tured with or without 50 ng/mL lipopolysaccharide (LPS) and/or 5 μM eHRG for
+1 h, and cell shape was observed using a fluorescence microscope (scale bars: 30
+to the manufacturer’s protocol. Briefly, purified equine neutrop μ hils μm). (B) The adhesiveness of equine neutrophils in the presence of eHRG with LPS
+were incubated in RPMI-1640 medium with calcein-AM and 1 M stimulation. Equine neutrophils were precultured with or without 1, 5, or 10 μM
+LysoTracker in the presence or absence of the indicated concen- eHRG or flow-through solution for 1 h. After incubation, the cells were stimulated
+tration of eHRG or flow-through solution. After incubation for 1 h with 50 ng/mL LPS for 1 h. Then, each well was washed, and adherent neutrophils
+at 37 °C with 5% CO
+2
+, 50 ng/mL LPS was added to the medium, w
+sh
+e
+o
+r
+w
+e
+n
+c o
+a
+u
+s
+n
+t
+te
+h
+d
+e
+u
+ra
+s
+t
+in
+io
+g
+t
+t
+o
+h e
+c o
+K
+n
+e
+t
+y
+r
+e
+o
+n
+ls
+c
+.
+e
+D
+H
+a
+y
+ta
+b r
+r
+i
+e
+d
+p
+C
+re
+e
+s
+ll
+e n
+C
+t
+o u
+th
+n
+e
+t a
+m
+p
+e
+p
+a
+li
+n
+c
+s
+a t
+±
+ion
+s
+.
+t a
+C
+n
+a
+d
+lc
+a
+u
+rd
+la t
+e
+e
+r
+d
+r o
+d
+r
+a
+s
+ta
+o f
+w
+s
+a
+ix
+s
+and the cells were cultured for 30 min. Then, the fluorescence independent experiments. ∗∗∗P < 0.001 compared to the LPS-treated control using
+of acidic lysosomes was observed using a Keyence BZ-X810 fluo- Tukey’s test.
+rescence microscope. The proportion of LysoTracker-positive area
+(red) in Calcein-AM-positive area (green) was calculated using the
+ameboid shapes. Neutrophils stimulated with LPS showed adhe-
+Keyence Hybrid Cell Count application. Calculated data was shown
+sive morphology and the number of adherent cells was about 6-
+as the ratio to controls. Obtained data from three independent ex-
+fold higher than that of the control without LPS ( Fig. 1 A and B). In
+periments was used for statistical analysis.
+contrast, the addition of eHRG completely suppressed the adhesion
+of equine neutrophils induced by LPS, the number of LPS stimu-
+2.8. Statistical Analysis μ
+lated adherent cells incubated with 1 M eHRG was 62% lower
+compared with the LPS-stimulated control ( Fig. 1 A and B). Cells in-
+The data of Luminol-dependent chemiluminescence assay were
+cubated with eHRG showed spherical shapes with or without LPS
+compared by one-way ANOVA, followed by Newman-Keuls test.
+stimulation ( Fig. 1 A). The flow-through solution, which we used
+Tukey’s test was performed for the statical analysis of the data in
+as another control, did not suppress the adhesion of stimulated
+other experiments. All analyses were performed using JMP soft-
+neutrophils. Consequently, purified eHRG retained neutrophils in a
+ware (version 14.0.0). P values of < 0.05 were considered statis-
+spherical shape, even when the cells were stimulated with LPS.
+tically significant.
+3.2. Turn-Down Effect of eHRG on IL-8-Induced Chemotaxis of
+3. Results Neutrophils
+3.1. Effects of eHRG on Morphology and Adhesiveness of Neutrophils The effects of eHRG on cell migration were examined using
+rhIL-8 and purified equine neutrophils. Flow-through solution was
+First, we examined the effect of eHRG on the morphology of used as the negative control. As shown in Fig. 2 A and B, migration
+equine neutrophils. Non-adherent spherical cells show clear round of neutrophils was induced by rhIL-8 and completely inhibited by
+shape, whereas adherent cells are obscure in their outlines with the anti-hIL-8 antibody, indicating the chemotactic activity of rhIL-
+3

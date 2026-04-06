@@ -1,0 +1,183 @@
+
+--- Page 1 ---
+Hindawi
+Disease Markers
+Volume 2019, Article ID 8170759, 7 pages
+https://doi.org/10.1155/2019/8170759
+Research Article
+Decreased Levels of Histidine-Rich Glycoprotein in Advanced
+Lung Cancer: Association with Prothrombotic Alterations
+1 2 3,4 3
+Aleksandra Winiarska , Lech Zareba, Grzegorz Krolczyk, Grzegorz Czyzewicz,
+1 1,5,6
+Michal Zabczyk , and Anetta Undas
+1InstituteofCardiology,JagiellonianUniversityMedicalCollege,Pradnicka80,31-202Cracow,Poland
+2FacultyofMathematicsandNaturalSciences,UniversityofRzeszow,Rejtana16C,35-959Rzeszow,Poland
+3OncologyWard,JohnPaulIIHospital,Pradnicka80,31-202Cracow,Poland
+4FacultyofMedicineandHealthSciences,AndrzejFryczModrzewskiKrakowUniversity,Herlinga-Grudzinskiego1,
+30-705Cracow,Poland
+5CenterforResearchandMedicalTechnology,JohnPaulIIHospital,Pradnicka80,31-202Cracow,Poland
+6FacultyofMedicineandHealthSciences,JanKochanowskiUniversity,IXWiekowKielc19A,25-317Kielce,Poland
+CorrespondenceshouldbeaddressedtoAnettaUndas;mmundas@cyf-kr.edu.pl
+Received 16 November 2018; Accepted 10 January 2019; Published 3 March 2019
+AcademicEditor:FrankTacke
+Copyright©2019AleksandraWiniarskaetal.ThisisanopenaccessarticledistributedundertheCreativeCommonsAttribution
+License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is
+properlycited.
+Background.Histidine-rich glycoprotein(HRG) displays anticoagulantand antifibrinolyticproperties inanimalmodels, but its
+effectsinhumansareunclear.WeinvestigatedserumHRGlevelsandtheirassociationswiththediseasestageandprothrombotic
+alterations in lung cancer (LC) patients. Methods. In 148 patients with advanced LC prior to anticancer therapy (87
+non-small-cell LC and 61 small-cell LC) versus 100 well-matched controls, we measured HRG levels in association with clot
+permeability (K s), clot turbidimetry (lag phase and maximum absorbance), and clot lysis time (CLT). Results. Compared to
+controls,LCpatientshad45.9%lowerHRGlevelswithnoassociationswithdemographicsandcomorbidities.DecreasedHRG,
+defined as the 90th percentile of control values (<52.7μg/ml), was 16 times more common in subjects with than without LC
+(OR=164,95%CI9.2-23.5,p<001).HRG<38μg/mldiscriminatedstageIIIAB/limiteddiseasefromIV/extensivedisease(ED)
+LC.InLCpatients,HRGcorrelatedinverselywithCLT(r=−041,p<0001),butnotwithotherfibrinvariables.Amongstage
+IV/EDLC,HRGcorrelatedsignificantlywithK
+s
+andlagphase(r=028andr=033,respectively,bothp<0001).LCpatients
+with low K s (10th percentile of control values) combined with prolonged CLT (90th percentile of control values) had reduced
+HRGlevelscomparedtotheremainder(p=0003).Nosuchobservationswerenotedincontrols.Conclusions.Ourstudyisthe
+firsttoshowthatdecreasedHRGlevelsoccurinadvancedLCandareassociatedwiththediseasestageandhypofibrinolysis.
+1. Introduction a chronic disease, lung cancer remains the most prevalent
+fataltumor[2,3].
+Lungcancerincidencehasraisedfromaninfrequententityin Venous thromboembolic disease (VTE) is common in
+the year 1912 to one of the most commonly occurring can- subjects with active cancer with the prevalence of 20% in
+cers over the past century [1]. In 2012, almost 1.82 million this disease [4]. Approximately 3% of lung cancer patients
+newcaseshavebeendiagnosed, representing approximately experience a VTE episode within two years after diagnosis,
+12.9%ofallcancersworldwide[2].Itisestimatedtoaccount which is associated with a higher mortality for both
+for almost every fifth death (1.59 million deaths per year, non-small-cell lung carcinoma (NSCLC) and small-cell
+19.4% of the total) [2]. Despite the introduction of new lung carcinoma (SCLC) [5]. Prothrombotic mechanisms
+therapies such as chemotherapy and immunotherapy that resulting in VTE occurrence among lung cancer patients
+prolongthelivesofpatientsandinsomecasesmakecancer include enhanced expression and release of tissue factor,
+--- Page 2 ---
+2 DiseaseMarkers
+higher levels of thrombin-antithrombin complexes and treatment were recruited at the John Paul II Hospital in
+plasmin-alpha 1-antiplasmin complexes, increase in plate- Cracow,Poland.Thiscohortwaspartofthestudypopulation
+let count, and elevated levels of procoagulant factors such reported previously in detail [29]. Briefly, lung cancer was
+as lupus anticoagulant, anticardiolipin antibodies to factor confirmed and classified with the applicable histological
+VIII, interleukin-6, and tumor necrosis factors [6]. classification of lung cancer according to the World Health
+Plasma fibrin clots are formed as ultimate products of Organization with the International Association for the
+thrombin-mediated conversion of fibrinogen into fibrin. Study of Lung Cancer modification for adenocarcinoma.
+Genetic and environmental factors affect the formation of Cancer stage was determined according to the American
+compact,highlybranchednetworkswiththinfibersresistant Joint Committee on Cancer 7th edition staging scheme.
+to fibrinolysis [7, 8]. Fibrin clot properties are unfavorably Controls (n=100) matched for age, sex, and cardiovascular
+alteredbycigarettesmoking[9],awell-establishedriskfactor risk were recruited using the same screening protocol and
+for nearly 90% cases of lung cancer [10]. Among patients included members of the hospital personnel and their rela-
+with malignancy, subjects with digestive tract cancer [11] tives.Theexclusioncriteriaforbothgroupswereasfollows:
+and multiple myeloma [12] were characterized by a pro- anyinfections, glomerular filtrationrate<60ml/min, hypo-
+thromboticclotphenotype.Thereisevidenceforpathologi- orhyperthyroidism,anyacutevascularevents,acutevenous
+cal clot microstructure with changes of physical properties, thromboembolism,andcurrentanticoagulanttherapyexcept
+includinghigherfractaldimensioninpatientswithextensive for prophylactic doses of low-molecular-weight heparin
+thanthosewithlocalizedlungcancer[13]. administered for the last time 12h or more prior to the
+Since its discovery in 1972 [14], histidine-rich glyco- samplecollection.
+protein (HRG), an abundant plasma protein produced in The research has been complied with all the relevant
+the liver and circulating at a concentration of 100– national regulations and institutional policies and in accor-
+150μg/ml [15], remains poorly characterized in terms of dance with the tenets of the Helsinki Declaration and has
+itsroleinhumanpathophysiology.PlasmaHRGconcentra- been approved by the local ethical committee. A written
+tions increase with age but decrease in acute inflammation, informedconsentwasobtainedfromeachparticipant.
+chronicautoimmunediseases,advancedlivercirrhosis,after
+renaltransplantation,inasthmaandchronicobstructivepul- 2.2. Laboratory Investigations. Fasting blood samples were
+monarydiseasetreatedwithcorticosteroids,andinacquired drawnfromanantecubitalveinwithminimalstasisbetween
+immune deficiencysyndrome[15,16].Reduced HRGlevels 8:00 and 11:00 AM. Routine laboratory techniques were
+havebeenfoundinpatientswithovariancancerandhepato- applied to determine blood cell count, creatinine, and
+cellular carcinoma [17, 18]. HRG binds to heparin, which D-dimer. Fibrinogen was determined using the Clauss
+prevents the formation of heparin-antithrombin complexes method.Plasminogenwasmeasuredbyachromogenicassay
+andresultsininhibitionoftheantithrombinactivity[19].It (STA Stachrom; Diagnostica Stago, Asnieres, France). HRG
+isestimatedthatnearly50%ofplasminogencirculatesbound was measured using an ELISA according to the manufac-
+toHRG,whichreducesplasminogenavailabletobindfibrin turer’sinstruction(CusabioTechnologies,US).
+[19,20].Moreover,HRGcanbeincorporatedtofibrinclots
+2.3.PlasmaFibrinClotAnalysis.Incitratedplasma(vol/vol,
+and its presence causes the formation of thinner fibrils as
+9:1of3.2%sodiumcitrate),thefollowingvariablesdescrib-
+demonstratedinapurifiedsystem[20].HRG-deficientmice,
+ing a plasma clot formation, structure, and lysability were
+comparedtocontrol,showedhigherspontaneousfibrinolytic
+determinedinduplicatebytechniciansblindedtotheorigin
+activitybutshorterprothrombinandbleedingtime,indicat-
+of the samples (intra-assay and interassay coefficients of
+ing bothprothromboticandantifibrinolyticproperties[21].
+variation, 5% to 7%). Details of the methodology used were
+A role of HRG in human hemostasis is unclear. There is
+presentedpreviously[30].
+evidence for an active involvement of HRG in cancer
+largelybydisplayingbothpro-andantiangiogenicproperties 2.3.1. Clot Permeability. Permeation of plasma fibrin clots
+[22–25]. Moreover, HRG by promoting tumor-associated was determined as described [31]. Briefly, 20mM calcium
+macrophage polarization into an antitumor phenotype chloride and 1U/ml human thrombin (Sigma-Aldrich, St.
+[24, 25] may result in tumor growth inhibition and it is a Louis, MO, USA) were added to citrated plasma. Tubes
+possible mechanism of cancer progression. Available data containing the clots were connected to a reservoir of a
+on HRG in cancer patients is inconsistent [26–28]. To our Tris-buffered saline (TBS; 0.01M Tris, 0.1M NaCl, pH7.4),
+knowledge, no reports on HRG in lung cancer and its role and its volume flowing through the gels was measured. A
+in prothrombotic alterations have been published until permeation coefficient (K s), which indicates the pore size,
+now. Based on the available data, we hypothesized that was calculated from the following equation: K s =Q×L×η/
+HRGlevelsarereducedinadvancedlungcancerinassocia- t×A×Δp,whereQistheflowrateintimet,Listhelength
+tionwiththediseaseseverityandtheycontributetounfavor- of a fibrin gel, η is the viscosity of liquid (in poise), t is
+ablefibrinclotproperties.
+percolating time, A is the cross-sectional area (in cm2),
+and Δp is a differential pressure (in dyne/cm2).
+2. Materials and Methods
+2.3.2.TurbidityMeasurements.Plasmacitratedsampleswere
+2.1.Patients.FromMaytoSeptember2014,148consecutive mixed at a ratio of 2:1 with a TBS containing 0.6U/ml
+adultpatientswithadvancedlungcancerpriortoanticancer human thrombin (Sigma-Aldrich) and 50mM CaCl to
+2
+--- Page 3 ---
+DiseaseMarkers 3
+initiatepolymerization.Absorbancewasreadat405nmwith white blood cells (WBC), lower hemoglobin, and higher
+a Perkin-Elmer Lambda 4B spectrophotometer (Molecular platelet count (Table 1). The cancer group had elevated
+Devices). The lag phase of the turbidity curve, which D-dimer and fibrinogen. Among fibrin clot variables, low-
+reflects the time required for initial protofibril formation, ered K s (-26.52%), prolonged lagphase (+8.24%), increased
+and maximum absorbance at the plateau phase (ΔAbs), ΔAbs (+6.25%), and longer CLT (+31.13%) were detected
+indicating the number of protofibrils per fiber, were in lung cancer patients. The study groups did not differ
+recorded [31]. in plasminogen levels.
+2.3.3.ClotLysisAssay.Clotlysistime(CLT)wasmeasuredas 3.2.HRGSerumLevelAssociations.Lungcancerpatientshad
+describedpreviously[31].Briefly,to75μlofcitratedplasma 45.87% lower HRG level compared to control subjects
+we added TF (dilution 105 times; Innovin, Dade Behring, (Figure1).SerumHRGshowednoassociationswithdemo-
+Deerfield, IL, USA), CaCl (final concentration, 17mM), graphicvariables.Comparing histologicalsubtypes ofLCin
+2
+tissue plasminogen activator (tPA, final concentration, thestudiedcohort,weobservedthatpatientsdiagnosedwith
+30U/ml; Boehringer Ingelheim, Ingelheim, Germany), and adenocarcinoma (n=41) had lowered HRG (median, 32
+phospholipid vesicles [32] (final concentration, 10mM). (28-40)μg/ml vs. 39 (32-44)μg/ml, p=0002). Reduced
+HEPESbufferwasaddedtomakeatotalvolumeof150μl. HRG levels were detected in patients with metastases
+(n=101, 338±76 vs. 414±78μg/ml, p=0044). Meta-
+2.4. Statistical Analysis. Data management was performed static cancer was also associated with prolonged CLT
+with STATISTICA 10.0 software (StatSoft Inc. 2011, Tulsa, (>105min, OR=209, 95% CI (1.18-3.73), p=001), but
+OK, USA). Normal distribution for continuous variables not with other fibrin variables.
+was checked using the Shapiro-Wilk statistics. Continuous In the lung cancer group, HRG was inversely corre-
+variableswerepresentedasmean±SDfornormallydistrib- lated with D-dimer (r=−037, p<0001) and fibrinogen
+uted variables and as a median and interquartile range for (r=−018,p<0001),whileitwaspositivelycorrelatedwith
+nonnormally distributed variables. Proportional variables lag phase (r=020, p<0001). K s and ΔAbs showed no
+werecomparedbyχ2 testandStudent’st-testwhilecontinu- associations with HRG in cancer patients, however CLT
+ousvariablesbyMann-WhitneyU-test(Kruskal-Wallisand was inversely correlated with HRG (r=−038, p<0001).
+multiple repetition tests), as appropriate. Pearson’s rank In the stage IIIAB/LD lung cancer patients, lowered HRG
+correlation coefficient was used to evaluate an association wasassociatedwithlongerCLT(r=−041,p<0001),while
+between two variables. To test the relationship between in more advanced stage IV/ED, reduced HRG was associ-
+continuous variables, a univariate linear regression model ated with higher D-dimer (r=−035, p<0001), shorter
+was used. Because HRG had a skewed normal distribution, lag phase (r=033, p<0001), decreased K s (r=028, p<
+a 10 log-transformed data was entered for a better fit the 0001), and prolonged CLT (r=−05, p<0001). No such
+model.Othervariableswerecalculatedontheoriginalscale. correlations were detected for HRG and fibrinogen or
+Independent determinants of HRG were established in a plasminogen.
+multiple regression model, built by a forward stepwise Low HRG levels defined using the 90th percentile of
+selectionprocedure,verifiedbySnedecore’s F statistics,with control values (i.e., 57.2μg/ml) observed in 143 (94.08%)
+F>1. The R2 was used as a measure of the variance. lung cancer patients were detected in all patients diagnosed
+Log-linear analysis and unconditional multivariate logistic with stage IV/ED lung cancer. Metastatic stage IV/ED lung
+regressionwereperformedtomakeadjustmentsforcategor- cancer patients had significantly decreased HRG compared
+ical variables (age, body mass index, and gender) [30]. To to locally advanced lung cancer (stage IIIAB/LD) subjects
+calculate odds ratios (ORs) with 95% CIs, K s, CLT, and (p<00001, Figure 1). HRG cut-off levels which discrimi-
+HRG values were divided using the value of 90th percentile nate lung cancer patients from healthy subjects and stage
+in controls as a cut-off point. The best cut-off value that IIIAB/LD from stage IV/ED lung cancer were below
+maximizes sensitivity and specificity and differentiates lung 49.2μg/ml(sensitivity, 98%andspecificity,90%)andbelow
+cancerpatientsfromcontrolsubjectswascalculatedbyusing 38μg/ml (sensitivity, 80% and specificity, 70%) (Figure 2),
+the receiver operating characteristic (ROC) curve. The sig- respectively. HRG below 38μg/ml was associated with
+nificance level was set at p<005. stage IV/ED lung cancer (OR=307, 95% CI 2.08-4.54,
+p<001).
+3. Results A multiple logistic regression analysis showed associa-
+tions between HRG levels and K s as well as CLT in lung
+3.1.PatientCharacteristics.Afinalanalysisincluded148lung cancer patients (Table 2), also after adjustment for aspirin
+cancer patientsand100matched controlsubjects(Table1). use (data not shown). In the combined analysis, compact
+There were 58 (39.19%) subjects diagnosed with SCLC, fibrin clots (1st quartile of control values of K s) and hypo-
+including 33 patients with limited disease and 25 patients fibrinolysis (4th quartile of control values of CLT) were
+withextensivedisease,and90(60.81%)subjectswithNSCLC more often found in subjects with lung cancer (OR=308,
+(amongthem24withIIIABstage/locallyadvancedinopera- 95% CI 2.29-4.14 and OR=295, 95% CI 2.2-3.95, respec-
+tive neoplasm and 66 with IV stage/metastatic disease). As tively). Among patients who had HRG below 52.7μg/ml,
+expected the lung cancer patients had lower BMI and were 62.24% of them formed dense and poorly lysable fibrin
+moreoftensmokers(79vs.10;Table1).Theyalsohadhigher clots (Figure 3).

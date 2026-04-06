@@ -1,0 +1,60 @@
+# ============================================
+# openclaw-knowledge 专用 .gitignore
+# 目的：知识沉淀，只留有价值的积累
+# ============================================
+
+# ---- 根目录配置文件（仅保留入口索引）----
+AGENTS.md
+SOUL.md
+IDENTITY.md
+USER.md
+HEARTBEAT.md
+TOOLS.md
+MEMORY.md
+BOOTSTRAP.md
+
+# ---- 各人 workspace 结构层（只留输出层）----
+main/output/
+dev/output/
+writer/output/
+finance/output/
+community/output/
+
+# ---- 日记层（只留沉淀后的精华）----
+main/memory/
+dev/memory/
+writer/memory/
+finance/memory/
+community/memory/
+main/.learnings/
+dev/.learnings/
+writer/.learnings/
+finance/.learnings/
+community/.learnings/
+
+# ---- 运行时数据 ----
+tasks/board.db
+tasks/*.json
+
+# ---- 临时文件 ----
+temp/
+*.tmp
+*.log
+*.bak
+.wip/
+
+# ---- macOS / IDE ----
+.DS_Store
+._*
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# ---- Skills 源码（不需要备份，用 clawhub 重新装）----
+skills/*/
+config/skills/*/
+
+# ---- Gitee 自动生成（忽略）----
+.gitignore

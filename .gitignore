@@ -1,0 +1,57 @@
+# ============================================
+# openclaw-backup 专用 .gitignore
+# 目的：整机备份，保留所有配置和工作内容
+# ============================================
+
+# ---- 凭证层（绝对不传）----
+.openclaw/
+main/config/
+community/config/
+finance/config/
+dev/config/
+writer/config/
+public-document/
+
+# ---- 内嵌 Git 仓库（单独管理，不需要备份）----
+dev/repos/
+community/repos/
+main/skills/openclaw-serper/
+main/skills/openclaw-serper/**
+main/skills/*/node_modules/
+
+# ---- Skills 源码（可从 clawhub 重新安装，不备份）----
+skills/*/
+community/skills/
+dev/skills/
+finance/skills/
+main/skills/*/
+writer/skills/
+
+# ---- 运行时数据 ----
+tasks/board.db
+tasks/__pycache__/
+tasks/*.pyc
+
+# ---- 临时文件 ----
+temp/
+*.tmp
+*.log
+*.bak
+
+# ---- JSON 转录（不需要备份）----
+.jsonl
+.jsonl.deleted.*
+
+# ---- macOS / IDE ----
+.DS_Store
+._*
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# ---- 已标注为废弃的内容 ----
+**/.delivered/
+**/.archived/
+**/.wip/

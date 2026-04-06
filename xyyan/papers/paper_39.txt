@@ -1,0 +1,235 @@
+
+--- Page 1 ---
+pubs.acs.org/JACS Article
+Investigating Native Metal Ion Binding Sites in Mammalian
+Histidine-Rich Glycoprotein
+Katrin Ackermann, Siavash Khazaipoul, Joshua L. Wort, Amélie I. S. Sobczak, Hassane El Mkami,
+Alan J. Stewart,* and Bela E. Bode*
+CiteThis:J.Am.Chem.Soc.2023,145,8064−8072 ReadOnline
+ACCESS *
+Metrics&More ArticleRecommendations sı SupportingInformation
+ABSTRACT: Mammalian histidine-rich glycoprotein (HRG) is a
+highly versatile and abundant blood plasma glycoprotein with a diverse
+range of ligands that is involved in regulating many essential biological
+processes, including coagulation, cell adhesion, and angiogenesis.
+Despite its biomedical importance, structural information on the
+multi-domain protein is sparse, not least due to intrinsically disordered
+regionsthateludehigh-resolutionstructuralcharacterization.Bindingof
+divalent metal ions, particularly ZnII, to multiple sites within the HRG
+protein is of critical functional importance and exerts a regulatory role.
+However, characterization of the ZnII binding sites of HRG is a
+challenge; their number and composition as well as their affinities and
+stoichiometries of binding are currently not fully understood. In this
+study, we explored modern electron paramagnetic resonance (EPR) spectroscopy methods supported by protein secondary and
+tertiary structure prediction to assemble a holistic picture of native HRG and its interaction with metal ions. To the best of our
+knowledge,thisisthefirsttimethatthissuiteofEPRtechniqueshasbeenappliedtocountandcharacterizeendogenousmetalion
+binding sites in a native mammalian protein of unknown structure.
+■
+INTRODUCTION microscopy rather challenging, and an HRG fragment
+comprising the HRR and parts of both PRRs was predicted
+Inthisreport,wederiveaholisticpictureofintrinsicmetalion
+to be intrinsically disordered,5 which may explain the lack of
+binding sites in a native mammalian plasma protein obtained
+available high-resolution X-ray structures for the full-length
+from electron paramagnetic resonance (EPR) spectroscopy
+protein.9,10 In fact, recent availability of AlphaFold2 (AF2)
+supported by computational protein structure prediction. No
+protein structure prediction11,12 in combination with JPred4
+high-resolution experimental structure of the full-length
+secondary structure prediction13 based on the full HRG
+protein has been reported to date.
+sequence strongly supports the idea of high disorder (in the
+Mammalian histidine-rich glycoprotein (HRG) is a glycosy-
+absence of interaction partners) for the PRR1-HRR-PRR2
+latedproteinof∼70kDainsizeandispresentinbloodplasma
+atrelativelyhighconcentrations(∼1.5μM).1 Ithasnumerous stretch (Figures S1 and S2).
+Several functions of HRG have been described to be
+bindingpartners, suchas heparin,plasminogen, divalent metal
+mediated by ZnII.3,6,7 In the physiological context, free ZnII is
+ions, and heme, and is involved in many essential regulatory
+cytotoxic at low concentrations; thus, plasma ZnII levels are
+biological processes, including blood coagulation, cell migra-
+tightly regulated, with the majority of the 15−20 μM ZnII
+tion, proliferation and adhesion, tumor growth inhibition and
+angiogenesis, as well as immune complex clearance.1−7 HRG present in plasma bound to (mostly) albumin and small
+molecules, keeping the free ZnII concentration in the
+has therefore been referred to as the “Swiss Army knife of
+nanomolar range.1,14 Within the organism, increased ZnII
+mammalian plasma”.8
+levels can arise following release from activated platelets or
+Despite a plethora of functions, there is surprisingly little
+damaged cells,15 reaching transient localized ZnII concen-
+experimental data relating to the structure of HRG. The
+protein exhibits a multi-domain arrangement with two N-
+terminal (N1 and N2) and one C-terminal (C) domain and Received: January16,2023
+has a central histidine-rich region (HRR) that is flanked by Published: March31,2023
+proline-rich regions (PRRs) on either side (Figure 1). While
+this domain structure is well established, a high-resolution
+structure is only available for one of the two N-terminal
+domains (N2).9 The small size of HRG makes cryo-electron
+©2023TheAuthors.Publishedby
+AmericanChemicalSociety https://doi.org/10.1021/jacs.3c00587
+8064 J.Am.Chem.Soc.2023,145,8064−8072
+--- Page 2 ---
+Journal of the American Chemical Society pubs.acs.org/JACS Article
+Different EPR techniques provide access to local structural
+information around paramagnetic centers,28−34 nanometer
+distances between those centers employing pulse dipolar
+EPR spectroscopy (PDS),35−47 and binding constants.48−50
+Continuous wave (CW) EPR can be used to characterize the
+bindinggeometryaroundtheparamagneticmetalcenterandto
+resolve interactions with nearby nuclear spins, including
+superhyperfine (SHF) interactions with directly coordinating
+nitrogen atoms.51,52 Hyperfine spectroscopy can identify the
+orbitals harboring the unpaired electron and their distance to
+close-by magnetic nuclei; this is useful to investigate whether
+different binding sites are sequentially populated (in contrast
+to all sites having similar binding constants). One hyperfine
+Figure 1. Domain structure of rabbit HRG showing the disulfide method is ELDOR-detected NMR (EDNMR),53,54 which
+bridgingarrangements(graylines,disulfidebondsatpositions6−497,
+provides information on magnetic nuclei directly coordinated
+60−71,87−108,185−407,199−222,and264−294)andfiveputative to(andthusstronglycoupledto)theparamagneticcenter.53,54
+glycosylation sites (predicted asparagine glycosylation sites at
+Complementarily, electron spin echo envelope modulation
+positions 107, 184, 232, 302, and 477, indicated by purple boxes).
+(ESEEM) is sensitive to weakly coupled nuclei and can
+Residue numbers are given with respect to the mature protein, i.e.,
+therefore help elucidate interactions between paramagnetic
+without the N-terminal signal sequence (comprising the N-terminal
+eightresiduesbeforecleavage).Theinsetdetailstheprimarystructure centers and more distant nuclear spins.33,55,56 These experi-
+of the HRR (amino acid sequence for residues 321−399), with mentsallow,forexample,assessmentofthenumberofremote
+tandemrepeats ofthe consensussequence G[H/P][H/P]PH. amino nitrogen atoms attributed to histidine residues present
+at metal ion binding sites.57,58 The corresponding hyperfine
+trations estimated to be up to 50 μM, allowing binding to sublevel correlation (HYSCORE)56,59 experiment essentially
+effector proteins such as HRG.1,14 ZnII binding to HRG was adds a second dimension to the ESEEM experiment, and the
+resulting cross-peaks can attribute electron-nuclear couplings
+demonstrated to exert a regulatory effect on HRG binding to
+othertargetsandligandsbymodifyingrespectiveaffinities.1,9,15
+toelectronspincentersandeasedatainterpretation.28,34,60To
+complement these hyperfine techniques, PDS experiments,
+The large number of histidine residues makes the HRR the
+primary suspect for binding the divalent metal ions.1 Early such as the pulsed electron−electron double resonance
+method (PELDOR aka DEER), are commonly used to
+binding studies reported sites accommodating approximately
+10 to 20 divalent metal ions,16,17 and a more recent study determine distances between paramagnetic centers on the
+confirmedthebindingof10ZnIIionsusingisothermaltitration nanometer scale.43,61−63 Furthermore, the number of spins or
+calorimetry (ITC).3 This number is consistent with approx- paramagnetic centers present per complex is encoded in the
+PELDOR modulation depth (Δ),64,65 which is also the basis
+imately 12 tandem repeats of the consensus sequence G[H/
+for determination of binding constants.48−50
+P][H/P]PH present within the HRR in HRG (13 repeats in
+rabbit, see Figure 1),18−20 which can function as high-affinity In the present work, we employed EPR toward the
+characterization of metal ion binding sites and their local
+metal ion binding sites by offering coordination by multiple
+histidine residues.1,21,22 However, a detailed understanding of environment in HRG purified from rabbit plasma to enhance
+our understanding of the role of metal ions in HRG-regulated
+thelocalenvironmentofthemetalionbindingsitesislacking.
+biologicalprocesses.WefirstestablishedthatCuIIcanbeused
+Currently, mammalian plasma is the main source of pure
+as a proxy for ZnII to enable CW and pulse EPR studies
+HRG protein. This has allowed only limited systematic
+investigation of metal ion binding.3,5,17,23 Furthermore, since employing ITC and binding assays. Importantly, a recent
+reportfoundthatHRR-derivedpeptidesnotonlybindCuIIbut
+we presently cannot produce natively glycosylated HRG
+may influence copper homeostasis,66 indicating the potential
+recombinantly to sufficient yield, routine modifications
+physiological relevance of CuII binding to HRG. Using a suite
+performed with in vitro protein production such as site-
+of EPR techniques including CW and hyperfine spectroscopy,
+directed mutagenesis and selective or uniform labeling with
+we then characterized the local environment and topology of
+e.g.,isotopesorspinlabels(seebelow)areoutofreachforthe
+time being.10 CuII ions bound to native HRG. PDS measurements were
+EPR is an important tool for structural analysis and performed to investigate the global arrangement and potential
+characterization of biomacromolecules. In contrast to other preferential order of the CuII binding sites within the HRG
+structural biology methods, EPR is not limited by the size, protein. Here, a speciation model for the occupation of high-
+shape, or complexity of the system and does not require and low-affinity metal ion binding sites was developed based
+protein crystallization. Compared to techniques such as ITC, on PELDOR modulation depths. Together with structure
+lessmaterialisrequired,andsamplescanbestoredfrozenand predictions,aholisticpictureofHRGbindingtodivalentmetal
+reused. EPR measurements require the presence of para- ionsemergedwithapotentialregulatoryroleinHRGfunction.
+■
+magnetic species, which can be either endogenous, such as
+RESULTS AND DISCUSSION
+paramagnetic metal centers or cofactors, or deliberately
+introduced to the site(s) of interest. The latter is commonly EPR spectroscopy requires the presence of paramagnetic
+achieved by incorporating stable nitroxide radicals via site- species in the sample. Binding of diamagnetic ZnII can
+specificmutagenesisandsite-directedspinlabeling24orbysite- thereforenotbeexaminedbyEPRdirectly;however,previous
+specifically engineering artificial metal ion binding sites.22,25 studiesofHRGorHRG-derivedpeptideshavereportedlyused
+Another option is substituting endogenous diamagnetic metal the paramagnetic CuII instead.17,23 To confirm the validity of
+ions (e.g., ZnII) with paramagnetic ones (e.g., CuII).26,27 this approach, we demonstrated that ITC yields very similar
+8065 https://doi.org/10.1021/jacs.3c00587
+J.Am.Chem.Soc.2023,145,8064−8072
+--- Page 3 ---
+Journal of the American Chemical Society pubs.acs.org/JACS Article
+numbers of binding sites and binding affinities in vitro when finalproteinconcentration)andaddingCuIIintherangefrom
+comparing paramagnetic CuII (this study, Figure 2A) and 1 to 20 molar equivalents (125 μM to 2.5 mM). Frozen
+solution CW EPR spectra were recorded for each sample to
+observe the CuII species present (Figures 3A, S3−S5). The
+continuous, almost linear increase in the CuII signal from 1 to
+20 molar equivalents of CuII (Figure 3B) indicated that the
+CuII observed in the spectrum accounted for virtually all CuII
+added, excluding potential precipitation or anti-ferromagnetic
+interaction that would have resulted in a reduced CuII signal.
+Resolved SHF couplings could be assigned to directly
+ligating nitrogen atoms. These 14N SHF splittings remained
+clearly visible from the initial addition of 1 up to ∼10−12
+molar equivalents of CuII (Figure S6). This suggested the
+absence of coordinatively distinct metal ion binding sites with
+substantially different SHF coupling patterns. Thus, CW EPR
+datanicelycomplementedthepresentedITCresults.3,16While
+ITC showed the presence of 10−12 high-affinity CuII binding
+sitesinHRG,CWEPRdemonstratedthatthefirst10−12CuII
+ions were bound to nitrogen ligands. In the context of HRG,
+thesesitesaretentativelyassignedtohistidinesidechainsinthe
+HRR.
+The resolution of 14N SHF coupling gradually decreased
+upon addition of CuII, in agreement with earlier data.17 This
+caneitherbecausedbyspectralbroadeningbytheinteraction
+between CuII ions in close proximity or by a variety of sites
+being occupied (butnot merely “dilutingout”theSHF signal,
+seeSIformoredetaileddiscussion).Tofurtherinvestigatethe
+appearance of additional,lower-affinitymetalion bindingsites
+anddeterminethemaximumbindingcapacityofHRG,asetof
+samples with high CuII loading (from 50 to 400 molar
+equivalents) was assessed (Figure 3C). Here, the protein
+concentrationwasvaried(from6.25to50μM),whiletheCuII
+concentration was kept constant (at 2.5 mM), yielding a
+constantdoubleintegraloftheresultingCWsignal,withinthe
+confidence estimate (Figure 3D).
+Importantly, while the 50-equivalent CuII sample showed
+mainly broadening in the CW spectrum compared to the 5-
+equivalent CuII sample, the higher CuII equivalent samples
+clearlydemonstratedtheappearanceofadditionalCuIIspecies
+Figure 2. (A) ITC data for CuII binding to HRG. The upper panel by stark changes in the spectral lineshapes (Figure 3E).
+shows the resultant raw data, and the lower panel shows the fitted Comparing g and A values retrieved from the CW spectra
+II II
+data. Raw datawerefitted using a “one-set-of-sites”model in Origin (Table S1) to Peisach−Blumberg correlations29 and recent
+7.0. From the resultant fit, the number of binding sites N and the
+reports on nitrogen (histidine/imidazole)-coordinated
+dissociationconstant(K ITC )weredeterminedasN=11.1±0.1sites CuII,28,32 our data suggested multiple CuII coordination
+and K = (6.3 ± 0.4) × 10−6, respectively. (B) Effect of ZnII and
+ITC modes. Initially, CuII was bound by as many as four nitrogen
+CuII on binding of rabbit HRG to immobilized unfractionated
+ligands(histidineresidues;Trisbuffer,seetheSIchapter“EPR
+heparin.Assayswereperformedintriplicate;errorbarsrepresentthe
+SEM.Theresultantdissociationconstants(K )obtainedwere(2.98
+samplepreparation”fordiscussion),whilehigherexcessofCuII
+D
+±0.75)×10−7intheabsenceofmetalions,(2.5±0.5)×10−9inthe ledtocoordinationinvolvingbothnitrogenandoxygenatoms
+presenceof50μMZnII,and(2.9±0.5)×10−9inthepresenceof50 (2N2O; 3N1O) as well as the appearance of free CuII (see
+μMCuII. spectrum of CuII in water), indicating that the maximum
+bindingcapacityofHRGwasexceeded.Thesefindingshavea
+diamagnetic (EPR-silent) ZnII.3 Next, a heparin binding assay direct structural impact on HRG as they demonstrated a CuII
+confirmed a similar increase in the affinity of HRG binding to concentration-dependent shift in CuII coordination, implying
+heparin for both, ZnII and CuII, indicating the exertion of a that induced structural changes in HRG are required for, and
+similar functional effect (Figure 2B). Together, ITC and depend on, the metal loading.
+heparin binding data suggested that CuII is a promising proxy Thequestionof whetherthegraduallossof SHFresolution
+for ZnII for performing EPR spectroscopic studies of the local intheCWspectrawasduetoinhomogeneouslinebroadening
+environment of metal ion binding sites and their spatial (while having the same underpinning SHF coupling) was
+distribution in HRG. For details on sample preparation and investigated using hyperfine spectroscopy. In the presence of
+experimentalprocedures,seeSupplementaryInformation(SI). HRG, EDNMR spectra displayed additional peaks compared
+For EPR investigations of HRG, a “pseudo-titration” to CuII in buffer (Figures 4A and S7, Table S2), confirming
+series49,64 (each titration point is a discrete sample) was coordinationbyatleasttwoiminonitrogennucleiofimidazole
+prepared, keeping the HRG concentration constant (125 μM rings to CuII. These were tentatively assigned to histidine
+8066 https://doi.org/10.1021/jacs.3c00587
+J.Am.Chem.Soc.2023,145,8064−8072

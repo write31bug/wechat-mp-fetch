@@ -1,0 +1,172 @@
+
+--- Page 1 ---
+European Journal of Medical Genetics 61 (2018) 68–71
+ContentslistsavailableatScienceDirect
+European Journal of Medical Genetics
+journal homepage: www.elsevier.com/locate/ejmg
+Familial early-onset deep venous thrombosis associated with a novel HRG
+T
+mutation
+Junfu Luoa,1, Wenwen Zhanga,b,1, Qingfu Zenga, Weimin Zhoua, Qing Caob, Wei Zhoua,∗
+aDepartmentofVascularSurgery,TheSecondAffiliatedHospitalofNanchangUniversity,Nanchang,Jiangxi,China
+bKeyLaboratoryofMolecularMedicineofJiangxiProvince,Nanchang,Jiangxi,China
+A R T I C L E I N F O A B S T R A C T
+Keywords: Deepvenousthrombosis(DVT)remainsaseriousclinicalproblemthataffectsmillionsofpeopleworldwide.
+Deepvenousthrombosis SomeDVTcasesarecausedbyinheritedthrombophiliaderivedfromgeneticaberrationsandseveraldisease-
+HRGmutation causinggeneshavebeenidentifiedsofar.Amongthem,HRGisanuncommononewithlimitedrelatedreports.
+Wholeexomesequencing Here,we reportedonafamilywithearly-onset DVTwhereacquiredriskyconditions wereexcluded. Whole
+Plasmaproteindeficiency
+exomesequencingrevealedanovelheterozygoussinglebasepairsubstitutioninexon2ofHRGgeneresultingin
+aconservedresiduereplacementoftheprotein(c.C271T,p.P73S).Sangersequencingconfirmedtheco-seg-
+regation of the mutation and plasma quantification determined circulating protein deficiency. The mutation
+mightthereforeimpairhemostaticbalancebycausingreducedcirculatingHRGlevel.Ourstudybroadensthe
+mutationspectrumoftheHRGgeneandunderscorestheimportanceofitsfunctioninregulatingcoagulation
+pathway.
+1. Introduction responsibleforthrombophiliapedigrees(Shigekiyoetal.,1998,2000).
+However,itsmutationprofileandclinicalfeaturesconcerningHRGare
+Deep venous thrombosis (DVT) represents a significant clinical poorlycharacterized dueto limitedrelated reports,thus necessitating
+problemthataffects1in1000individualsannuallyandcanresultsin furtherresearch.
+fatal pulmonary embolism (Cushman, 2007). Despite given standard Here, we described the case of a man who developed early-onset
+anticoagulant therapy, roughly 25-50% of patients with DVT will DVTwithoutacquiredpredisposingriskfactors.Multiplefamilymem-
+eventually develop post-thrombotic syndrome (PTS) characterized by bershadalsobeenaffected.Theidentificationofastrongriskfactorfor
+chronic swelling, itching, and ultimately ulceration (Prandoni et al., thrombosis (a novel HRG mutation with damaging effect) combined
+2016).Variousriskfactorssuchassurgery,trauma,cancer,pregnancy, with quantity analysis of plasma HRG might explain the clinical phe-
+and long-term immobilization could predispose to DVT. Besides ac- notype.
+quiredconditions, inherited thrombophilia shouldalsobeconsidered,
+especiallyinpatientswithpositivefamilyhistoryandearly-onsetepi- 2. Materialsandmethods
+sodes(YilmazandGunaydin,2015).
+Wellrecognizedgeneticdisorderscausinginheritedthrombophilia 2.1. Subjects
+included prothrombin mutation, factor V Leiden mutation, and muta-
+tionsingenesencodingantithrombin,proteinC,orproteinS(Miyata A41year-oldmanwasreferredtoourdepartmentcomplainingof
+etal.,2016).Histidine-richglycoprotein(HRG)isanabundantplasma repeated left lower extremity swelling and itching. Physical examina-
+glycoprotein that exerts multiple biological functions (Jones et al., tionrevealedbrownishskindiscolorationaroundtheankle.Attheage
+2005).Itcouldmediatehemostaticbalanceviabindingtoavarietyof of19,hehadprogressivepainandswellingoftheleftleg.Hedenied
+ligands such as heparin, heparan sulfate, thrombospondin, and plas- history of trauma or immobilization before the episode. Diagnosis of
+minogen. The HRG gene (MIM, 142640) extends over ∼18 kb of PTS was suspected and deep venous angiography was performed.
+genomicDNAandcontains7exonsthatgeneratea2kbmRNA.Plasma Angiography images showed occlusion of deep veins accompanied by
+deficiencyofHRGcausedbygenemutationshavebeenreportedtobe marked collateral vessel formation (Fig. 1A). Coagulation screening
+∗Correspondingauthor.DepartmentofVascularSurgery,TheSecondAffiliatedHospitalofNanchangUniversity,No1#,MindeRoad,Nanchang,China.
+E-mailaddress:doctor_zhouwei@sina.com(W.Zhou).
+1Thesetwoauthorscontributedequallytothiswork.
+http://dx.doi.org/10.1016/j.ejmg.2017.10.019
+Received12June2017;Receivedinrevisedform29September2017;Accepted29October2017
+Available online 07 November 2017
+1769-7212/ © 2017 Elsevier Masson SAS. All rights reserved.
+--- Page 2 ---
+J.Luoetal. European Journal of Medical Genetics 61 (2018) 68–71
+Fig. 1.Radiographic findings and pedigree. (A)
+Deep venous angiography demonstrated occlu-
+sionofdeepveinsaccompaniedbymarkedcol-
+lateralvesselformation.(B)Probandisindicated
+withanarrow.Fullyfilledsymbols,DVT;unfilled
+symbols,unaffected.TheageatdiagnosisofDVT
+(‘‘dx’’)isshowninyears.
+Table1 2.3. Variantidentificationandanalysis
+Clinicalcharacteristicsandbloodresultsoffamilymembers.
+Thesequencereadsweremappedtothehumanreferencegenome
+II:1 II:2 II:4 III:1 III:2 III:3 III:4
+(UCSChg19)withtheBurrows-WheelerAligner(BWA).Picard(http://
+Age(years) 66 64 60 41 38 34 30 sourceforge.net/projects/picard/)wasutilizedtomarkduplicatereads
+Gender M M F M M M F derivedfromPCRamplification.SAMtoolswasemployedtodovariant
+DVT – + – + – + + calling and identify single nucleotide variants (SNVs) or small inser-
+Ageatdiagnosis(years) NA 29 NA 19 NA 26 22
+tionsanddeletions(Indels).ThecalledSNVsandIndelswereannotated
+PT(s) 11.2 10.1 10.7 11.3 11.5 11.7 11.3
+withANNOVAR.AllcandidatevariantswerefilteredagainstthedbSNP
+APTT(s) 28.5 25.3 22.6 25.0 32.8 33.4 27.6
+Fibrinogen(g/L) 3.20 2.95 3.65 3.38 2.51 2.54 3.02 (http://www.ncbi.nlm.nih.gov/projects/SNP/), 1000G (http://www.
+PlasmaHRGlevel(ug/ml)a 102.6 50.1 117.5 60.6 118.3 59.2 61.3 1000genomes.org/), ESP (http://evs.gs.washington.edu/EVS), and
+HRGmutation – + – + – + + ExAC (http://exac.broadinstitute.org) to remove the polymorphism
+loci. The PolyPhen2 algorithm (http://genetics.bwh.harvard.edu/
+DVT,deepvenousthrombosis;PT,prothrombintime;APTT,activatedpartialthrombo-
+pph2/) was performed to predict whether an amino acid substitution
+plastintime;HRG,histidine-richglycoprotein;M,male;F,female;NA,notapplicable.
+aNormalrangeis101.2–127.7μg/mlderivedfrom10controlsamplesinthisstudy. affects protein function. Amino acid conservation across species was
+evaluatedbyGERPscore.Sangersequencingwasperformedtovalidate
+testsrevealednoabnormalities(Table1).Plasmalevelofantithrombin theidentifiedpotentialdisease-causingvariantinfamilymembersand
+activity, protein C activity and protein S activity were within the 200normalcontrols.
+normallimit.Concentrationofantiphospholipidantibodieswerebelow
+the respective cut-off values, and screening tests for the lupus antic- 2.4. EvaluationofHRGlevel
+oagulant were negative. His family history was positive for DVT epi-
+sodes,withhisfatherandsiblingsdiagnosedattheageof29,26and Plasmawasseparatedfromthebloodsamplesandfrozenat-20°C.
+22,respectively(Fig.1B).Atotalof200unrelatedethnicallymatched The HRG levels in the plasma were analyzed using the commercially
+normalcontrolswererecruitedfromthesameregion.Thestudycom- available ELISA kits(Sino Biol, Beijing, China) according to theman-
+plied with the Declaration of Helsinki and was approved by the local ufacturer's instructions. The samples were diluted when needed.
+Ethicscommittee.Afterwritteninformedconsentswereobtainedfrom AbsoluteplasmaconcentrationsforHRGaregiveninug/ml.
+allparticipants,venousbloodsampleswerecollectedandgenomicDNA
+were extracted per protocol using the QIAamp DNA Blood Mini Kit
+3. Results
+(Qiagen,Hilden,German).
+Anoverviewofqualityassessmentoftheexomesequencingisgiven
+inTable2.Exomesequencingyieldedatotalnumberof24,192variants
+2.2. Exomecapture
+Table2
+To understand the genetic predisposition to thrombophilia of the
+Qualityassessementofexomesequencingdataoftheproband.
+pedigree, whole exome sequencing (WES) of the proband (III:1) was
+performedusingtheAgilentSureSelectHumanAllExonV6Kitonthe Rawdata 10.94Gb
+Illumina HiSeq 2500 platform by Novogene Bioinformatics Institute,
+Datapassedfiltering 98.48%
+Beijing,China.Aminimumof1.5μgofgenomicDNAwasutilizedto
+DatawithQscore>30 89.52%
+constructtheexomelibrary.ThegenomicDNAwasshearedinto180- Datamapped 98.21%
+280bp by sonication and hybridized for enrichment, according to the Fractionoftargetwithatleast20X 87.20%
+manufacturer'sguideline.EnrichedDNAwassequencedontheIllumina Averagesequencingdepthontarget 113X
+TotalnumberofSNVsidentifiedinexonicorsplicingregion 23245
+HiSeq 2500 platform to generate paired-end reads with length of
+TotalnumberofIndelsinexonicorsplicingregion 947
+150bp.
+69
+--- Page 3 ---
+J.Luoetal. European Journal of Medical Genetics 61 (2018) 68–71
+Fig.2.Pictorialrepresentationofthechr3:186386811C > Tmutation(c.271C > T)identifiedinHRGgenethroughIntegrativeGenomicsViewer(IGV).
+Fig. 3.Schematic diagram of the HRG protein
+andthelocationsofthe3non-synonymousmu-
+tationsidentifiedsofar.Mutationsidentifiedin
+thisstudyareshownabovetheproteinstructure;
+mutations reported in previous studies are un-
+derneath. SP, signal peptide; PRR, proline-rich
+region;HRR,histidine-richregion.
+located in the exonic or spicing region. Following standard filtering genes have been unraveled in the past decades. Identification of mu-
+procedure as previously described, we identified 289 suspicious var- tationsincertaindisease-causinggenesnotonlyaidsinultimatediag-
+iants, including 261 SNVs and 28 Indels (Zhang et al., 2017). We fo- nosis of thrombophilia patients with unknown etiology, but also con-
+cusedonthevariantslocatedinthethrombophiliacandidategenesor tributes to individualized therapy. Furthermore, we could achieve a
+genes implicated in blood coagulation process. Among these genes, better understanding of coagulation pathway and pathogenic me-
+HRG(NM_000412)wastheonlyremainingcandidategeneforcausing chanism by exploring the profile of mutated genes regarding throm-
+DVT because of its established role in thrombosis and published lit- bophilia.Theprobandinthisstudydevelopedearly-onsetDVTwithout
+erature demonstrating that HRG mutations predispose to thrombo- acquired known risk factors. Positive family history prompted us to
+philia.Amissensevariant,c.271C > T(p.Pro73Ser)inexon2ofHRG investigatetheunderlyinggeneticcauses.WEShasemergedasarobust
+was identified. For this site, 49% (78/159) reads supported for C, technique to identify disease-causing mutations (Ng et al., 2010). By
+whereas51%(81/159)readssupportedforT(Fig.2).TheHRGvariant performingWES,werevealedanovelmissensemutationofHRG,which
+fallsinthesecondcystatin-likehomologydomainandispredictedtobe isoneofthedisease-causinggenesforthrombophilia.Populationvar-
+damaging by Polyphen2 (Fig. 3). This altered residue also appears iationdata,bioinformaticsanalysisandproteinquantificationallsup-
+evolutionarily conserved with GERP score of 3.52. It is not found in portitspathogenicrole.
+13,000 chromosomes in the ESP database and only present twice in HRGisaplasmaadaptorproteinthatispresentatarelativelyhigh
+121,214 chromosomes,i.e.,MAF1.65×10−5intheExACdatabase. concentrationinadultblood(Jonesetal.,2005).Ithasthecapacityto
+Variant accession for the variant has been deposited in ClinVar (ac- bind with a strikingly large number of ligands via its multi-domain
+cessionnumberSCV000605916). structure to regulate numerous important biologic processes, such as
+Sanger sequencing confirmed the variant in the proband and af- coagulation, fibrinolysis, immune complex clearance, cell adhesion,
+fected relatives (II:2, III:3 and III:4), suggesting that it co-segregates and angiogenesis (Poon et al., 2011). The multi-domain structure of
+with DVT in the family (Table 1). Additionally, the variant was not HRG comprises of two cystatin-like homology domains, a central his-
+presentin200unrelatedethnicallymatchednormalcontrols.Quantity tidine-rich region (HRR) flanked by 2 proline-rich regions (PRR1 and
+analysis of plasma HRG revealed approximately half concentration of PRR2), and aC-terminal domain. The precise function HRGplayed is
+affected individuals compared with those unaffected (mean value: ligand-dependent and hemostatic property is largely attributed to the
+57.8μg/mlvs112.8μg/ml),suggestingthathaploinsufficiencymight associationwithheparin(Lijnenetal.,1983).HRGbindsheparinwith
+underliethepathogenicroleofthismutation.Collectively,ouranalysis high affinity and has been reported to neutralize the anticoagulant
+supportsthatitisapathogenicmutationthataccountsforDVTepisodes activityofheparinbyinhibitingtheformationofheparin-antithrombin
+inthisfamily. IIIcomplexes.Moreover,thepresenceofZnionreleasedbyactivated
+platelets can augment theinteraction between HRGand heparin, and
+potentiate the ability of HRG to neutralize heparin (Fu and Horn,
+4. Discussion
+2002). The two cystatin-like homology domains serve as major bind
+sites with heparin and disruption of such domains might result in
+Inherited thrombophilia is defined as a genetically determined
+coagulation disorders. Aligned with the observation, HRG mutations
+predisposition to venous thromboembolism which characteristically
+currentlyfoundinthrombophiliapatientsarealllocatedinthisregion
+occursatarelativelyyoungagewithoutapparentcausesandtendsto
+(Table3).Besidesvenousthrombosis,HRGhasalsobeenimplicatedin
+recur(Reitsma,2015).Antithrombindeficiencywasthefirstidentified
+arterial thrombosis, as observed in HRG-deficient mice (Vu et al.,
+genetic risk factor for thrombophilia and more coagulation-related
+70

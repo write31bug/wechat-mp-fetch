@@ -1,0 +1,552 @@
+Received:8November2022 Revised:11May2023 Accepted:21May2023
+DOI:10.1002/ctm2.1283
+RESEARCH ARTICLE
+HRG inhibits liver cancer lung metastasis by suppressing
+neutrophil extracellular trap formation
+YanzeYin1,2,3 HuijuanDai4 XichengSun1,2,3 ZhifengXi1,2,3 JiangZhang1,2,3
+YixiaoPan1,2,3 YongxinHuang1,2,3 XueyunMa5 QiangXia1,2,3 KangHe1,2,3
+1DepartmentofLiverSurgery,Renji
+GraphicalAbstract
+Hospital,SchoolofMedicine,Shanghai
+JiaoTongUniversity,Shanghai,China
+2ShanghaiEngineeringResearchCenter
+ofTransplantationandImmunology,
+Shanghai,China
+3ShanghaiInstituteofTransplantation,
+Shanghai,China
+4DepartmentofBreastSurgery,Renji
+Hospital,SchoolofMedicine,Shanghai
+JiaoTongUniversity,Shanghai,China
+5ShanghaiKeyLaboratoryofRegulatory
+Biology,InstituteofBiomedicalSciences
+andSchoolofLifeSciences,EastChina
+NormalUniversity,Shanghai,China
+Correspondence
+KangHe,DepartmentofLiverSurgery,
+RenjiHospital,SchoolofMedicine, ∙
+DecreasedsecretionofHRGbylivercancer.
+ShanghaiJiaoTongUniversity,Shanghai,
+∙
+HRGsuppressesNETsproductionfromneutrophils.
+China.
+Email:hekang929@163.com ∙ NETspromotelivercancerlungmetastasis.
+QiangXia,DepartmentofLiverSurgery,
+RenjiHospital,SchoolofMedicine,
+ShanghaiJiaoTongUniversity,Shanghai,
+China.
+Email:xiaqiang@shsmu.edu.cn
+XueyunMa,ShanghaiKeyLaboratoryof
+RegulatoryBiology,InstituteofBiomed-
+icalSciencesandSchoolofLifeSciences,
+EastChinaNormalUniversity,Shanghai,
+China.
+Email:xyma@bio.ecnu.edu.cn
+Clin.Transl.Med.2023;13:e1283. wileyonlinelibrary.com/journal/ctm2
+https://doi.org/10.1002/ctm2.1283
+Received:8November2022 Revised:11May2023 Accepted:21May2023
+DOI:10.1002/ctm2.1283
+RESEARCH ARTICLE
+HRG inhibits liver cancer lung metastasis by suppressing
+neutrophil extracellular trap formation
+YanzeYin1,2,3 HuijuanDai4 XichengSun1,2,3 ZhifengXi1,2,3 JiangZhang1,2,3
+YixiaoPan1,2,3 YongxinHuang1,2,3 XueyunMa5 QiangXia1,2,3 KangHe1,2,3
+1DepartmentofLiverSurgery,RenjiHospital,SchoolofMedicine,ShanghaiJiaoTongUniversity,Shanghai,China
+2ShanghaiEngineeringResearchCenterofTransplantationandImmunology,Shanghai,China
+3ShanghaiInstituteofTransplantation,Shanghai,China
+4DepartmentofBreastSurgery,RenjiHospital,SchoolofMedicine,ShanghaiJiaoTongUniversity,Shanghai,China
+5ShanghaiKeyLaboratoryofRegulatoryBiology,InstituteofBiomedicalSciencesandSchoolofLifeSciences,EastChinaNormalUniversity,
+Shanghai,China
+Correspondence
+KangHe,DepartmentofLiverSurgery, Abstract
+RenjiHospital,SchoolofMedicine, Background:Distantmetastasisisasignofpoorprognosisforcancerpatients.
+ShanghaiJiaoTongUniversity,Shanghai,
+Extrahepatic liver cancer metastases commonly spread to the lung. Remod-
+China.
+Email:hekang929@163.com elling of the metastatic microenvironment is essential for tumour metastasis.
+QiangXia,DepartmentofLiverSurgery, Neutrophil-associated metastatic microenvironment contributes to the early
+RenjiHospital,SchoolofMedicine, metastaticcolonisationofcancercellsinthelung.
+ShanghaiJiaoTongUniversity,Shanghai,
+Method:Thelungmetastasismodelswereconstructedviatreatedcancercells
+China.
+Email:xiaqiang@shsmu.edu.cn bytailveininjectionintomice.Andsamplesoflungwereharvestedattheindi-
+XueyunMa,ShanghaiKeyLaboratoryof catedtimetoanalyzetumorgrowthandimmunecellsinthemicroenvironment.
+RegulatoryBiology,Instituteof Tumorsandlungmetastasisspecimenswereobtainedviasurgicaloperationsfor
+BiomedicalSciencesandSchoolofLife
+researchpurposes.Neutrophilswereobtainedfromperipheralbloodofpatients
+Sciences,EastChinaNormalUniversity,
+Shanghai,China. withlivercancerorhealthydonors(HD).
+Email:xyma@bio.ecnu.edu.cn Results: Hepatocellular carcinoma cells reduce the secretion of histidine-rich
+glycoprotein (HRG), regulate the recruitment and activation of neutrophils in
+Fundinginformation
+NaturalScienceFoundationofShanghai, the metastatic microenvironment and promote the production of neutrophil
+Grant/AwardNumber:23ZR1438600;
+extracellulartraps(NETs),therebypromotinglivercancerlungmetastasis.HRG
+ProjectoftheShanghaiMunicipalHealth
+binds to FCγR1 on the neutrophil membrane while inhibiting PI3K and NF-
+Commission,Grant/AwardNumber:
+20204Y0012;NationalNaturalScience κBactivation,therebyreducingIL-8secretiontoreduceneutrophilrecruitment.
+FoundationofChina,Grant/Award
+Meanwhile,HRGinhibitedIL8-MAPKandNF-κBpathwayactivationandROS
+Number:81972205;ProjectofShanghai
+keyclinicalspecialties,Grant/Award production,resultinginreducedNETsformation.
+Number:shslczdzk05801;Shenkang
+YanzeYin,HuijuanDaiandXichengSuncontributedequallytothisstudy.
+ThisisanopenaccessarticleunderthetermsoftheCreativeCommonsAttributionLicense,whichpermitsuse,distributionandreproductioninanymedium,providedthe
+originalworkisproperlycited.
+©2023TheAuthors.ClinicalandTranslationalMedicinepublishedbyJohnWiley&SonsAustralia,LtdonbehalfofShanghaiInstituteofClinicalBioinformatics.
+Clin.Transl.Med.2023;13:e1283. wileyonlinelibrary.com/journal/ctm2 1of14
+https://doi.org/10.1002/ctm2.1283
+2of14 YINetal.
+three-yearactionplan,Grant/Award
+Numbers:SHDC2020CR2003A, Conclusions: Our study reveals that liver cancer regulates neutrophil recruit-
+SHDC2020CR5012 mentandNETsformationinthemetastaticmicroenvironmentbyreducingHRG
+secretion,therebypromotingtumourlungmetastasis.Theresultsofthisstudy
+willcontributetothedevelopmentofpossiblestrategiesfortreatingmetastases.
+KEYWORDS
+livercancer,lungmetastasis,neutrophil,neutrophilextracellulartrap
+1 INTRODUCTION foundthatHRGplaysanimportantroleinliverdiseaseby
+regulatingmacrophagepolarisation,12–14whiletheeffectof
+According to the latest cancer statistics,1 hepatocellu- HRGontumourmetastasishasnotbeenstudied.
+lar carcinoma (HCC)-related annual mortality rates have In this study, we screened out metastasis-associated
+increased significantly over the past 20 years, and lung secretory protein HRG through a public database and
+metastases are among the leading causes of hepatocellu- reported that HCC cells promote lung metastasis by
+lar liver cancer-related mortality. In addition to intrinsic reducing HRG secretion thus regulating infiltration of
+characteristics,tumourmetastasisislinkedtothetumour neutrophil and NETs formation in metastatic microenvi-
+microenvironment,whichcontainsanumberofdifferent ronment.
+typesofcellularandnoncellularcomponents.2Metastasis
+of primary tumours requires a favourable microenviron-
+ment, called the pre-metastatic niche, and the secreted 2 RESULTS
+proteins of tumour cells are important mediators in
+reshaping the tumour microenvironment and maintain- 2.1 HRGisassociatedwithlivercancer
+ingthemetastaticniche.3 However,littleisknownabout lungmetastasis
+the mechanism by which secreted proteins produced by
+tumourcellsreshapethemetastaticmicroenvironment. To find genes associated with lung metastasis of liver
+Neutrophils are the first responders to inflammation cancer, we used Gene Expression Omnibus Dataset
+and infection,4 but a growing number of studies suggest (GSE40367) for bioinformatics analysis. Differential gene
+that neutrophils are also important players in the devel- analysis of primary HCC and extrahepatic metastases
+opment of cancer.5,6 In recent studies, neutrophils and and primary HCC and lung metastases were performed,
+neutrophil-derived molecules have been shown to play respectively. In addition, we downloaded transcriptome
+a significant role in the formation of the pre-metastatic data for HCC cell lines from the Cancer Cell Line Ency-
+nicheandtheentiretransferprocess.Neutrophilsproduce clopedia (https://sites.broadinstitute.org/ccle) for differ-
+aspecialweb-likestructurenamedneutrophilextracellu- ential gene analysis of metastases cell lines (SK-HEP-1,
+lar traps (NETs).7 NETs can capture circulating tumour JHH2) and primary cell lines (PLC/PRF/5, JHH1, HuH7)
+cells and enable their adhesion to metastasize to distant (Figure 1A). We focused particularly on the secreted pro-
+sites.8 In addition, NETs can promote cancer metastasis teins in these genes and identified a total of 13 secretory
+bybindingtoCCDC25,areceptoronthesurfaceofcancer protein genes, namely CYBA, HRG, TRABD2A, THBS1,
+cells.9RecentstudieshaveshownthatNETsproductionby BACE2, TOX2, KNG1, SERPINE1, CA9, ADAMTS10,
+neutrophilscanpromotelivercancermetastasisbytrigger- GAL3ST1,MMEandROR1,byinterveninginthesecretory
+ingatumorigenicinflammatoryresponse.10However,how proteindifferencegenesoftissuesandcelllines.HRGisthe
+tumourcellsaffectNETsproductionbyneutrophilsinthe only liver-specifically secreted protein (Figure S1a), and
+metastaticecotoneremainstobeinvestigated. HRG was down-regulated in metastasis compared to pri-
+Histidine-rich glycoprotein (HRG) is a secretory gly- marycelllines.Inaddition,weanalysedthedistributionof
+coprotein, secreted primarily by hepatocytes, that binds HRGinHCCandCCAusingsingle-cellRNA-seqdatabase.
+to a variety of ligands including heme, heparin, heparan And we found that mainly hepatocytes and tumour cells
+sulphate,platelet-reactiveprotein,plasminogenanddiva- expressedHRG(FiguresS2a,b,candd).
+lent metal ions.11 HRG is involved in regulating some To further validate the clinical relevance and HRG
+physiologicalprocessessuchastheimmunecomplexand expression,weanalysed acohortoflivercancerforHRG
+pathogenclearance,cellchemotaxis,celladhesion,angio- immunohistochemicalstainingandfoundthatlowerHRG
+genesis,coagulationandfibrinolysis.Previousstudieshave expressioninprimarytumourswasassociatedwithshort-
+YINetal. 3of14
+FIGURE 1 HRGsecretionisassociatedwithlivercancerlungmetastasisimmunemicroenvironment.(A)Volcanoplotsofdifferential
+geneexpressionin10primarylivercancer,19extrahepaticmetastasis(13lungmetastasis,threeadrenalglandmetastasisandthreelymph
+nodemetastasis),13lungmetastasis,threeprimarycelllinesandtwometastasiscelllines.Blueandreddotsrepresentdown-regulatedand
+up-regulatedsecretedproteingenes,respectively.Veendiagramofdifferentialsecretoryproteingenes(Bothupanddown)inprimaryliver
+cancer,extrahepaticmetastasis,lungmetastasis,primarycelllinesandmetastasiscelllines.(B–D)HRGexpressionanalysisofalivercancer
+cohortfromShanghaiRenjiHospital(n=234).(B)Overallsurvivaland(C)comparisonsofHRGexpressioninnormal(n=234)withtumour
+(n=234)andnon-metastasis(n=224)withlungmetastasis(n=10).(D)HRGexpressionlevelinnon-metastasis(n=224)withlung
+4of14 YINetal.
+metastasis(n=10).(E)ComparisonsofHRGexpressioninpatients(n=17)withpairedprimarytumoursandlungmetastases.Scalebars,
+200and50μm.(F–H)AnalysesofHRGexpressionandimmuneinfiltrationinpairedprimarytumoursandlungmetastasesformthesame
+patients(n=17)bymulti-immunohistochemistry(mIHC)stainingofmetastasis-associatedmyeloidandlymphaticimmunecells.(F)
+RepresentativemIHCstainingimagesofmetastasis-associatedmyeloid(Panel1)andlymphaticimmunecells(Panel2).Scalebars,50μm.(g)
+DotplotsdisplayingHRGexpressionlevelandalteredimmunecellsinpairedprimarytumoursandlungmetastases.(h)Correlationanalyses
+betweenHRGexpressionandmetastasis-associatedimmunecells.*p<.05,**p<.01,***p<.001,bylogranktest(B)andtwo-tailedunpaired
+(C)orpaired(E)t-test.
+ened overall survival, metastasis-free survival and lung in SKHEP1 and higher in LM3. HRG overexpression in
+metastasis-free survival in patients (Figures 1B and S1b), SKHEP1(FigureS4b),reducedlungmetastasesofcancer
+andlowerHRGexpressioninprimarytumourswasasso- cells (Figures 2A and c–E) and prolonged the survival of
+ciated with extrahepatic metastases and lung metastases mice (Figure 2B). Conversely, HRG knockdown by short
+(FigureS1c).TheHRGproteinlevelofprimarylivercancer hairpinRNAinLM3(FigureS4c),enhancedlungmetas-
+tissueissignificantlylowerthanthatofnormallivertissue, tases of cancer cells (Figures 2F and H–J) and shortened
+andtheHRGproteinleveloflivercancertissueinpatients the survival of mice (Figure 2G). HRG in conditioned
+withlungmetastasesissignificantlylowerthaninpatients medium (CM) of HCC cells and normal liver cells was
+withoutlungmetastases(Figures1CandD).Inaddition, detectedbyELISA(FigureS4d).
+analysis of paired primary tumours and lung metastases To investigate the role of HRG in mice with intact
+fromthesamelivercancerpatientswithlungmetastases immuneactiveness,WTandKO-HRGmiceweretailvein
+(n=17)furtherconfirmedasignificantreductioninHRG injected with mouse HCC cell line Hepa 1−6, and we
+inlungmetastases(Figure1E).Theseresultssuggestthat found that KO-HRG mice showed significantly higher
+HRG is inversely associated with lung metastasis in liver intrapulmonary metastatic tumour loads than WT mice
+cancer. (Figures2K–N).
+TostudytheeffectsofHRGonthemetastaticimmune WestudiedtheeffectofHRGoncancercellsandfound
+microenvironment, we conducted a correlation analy- thatHRGoverexpressionorknockdowndidnotaffectthe
+sis between HRG and immune cells through the TCGA proliferation,invasionandmigrationabilityofcancercells
+database and found that the low HRG expression group invitro(FiguresS5a–c),whichsuggeststhattheregulatory
+hadhigherTIMERimmunescoresofneutrophil,myeloid roleofHRGonlungmetastasisoflivercancerdependson
+DC, macrophage, CD4+T and B cell compared with themetastaticmicroenvironment.
+the high HRG expression group (Figure S3a), and HRG
+was inversely correlated with neutrophil, myeloid DC,
+macrophage, CD4+T and B cells (Figures S3b and c). 2.3 HRGdecreasesneutrophilinearly
+In addition, we examined immune cells associated with lungmetastaticmicroenvironment
+metastasis in primary and metastases tissues from the
+samepatientthroughthefluorescentmultipleximmuno- WeexploredwhichstagesofHRGaffectedthemetastatic
+histochemistry assay (Figure 1F), found that the number colonisation of cancer cells. Immunofluorescence stain-
+ofneutrophils,M1,M2,CD4+TandTregcellsincreased ingrevealedasignificantreductioninthecolonisationof
+and the number of NK cells decreased in lung metas- HRG-overexpressed cancer cells in the lungs 3 days after
+tases(Figures1GandS3d).Additionally,weanalysedthe tail vein injection. Consistently, HRG knockdown cancer
+relationship of HRG and immune cells and found that cellsandcancercellsinKO-HRGmiceseedingincreased
+HRG was negatively correlated with neutrophil and M1 (Figure 3A), indicating that HRG plays a critical role in
+cells,whilepositivelycorrelatedwithNKcells(Figure1H). theearlymetastaticstage.Wefurtherexploredtheeffects
+These results suggest that HRG is associated with neu- of HRG on the pulmonary immune microenvironment
+trophil, macrophage and NK cells in the metastatic in the early metastatic phase. By flow cytometry assays,
+microenvironment. we found that HRG overexpression cancer cells inhib-
+ited CD11b+Ly6G+ neutrophils, while HRG knockdown
+cancer cells and KO-HRG mice enhanced the percentage
+2.2 HRGreducedlivercancerlung of CD11b+Ly6G+ neutrophils rather than other immune
+metastasisinvivo cells (Figures 3B and C). Immunofluorescence staining
+of lung tissue further confirmed that neutrophils around
+We examined the expression of HRG in HCC cell lines HRG overexpression cancer cells increased, and neu-
+(Figure S4a) and found that HRG expression was lower trophilsaroundHRGknockdowncancercellsandcancer
+YINetal. 5of14
+FIGURE 2 HRGreducedlivercancerlungmetastasis.(A–E)IntravenousinjectionofSK-hep1withHRGoverexpressioninathymic
+miceforlungmetastasisanalysis.Samplesoflungwereharvestedat5weeksafterinjection.Shownare(A)bioluminescentimaging(BLI)
+quantificationandrepresentativeimages(n=8),(B)animalsurvivalcurve(n=10),(C)representativemacroandmicroimagesoflung
+nodules(n=10),andboxplotsof(D)lung/bodyweightand(E)pulmonarysurfacenodules(n=10).Scalebars,50μm.(F–j)Intravenous
+injectionofHCC-LM3withHRGknockdowninathymicmiceforlungmetastasisanalysis.Samplesoflungwereharvestedat5weeksafter
+injection.Shownare(F)BLIquantificationandrepresentativeimages(n=8–9),(G)animalsurvivalcurve(n=10),(H)representativemacro
+andmicroimagesoflungnodules(n=10),andboxplotsoflung/bodyweight(I)andpulmonarysurfacenodules(J)(n=10).Scalebars,
+50μm.(K–N)IntravenousinjectionofHepa1−6inC57BL/6miceforlungmetastasisanalysis.Samplesoflungwereharvestedat5weeks
+afterinjection.Shownare(K)BLIquantificationandrepresentativeimages(n=5),(L)representativemacroandmicroimagesoflung
+nodules(n=6),and(M)boxplotsoflung/bodyweightand(n)pulmonarysurfacenodules(n=6).Scalebars,50μm.*p<.05,**p<.01,
+***p<.001,bylogranktest(BandG)andtwo-tailedunpairedt-test(others).
+cellsinKO-HRGmicedecreased.Inaddition,weobserved results suggest that the regulatory role of HRG in lung
+apositivecorrelationbetweenearlymetastaticcancercells metastasisofcancercellsisassociatedwithneutrophils.
+andneutrophils(Figures3DandS6a,b).Theseresultssug-
+gest that HRG could reduce the number of neutrophils
+in the lung metastatic microenvironment. In addition, 2.4 HRGsuppressesneutrophil
+we depleted neutrophils in mice with anti-Ly6G anti-
+recruitmentandactivitythroughFCγR1of
+body (Figure S6c) and found that the lung metastatic neutrophils
+regulation effect of HRG on cancer cells was eliminated
+(Figure 3E). We further explored the number of neu- We continued to explore how HRG affects neutrophil
+trophilsaftertumorigenesisinthelungsbyflowcytometry recruitment. HRG overexpression or knockdown of can-
+andfoundthatthenumberofneutrophilsinHRGoverex- cer cells did not alter the attraction effect of CM on
+pressedtumoursdecreasedandthenumberofneutrophils neutrophils.However,whenhumanperipheralbloodneu-
+inHRGknockdowntumoursandKO-HRGmiceincreased trophilswerepre-treatedwithacancercellCMcontaining
+(Figure3F).Immunofluorescencestainingexperimentsfor HRG,thenumberofneutrophilsattractedbythemedium
+lung metastases also confirmed the inhibitory effect of of neutrophils was significantly reduced, and by con-
+HRGonneutrophilsinlungmetastases,andweobserveda trast, the neutrophil medium pre-treated with CM of
+positivecorrelationbetweenthenumberofKi67+cancer HRG knockdown attracted more neutrophil migration
+cells and neutrophils (Figures 3G and S6d and e). These (Figure4A),indicatingthatHRGmayactonneutrophils
+6of14 YINetal.
+FIGURE 3 HRGdecreasesneutrophilinlungmetastasisniches.(A)Immunofluorescent(IF)staininganalysesofGFP+cancercellsat
+theearlystageafterintravenousinjection.ShownarerepresentativeimagesofGFP+SK-hep1andboxplotsshowingGFP+cancercellsin
+lungat72hafterintravenousinjection(n=15randommicroscopicfields(RMFs)fromthreemiceofeachgroup).Scalebars,50μm.(B–D)
+Flowcytometryanalysesofalternationsofimmunecellsinearlylungmetastases(72hafterintravenousinjection).(B)Representativet-SNE
+mapsand(C)statisticalgraphshowingpercentageofimmunecells.(n=5–10).(D)IFanalysesofMPO+neutrophilsandcorrelationof
+infiltratedMPO+neutrophilswithGFP+cancercellsat72hafterintravenousinjection(n=15RMFsfromthreemicepergroup).Scalebars,
+50μm.(E)QuantificationofGFP+cancercellsinlungofmicetreatedwithIgGortheneutrophilclearanceantibodyat72hafterintravenous
+injectionofSK-hep1(n=15RMFsfromthreemicepergroup).Scalebars,50μm.(F)FlowcytometryanalysesofCD11b+Ly6G+neutrophils
+inlungmetastasesat5wafterintravenousinjection(n=6).(G)CorrelationofMPO+neutrophilsandKi67+cancercellsinlungmetastases
+at5wafterintravenousinjection(n=15RMFsfromthreemicepergroup).Scalebars,50μm.*p<.05,**p<.01,***p<.001,byPearson
+correlationanalysis(DandG)andtwo-tailedunpairedt-test(others).
+YINetal. 7of14
+FIGURE 4 HRGsuppressesneutrophilrecruitmentandactivitythroughFCγR1ofneutrophil.(A)Migrationofhumanneutrophils
+recruitedbyconditionedmedium(CM)ofSK-hep1(HRGoverexpression)orLM3(HRGknockdown),orbymediumfromneutrophils(Neu)
+pre-treatedwithCMfor8h(n=3).(B)Cytokineanalysesinmediaofneutrophilsfromlivercancerpatientspre-treatedwithCMofSK-hep1
+(HRGoverexpression)for8h(n=3).(C)CytokinearrayanalysesinmediaofneutrophilsfromHDspre-treatedwithCMfor8hfromthree
+donors(n=3).(D)MigrationofhumanneutrophilsrecruitedbyCM+NeumediumofSK-hep1(HRGoverexpression)treatedwithIgGorthe
+IL-8clearanceantibodyfor8h(n=3).(E)His-pulldownassayofhumanneutrophilsmembraneproteintreatedwithHis-HRGfor8hand
+liquidchromatographywithmassspectrometry/massspectrometry(LC–MS/MS)analysis.(F)His-pulldownassayconsolidatingHRGcould
+combineFCγR1inthehumanneutrophilmembrane.(g)Srcphosphorylation,PI3Kphosphorylationandp65phosphorylationinhuman
+neutrophilspre-treatedwithCMorFCγR1blockingantibody.(H)ELISAassayofIL-8fromhumanneutrophilstreatedwithCMorIL-8
+blockingantibody(n=3).(I)Humanneutrophilspre-treatedwithCMfor8h(n=3).Scalebars,50μm.(J)MPOactivityofhuman
+neutrophilspre-treatedwithrHRGandCM(n=3).*p<.05,**p<.01,***p<.001,bytwo-tailedunpairedt-test.
+8of14 YINetal.
+andregulatethesecretionofrelatedchemokinestoimpact tion,HRGfurtheramplifiestheregulatoryeffectbykilling
+the recruitment of neutrophils. In order to determine neutrophils.
+the cytokines released by the HRG effect on neutrophils,
+we treated three cases of neutrophils from the periph-
+eral blood of patients with HCC with cancer cell CM, 2.5 HRGregulateslivercancerlung
+and then detected cytokines in neutrophil supernatants, metastasisbyinhibitingneutrophilsto
+and found that the IL-8 content of the three patients formNETs
+was reduced (Figure 4B). In addition, we analysed the
+effect of overexpressed HRG cancer cell CM on neu- Weinvestigatedhowneutrophilsinmetastaticnichesreg-
+trophilcytokinesinhealthydonors(HDs)withacytokine ulate the metastasis of cancer cells. Previous studies24,25
+antibody array and found that HRG overexpressed can- have shown that neutrophils can be induced by cancer
+cer cell CM reduced the IL-8 released by neutrophils cellstoformNETsthatfacilitatemetastasis.Weperformed
+(Figure4C).Previousstudies15,16haveshownthatIL-8has immunohistochemistryandimmunofluorescencestaining
+the effect of chemotactic neutrophils, and we have also of tissue sections of paired primary tumours and lung
+found that the use of anti-IL-8 antibodies can eliminate metastases and found that the number of neutrophils in
+the inhibitory recruitment effect of HRG on neutrophils lung metastases and the levels of NETs produced were
+(Figure4D).ThesedatasuggestthatHRGcaninhibitneu- higher than those of primary tumours (Figures 5A and
+trophil chemotaxis by reducing the release of IL8 from S7a),andweobservedthatHRGwasinverselycorrelated
+neutrophils. withbothneutrophilsandNETs(Figure5B).Inaddition,
+To further explore the molecular mechanisms of HRG weanalysedHRG,neutrophilsandNETsinnineextrahep-
+acting on neutrophils, we extracted membrane proteins aticmetastases(sixbonemetastasesandthreeabdominal
+from neutrophils derived from human peripheral blood metastases)andfoundthatHRGwasinverselycorrelated
+andpull-downHis-HRGafterco-culturewithHRG.Liquid withbothneutrophilsandNETs(FiguresS7bandc).And
+chromatographywithmassspectrometry/massspectrom- we performed immunohistochemistry and immunofluo-
+etry analysis found that the membrane protein FCγR1 rescencestainingoftissuesectionsinanotherindependent
+on the membrane of neutrophils may be a receptor for cohortofpatientswithlivercancer(n=80)andfoundthat
+HRG (Figure 4E). Previous studies17,18 have supported HRG was inversely correlated with both neutrophils and
+thisresult.Furtherpull-downexperimentsconfirmedthat NETs(FiguresS7dande).
+HRG can bind to FCγR1 (Figure 4F). Studies19,20 have To explore whether HRG regulates neutrophil NETo-
+found that FCγR1 maintains the activated state of neu- sis, we explored the effect of HRG on lung NETs in the
+trophils by PI3K after binding to the immune complex. early metastasis stage and found that NETs around HRG
+In addition, IL-8 is also a downstream target for the overexpressedcancercellsdecreased,whileNETsaround
+knownPI3K-NF-κBsignallingpathway,21–23andwefound HRGknockdowncancercellsandcancercellsinKO-HRG
+that HRG inhibits the conduction of the PI3K and NF- mice increased (Figure 5C). We also observed the spatial
+κB signalling pathways and reduces the production of distributionofcancercellswithneutrophilsorNETsand
+downstream IL-8. We found that the use of anti-FCγR1 found that neutrophils and NETs around HRG overex-
+antibody eliminated the effects of HRG on the PI3K and pressed cancer cells decreased, and the distance between
+NF-κB signalling pathways and IL-8 (Figures 4G and H), HRG overexpressed cancer cells and the nearest neigh-
+further demonstrating that HRG inhibits PI3K and the bourofneutrophilsandNETsincreased(Figure5D).These
+NF-κBsignallingpathwaybybindingtotheFCγR1recep- results suggest that HRG can inhibit neutrophil NETo-
+tor and thus affects neutrophil chemotaxis. In addition, sis during the early metastases phase of cancer cells. We
+becauseFCγR1iscriticalforneutrophilstomaintainvia- further explored the NETs after lung tumorigenesis and
+bility,weexploredtheeffectofHRGonneutrophilactivity found that NETs in lung metastases overexpressed with
+and found that rHRG significantly inhibited neutrophils HRGdecreased,whileNETsinlungmetastaseswithHRG
+andreducedneutrophilactivity.Consistently,HRGoverex- knockdown and KO-HRG mice increased (Figure 5E),
+pressedcancercellCMreducedtheMPOactivityandthe while Ki67+ cancer cells were positively correlated with
+numberofneutrophilsandtheMPOactivityofneutrophils NETs (Figures 5f and S7f and g). Therefore, we injected
+treatedwithHRGknockdowncancercellCMwashigher mice with DNase 1 in advance to deplete the NETs and
+(Figures 4I and J). These data show that HRG secreted foundthattheeffectofHRGonlungmetastasisofcancer
+by cancer cells into the metastatic microenvironment cells was eliminated in the early metastatic stage of can-
+can inhibit the PI3K-NF-κB signalling pathway of neu- cercellsandafterlungtumorigenesis(Figures5GandH).
+trophils through FCγR1, reducing the production of IL-8 These results suggest that NETs play a key role in HRG
+andthusreducingtherecruitmentofneutrophils.Inaddi- regulatinglungmetastasisofcancercells.
+YINetal. 9of14
+FIGURE 5 HRGregulateslivercancerlungmetastasisbyinhibitingneutrophilstoformNETs.(AandB)IHCanalysisofHRGlevel
+andIFanalysisofMPOandCitH3levelinpatients(n=17)withpairedprimarytumoursandlungmetastases.(A)ComparisonsofMPOand
+CitH3levelinprimaryandmetastatictumoursfromthesamepatient.(B)CorrelationanalysisofHRGexpressionwithMPOandCitH3level.
+Scalebars,50μm.(C)IFanalysesofNETsaroundGFP+cancercellinthelungat72hafterintravenousinjection(n=15RMFsfromthree
+micepergroup).Scalebars,50μm.(D)Spatialorganisationpatternsofcancercells(orange),MPO+neutrophils(red)andNETs(blue)inthe
+tumourmicroenvironment.PiesshowthepercentageofMPO+neutrophilsandNETsnexttocancercellsandmeanspatialdistanceanalyses
+ofMPO+neutrophils,NETsandcancercells.(EandF)Lungmetastasisat5weeksafterinjectionofSK-hep1(HRGoverexpression).(E)(Left)
+Representativeimagesoflungmetastasis,IHCandIFstaining.(Right)QuantificationofNETsformation(n=15RMFsfromthreemiceper
+group).Scalebars,50μm.(F)CorrelationanalysisofNETsformationandproliferativecancercells(Ki67+cells).(GandH)Lungmetastases
+burdenofmicetreatedwithDNase1afterinjectionofSK-hep(HRGoverexpression).(G)IFanalysesofGFP+cancercellsinthelungsat72h
+afterinjectionofSK-hep(n=15RMFsfromthreemicepergroup).and(H)lungmetastasesburdenat5weeksafterinjectionofSK-hep
+(n=4).Scalebars,50μm.*p<.05,**p<.01,***p<.001,byPearsoncorrelationanalysis(BandF)andtwo-tailedpaired(A)t-testorunpaired
+t-test(others).
+10of14 YINetal.
+2.6 HRGsuppressesNETsformationby growth and smaller tumour volumes (Figures 6H and I).
+inhibitingNF-κBandMAPKsignalling
+ThissuggeststhatthecombinationofHRGandanti-PD1
+pathwaysanddecliningROSproduction canenhancetheefficacyofimmunotherapy(7).
+We used SYTO Red and SYTOX Green dyes staining to
+further confirm the effect of HRG on the formation of 3 DISCUSSION
+NETs(Figures6AandB).Wefurtherexploredthemolec-
+ular mechanism by which HRG inhibits NETs formation Inthisstudy,wereportedthatHCCcellsreducethesecre-
+ofneutrophils.Reactiveoxygenspecies(ROS)areknown tion of HRG, regulate the recruitment and activation of
+toplayakeyroleinNETosis,26,27 andwefoundthatHRG neutrophilsinthemetastaticmicroenvironmentandpro-
+inhibits ROS levels in neutrophils (Figures 6F and G). mote the production of NETs, thereby promoting liver
+The MAPK pathway could be activated by IL-8 to trig- cancerlungmetastasis.HRGbindstoFCγR1ontheneu-
+ger ROS production,24,28 and we found that HRG could trophilmembranewhileinhibitingPI3KandNF-κBactiva-
+regulate IL-8 production of neutrophils. Consistently, we tion,therebyreducingIL-8secretiontoreduceneutrophil
+performed RNA sequencing and differentially expressed recruitment. Meanwhile, HRG inhibited IL-8-MAPK and
+gene enrichment analysis on human neutrophils treated NF-κBpathwayactivationandROSproduction,resulting
+with CM of HRG overexpressed cancer cells, and the inreducedNETsformation.
+resultsshowedthattheMAPKsignallingpathwayofneu- Secretory proteins produced by cancer cells are an
+trophilstreatedwithHRGoverexpressedcancercellsCM important mediator for cancer cells to regulate the
+wasaltered(Figures6CandD).WefoundthatHRGinhib-
+metastaticmicroenvironment.31,32WefirstidentifiedHRG,
+ited phosphorylation level of p38 in neutrophils, which asecretedproteinassociatedwithmetastasis.Byanalysing
+could be eliminated by an anti-IL-8 antibody, but anti- a clinical cohort of patients, we found that HRG expres-
+IL-8 antibody did not completely eliminate the effects of sion levels were significantly decreased in liver cancer
+HRGoncitH3(Figure6E),whichsuggeststhatHRGdoes tissues relative to normal liver tissues and that the risk
+not regulate neutrophil NETs through the MAPK path- of lung metastasis was higher in patients with low HRG
+way only. The NF-κB signalling pathway can also induce expression levels. We observed that HRG is a key regu-
+ROS production in neutrophils,29,30 and we found HRG lator of lung metastasis in HCC in vivo experiments but
+had a regulatory effect on the NF-κB signalling pathway. notinvitroexperimentsandthatHRGisassociatedwith
+To further explore the regulatory mechanism of HRG on diverse immune cells in the tumour microenvironment.
+neutrophils,weusedMAPKinhibitors(SB203580)andNF- Thesefindingssuggestthatcancercellsalterthemetastatic
+κBinhibitors(BAY11-7028)respectivelyandfoundthatthe microenvironment by reducing HRG secretion and thus
+effectofHRGonROSlevelsinneutrophilscouldonlybe promotetheirownmetastasis.Inthisregard,furtherstud-
+eliminatedifboththeMAPKandNF-κBsignallingpath- ies are needed to address the causes of reduced HRG
+wayswereinhibited(Figures6FandG),andtheregulatory production in HCC cells. In addition, all animal experi-
+effects of HRG on citH3 can be eliminated by simultane- mentswereperformedinanintravenoussettingandnotin
+ouslyusinganti-IL-8antibodyandBAY11-7028(Figure6E). anorthotopicsetting,sofurtherinorthotopicexperiments
+These results suggest that HRG affects NETs by combin- orothercancerspeciesareneededtoexpandthescopeof
+ingMAPKandNF-κBsignallingpathwaystoregulateROS theconclusions.
+levels in neutrophils. In addition, we tested the role of The underlying mechanism of repressed expression of
+BAY11-7028inthecontextofneutrophilchemotaxisassay HRGincancercellsmaybepartlyattributedtotheactiva-
+and found that BAY11-7028 eliminated the effect of HRG tion of NF-κB signalling. A large number of studies have
+onneutrophilchemotaxis(FiguresS8aandb). shown that the NF-κB signalling can promote the devel-
+opment of tumours. Previous study revealed that NF-κB
+binds to Farnesoid X receptor (FXR) and subsequently
+2.7 HRGenhancestheefficacyof inhibitsitstranscriptionalactivity.33,34 Additionally,HRG
+immunotherapy was proven a transcriptional target gene of FXR in liver
+cells.35 HRG expression might be suppressed by NF-κB
+ConsideringthatHRGinhibitstheproductionofNETs,we activationviatheinhibitionofFXR.Themechanismcan
+proposethehypothesisthatHRGcanimprovetheefficacy partly explain that HRG down-regulates in cancer cells.
+of ICB. We inoculated Hepa1-6 cells into C57BL/6 mice Morepotentialmechanismsremaintobeexplored.
+to construct subcutaneous graft tumours. Remarkably, In the early stage of metastatic cancer, neu-
+mice that HRG intraperitoneal injection exhibited a bet- trophils are crucial for establishing a favourable
+terresponsetotheanti-PD-1mAbastheimpairedtumour microenvironment.36,37 We observed that HRG inhibited
+YINetal. 11of14
+FIGURE 6 HRGsuppressesNETsformationviainhibitingNF-κBandMAPKsignallingpathwayanddecliningROSproduction.(Aand
+B)NETformationbyHumanneutrophilstreatedwithPMAorCMfromSK-hep1orLM3.(A)RepresentativeimagesofNETsstainingwith
+cell-permeableSYTORedandcell-impermeableSYTOXGreenand(B)quantificationofareacoveredbyNETs(n=9RMFsfromthree
+biologicallyindependentsamples).Scalebars,50μm.(CandD)RNA-sequenceofhumanneutrophilstreatedwithCMfromSK-hep1(Vector
+andHRGoverexpression)for8h.(C)Heatmapofdifferentialexpressedgenesand(D)KEGGpathwayanalysis.(E)p38phosphorylationand
+citH3inneutrophilstreatedwithCMfromSK-hep1,andIL8blockingantibodyorinhibitorofNF-κB(BAY11-7028).(fandg)ROSlevelof
+neutrophilstreatedwithCMfromSK-hep1,andIL8blockingantibodyorinhibitorofNF-κB(BAY11-7028)orinhibitorofp38(SB203580).(H
+andI)Hepa1-6cellswereinoculatedintoC57BL/6micetoconstructsubcutaneousgrafttumours.Miceweredistributedintofourgroups:
+anti-PD-1monoclonalantibodycombinedwithrHRGgroup,anti-PD1monoclonalantibodygroup,rHRGgroupandcontrolgroup.Tumour
+sampleswereharvestedafter3weeks.(H)Tumoursizeand(I)growthcurve.*p<.05,**p<.01,***p<.001,bytwo-tailedunpairedt-test.
+12of14 YINetal.
+FIGURE 7 SystemillustrationofHRGinhibitinglivercancerlungmetastasisbymodulatingneutrophilandneutrophilextracellular
+trapformation.
+neutrophils rather than other immune cells in the early can improve the efficacy of ICB. In vivo experimental
+lungmetastaticmicroenvironment(veininjection3days). resultsshowedthatthecombinationofHRGandanti-PD1
+HRG suppressed neutrophil activity, thereby reducing canenhancetheefficacyofimmunotherapy.Theseresults
+neutrophil recruitment in the metastatic microenviron- revealthatHRGhasgreatclinicaltreatmentvalue.
+ment. In the mechanism, FCγR1 is a receptor required In conclusion,ourstudyuncoveredthe mechanismby
+for neutrophil maintenance activity,38 we found that which liver cancer regulates neutrophil recruitment and
+HRG bound to FCγR1 in the neutrophil membrane and NETs formation in the metastatic microenvironment by
+potentlyinhibitedneutrophilandNETsformationinvitro. reducingHRGsecretion,therebypromotingtumourlung
+However, how HRG binds to FCγR1 in the neutrophil metastasis.ThissuggeststhatHRGmayhavegreatpoten-
+membrane and inhibits downstream pathways deserves tialininhibitingtumourmetastasisandrecurrence.These
+further exploration. The regulatory effect of HRG on dataestablishthevalueofHRGasaprognosticandther-
+liver cancer lung metastasis was achieved by depleting apeutic target. The results of this study will contribute
+Ly6G+cellsinametastasismodelrelyingonneutrophils to the development of possible strategies for treating
+in the pre-metastatic microenvironment, this suggested metastases.
+an important role for neutrophils and NETs in early
+lung metastasis. However, HRG was also observed to be
+associatedwithM1andNKcellsinpatienttumourtissues, 4 MATERIALSANDMETHODS
+somoreresearchisneededtoelucidateHRGeffectonthe
+microenvironment. 4.1 Humantissuesandbloodsamples
+Previous research reveals that NETs regulate adap-
+tive anti-tumour immune evasion. NETs block contact Formalin-fixed paraffin-embedded specimens from
+between cytolytic cytotoxic T lymphocytes (CTLs), natu- patients of liver cancer (n = 234) with following-up
+ral killer (NK) cells and surrounding tumour cells and information; another independent cohort of liver cancer
+reduce efficacy of immunotherapy. Mechanically, NETs (n = 80); primary and metastases specimens from the
+wraptumourcellstoprotectthemfromCTLsandNKcell- same liver cancer patients with lung metastases (n = 17)
+mediatedcytotoxicity.24ConsideringthatHRGinhibitsthe and peripheral blood of patients with HCC or HDs were
+productionofNETs,weproposethehypothesisthatHRG obtained from Shanghai Renji hospital after informed
+YINetal. 13of14
+consent by the patient. The approval was issued by the confirmed90%purityand95%viability.Neutrophilswere
+ShanghaiRenjihospital’sethicscommittee,ShanghaiJiao cultured with RPMI 1640 medium containing 0.1% BSA
+Tong University. Clinical and pathological characteristics unlessotherwisenoted.
+of patients with liver cancer were listed in the Table 1
+(Supplementarymethods).
+4.5 Statisticalanalyses
+4.2 Animalandanimalmodels GraphPad Prism 7.0 (GraphPad Software, La Jolla, USA)
+was used for data analysis. The difference between two
+HRG deficient mice on a C57BL/6 background groups was compared using Student’s t-test. For corre-
+were obtained from Willi Jahnen-Dechent (Uni- lation analysis, Pearson correlation test was used. For
+versity Hospital Aachen, Germany). Littermates of follow-updata,log-ranktestswereusedandpvalues<.05
+8−10 weeks were used in experiments. The Shanghai wereconsideredasstatisticallysignificant.
+Laboratory Animal Co., Ltd., China, provided C57BL/6 MaterialsandmethoddetailsareprovidedinSupporting
+and athymic nude mice of 8−10 weeks. All experiments Information.
+used mice of the same gender and age. Animal study
+approvalwasobtainedfromtheInstitutionalAnimalCare ACKNOWLEDGEMENTS
+and Use Committee of Shanghai Jiao Tong University HRG-deficient mice on a C57BL/6 background were
+SchoolofMedicine(Shanghai,China). obtained from Willi Jahnen-Dechent (University Hospi-
+Mice were intravenously injected with 2 × 105 can- tal Aachen, Germany). This study was supported by the
+cer cells and samples of lung were harvested at 3 days Project of the Shanghai Municipal Health Commission
+and 5 weeks after injection. Intravenous injection of SK- (20204Y0012), Natural Science Foundation of Shanghai
+hep1withHRGoverexpressioninathymicmice,HCC-LM3 (23ZR1438600), the National Natural Science Foundation
+with HRG knockdownin athymicmice andHepa 1−6 in of China (81972205), the Project of Shanghai Key Clini-
+C57BL/6miceforlungmetastasisanalysis. calSpecialties(shslczdzk05801),andtheShenkang3-year
+Neutrophils depletion was achieved by i.p. with actionplan(SHDC2020CR2003A,SHDC2020CR5012).
+200 g/mice of Ly6G-antibody or IgG control every 2 days
+before the injection of cancer cells until harvesting. The CONFLICT OF INTEREST STATEMENT
+DNase1treatmentinvolvedi.p.withDNase1(5mg/kg)1 Therearenoconflictsofinteresttodeclare.
+day before the injection of cancer cells until a week, and
+thentwiceaweek.Bioluminescentimagingwasacquired ORCID
+byIVISLuminaIIsystem. KangHe https://orcid.org/0000-0003-4671-1337
+REFERENCES
+4.3 Celllines
+1. LlovetJM,MontalR,SiaD,FinnRS.Moleculartherapiesand
+precisionmedicineforhepatocellularcarcinoma.NatRevClin
+SK-hep1 and HCC-LM3 were obtained from the Chinese Oncol.2018;15(10):599-616.
+AcademyofSciences.Hepa1-6wasobtainedfromtheLiver 2. Peinado H, Zhang H, Matei IR, et al. Pre-metastatic niches:
+Cancer Institute, Fudan University. The cell lines gener- organ-specific homes for metastases. Nat Rev Cancer.
+2017;17(5):302-317.
+ated in this study were grown in DMEM with 10% v/v
+3. Liu Y, Cao X. Characteristics and significance of the pre-
+FBSand100μg/mlpenicillin/streptomycin.Cellcultures
+metastaticniche.CancerCell.2016;30(5):668-681.
+atpassages5−8wereusedandtestedformycoplasmacon-
+4. KolaczkowskaE,KubesP.Neutrophilrecruitmentandfunction
+taminationweekly.
+inhealthandinflammation.NatRevImmunol.2013;13(3):159-
+175.
+5. HedrickCC,MalanchiI.Neutrophilsincancer:heterogeneous
+4.4 Isolationofneutrophils andmultifaceted.NatRevImmunol.2022;22(3):173-187.
+6. AlbrenguesJ,ShieldsMA,NgD,etal.Neutrophilextracellu-
+lartrapsproducedduringinflammationawakendormantcancer
+Neutrophils were separated from the peripheral blood
+cellsinmice.Science.2018;361(6409).
+of donors using density gradient centrifugation with
+7. PapayannopoulosV.Neutrophilextracellulartrapsinimmunity
+Histopaque 1077/1119. During centrifugation, peripheral
+anddisease.NatRevImmunol.2018;18(2):134-147.
+bloodwaslayeredontopofHistopaque1077/1119andcen-
+8. De Meo ML, Spicer JD. The role of neutrophil extracellular
+trifuged at 600×g for 25 min at 24 ◦ C without braking. traps in cancer progression and metastasis. Semin Immunol.
+Analyses by flow cytometry and Trypan blue exclusion 2021;57:101595.
+14of14 YINetal.
+9. Yang L, Liu Q, Zhang X, et al. DNA of neutrophil extracel- interferogenic and contribute to lupus-like disease. Nat Med.
+lular traps promotes cancer metastasis via CCDC25. Nature. 2016;22(2):146-153.
+2020;583(7814):133-138. 27. MuñozLE,BoeltzS,BilyyR,etal.Neutrophilextracellulartraps
+10. Yang L-Y, Luo Q, Lu L, et al. Increased neutrophil extra- initiategallstoneformation.Immunity.2019;51(3):443-450.
+cellular traps promote metastasis potential of hepatocellular 28. MaF,ChangX,WangG,etal.Serotype2stimulatesneutrophil
+carcinoma via provoking tumorous inflammatory response. J extracellular traps formation via activation of p38 MAPK and
+HematolOncol.2020;13(1):3. ERK1/2.FrontImmunol.2018;9:2854.
+11. PoonIKH,PatelKK,DavisDS,ParishCR,HulettMD.Histidine- 29. LuC-H,LiK-J,WuC-H,etal.TheFcγRIIIengagementaug-
+richglycoprotein:theSwissArmyknifeofmammalianplasma. ments PMA-stimulated neutrophil extracellular traps (NETs)
+Blood.2011;117(7):2093-2101. formationbygranulocytespartiallyviacross-talkbetweenSyk-
+12. Morello E, Sutti S, Foglia B, et al. Hypoxia-inducible factor ERK-NF-κB and PKC-ROS signaling pathways. Biomedicines.
+2α drives nonalcoholic fatty liver progression by triggering 2021;9(9):1127.
+hepatocyte release of histidine-rich glycoprotein. Hepatology. 30. Shao S, Fang H, Dang E, et al. Neutrophil extracellular traps
+2018;67(6):2196-2214. promote inflammatory responses in psoriasis via activating
+13. BartneckM,FechV,EhlingJ,etal.Histidine-richglycoprotein epidermalTLR4/IL-36Rcrosstalk.FrontImmunol.2019;10:746.
+promotesmacrophageactivationandinflammationinchronic 31. Chang Y-C, Su C-Y, Chen M-H, Chen W-S, Chen C-L, Hsiao
+liverdisease.Hepatology.2016;63(4):1310-1324. M. Secretory RAB GTPase 3C modulates IL6-STAT3 pathway
+14. HuangY,SnuderlM,JainRK.Polarizationoftumor-associated topromotecoloncancermetastasisandisassociatedwithpoor
+macrophages:anovelstrategyforvascularnormalizationand prognosis.MolCancer.2017;16(1):135.
+antitumorimmunity.CancerCell.2011;19(1):1-2. 32. Quail DF, Joyce JA. Microenvironmental regulation of tumor
+15. TeijeiraA,GarasaS,OchoaMC,etal.IL8,neutrophils,andNETs progressionandmetastasis.NatMed.2013;19(11):1423-1437.
+in a collusion against cancer immunity and immunotherapy. 33. GadaletaRM,OldenburgB,WillemsenEC,etal.Activationof
+ClinCancerRes.2021;27(9):2383-2393. bilesaltnuclearreceptorFXRisrepressedbypro-inflammatory
+16. Németh T, Sperandio M, Mócsai A. Neutrophils as emerging cytokinesactivatingNF-κBsignalingintheintestine.Biochim
+therapeutictargets.NatRevDrugDiscov.2020;19(4):253-275. BiophysActa.2011;1812(8):851-858.
+17. Gorgani NN, Smith BA, Kono DH, Theofilopoulos AN. 34. BalasubramaniyanN,AnanthanarayananM,SuchyFJ.Nuclear
+Histidine-rich glycoprotein binds to DNA and Fc gamma RI factor-κBregulates the expressionof multiple genes encoding
+andpotentiatestheingestionofapoptoticcellsbymacrophages. livertransportproteins.AmJPhysiolGastrointestLiverPhysiol.
+JImmunol.2002;169(9):4745-4751. 2016;310(8):G618-G628.
+18. ChangNS,LeuRW,RummageJA,AndersonJK,MoleJE.Reg- 35. Deuschle U, Birkel M, Hambruch E, et al. The nuclear bile
+ulationofmacrophageFcreceptorexpressionandphagocytosis acidreceptorFXRcontrolstheliverderivedtumorsuppressor
+byhistidine-richglycoprotein.Immunology.1992;77(4):532-538. histidine-richglycoprotein.IntJCancer.2015;136(11):2693-2704.
+19. SelvarajP,FifadaraN,NagarajanS,CiminoA,WangG.Func- 36. Mollinedo F. Neutrophil degranulation, plasticity, and cancer
+tional regulation of human neutrophil Fc gamma receptors. metastasis.TrendsImmunol.2019;40(3):228-242.
+ImmunolRes.2004;29(1-3):219-230. 37. Jaillon S, Ponzetta A, Di Mitri D, Santoni A, Bonecchi R,
+20. vanSprielAB,vandenHerik-OudijkIE,vandeWinkelJG.Neu- Mantovani A. Neutrophil diversity and plasticity in tumour
+trophilFcgammaRIastargetforimmunotherapyofinvasive progressionandtherapy.NatRevCancer.2020;20(9):485-503.
+candidiasis.JImmunol.2001;166(12):7019-7022. 38. Ajmani S, Singh H, Chaturvedi S, et al. Utility of neutrophil
+21. Phusuntornsakul P, Jitpukdeebodintra S, Pavasant P, CD64andserumTREM-1indistinguishingbacterialinfection
+Leethanakul C. Vibration activates the actin/NF-κB axis fromdiseaseflareinSLEandANCA-associatedvasculitis.Clin
+andupregulatesIL-6andIL-8expressioninhumanperiodontal Rheumatol.2019;38(4):997-1005.
+ligamentcells.CellBiolInt.2020;44(2):661-670.
+22. WangS,LiuZ,WangL,ZhangX.NF-kappaBsignalingpath-
+way, inflammation and colorectal cancer. Cell Mol Immunol.
+2009;6(5):327-334. SUPPORTING INFORMATION
+23. Zhou J, Sun X, Zhang J, Yang Y, Chen D, Cao J. IL-34 reg- Additional supporting information can be found online
+ulates IL-6 and IL-8 production in human lung fibroblasts in the Supporting Information section at the end of this
+viaMAPK,PI3K-Akt,JAKandNF-κBsignalingpathways.Int article.
+Immunopharmacol.2018;61:119-125.
+24. Teijeira Á, Garasa S, Gato M, et al. CXCR1 and CXCR2
+chemokinereceptoragonistsproducedbytumorsinduceneu-
+trophilextracellulartrapsthatinterferewithimmunecytotoxic- Howtocitethisarticle: YinY,DaiH,SunX,
+ity.Immunity.2020;52(5):856-871.e8. etal.HRGinhibitslivercancerlungmetastasisby
+25. PatelS,FuS,MastioJ,etal.Uniquepatternofneutrophilmigra-
+suppressingneutrophilextracellulartrap
+tion and function during tumor progression. Nat Immunol.
+formation.ClinTranslMed.2023;13:e1283.
+2018;19(11):1236-1247.
+https://doi.org/10.1002/ctm2.1283
+26. Lood C, Blanco LP, Purmalek MM, et al. Neutrophil extra-
+cellular traps enriched in oxidized mitochondrial DNA are

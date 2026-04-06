@@ -1,0 +1,262 @@
+
+--- Page 1 ---
+THROMBOSISANDHEMOSTASIS
+Histidine-rich glycoprotein binds factor XIIa with high affinity and inhibits
+contact-initiated coagulation
+JessicaL.MacQuarrie,1AlanR.Stafford,2JonathanW.Yau,2BeverlyA.Leslie,2TrangT.Vu,2JamesC.Fredenburgh,2and
+JeffreyI.Weitz1,2
+Departmentsof1BiochemistryandBiomedicalSciencesand2Medicine,McMasterUniversityandtheThrombosisandAtherosclerosisResearchInstitute,
+Hamilton,ON
+Histidine-rich glycoprotein (HRG) circu- dependent fashion but has no effect on torsXII,XI,orXIa.Inaddition,HRGinhib-
+latesinplasmaataconcentrationof2(cid:1)M tissuefactor–inducedclotting,localizing itsautoactivationoffactorXIIandfactor
+and binds plasminogen, fibrinogen, and itseffecttothecontactpathway.Plasma XIIa–mediated activation of factor XI.
+thrombospondin. Despite these interac- immunodepletedofHRGexhibitsashort- Theseresultssuggestthat,bybindingto
+tions, the physiologic role of HRG is enedactivatedpartialthromboplastintime factor XIIa, HRG modulates the intrinsic
+unknown. Previous studies have shown that is restored to baseline with HRG pathway of coagulation, particularly in
+that mice and humans deficient in HRG replenishment. To explore how HRG af- thevicinityofathrombuswhereplatelet
+haveshortenedplasmaclottingtimes.To fects the contact pathway, we examined releaseofHRGandZn2(cid:2)willpromotethis
+better understand this phenomenon, we itsbindingtofactorsXII,XIIa,XI,andXIa. interaction. (Blood. 2011;117(15):
+examined the effect of HRG on clotting HRG binds factor XIIa with high affinity, 4134-4141)
+tests.HRGprolongstheactivatedpartial an interaction that is enhanced in the
+thromboplastin time in a concentration- presenceofZn2(cid:2),butdoesnotbindfac-
+Introduction
+Despitethecapacityoftheintrinsicpathwaytoenhancethrombin creaselocallybecauseHRGalsoisfoundin(cid:2)-granulesofplatelets
+generation, patients deficient in factor XII (FXII) do not bleed.1 whereitcanbereleasedonactivation.12HRGisamodularprotein
+EvenpatientswithFXIdeficiencyrarelyhavehemorrhagiccompli- composed of 2 NH-terminal cystatin-like domains, a central
+2
+cations, except with surgery or major trauma.2 Because of these histidine-rich region, and a COOH-terminal domain. These do-
+observations,itiswellacceptedthatthecontactsystemplayslittle mains contribute to binding of Zn2(cid:3) and numerous ligands,
+part in hemostasis; and, by extension, it was also thought to be including plasminogen, fibrinogen, thrombospondin, and heparan
+unimportantforthrombosis.However,anumberofrecentstudies sulfate. Because of its multiple interactions, it has been hypoth-
+challenge this thinking. First, mice with deficiencies of high- esized that HRG contributes to hemostasis as an accessory or
+molecular-weight kininogen (HK), bradykinin B2 receptor, FXII, adapterprotein.11,13Insupportofthisconcept,HRG-deficientmice
+or FXI are protected against injury-induced thrombosis, and an exhibit shortened clotting times.14 Furthermore, HRG has been
+antibody against FXI inhibits thrombus formation in a baboon showntoinhibitcontactactivationofplasmainvitro,presumably
+arteriovenousshuntmodel.3-7Theseobservationsraisethepossibil- because the histidine-rich region of HRG binds to negatively
+ity that the contact pathway contributes to thrombogenesis.8 charged surfaces and prevents autoactivation of FXII.15 Modula-
+Second,potentialphysiologicactivatorsofFXIIhavebeenidenti- tionofthecontactsystemmayimpactthrombosisbecausestudies
+fied, which could initiate the contact system at sites of vascular have linked deficiency of HRG in humans with thrombophilia.16
+injury. In addition to glycosaminoglycans and collagen, novel Thecurrentstudywasundertakentomorepreciselydefinetherole
+activators include polyphosphates and RNA.9,10 Polyphosphates, ofHRGinthemodulationofcoagulation.
+whicharereleasedfromthedensegranulesofplateletsactivatedat
+sites of injury, trigger coagulation in a FXII-dependent fashion.
+Likewise, RNAreleased from the damaged vessel wall also can Methods
+activate FXII, and RNAase administration to animals attenuates
+thrombosis at sites of injury, observations that have sparked a Reagents
+renewed interest in the contact pathway.10 Consequently, it is
+Deaminated heparin (molecular weight 6700), biotinamidohexanoic acid
+importanttobetterunderstandthispathwayandhowitisregulated.
+hydrazide (biotin-hydrazide), Protease Inhibitor Cocktail for His-Tagged
+Histidine-rich glycoprotein (HRG) is an abundant plasma Proteins, and silica (0.5-10(cid:1)m particle size) were from Sigma-Aldrich.
+protein whose role is largely unknown.11 HRG circulates at a Dextransulfate(500kDa)wasfromGEHealthcare.Sulfosuccinimidyl-6-
+concentration of approximately 2(cid:1)M. Its concentration may in- biotinamidohexanoatewasfromThermoFisherScientific.Allcoagulation
+SubmittedJune30,2010;acceptedJanuary23,2011.Prepublishedonlineas Theonlineversionofthisarticlecontainsadatasupplement.
+Blood First Edition paper, February 8, 2011; DOI 10.1182/blood-2010-07-
+The publication costs of this article were defrayed in part by page charge
+290551.
+payment. Therefore, and solely to indicate this fact, this article is hereby
+marked‘‘advertisement’’inaccordancewith18USCsection1734.
+AnInsideBloodanalysisofthisarticleappearsatthefrontofthisissue. ©2011byTheAmericanSocietyofHematology
+(cid:1)
+4134 BLOOD,14APRIL2011 VOLUME117,NUMBER15
+Downloaded
+from
+http://ashpublications.org/blood/article-pdf/117/15/4134/1805605/zh801511004134.pdf
+by
+guest
+on
+24
+March
+2026
+--- Page 2 ---
+(cid:1)
+BLOOD,14APRIL2011 VOLUME117,NUMBER15 HRGBINDSFXIIaANDINHIBITSCONTACTACTIVATION 4135
+factors and corn trypsin inhibitor (CTI) were from Enzyme Research InfluenceofHRGonFXIIactivationbykallikrein
+Laboratories. A sheep polyclonal antibody against human HRG, FXII-
+SDS-PAGEwasusedtomonitortheactivationof2.5(cid:1)MFXIIby100nM
+deficientplasma,andtheFXIIenzymeimmunoassaykitwerefromAffinity
+kallikrein in a mixture of 2(cid:1)g/mL dextran sulfate, 12.5(cid:1)M CTI, 2mM
+Biologicals. Chromogenic substrates S-2302, S-2366, and S-2251 were
+CaCl, and 12.5(cid:1)M ZnCl in the absence or presence of HRG.At time
+fromDiaPharmaGroup,BiophenCS11–22wasfromAniara,andPefach- 2 2
+pointsrangingfrom0to2hours,10-(cid:1)Laliquotscontaining2(cid:1)gofFXII
+rome XIIa was supplied by Pentapharm. Human C1 inhibitor was from
+wereremovedandsubjectedtoSDS-PAGEunderreducingconditions.In
+EMDChemicals.RecombiplastinandAPTT-SPwerefromInstrumentation
+thereciprocalexperiment,theinfluenceofHRGonprekallikreinactivation
+Laboratory.
+byFXIIawasmonitoredintheabsenceorpresenceof600nMHK.After
+HRG was isolated by a modification of a previously published
+incubation of 120nM prekallikrein with 2nM FXIIa in TBS containing
+method.17 Citrated plasma was supplemented with 1(cid:1)M Val-Phe-Lys- 2mMCaCl,12.5(cid:1)MZnCl,and0.5(cid:1)g/mLdextransulfatefor2minutes,
+chloromethylketone(EMDChemicals),0.1%proteaseinhibitorcocktail, 2 2
+kallikreingenerationwasmonitoredusingS-2302.
+andapproximately50kallikreininhibitoryunits(KIU)aprotinin(American
+Diagnostica).Aftercentrifugationat10000gfor30minutesat4°C,any
+Biotinylation
+visiblelipidlayerwasremovedandsolidimidazolewasaddedto5mM.
+Plasmawassubjectedtochromatographyona50-mLnickel-nitrilotriace- Biotinlabelingwascarriedoutfor1.5hoursat23°C.HRGwasdialyzed
+tateagarosecolumn(QIAGEN).Thecolumnwaswashedwith5volumes against0.1Mphosphatebuffer,pH7.5,andincubatedwitha10-foldmolar
+of 20mM Tris-HCl, 150mM NaCl, pH 7.4 (Tris-buffered saline [TBS]) excessofsulfosuccinimidyl-6-biotinamidohexanoate.Tostopthereaction,
+containing5mMimidazole.SuccessivewasheswithTBScontained5mM 16(cid:1)Mglycine,pH8.0,wasaddedandfreebiotinwasremovedbypassage
+imidazole, 5mM imidazole plus 10mM (cid:4)-amino caproic acid, 80mM over a PD-10 column (GE Healthcare) equilibrated with HBS. Biotin-
+imidazole, and then 100mM imidazole. The (cid:4)-amino caproic acid was hydrazidewasreactedwithdeaminatedheparinata10:1molarratio.The
+present because plasminogen is a frequent contaminant.18Aprotinin was sample was dialyzed against water and the biotin-labeled heparin was
+addedtothe80and100mMimidazolewashbuffersat10KIU/mL.HRG lyophilizedanditsconcentrationdeterminedbymass.FXIIawasbiotin-
+waselutedwithTBScontaining250mMimidazole,pH7.5.Theconcentra- labeledatitsactivesitebyreactionwithbiotin-Phe-Pro-Argchloromethyl
+tionofHRGwasdeterminedbyabsorbanceat280nm,usingamolecular ketone(b-FPR;HaematologicalTechnologies).
+weightof67000andanextinctioncoefficientof0.39mL/mg/cm.19,20As
+reported previously, HRG appeared as a closely migrating doublet on Surfaceplasmonresonance
+sodium dodecyl sulfate–polyacrylamide gel electrophoresis (SDS-PAGE)
+Biomolecular interaction analysis was performed on the Biacore T100
+undernonreducingandreducingconditions(notshown).12Theidentityof
+biosensor system (BIAcore). Biotinylated-HRG was adsorbed to 800
+HRGwasconfirmedbyNH-terminalsequenceanalysis(HospitalforSick
+2 response units (RU) onto a Series S sensor chip SAin HBS containing
+Children:AdvancedProteinTechnologyCenterPeptideSequencingFacil- 0.05%Tween20(HBS-T)ataflowrateof5(cid:1)L/min.Anunmodifiedflow
+ity,Toronto,ON)andbymassspectrometricanalysisoftrypticfragments
+cellservedascontrol.First,usingdualinjectionmode,10nMFXIIawas
+(AlphalyseCanada). injectedtogetherwith0to20(cid:1)MZnCl at10(cid:1)L/minfollowedbyasecond
+HRG-deficientplasmawaspreparedbyrepeatedchromatographyover 2
+injectionofZnCl alone.Aseconddissociationphasewasmonitoredwith
+an immobilized polyclonal antibody against HRG. A second sample of 2
+ZnCl-free buffer, and then flow cells were regenerated with 250mM
+2
+plasmawassubjectedtochromatographyonunmodifiedSepharoseforuse
+imidazole and 5mM ethylenediaminetetraacetic acid. RU values were
+asacontrol.RemovalofHRGfromplasmawasverifiedbyWesternblot
+obtainedfromtheinstrumentsoftware,andassociationanddissociationrate
+analysisusingthesameantibody.
+constantsandRU valueswereusedfordeterminationofthedissociation
+max
+constant(K).Second,todeterminetheaffinityofZn2(cid:3)forHRG,ZnCl,in
+d 2
+concentrationsfrom0to10(cid:1)M,wasinjectedat30(cid:1)L/minoverflowcells
+InfluenceofHRGonFXIIautoactivation
+containing immobilized HRG and RU values were determined. Next, to
+FXIIautoactivation,stimulatedbypolyphosphate(Sigma-Aldrichtype65), confirmtheK valuesofFXIIaforHRG,b-HRGwasimmobilizedto50to
+d
+wasevaluatedat23°CintheabsenceorpresenceofHRG.Atotalof100nM 100RU.FXIIa(0-256nM)wasinjectedataflowrateof45(cid:1)L/minfor10
+FXIIwasincubatedin20mMN-2-hydroxyethylpiperazine-N(cid:5)-2-ethanesul- minutesintheabsenceorpresenceof12.5(cid:1)MZnCl,followedbybuffer
+2
+fonic acid-OH, 150mM NaCl, pH 7.4 (HBS), containing 2mM CaCl 2 , alone. K d values were determined from equilibrium values or calculated
+12.5(cid:1)M ZnCl, and 100(cid:1)M polyphosphate (monomer concentration). from rate constants using a 1:1 Langmuir analysis by the instrument
+2
+SamplesweremixedinthepresenceofincreasingconcentrationsofHRG software,and(cid:6)2valueswerecalculatedtoassessclosenessoffit.
+for 15 minutes at 37°C. After addition of 500(cid:1)M Biophen CS11–22, Binding affinity also was determined on a BIAcore 1000 using
+absorbancewasmeasuredat405nminaplatereader(MolecularDevices). immobilizedb-FPR-FXIIaandsolubleHRG.b-FPR-FXIIa(800-900RU)
+Ratesofcleavageofthechromogenicsubstratewerenormalizedrelativeto wasabsorbedtoaBIAcoreSAstreptavidinchipataflowrateof5(cid:1)L/min
+thatobtainedintheabsenceofHRG,andplottedagainstHRGconcentra- at 25°C. HRG, diluted in HBS-T containing 12.5(cid:1)M ZnCl 2 and 2mM
+tion.DatawereanalyzedwithTableCurve2DVersion4(JandelScientific CaCl 2, or2mMethylenediaminetetraaceticacid,atpH7.4,wasinjectedat
+Software,SPSS)usingarectangularhyperbolaequationtodeterminethe 35(cid:1)L/minforapproximately4minutes,followedbya4-minuteinjection
+concentration of HRG required to produce 50% inhibition of activation ofHBS-T.Increasingconcentrationsofanalyte(0-2000nM)wereinjected
+(IC ).Insimilarexperiments,1%APTT-SP,2(cid:1)g/mLdextransulfate,or over the flow cell, as well as over a blank streptavidin-coated flow cell.
+50
+10(cid:1)g/mL silica was used in place of polyphosphate. Experiments with Sensorgrams were analyzed with BIAevaluation software Version 3.2
+silicawereperformedintheabsenceorpresenceof3(cid:1)Mfibrinogen. (BIAcore),orScrubber2softwareVersion2.0a(BioLogicSoftwarePty).A
+competition experiment was conducted to examine the effect of FXII or
+FXIIaontheinteractionofHRGwithheparin.Samplescontaining250nM
+InfluenceofHRGonFXIactivationbyFXIIa HRGwereinjectedoverthebiotin-heparinmodifiedchip(200RU)inthe
+presenceof0to400nMFXIIorFXIIaandRUvaluesweredetermined.
+The effect of HRG on FXI activation by FXIIa was examined in the
+presenceofAPTT-SPandHK.Samplescontaining10nMFXIIa,100nM
+Clottingassays
+HK,120nMFXI,10%APTT-SP,and0to2(cid:1)MHRGinHBScontaining
+2mMCaCl 2 and12.5(cid:1)MZnCl 2 wereincubatedat37°C.After60minutes, In a multiwell plate, 90-(cid:1)L aliquots of citrated, normal pooled human
+aliquotswereremovedandtheextentofFXIactivationwasdeterminedby plasmawereincubatedwith0to5(cid:1)MHRGfor10minutesat37°Cbefore
+monitoring FXIa-mediated hydrolysis of 600(cid:1)M S-2366. Values were additionof10(cid:1)Lof260mMCaCl and10(cid:1)LofAPTT-SP.Theplatewas
+2
+normalizedrelativetothatobtainedintheabsenceofHRGandtheIC was then read at 405nm for 30 minutes at 37°C, and the time to reach
+50
+determined. half-maximalabsorbancewasdeterminedbySoftMaxProVersion5.4(clot
+Downloaded
+from
+http://ashpublications.org/blood/article-pdf/117/15/4134/1805605/zh801511004134.pdf
+by
+guest
+on
+24
+March
+2026
+--- Page 3 ---
+(cid:1)
+4136 MacQUARRIEetal BLOOD,14APRIL2011 VOLUME117,NUMBER15
+impact of plasma processing, control plasma was subjected to
+chromatography on unmodified Sepharose. In the APTT assay,
+HRG-deficient plasma clotted 2-fold more rapidly than control
+plasma (216(cid:7)24.1 and 426(cid:7)10.1 seconds, respectively;
+P(cid:9).001). These data confirm that HRG attenuates the contact
+pathway of clotting.When HRG was added back to the deficient
+plasma, a dose-dependent and saturable increase in clotting time
+wasobserved(Figure1).
+To identify where HRG was affecting the contact system, we
+next examined its effect on clotting of HRG-deficient plasma
+initiated by FXIIa, FXIa, or FIXa. HRG prolonged the FXIIa-
+mediated clotting time by 81% and 102% at 2.5 and 5(cid:1)M,
+respectively(Figure2).Incontrast,HRGhadlittleeffectonFXIa-
+or FIXa-mediated clotting times.These results suggest that HRG
+prolongationoftheAPTTreflectsaneffectonFXIIa.Toconfirm
+this, we measured the APTT in the absence or presence of the
+HRG-directed antibody.Antibody addition shortened the clotting
+Figure 1. Effect of HRG on the activated partial thromboplastin time in
+HRG-deficientplasma.HRG-deficientplasmawasincubatedwith0to6(cid:1)MHRGfor time from 358 (cid:7) 55 seconds to 140 (cid:7) 19 seconds (Figure 3;
+10minutesat37°C.ClottingwasinitiatedbytheadditionofCaCl2to26mMand P(cid:8).02),whereasanonspecificantibodyhadnoeffect.
+one-tenthvolumeofAPTT-SP.Absorbancewasmonitoredat405nm,andthetimeto
+half-maximal value was defined as the clot time. Data are the mean(cid:7)SE of BindingofZn2(cid:2)toHRG
+3determinations.Thecontrolwasplasmasubjectedtochromatographyonunmodi-
+fiedSepharose.
+Plasma-based assays were performed largely in the absence of
+Zn2(cid:3) because citrate was used as the anticoagulant. However,
+time). To examine tissue factor-mediated clotting, Recombiplastin, at because HRG is a Zn2(cid:3) binding protein and Zn2(cid:3) modulates its
+one-tenth dilution, was substituted forAPTT-SP.Additional assays were properties, Zn2(cid:3) was included in our characterization of the
+performedinHRG-deficientplasmathatwasfirstdialyzedagainstTBSto molecularinteractionsofHRGwithcontactpathwayproteins.To
+remove citrate. In these assays, clotting was initiated with 8nM FXIIa, identifytheoptimalconcentrationofZn2(cid:3)forthesestudies,wefirst
+1.5nMFIXa,or2nMFXIa,whichwasaddedto100(cid:1)Lofplasmatogether
+determined its affinity for HRG using SPR. Biotin-HRG was
+with2mMCaCl,15(cid:1)MZnCl and0to5(cid:1)MHRGinatotalvolumeof
+160(cid:1)L.FXIIa-m 2 ediatedclottin 2 g , ofnormalplasmawasalsoassessedinthe adsorbed to a streptavidin chip, and increasing concentrations of
+ZnCl were injected with buffer regeneration between runs. RU
+absence or presence of 3.5mg/mL sheep anti-HRG antibody or control 2
+sheepIgG(Sigma-Aldrich). values increased in a dose-dependent fashion reflecting Zn2(cid:3)
+binding(Figure4).Analysesbykineticandequilibriumparameters
+DeterminationofplasmaHRGconcentration yieldedK valuesofZn2(cid:3)forHRGof225and281nM,respectively
+d
+((cid:6)2(cid:1)1.2).Becausesaturablebindingwasobservedatconcentra-
+TheconcentrationofHRGinnormalplasmawasdeterminedtobe1.6(cid:1)M
+tions greater than 5(cid:1)M Zn2(cid:3), subsequent experiments were
+bysurfaceplasmonresonance(SPR;supplementalMethods,availableon
+performedat10to20(cid:1)MZn2(cid:3),whichcoincideswiththeplasma
+theBloodWebsite;seetheSupplementalMaterialslinkatthetopofthe
+onlinearticle).
+Zn2(cid:3)concentration.21
+InfluenceofHRGoninhibitionofFXIIabyC1inhibitororCTI
+ThisinformationiscontainedinsupplementalMethods.
+DetectionofHRG-FXIIacomplexesinplasma
+ThisinformationiscontainedinsupplementalMethods.
+Results
+EffectofHRGonplasmaclottingtimes
+HRG was added to normal citrated plasma, and clotting was
+initiated with tissue factor or APTT-SP to examine the effect of
+HRG on the extrinsic and intrinsic pathways, respectively. HRG
+hadlittleeffectontissuefactor–inducedclotting,wheretheclotting
+timesintheabsenceandpresenceof3.2(cid:1)MHRGwere79.7(cid:7)2.1
+and 83.8 (cid:7) 4.9 seconds, respectively (P(cid:8).47). In contrast, the
+activated partial thromboplastin time of control plasma (248(cid:7)4
+seconds) was 4-fold longer in the presence of 2(cid:1)M HRG
+(1057(cid:7)127 seconds; P(cid:8).008). These data suggest that HRG
+Figure 2. Effect of HRG on clotting induced by FIXa, FXIa, or FXIIa in
+affects clotting through the intrinsic pathway and does not influ- HRG-deficientplasma.HRG-deficientplasmawasdialyzedtoremovecitrateand
+encetheextrinsicpathway. supplementedwith2mMCaCl2,12.5(cid:1)MZnCl2,andincreasingconcentrationsof
+HRG.Clottingat37°Cwasinitiatedbytheadditionof1.5nMFIXa(f),0.5nMFXIa
+To examine this more closely, the effect of added HRG on
+( ),or5nMFXIIa(e)andmonitoredbyturbidity.Clottingtimesareplottedversus
+clottingofHRG-deficientplasmawasexamined.Tominimizethe HRGconcentration.Dataaremean(cid:7)SEof3determinations.
+Downloaded
+from
+http://ashpublications.org/blood/article-pdf/117/15/4134/1805605/zh801511004134.pdf
+by
+guest
+on
+24
+March
+2026

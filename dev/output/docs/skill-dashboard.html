@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Skill 健康报告仪表盘</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+    background: #0f1117;
+    color: #e2e8f0;
+    min-height: 100vh;
+    padding: 24px;
+  }
+  .container { max-width: 1100px; margin: 0 auto; }
+
+  /* Header */
+  header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 32px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #1e2433;
+  }
+  header h1 {
+    font-size: 22px;
+    font-weight: 700;
+    color: #f1f5f9;
+  }
+  .meta {
+    display: flex;
+    gap: 24px;
+    font-size: 13px;
+    color: #64748b;
+  }
+  .meta span { display: flex; align-items: center; gap: 5px; }
+
+  /* Summary cards */
+  .summary {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+    margin-bottom: 36px;
+  }
+  .card {
+    border-radius: 12px;
+    padding: 20px 24px;
+    border: 1px solid transparent;
+  }
+  .card.ok { background: #0d2119; border-color: #14532d; }
+  .card.warn { background: #1c1a0a; border-color: #713f12; }
+  .card.error { background: #1f0d0d; border-color: #7f1d1d; }
+  .card h2 {
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin-bottom: 8px;
+  }
+  .card.ok h2 { color: #4ade80; }
+  .card.warn h2 { color: #fbbf24; }
+  .card.error h2 { color: #f87171; }
+  .card .num {
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 1;
+  }
+  .card.ok .num { color: #4ade80; }
+  .card.warn .num { color: #fbbf24; }
+  .card.error .num { color: #f87171; }
+  .card .desc { font-size: 13px; margin-top: 6px; color: #64748b; }
+
+  /* Section */
+  .section { margin-bottom: 36px; }
+  .section-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 14px;
+  }
+  .section-header .badge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 28px; height: 28px;
+    border-radius: 8px;
+    font-size: 14px;
+  }
+  .badge-ok { background: #14532d; }
+  .badge-warn { background: #713f12; }
+  .badge-error { background: #7f1d1d; }
+  .section-header h3 { font-size: 16px; font-weight: 600; color: #f1f5f9; }
+  .section-header .count {
+    font-size: 13px;
+    color: #475569;
+    background: #1e2433;
+    padding: 2px 10px;
+    border-radius: 20px;
+  }
+
+  /* Tables */
+  .table-wrap { overflow-x: auto; }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 13px;
+  }
+  th {
+    text-align: left;
+    padding: 10px 14px;
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #475569;
+    border-bottom: 1px solid #1e2433;
+  }
+  td {
+    padding: 12px 14px;
+    border-bottom: 1px solid #161b27;
+    vertical-align: top;
+  }
+  tr:last-child td { border-bottom: none; }
+  tr:hover td { background: #161b27; }
+
+  .skill-name {
+    font-weight: 600;
+    color: #e2e8f0;
+    white-space: nowrap;
+  }
+  .status-dot {
+    display: inline-block;
+    width: 8px; height: 8px;
+    border-radius: 50%;
+    margin-right: 8px;
+  }
+  .dot-ok { background: #4ade80; box-shadow: 0 0 6px #4ade80; }
+  .dot-warn { background: #fbbf24; box-shadow: 0 0 6px #fbbf24; }
+  .dot-error { background: #f87171; box-shadow: 0 0 6px #f87171; }
+
+  .action {
+    display: inline-block;
+    padding: 3px 10px;
+    border-radius: 6px;
+    font-size: 11px;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+  .action-uninstall { background: #3b0a0a; color: #f87171; }
+  .action-fix { background: #3b2e0a; color: #fbbf24; }
+  .action-note { background: #1e293b; color: #94a3b8; }
+  .action-ok { background: #0d3020; color: #4ade80; }
+
+  /* Footer */
+  footer {
+    margin-top: 40px;
+    padding-top: 16px;
+    border-top: 1px solid #1e2433;
+    font-size: 12px;
+    color: #334155;
+    display: flex;
+    justify-content: space-between;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+<header>
+  <h1>🔧 Skill 健康报告仪表盘</h1>
+  <div class="meta">
+    <span>📅 2026-04-05</span>
+    <span>📦 29 个 Skills</span>
+    <span>✅ 21 / ⚠️ 5 / 🔴 3</span>
+  </div>
+</header>
+
+<!-- Summary -->
+<div class="summary">
+  <div class="card ok">
+    <h2>✅ 正常</h2>
+    <div class="num">21</div>
+    <div class="desc">功能完整，描述清晰</div>
+  </div>
+  <div class="card warn">
+    <h2>⚠️ 警告</h2>
+    <div class="num">5</div>
+    <div class="desc">需关注，建议处理</div>
+  </div>
+  <div class="card error">
+    <h2>🔴 异常</h2>
+    <div class="num">3</div>
+    <div class="desc">功能异常或存在风险</div>
+  </div>
+</div>
+
+<!-- ✅ Normal -->
+<div class="section">
+  <div class="section-header">
+    <div class="badge badge-ok">✅</div>
+    <h3>正常 Skills</h3>
+    <span class="count">21 个</span>
+  </div>
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>Skill 名称</th>
+          <th>用途</th>
+          <th>评价</th>
+          <th>行动</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td class="skill-name"><span class="status-dot dot-ok"></span>baoyu-imagine</td><td>AI 图片生成（多 API）</td><td>主力工具，配置完整</td><td><span class="action action-ok">✓ 正常使用</span></td></tr>
+        <tr><td class="skill-name"><span class="status-dot dot-ok"></span>baoyu-translate</td><td>文章翻译</td><td>三个模式（快/常/精），有术语表支持</td><td><span class="action action-ok">✓ 正常使用</span></td></tr>
+        <tr><td class="skill-name"><span class="status-dot dot-ok"></span>baoyu-cover-image</td><td>封面图生成</td><td>五维生成法，实用</td><td><span class="action action-ok">✓ 正常使用</span></td></tr>
+        <tr><td class="skill-name"><span class="status-dot dot-ok"></span>baoyu-infographic</td><td>信息图生成</td><td>21种布局+20种风格，完整</td><td><span class="action action-ok">✓ 正常使用</span></td></tr>
+        <tr><td class="skill-name"><span class="status-dot dot-ok"></span>baoyu-comic</td><td>知识漫画生成</td><td>面板布局清晰，支持多风格</td><td><span class="action action-ok">✓ 正常使用</span></td></tr>
+        <tr><td class="skill-name"><span class="status-dot dot-ok"></span>baoyu-xhs-images</td><td>小红书图片生成</td><td>11种视觉风格+8种布局</td><td><span class="action action-ok">✓ 正常使用</span></td></tr>
+        <tr><td class="skill-name"><span class="status-dot dot-ok"></span>baoyu-slide-deck</td><td>PPT/幻灯片生成</td><td>有输出结构规范</td><td><span class="action action-ok">✓ 正常使用</span></td></tr>
+        <tr><td class="skill-name"><span class="status-dot dot-ok"></span>baoyu-markdown-to-html</td><td>MD 转 HTML</td><td>支持代码高亮/PlantUML/脚注</td><td><span class="action action-ok">✓ 正常使用</span></td></tr>
+        <tr><td class="skill-name"><span class="status-dot dot-ok"></span>baoyu-post-to-wechat</td><td>公众号发布</td><td>支持三种格式，CDP 发布</td><td><span class="action action-ok">✓ 正常使用</span></td></tr>
+        <tr><td class="skill-name"><span class="status-dot dot-ok"></span>baoyu-post-to-weibo</td><td>微博发布</td><td>头条文章+普通微博</td><td><span class="action action-ok">✓ 正常使用</span></td></tr>
+        <tr><td class="skill-name"><span class="status-dot dot-ok"></span>baoyu-post-to-x</td><td>X (Twitter) 发布</td><td>支持 X Article</td><td><span class="action action-ok">✓ 正常使用</span></td></tr>
+        <tr><td class="skill-name"><span class="status-dot dot-ok"></span>baoyu-url-to-markdown</td><td>网页转 MD</td><td>Chrome CDP 渲染，支持 JS 页面</td><td><span class="action action-ok">✓ 正常使用</span></td></tr>
+        <tr><td class="skill-name"><span class="status-dot dot-ok"></span>baoyu-youtube-transcript</td><td>YouTube 字幕/封面</td><td>多语言+翻译+章节</td><td><span class="action action-ok">✓ 正常使用</span></td></tr>
+        <tr><td class="skill-name"><span class="status-dot dot-ok"></span>baoyu-format-markdown</td><td>MD 格式化</td><td>有 frontmatter、标题、代码块</td><td><span class="action action-ok">✓ 正常使用</span></td></tr>
+        <tr><td class="skill-name"><span class="status-dot dot-ok"></span>baoyu-article-illustrator</td><td>文章配图</td><td>Type×Style 二维矩阵</td><td><span class="action action-ok">✓ 正常使用</span></td></tr>
+        <tr><td class="skill-name"><span class="status-dot dot-ok"></span>baoyu-compress-image</td><td>图片压缩</td><td>WebP/PNG 自动选择</td><td><span class="action action-ok">✓ 正常使用</span></td></tr>
+        <tr><td class="skill-name"><span class="status-dot dot-ok"></span>serper-search</td><td>Google 搜索</td><td>Serper API，速度快</td><td><span class="action action-ok">✓ 正常使用</span></td></tr>
+        <tr><td class="skill-name"><span class="status-dot dot-ok"></span>skill-vetter</td><td>Skill 安全审查</td><td>安装前检查</td><td><span class="action action-ok">✓ 正常使用</span></td></tr>
+        <tr><td class="skill-name"><span class="status-dot dot-ok"></span>self-improving-agent</td><td>自我改进</td><td>记录学习教训</td><td><span class="action action-ok">✓ 正常使用</span></td></tr>
+        <tr><td class="skill-name"><span class="status-dot dot-ok"></span>humanizer</td><td>去 AI 味</td><td>去除 AI 写作特征</td><td><span class="action action-ok">✓ 正常使用</span></td></tr>
+        <tr><td class="skill-name"><span class="status-dot dot-ok"></span>find-skill</td><td>搜索 ClawHub</td><td>发现新 skill</td><td><span class="action action-ok">✓ 正常使用</span></td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<!-- ⚠️ Warning -->
+<div class="section">
+  <div class="section-header">
+    <div class="badge badge-warn">⚠️</div>
+    <h3>警告 Skills</h3>
+    <span class="count">5 个</span>
+  </div>
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>Skill 名称</th>
+          <th>问题</th>
+          <th>建议行动</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="skill-name"><span class="status-dot dot-warn"></span>baoyu-image-gen</td>
+          <td>SKILL.md 存在但标注为 DEPRECATED，指向 baoyu-imagine</td>
+          <td><span class="action action-uninstall">⚡ 卸载（已废弃）</span></td>
+        </tr>
+        <tr>
+          <td class="skill-name"><span class="status-dot dot-warn"></span>eastmoney</td>
+          <td>安装失败（clawhub 校验问题），需 web search 兜底</td>
+          <td><span class="action action-fix">⏳ 等待 skill 修复或手动安装</span></td>
+        </tr>
+        <tr>
+          <td class="skill-name"><span class="status-dot dot-warn"></span>mcp-client</td>
+          <td>文档较少，仅一个 SKILL.md</td>
+          <td><span class="action action-note">📝 补充使用文档</span></td>
+        </tr>
+        <tr>
+          <td class="skill-name"><span class="status-dot dot-warn"></span>openclaw-agent-browser-clawdbot</td>
+          <td>依赖未装：`agent-browser` CLI 需要 `npm install -g agent-browser`</td>
+          <td><span class="action action-fix">🔧 安装前置依赖或加依赖说明</span></td>
+        </tr>
+        <tr>
+          <td class="skill-name"><span class="status-dot dot-warn"></span>baoyu-danger-gemini-web</td>
+          <td>反向工程 Gemini Web API，可能有法律/合规风险</td>
+          <td><span class="action action-note">⚠️ 仅用于开发测试，不用于生产</span></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<!-- 🔴 Abnormal -->
+<div class="section">
+  <div class="section-header">
+    <div class="badge badge-error">🔴</div>
+    <h3>异常 Skills</h3>
+    <span class="count">3 个</span>
+  </div>
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>Skill 名称</th>
+          <th>问题</th>
+          <th>建议行动</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="skill-name"><span class="status-dot dot-error"></span>baoyu-danger-x-to-markdown</td>
+          <td>X (Twitter) 反向工程 API，有合规风险</td>
+          <td><span class="action action-uninstall">⚠️ 谨慎使用，评估合规风险</span></td>
+        </tr>
+        <tr>
+          <td class="skill-name"><span class="status-dot dot-error"></span>wechat-mp-fetch</td>
+          <td>微信公众号抓取需要微信授权，技术上无法完全绕过</td>
+          <td><span class="action action-note">📝 仅抓公开文章，付费内容无法访问</span></td>
+        </tr>
+        <tr>
+          <td class="skill-name"><span class="status-dot dot-error"></span>wechat-search-release</td>
+          <td>名称带有 release，可能和 wechat-mp-fetch 是同一 skill 的变种</td>
+          <td><span class="action action-fix">🔧 确认后合并到 wechat-mp-fetch</span></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<!-- Key Risks -->
+<div class="section">
+  <div class="section-header">
+    <div class="badge badge-error">🚨</div>
+    <h3>关键风险</h3>
+  </div>
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr><th>#</th><th>风险描述</th><th>解决方案</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="color:#f87171;font-weight:700;">1</td>
+          <td><strong>agent-browser 未安装</strong>：`openclaw-agent-browser-clawdbot` 依赖全局 CLI，但未预装</td>
+          <td>在安装 skill 时附带依赖检查脚本</td>
+        </tr>
+        <tr>
+          <td style="color:#fbbf24;font-weight:700;">2</td>
+          <td><strong>eastmoney 安装失败</strong>：clawhub 安装校验失败，需要手动处理或等官方修复</td>
+          <td>手动安装或等待官方修复</td>
+        </tr>
+        <tr>
+          <td style="color:#94a3b8;font-weight:700;">3</td>
+          <td><strong>微信文章抓取有限制</strong>：wechat-mp-fetch 只能抓公开文章，付费内容无法访问</td>
+          <td>需告知用户预期，管理抓取范围</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<footer>
+  <span>报告生成时间：2026-04-05</span>
+  <span>OpenClaw Dev Workspace</span>
+</footer>
+
+</div>
+</body>
+</html>

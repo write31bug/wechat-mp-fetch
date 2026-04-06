@@ -1,0 +1,644 @@
+
+--- Page 1 ---
+JournalofThrombosisandHaemostasis,13:101–110 DOI:10.1111/jth.12771
+ORIGINAL ARTICLE
+2+
+Plasma free fatty acid levels influence Zn -dependent
+–
+histidine-rich glycoprotein heparin interactions via an
+allosteric switch on serum albumin
+O. KASSAAR,* U. SCHWARZ-LINEK,† C. A. BLINDAUER‡ and A. J. STEWART*
+*SchoolofMedicine,UniversityofStAndrews;†BiomedicalSciencesResearchComplex,UniversityofStAndrews,StAndrews;and
+‡DepartmentofChemistry,UniversityofWarwick,Coventry,UK
+Tocitethisarticle:KassaarO,Schwarz-LinekU,BlindauerCA,StewartAJ.PlasmafreefattyacidlevelsinfluenceZn2+-dependenthistidine-rich
+glycoprotein–heparininteractionsviaanallostericswitchonserumalbumin.JThrombHaemost2015;13:101–10.
+Speciation modeling of plasma Zn2+ based on the data
+Summary.Background:Histidine-rich glycoprotein (HRG) obtained suggests that FFA-mediated displacement of
+regulates coagulation through its ability to bind and neu- Zn2+ from serum albumin would be likely to contribute
+tralize heparins. HRG associates with Zn2+ to stimulate to the development of thrombotic complications in indi-
+HRG–heparin complex formation. Under normal condi- viduals with high plasma FFA levels.
+tions, the majority of plasma Zn2+ associates with human
+serum albumin (HSA). However, free fatty acids (FFAs) Keywords: fatty acids; heparin; histidine-rich glycoprotein;
+allosterically disrupt Zn2+ binding to HSA. Thus, high plasma albumin; zinc.
+levels of circulating FFAs, as are associated with diabetes,
+obesity, and cancer, may increase the proportion of
+plasma Zn2+ associated with HRG, contributing to an Introduction
+increased risk of thrombotic disease. Objectives:To char-
+Histidine-rich glycoprotein (HRG) is a plasma adaptor
+acterize Zn2+ binding by HRG, examine the influence
+that FFAs have on Zn2+ binding by HSA, and establish protein present at a concentration of 1.3–2.0 l M in adult
+blood [1,2]. HRG natively exists as a dimer, forming
+whether FFA-mediated displacement of Zn2+ from HSA
+may influence HRG–heparin complex formation. Meth- multiprotein complexes that regulate coagulation and
+other biological processes, including immune complex
+ods:Zn2+ binding to HRG and to HSA in the presence
+clearance, cell proliferation, cell adhesion, and angiogene-
+of different FFA (myristate) concentrations were exam-
+sis [1]. This has led to its description as ‘the Swiss army
+ined by isothermal titration calorimetry (ITC) and the
+knife of mammalian plasma’ [3]. High levels of HRG are
+formation of HRG–heparin complexes in the presence of
+associated with the clinical presentation of cardiovascular
+different Zn2+ concentrations by both ITC and ELISA.
+disorders, including blood vessel occlusion and thrombo-
+Results and conclusions:We found that HRG possesses 10
+Zn2+ sites (K0 = 1.63 9 105) and that cumulative binding philia [4–6]. HRG thus seems to play a particularly
+important role in regulating blood clotting. The primary
+of FFA to HSA perturbed its ability to bind Zn2+. Also
+structure of HRG contains two cystatin-like domains at
+Zn2+ binding was shown to increase the affinity with
+the N-terminus, a histidine-rich region (HRR) flanked by
+which HRG interacts with unfractionated heparins, but
+two proline-rich regions, and a C-terminal domain [7,8].
+had no effect on its interaction with low molecular weight
+The distinctive HRR is composed of repeating GHHPH
+heparin (~ 6850 Da). [Correction added on 1 December
+motifs [1]. This domain associates with Zn2+ to alter the
+2014, after first online publication: In the preceding
+binding characteristics of the protein, such that the affin-
+sentence, “6850 kDa” was corrected to “6850 Da”.]
+ity of HRG for a number of molecules, including the
+natural anticoagulants heparin and heparan sulfate, is
+Correspondence: Alan J. Stewart, Medical and Biological Sciences increased [9]. This, in turn, enables neutralization of these
+Building, University of St Andrews, North Haugh, St Andrews anticoagulants, leading to a prothrombotic effect via
+KY169TF,UK.
+inhibition of antithrombin III activity [10,11]. Thus,
+Tel.:+441334463546;fax:+441334467470. Zn2+ binding by HRG provides a potential means of
+E-mail:ajs21@st-andrews.ac.uk.
+regulating its function. An anticoagulatory role for
+Zn2+–HRG has also been suggested, as Zn2+ can poten-
+Received25September2014
+tiate the binding of HRG to factor XIIa [12], but this is
+Manuscripthandledby:R.Camire
+Finaldecision:P.H.Reitsma,21October2014 less clear.
+© 2014 The Authors. Journal of Thrombosis and Haemostasis published by Wiley Periodicals, Inc. on behalf of International Society on
+ThrombosisandHaemostasis.
+ThisisanopenaccessarticleunderthetermsoftheCreativeCommonsAttributionLicense,
+whichpermitsuse,distributionandreproductioninanymedium,providedtheoriginalworkisproperlycited.
+--- Page 2 ---
+102 O.Kassaaretal
+Indeed, plasma Zn2+ has emerged as an important reg-
+A
+ulator of hemostasis and thrombosis [13]. Zinc deficiency
+is associated with defects in platelet aggregation and
+increased bleeding times, effects that can be reversed with
+zinc supplementation [14–17]. Plasma Zn2+ levels are
+highly regulated, and under normal conditions ~ 75% of
+the total 20 l M plasma Zn2+ (~ 15 l M) is bound to
+serum albumin [18], and not to HRG [19]. Much of the
+remaining 5–6 l M Zn2+ in plasma is strongly bound to
+other proteins (such as a -macroglobulin), with the con-
+2
+centration of free/exchangeable (weakly bound) Zn2+ in
+plasma thought to be in the nanomolar range [20,21]. It
+is thought that Zn2+ release from platelet-derived a-gran-
+ules may provide enough Zn2+ locally to modify
+HRG–heparin interactions and aid in the initiation of
+coagulation [11,22]. Mahdi et al. [23] reported that the
+free Zn2+ concentration close to activated platelets is 7–
+10 l M, and may be even higher in the growing thrombus. B
+Despite this, the Zn2+-binding properties of HRG and
+the role that Zn2+ plays in influencing HRG–heparin
+interactions are not fully understood. N99
+Previously, we identified the primary Zn2+-binding site
+on serum albumin (often referred to as site A), which H247
+consists of N-ligands from His67 and His247 and H67
+D249
+O-ligands from Asn99, Asp249, and H O [24,25]. Serum
+2
+albumin transports fatty acids in the circulation, and binds
+non-esterified fatty acids [termed free fatty acids [FFAs])
+Myr2
+of various chain lengths, ranging from C10 to C24, at five
+high-affinity sites (termed FA1–FA5) and several lower-
+affinity sites [26–28]. Fatty acid binding at site FA2
+induces a conformational switch that disengages the Zn2+-
+binding residues in domain II relative to those in domain I
+[24,29], as shown in Fig. 1. Under normal physiologic
+conditions, the plasma concentration of FFAs is ~ 250– Fig.1. Thefattyacid/Zn2+switchonserumalbumin.(A)Overlay
+ofcrystalstructuresofhumanserumalbuminwith(gray;Protein
+500 l M at rest [30]. This represents < 1 mole equivalent DataBank[PDB]1BJ5[26])andwithout(green; PDB1AO6[61])
+(mol eq.) relative to the plasma concentration of serum myristate(Myr)bound,showingthelocationofthemajorZn2+-
+albumin. However, FFA levels are dynamic and, for bindingsite.(B)Close-upshowingthemovementofZn2+-coordinat-
+instance, rise following meals and during periods of exer- ingresiduesHis247andAsp249relativetoHis67andAsn99between
+thetwostructures.
+cise. Crucially, elevated FFA levels are alsoassociated with
+a range of disorders, including obesity [31,32], diabetes
+[33], fatty liver disease [34], and cancer [35]. For example, using isothermal titration calorimetry (ITC) and an
+in obese individuals, plasma concentrations of FFA (at ELISA-based method. Furthermore, we used ITC to
+rest) are often two to three times higher [32], and in some examine whether plasma FFA levels may regulate the
+cancer patients they are four to six times higher, than in Zn2+-dependent HRG–heparin interactions (via Zn2+
+controls [36]. Such disorders are associated with an displacement from serum albumin) to probe the interac-
+increased risk of thrombotic complications [37,38]. For tive binding of myristate (Myr) and Zn2+ to serum albu-
+example, thromboembolism (caused by obstructive blood min. Myr was used because it balances solubility issues
+clots) is the second leading cause of death associated with with an ability to still bind to serum albumin in a manner
+malignancy [37]. Collectively, these observations led us to that closely matches that of the more physiologically rele-
+hypothesize that, under conditions where FFA levels are vant palmitate (C16) and stearate (C18) [26], albeit with
+elevated, Zn2+ displaced from serum albumin could bind slightly weaker affinity [40]. Zn2+-speciation modeling
+HRG to enhance its interaction with heparin/heparan based on the resultant data suggests that the maintenance
+sulfateand induce a procoagulatoryeffect [39]. of FFA levels and/or free/exchangeable plasma Zn2+ lev-
+With this in mind, we sought to gain a fuller under- els would probably provide new avenues for therapeutic
+standing of the Zn2+-binding properties of HRG and the intervention in managing thrombotic complications in
+role of Zn2+ in controlling HRG–heparin interactions by high-risk individuals.
+©2014TheAuthors.JournalofThrombosisandHaemostasispublishedbyWileyPeriodicals,Inc.onbehalfofInternationalSocietyon
+ThrombosisandHaemostasis.
+--- Page 3 ---
+FFAlevelsinfluenceHRG-heparinbinding 103
+yielded good fits, but physically unreasonable data for the
+Materials and methods
+latter values (but still resulted in a decrease in site A
+occupancy). Hence, fits with either K2 and DH2 fixed at
+Purificationof human andrabbitHRG
+values derived from fitting the data in the absence of
+HRG was purified directly from either human plasma Myr, or fits with N2 fixed at either 1 or 2, were explored
+(TCS Biosciences, Buckingham, UK) or, for experiments (Tables S1 and S2). The resulting values for N1 from the
+detailed in the Supporting information, rabbit serum various fits were averaged.
+(Sigma-Aldrich, Poole, UK) with immobilized metal affin-
+ity chromatography. Plasma or serum was centrifuged
+ELISA
+(4000 9 g, 30 min) and filtered through a 0.45-lm syringe
+filter (Sartorius, Epsom, UK), and imidazole was added An ELISA experimental set-up was devised to investigate
+(5 mM final) together with the equilibration buffer the interaction between HRG and heparin compounds.
+(10 mM Tris, 150 mM NaCl, 5 mM imidazole, pH 8). A 5- Unfractionated porcine plasma heparin (Acros Organics,
+mL HisTrap nickel column (GE Healthcare Life Sciences, Loughborough, UK) or low molecular weight heparin
+Little Chalfont, UK) was equilibrated with 5–10 column (LMWH) (6850 Da; Iduron, Manchester, UK) were
+volumes of the equilibration buffer, and sample (50 mL) coated overnight at room temperature onto a heparin-
+was loaded. The column was washed with equilibration binding plate (Iduron) at a concentration of 25 lg mL (cid:2)1
+buffer and then with a 70 : 30 mixture of equilibration/ in 50 mm HEPES, 150 mM NaCl and 0.2% Tween-20 at
+elution buffer (10 mM Tris, 150 mM NaCl, 400 mM imid- pH 7.4. The wells were washed with the same buffer,
+azole, pH 8). HRG was eluted with elution buffer. The and then blocked with the same buffer supplemented
+purified HRG sample was then dialyzed to remove any with 0.2% gelatin from fish skin (Sigma-Aldrich) for 1 h
+bound metals in the buffer of choice for further experi- at 37 °C. Human HRG was then incubated for 2 h over
+ments, or in 50 mM ammonium carbonate prior to lyoph- a range of concentrations (0–3 l M) at 37 °C with or
+ilization. without ZnCl . The reaction was detected with primary
+2
+rabbit anti-HRG (Sigma-Aldrich) followed by alkaline
+phosphatase-linked anti-rabbit antibody (Sigma-Aldrich),
+ITC
+and observed with p-nitrophenol phosphate substrate
+ITC experiments were carried out with a MicroCal VP- (Sigma-Aldrich) at 405 nm.
+ITC instrument (GE Healthcare Life Sciences) in 50 mM
+Tris and 140 mM NaCl (pH 7.4) at 25 °C. Titrants (ZnCl
+2 Speciationmodeling
+and heparins) were added to the reaction buffer, and the
+pH was adjusted to 7.4 to match the buffer in the ITC The ‘Species’ module of the IUPAC Stability Constants
+cell containing the protein. Solutions were degassed at Database (version 5.6) was employed for speciation mod-
+22 °C for 15 min prior to performance of the experiment. eling, with the conditional stability constants for HRG
+Typical titrations performed were one 2-lL injection over and HSA determined in this work, and typical physio-
+4 s followed by up to 55 injections of 5 lL over 10 s with logic concentrations for exchangeable Zn2+ (15 l M),
+an adequate interval of 240 s between injections to allow HSA (620 l M), and HRG (1 or 2 l M). For the last of
+complete equilibration. The stirring speed was 307 r.p.m. these, the binding site concentration was assumed to be
+Heats of dilution were accounted for with blank titrations 10 times that of HRG, according to the stoichiometry
+performed by injecting ligand solution into reaction buf- determined at high ionic strength. Averages and errors
+fer and subtracting the averaged heat of dilution from the were calculated by employing various combinations of
+main experiments. Alternatively, in cases of saturated values for N1, N2 and K2 for HSA corresponding to the
+binding, blank titrations were omitted where the averaged fitting values (Tables S1 and S2), and two different con-
+residual signal of the last injections was used to determine centrations for HRG (Table S3).
+the heat of dilution. Raw data were processed with MICRO-
+CAL ORIGIN software, and data were fitted by use of the
+Results and discussion
+same software; the results presented are representative of
+multiple experiments. In all cases, the errors stated repre- We used ITC to examine the Zn2+-binding properties of
+sent the fitting errors from individual experiments. human HRG purified from blood plasma. Zn2+ binding
+For fitting of the human serum albumin (HSA)–Zn2+ to human HRG was exothermic, and data analysis
+titration data in the presence and absence of Myr, initial revealed that human HRG is capable of binding
+values for K1 and DH1 for the high-affinity site A 10 mol eq. (N = 10.3) of Zn2+ at near-physiologic ionic
+ITC
+were determined with a sequential binding site model. strength (50 mM Tris, 140 mM NaCl, pH 7.4) with an
+Subsequent fits to determine site A occupancy used a average apparent affinity, K , of
+ITC
+‘two sets of sites’ model, with K1 ITC and DH1 fixed, and (8.06 (cid:3) 0.40) 9 104 M (cid:2)1 (Fig. 2). Rabbit HRG has been
+N1 varied. Simultaneous variation of N2, K2 and DH2 frequently used in biochemical studies, owing to its higher
+© 2014 The Authors. Journal of Thrombosis and Haemostasis published by Wiley Periodicals, Inc. on behalf of International Society on
+ThrombosisandHaemostasis.
+--- Page 4 ---
+0
+–2
+–4
+–6
+–8
+abundance in rabbit plasma (~ 0.9 mg mL(cid:2)1) [41], but it
+possesses a longer HRR (Fig. S1). Examination of Zn2+
+binding to serum-purified rabbit HRG with the same
+method and conditions revealed that the rabbit protein
+bound 10 mol eq. (N = 10.4) of Zn2+, similarly to the
+human HRG–Zn2+ interaction and in keeping with out because the Zn2+ concentration was identical in both
+previously reported data [41], but with a lower average protein-containing and injectant solutions. It was possible
+affinity than human HRG, with a K of to fit curves to the endothermic data collected in the
+ITC
+(4.39 (cid:3) 0.33) 9 104 M (cid:2)1 (Fig. S2). absence and presence of 1 l M Zn2+, but not to the iso-
+The influence of Zn2+ on the heparin-binding proper- therm observed at 5 l M. The resultant curves suggest that
+ties of human HRG was probed with ITC. Unfractionat- the second, endothermic mode most probably corresponds
+ed porcine plasma heparin (molecular mass range of 3– toasingleheparinsite(N < 0.4ineachcase).Thecalculated
+30 kDa) was titrated into samples of human HRG con- K ITC values for this mode were (2.44 (cid:3) 0.25) 9 106 M (cid:2)1
+taining different concentrations of ZnCl 2 (Fig. 3). The withnoZn2+and(2.44 (cid:3) 0.54) 9 106 M (cid:2)1inthepresence
+presence of Zn2+ had a marked effect on the mechanism of1 l MZn2+,indicatingthatthereisnoZn2+dependence
+by which human HRG bound heparin. In the absence of forthismodeofbinding.Itisimportanttonote,however,
+Zn2+, the interaction between heparin and HRG for the thatthe‘real’affinitiesareprobablyhigher,asthisanalysis
+first few injections gave rise to a less endothermic (or exo- doesnottakeintoaccountbindingviathefirstmode.Itwas
+thermic) component of the isotherm. This initial form of alsoobservedthattherewasadifferenceinthestoichiome-
+heparin binding was more pronounced in the presence of tryofheparinbindingtoHRGinthepresenceof1 l MZn2+
+5 l M Zn2+. This reveals that heparin binds HRG via dif- (asillustratedbyashiftinthecurvetotheleft)ascompared
+ferent ‘modes’, whereby the less endothermic or exother- withthedatawithoutZn2+orwith5 l MZn2+.Thiscorre-
+mic mode of binding occurs with higher affinity than the lateswithapreviousstudyrevealingthatcomplexesof1 : 1
+more endothermic, lower-affinity mode, and is modulated and 2 : 1 (HRG/heparin) can form, with formation of the
+by Zn2+. The possibility that the isotherm reflects both 2 : 1complexbeingenhancedbythepresenceofZn2+[42].
+Zn2+–heparin and heparin–HRG interactions was ruled Asunfractionatedheparinwasusedinthisinstance,itwas
+1–)tnatcejni
+lom(
+lack
+50
+40
+30
+20
+–10
+–12
+0 5 10 15 20 25 30 35
+Molar ratio (Zn2+)
+Fig.2. IsothermaltitrationcalorimetrydataforZn2+bindingto
+humanhistidine-richglycoprotein(HRG).Here,55injectionsof
+5lLof150l MZnCl
+2
+weredeliveredtosamplesof10l MHRGin
+buffercontaining50mMTrisand140mMNaCl(pH7.4)overaper-
+iodof10swithanadequateinterval(240s)betweeninjectionsto
+allowcompleteequilibration.ThetotalZn2+concentrationatthe
+endoftheexperimentwas24.6l M.RawdataareshowninFig.S5.
+1–)tnatcejni
+lom(
+lack
+104 O.Kassaaretal
+10
+0
+0.0 0.2 0.4 0.6 0.8 1.0
+Molar ratio (unfractionated heparin)
+Fig.3. Isothermaltitrationcalorimetrydatashowingtheeffectof
+Zn2+onheparinbindingtohumanhistidine-richglycoprotein
+(HRG).IntheabsenceofZn2+,theinteractionbetweenheparinand
+HRGforthefirstfewinjectionsgivesrisetoalessendothermic(or
+exothermic)componentoftheisothermcorrespondingtoadifferent
+overlappingmodeofbinding,whichisincreasinglypronouncedin
+thepresenceofZn2+.Here,45injectionsof5lLof50l Mheparin
+(averagemolecularmassassumedtobe15kDa)weredeliveredto
+samplesofHRG(10l Minbuffercontaining50mMTris,50mM
+NaCland0l M[■],1l M[○]and5l M[▲]ZnCl
+2
+,pH7.4)overa
+periodof10swithanadequateinterval(240s)betweeninjections.
+Zn2+wasincludedinthebufferatconcentrationsof0,1and5l M.
+RawdataareshowninFigs.S6–S8.
+©2014TheAuthors.JournalofThrombosisandHaemostasispublishedbyWileyPeriodicals,Inc.onbehalfofInternationalSocietyon
+ThrombosisandHaemostasis.
+--- Page 5 ---
+not possible to assign an accurate molecular mass to the A
+titrantsolution(anaveragemassof15 kDawasused),and 1.0
+Unfractionated heparin (3–30 kDa)
+so the x-axis in Fig. 3 is, to a large degree, arbitrary.
+However,ifweusethemolarratioof0.4observedinthese
+experimentstorepresentthe1 : 1complex(whichisthecal-
+culated N-value for both the Zn2+-free and 5 l M Zn2+
+0.5
+datasets),thenthemolarratioof0.2(whichisthecalculated
+N-value for the 1 l M Zn2+ dataset)can be takento repre-
+sent the 2 : 1 complex. The data here suggest that higher
+concentrationsofZn2+(5 l M)inhibitformationofthe2 : 1
+complex.Thecomplexityoftheinteractionisacorollaryof
+the molecules involved, as HRG is probably able to bind
+heparin at different regions, and heparin molecules them-
+B
+selvesareheterogeneous(existinginvaryingchainlengths),
+6850-Da heparin
+and,inthepresenceofZn2+,interactdifferentlywithHRG,
+dependingonlength.
+As it was problematic to obtain quantitative informa-
+tion from the ITC data, owing to the mix of interactions
+giving rise to the different enthalpies observed, an ELISA
+protocol was established to calculate the affinities
+involved in this interaction. Unfractionated (3–30 kDa)
+and fractionated LMWH (6850 Da) were used separately
+in these studies. In each case, HRG bound heparin in a
+concentration-specific manner (Fig. 4A,B). In the absence
+of Zn2+, the average apparent K
+d
+0 value was 32.9 nM
+(corresponding to K0 = 3.04 9 107 M (cid:2)1). This is consider-
+ably stronger than the affinity derived from the ITC data
+(K ITC = 2.44 9 106 M (cid:2)1), and probably reflects the Zn2+-
+dependent mode of binding that could not be quantified
+by ITC. The affinity of HRG for the unfractionated hep-
+arin was even higher in the presence of 1 l M Zn2+ (aver-
+age apparent K
+d
+0 = 5.1 nM). The stochiometry of binding
+was similar in both cases, suggesting that the two binding
+modes observed in the ITC experiments are mutually
+exclusive (i.e. coordination of Zn2+ does not create addi-
+tional heparin-binding sites). These data suggest that even
+relatively small changes in plasma Zn2+ speciation are
+likely to affect the heparin-binding properties of HRG
+and its hemostatic functions. Zn2+ did not influence the gest that addition of 1 l M Zn2+ allows formation of 2 : 1
+ability of HRG to bind LMWH; average K values were (HRG/heparin) complexes. This effect has previously
+d
+~ 30 nM in both the presence and absence of 1 l M Zn2+ been shown only to occur with heparins of ≥ 10 kDa [42].
+(Fig. 4B). Antithrombin has a high affinity for heparin, Longer-chain heparins presumably offer greater potential
+with a K
+d
+in the region of 10–20 nM [43], and was for simultaneous binding of multiple HRG molecules to a
+reported to bind a fraction of heparin (termed low-affinity single chain. However, this is stated with caution, as the
+heparin) with a K d of 19 l M [44]. Taking these numbers data here do not fully reveal the binding mechanism. It is
+into account with the data obtained here, it is apparent also unclear why addition of 5 l M Zn2+ averted forma-
+that HRG is a stronger competitor for heparin in the tion of 2 : 1 complexes, but it is likely that a higher pro-
+presence of Zn2+. portion of Zn2+ bound at the HRR would enhance
+Previous studies have indicated that the N1/N2 region heparin binding at this site, which would increase the
+and the HRRs of HRG interact with heparin, and that number of heparin molecules bound per HRG molecule.
+binding to the HRR is Zn2+-dependent [11,45]. From the The data presented are significant, as heparins are used
+data presented, it would appear that HRG binds heparins clinically as anticoagulants, although there are some com-
+of essentially all chain lengths via its N1/N2 domain in a plications with their use (particularly for unfractionated
+Zn2+-independent manner, forming a 1 : 1 complex. heparin). Unfractionated heparin is plagued by a narrow
+When larger heparin chains are present, binding affinity therapeutic window and an unpredictable dose–response
+for HRG is enhanced by Zn2+. In addition, the data sug- profile, as well as other problems, including the inability
+stinu
+ecnabrosbA
+0.0
+1.0
+0.5
+stinu
+ecnabrosbA
+FFAlevelsinfluenceHRG-heparinbinding 105
+0 10–10 10–9 10–8 10–7 10–6 10–5
+HRG concentration (log M)
+0.0
+0 10–10 10–9 10–8 10–7 10–6 10–5
+HRG concentration (log M)
+Fig.4. Analysisofhistidine-richglycoprotein(HRG)-heparinbind-
+ingusinganELISA-basedassay.InfluenceofZn2+onbindingof
+humanHRGto(A)unfractionatedheparin(3–30kDa)and(B)low
+molecularweightheparin(6850Da).Heparin(25lgmL(cid:2)1)was
+coatedovernightontoaheparin-bindingplatein50mmHEPES,
+150mMNaCl,and0.2%Tween-20(pH7.4).Theplatewasthen
+washedwiththesamebuffer,andthenblockedwiththesamebuffer
+containing0.2%gelatin.HumanHRGwasthenaddedoverarange
+ofconcentrations(0–3l M)witheither0l M(■)or1l M(○)ZnCl
+2
+in
+triplicate,andincubatedfor2h.Detectionwasperformedwithpri-
+maryrabbitanti-HRGfollowedbyalkalinephosphatase-linkedanti-
+rabbitantibody,andobservedwithap-nitrophenolphosphatesub-
+strateat405nM.
+© 2014 The Authors. Journal of Thrombosis and Haemostasis published by Wiley Periodicals, Inc. on behalf of International Society on
+ThrombosisandHaemostasis.
+--- Page 6 ---
+to promote inhibition of fibrin-bound thrombin and 0
+platelet-bound factor Xa and the potential to trigger hep-
+arin-induced thrombocytopenia. LMWHs have a more
+–1
+predictable dose–response profile, but are still unable to
+inhibit fibrin-bound thrombin and platelet-bound factor
+Xa [46,47]. The observation that Zn2+ increases the affin- –2
+ity of HRG for unfractionated heparin (which contains
+heparins up to 30 kDa) and not LMWH may help to
+–3
+explain the clinical differences observed between the for-
+5 Myr
+mer and the latter.
+Recently, we examined the binding of Myr (C14) to –4
+bovine serum albumin (BSA) by using ITC. This
+revealed that even the presence of 1 mol eq. of Myr
+perturbed albumin’s ability to bind Zn2+, and that
+4 mol eq. of Myr was sufficient to almost completely 3 Myr
+suppress Zn2+ binding [29]. To examine the effect of
+FFAs on the Zn2+-binding properties of HSA, ITC 2 Myr
+was performed with HSA (50 l M), loaded with increas- 1 Myr
+0 Myr
+ing molar equivalents of Myr (0–250 l M, corresponding
+to 0–5 mol eq.) prior to titration with ZnCl
+2
+(1.5 mM).
+The resulting isotherms are shown in Fig. 5 (the full
+dataset is shown in Fig. S3), where trends for decreas-
+ing stoichiometry and a lowering of the overall affinity
+of HSA for Zn2+ are observed. Two classes of binding
+site were discernible for FFA-free HSA, yielding
+K1 ITC = 1.35 9 105 M (cid:2)1 and K2 ITC = 2.86 9 103 M (cid:2)1.
+The weaker-affinity binding site class corresponds to at
+least one further metal-binding site with non-negligible
+affinity for Zn2+; the existence of such secondary sites
+is well documented in the literature [48–51]. All fits
+shown in Fig. 5 correspond to a two-sets-of-sites model
+with K1 , the binding constant for the highest-affinity ITC
+site (site A), now fixed at 1.35 9 105 M (cid:2)1, and the stoi-
+chiometric factor N1 being varied. Various fitting
+approaches were explored (Tables S1 and S2), and,
+under all scenarios, the stoichiometric factor N1 for
+site A decreased progressively, from 0.98 to 0.86 in the levels is likely to lead to Zn2+ redistribution from HSA
+absence of Myr, to 0.01–0.13 in the presence of to HRG. All K values were corrected for competition
+ITC
+5 mol eq. of Myr (Fig. 6A). From these data, it is clear with Tris [29], but, as all experiments were carried out at
+that the high-affinity Zn2+ site had all but disappeared physiologic pH and ionic strength, the resulting condi-
+at 5 mol eq. of Myr, although some weak Zn2+-binding tional constants (Table 1) are otherwise valid for the con-
+capacity (K2 ITC < 104 M (cid:2)1) from the secondary site(s) ditions in plasma. Using these constants, we modeled
+remained (Table S1). In contrast to what was observed Zn2+ speciation in the HRG–HSA–FFA system on the
+for BSA [29], the secondary binding sites on HSA were basis of typical physiologic concentrations of exchange-
+not adversely affected by the presence of Myr. Overall, able Zn2+ (15 l M), HSA (620 l M), and HRG (1 or
+it may be concluded that even normal (~ 1 mol eq.) 2 l M). The effect of FFA was determined as a reduction
+FFA levels modulate the Zn2+-binding capacity of in the availability of site A, with the numbers for N1
+HSA, but that pathologic levels (up to 5 mol eq. [31– determined above. Weaker binding to the secondary sites
+36]) severely affect or nearly abolish high-affinity Zn2+ on HSA was also taken into account, with various combi-
+binding. It is likely that the physiologically pertinent nations of N2 and K2 derived from the fits (Table S2).
+longer-chain fatty acids (C16 and C18), owing to their All calculated speciation values are reported in Table S3,
+higher affinity for HSA [40], have an at least similar if and the most salient findings are shown in Fig. 6. As the
+not more pronounced effect. availability of site A decreased (Fig. 6A), some Zn2+
+With the Zn2+-binding constant data for HRG and for became unbound, some Zn2+ became bound by the sec-
+HSA in the presence and absence of FFA in hand, it was ondary site(s) on albumin, and a significant proportion
+possible to explore whether an increase in plasma FFA became bound to HRG (Fig. 6B). At the highest Myr
+1–)tnatcejni
+lom(
+lack
+106 O.Kassaaretal
+–5
+–6
+–7
+–8
+0 1 2 3
+Molar ratio (Zn2+)
+Fig.5. Isothermaltitrationcalorimetrydatashowingtheinteraction
+betweenhumanserumalbumin(HSA)andZn2+inthepresenceof
+0moleq.(○),1moleq.(●),2moleq.( ),3moleq.(▼)and
+5moleq.(★)ofmyristate(Myr).HSA(50l M)wasincubatedwith
+thedesiredamountofMyrfor2hat37°C.TheHSAsamplewas
+thentitratedwith5-lLinjectionsofa1.5mMZnCl
+2
+solution(55
+injections).ThetotalZn2+concentrationattheendoftheexperi-
+mentwas246l M.Experimentswereconductedinbuffercontaining
+50mMTrisand140mMNaCl(pH7.4).Forclarity,onlythefirst
+halvesofthecurvesareshown(seeFig.S3forfulldataset).Thefits
+correspondtoa‘two-sets-of-sites’modelwiththestoichiometricfac-
+torforthesecondarybindingsitefixedat1.00.Rawdataareshown
+inFigs.S9–S14.
+©2014TheAuthors.JournalofThrombosisandHaemostasispublishedbyWileyPeriodicals,Inc.onbehalfofInternationalSocietyon
+ThrombosisandHaemostasis.
+--- Page 7 ---
+A C
+1.2
+0.8
+B
+data shown in Fig. 4, an equimolar amount of Zn2+ is
+sufficient to significantly increase the affinity of HRG for
+unfractionated heparin. It needs to be emphasized that
+our estimates are deliberately conservative, and that a
+reduction in site A availability to 0.07 still corresponds to
+~ 40 l M – in principle, still more than enough to bind all
+exchangeable Zn2+. Nevertheless, the binding constants
+and concentrations of HSA and HRG seem to be so
+finely balanced that even partial obliteration of site A on
+HSA leads to a notable shift of Zn2+ from HSA to
+HRG. The formation of up to 0.9 l M ‘free Zn2+’ is also
+interesting (Fig. S4); it is possible that this fraction
+becomes more available for interaction with other plasma
+proteins and/or for cellular uptake via ZIP transporters
+by endothelial or other cells. Significantly, a reduction in
+level, HRG had ~ 1.25 mol eq. of Zn2+ bound, as com- total plasma Zn2+ is also a hallmark of several disease
+pared with ~ 0.15–0.25 mol eq. at physiologically normal states that are characterized by high plasma FFA levels
+FFA levels (1–2 mol eq.). According to the ELISA assay [52–56].
+A
+etis
+fo
+noitapuccO
+0.4
+0.0
+0
+2
+1.5
+1
+0.5
+0
+GRH/+2nZ
+FFAlevelsinfluenceHRG-heparinbinding 107
+Fatty acid
+Zn2+
+HSA HRG
+Heparin
+ATIII Thrombin
+1 2 3 4 5
+Mol. eq. Myr
+Fatty acid
+Zn2+
+HSA HRG
+Heparin
+Clot
+ATIII Thrombin
+0 1 2 3 4 5 formation
+Mol. eq. Myr
+Fig.6. SpeciationmodelinganalysisofplasmaZn2+.(A)Occupationofhumanserumalbumin(HSA)siteAinthepresenceof0–5mol.eq.
+myristate.(B)ProportionofZn2+boundtoHRGinthepresenceof0–5mol.eq.myristate.ValuesforthestoichiometricfactorforsiteA
+wereextractedfromseveralfits(TableS2)andaveraged.ForthedeterminationofHRGloadingwithZn2+theconditionalconstantsfrom
+Table1wereusedtomodelthedistributionofZn2+(15l M)inthepresenceofHSA(620l M)andHRG(1or2l M).Fullspeciationdataare
+reportedinTableS3.Errorscorrespondineachcaseto1r.(C)ReactionschemeshowingtheproposedeffectsthatelevatedFFAlevelswould
+haveinrelationtomodulationofHRG–heparininteractionsanddestabilizationofthethrombin-antithrombinIII(ATIII)complex.Myr,myri-
+state.
+Table1 ConditionalZn2+bindingconstantsforhumanserumalbu-
+min(HSA)andhistidine-richglycoprotein(HRG)
+Protein Fixedparameter K K0
+ITC
+HRG – (8.06(cid:3)0.40)9104 1.639105
+HSA(siteA) – (1.35(cid:3)0.20)9105 2.739105
+HSA N2=1 (6.1(cid:3)1.5)9103 1.29104
+[secondary N2=2 (7.0(cid:3)2.7)9103 1.49104
+site(s)]
+The final conditional constants K0 valid for pH7.4 and physiologic
+ionic strength were derived from the K constants by correcting
+ITC
+for competition with 50mM Tris [29]. K ITC for siteA was derived
+from fitting the data in the absence of myristate (Myr) to a sequen-
+tial binding sites model with two sites (TableS1). In the case of the
+secondarysite(s)onHSA,theaveragesfromfittingdatainthepres-
+enceandabsenceofMyrarereported
+© 2014 The Authors. Journal of Thrombosis and Haemostasis published by Wiley Periodicals, Inc. on behalf of International Society on
+ThrombosisandHaemostasis.
+--- Page 8 ---
+108 O.Kassaaretal
+Speciation modeling of plasma Zn2+ based on the pre-
+Acknowledgements
+sented data suggests that elevated FFA levels (as
+observed in certain pathologic conditions) will modulate We would like to thank S. Pitt and G. Cramb for critical
+HRG–heparin interactions, which could potentially reading of the manuscript. This work was supported by
+impact on coagulation (Fig. 6C). Our model only consid- the British Heart Foundation (grant FS/10/036/28352 to
+ered serum albumin and HRG, and did not take into A. J. Stewart) and the Biotechnology and Biological Sci-
+account other Zn2+-binding molecules present in the cir- ences Research Council (grant BB/J006467/1 to A. J.
+culation that could bind at least some of the Zn2+ dis- Stewart and C. A. Blindauer).
+placed from albumin. However, the abundance of HRG
+in plasma (micromolar levels) and its affinity for Zn2+
+Disclosure of Conflict of Interests
+suggest that it would probably bind a significant propor-
+tion of displaced Zn2+. Furthermore, both ITC (qualita- The authors state that they have no conflict of interest.
+tively) and ELISA assay data (quantitatively) indicated
+that only a small proportion of the Zn2+ displaced from
+serum albumin (1–2 l M) is required to have a pronounced Supporting Information
+effect on the affinity of HRG for heparin. Additional Supporting Information may be found in the
+In addition to heparin neutralization, HRG binds with online version of this article:
+high affinity to plasminogen in a Zn2+-dependent manner
+Fig. S1. Alignment of human and rabbit HRG amino
+[57]. Despite this, the effects of this interaction on plas-
+acid sequences.
+minogen conversion to plasmin or its fibrinolytic activity
+Fig. S2. Full ITC data (including raw data) for Zn2+
+remain unknown. Moreover, HRG is known to interact
+binding to rabbit HRG.
+with fibrinogen and compete with thrombin binding on
+the c-chain of the protein [58]. This interaction is also Fig. S3. ITC data showing the interaction between HSA
+Zn2+-dependent, and its effects on fibrin clot formation and Zn2+ in the presence of 0–5 mol eq. of myristate.
+Fig. S4. Predicted unbound Zn2+ concentrations in the
+or structure have not been studied. This means that hy-
+presence of 0–5 mol eq. of myristate.
+peractivation of HRG in disease states may also influence
+hemostatic functioning through other mechanisms. Zn2+ Fig. S5. Full ITC data (including raw data) for Zn2+
+binding to human HRG.
+is also known to influence thrombosis and hemostasis
+Fig. S6. Full ITC data (including raw data) for heparin
+through interaction with other proteins. For example,
+Zn2+ may promote platelet aggregation by enhancing the binding to human HRG in the absence of Zn2+.
+interactions of fibrinogen with its cognate receptor, a b Fig. S7. Full ITC data (including raw data) for heparin
+[59], and of high molecular weight kininogen and F II X b II 3 binding to human HRG in the presence of 1 µ M Zn2+.
+Fig. S8. Full ITC data (including raw data) for heparin
+with platelet glycoprotein Ib [60], at the platelet surface.
+Thus, the full impact of FFA-mediated displacement of binding to human HRG in the presence of 5 µ M Zn2+.
+Zn2+ from HSA on hemostasis may not be limited to the Fig. S9. Full ITC data (including raw data) for Zn2+
+modulation of HRG–heparin interactions. binding to human HRG in the absence of myristate.
+Fig. S10. FullITCdata(includingrawdata)forZn2+bind-
+The results of the current study are therefore compel-
+ling, and provide evidence to suggest that Zn2+-depen- ingtohumanHRGinthepresenceof1 mol eq.ofmyristate.
+dent formation of HRG–heparin complexes, following Fig. S11. Full ITC data (including raw data) for Zn2+
+binding to human HRG in the presence of 2 mol eq. of
+FFA binding to serum albumin, constitutes a novel
+myristate.
+molecular mechanism for the development of hemostatic
+Fig. S12. Full ITC data (including raw data) for Zn2+
+complications in individuals with high plasma FFA levels.
+binding to human HRG in the presence of 3 mol eq. of
+Thus, maintenance and monitoring of plasma FFA levels
+myristate.
+may prove useful in preventing thrombosis and the for-
+Fig. S13. Full ITC data (including raw data) for Zn2+
+mation of obstructive clots.
+binding to human HRG in the presence of 4 mol eq. of
+myristate.
+Addendum Fig. S14. Full ITC data (including raw data) for Zn2+
+binding to human HRG in the presence of 5 mol eq. of
+O. Kassaar, U. Schwarz-Linek, C. A. Blindauer, and A.
+myristate.
+J. Stewart study concept and design. O. Kassaar acquisi-
+Table S1. ITC data fitting approaches for ITC experi-
+tion of data. O. Kassaar, U. Schwarz-Linek, C. A.
+ments examining Zn2+ binding in the presence of 0–
+Blindauer, and A. J. Stewart analysis and interpretation
+5 mol eq. of myristate.
+of data. O. Kassaar, U. Schwarz-Linek, C. A. Blindauer,
+Table S2. Fitting results for ITC experiments examining
+and A. J. Stewart drafting of the manuscript. All authors
+Zn2+ binding in the presence of 0–5 mol eq. of myristate.
+critically reviewed the manuscript and approved the final
+Table S3. Results from Zn2+ speciation modeling.
+version.
+©2014TheAuthors.JournalofThrombosisandHaemostasispublishedbyWileyPeriodicals,Inc.onbehalfofInternationalSocietyon
+ThrombosisandHaemostasis.

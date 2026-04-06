@@ -1,0 +1,251 @@
+
+--- Page 1 ---
+Arteriosclerosis, Thrombosis, and Vascular Biology
+BASIC SCIENCES
+Histidine-Rich Glycoprotein Modulates the Toxic
+Effects of High-Dose Polyphosphate in Mice
+Rida A. Malik ,* Ji Zhou ,* James C. Fredenburgh , Jeff Crosby, Alexey S. Revenko , Jeff S. Healey , Jeffrey I. Weitz
+BACKGROUND: Polyphosphate (polyP), a procoagulant released from platelets, activates coagulation via the contact system and
+modulates cardiomyocyte viability. High-dose intravenous polyP is lethal in mice, presumably because of thrombosis. Previously,
+we showed that HRG (histidine-rich glycoprotein) binds polyP and attenuates its procoagulant effects. In this study, we
+investigated the mechanisms responsible for the lethality of intravenous polyP in mice and the impact of HRG on this process.
+METHODS: The survival of wild-type or HRG-deficient mice given intravenous synthetic or platelet-derived polyP in doses up to
+50 mg/kg or saline was compared. To determine the contribution of thrombosis, the effect of FXII (factor XII) knockdown or
+enoxaparin on polyP-induced fibrin deposition in the lungs was examined. To assess cardiotoxicity, the ECG was continuously
+monitored, the levels of troponin I and the myocardial band of creatine kinase were quantified, and the viability of a cultured
+murine cardiomyocyte cell line exposed to polyP in the absence or presence of HRG was determined.
+RESULTS: In HRG-deficient mice, polyP was lethal at 30 mg/kg, whereas it was lethal in wild-type mice at 50 mg/kg. Although
+FXII knockdown or enoxaparin administration attenuated polyP-induced fibrin deposition in the lungs, neither affected mortality.
+PolyP induced dose-dependent ECG abnormalities, including heart block and ST-segment changes, and increased the levels of
+troponin and myocardial band of creatine kinase, effects that were more pronounced in HRG-deficient mice than in wild-type
+mice and were attenuated when HRG-deficient mice were given supplemental HRG. Consistent with its cardiotoxicity, polyP
+reduced the viability of cultured cardiomyocytes in a dose-dependent manner, an effect attenuated with supplemental HRG.
+CONCLUSIONS: High-dose intravenous polyP is cardiotoxic in mice, and HRG modulates this effect.
+GRAPHIC ABSTRACT: A graphic abstract is available for this article.
+Key Words: arrhythmias, cardiac ◼ cardiotoxicity ◼ factor XII ◼ polyphosphates ◼ thrombosis
+Inorganic polyphosphates (polyPs) are linear polymers platelets are activated.5,6 Platelet polyP promotes coag-
+of phosphate residues linked by high-energy phos- ulation by inducing FXII (factor XII) autoactivation,7–10
+phoanhydride bonds.1 Each phosphate residue carries promoting FV (factor V) and FXI (factor XI) activation
+a monovalent negative charge, rendering polyP highly by thrombin,11–13 and enhancing the stability of fibrin
+anionic at physiological pH.2 PolyP is ubiquitous and clots.14–16 Therefore, platelet polyP appears to be an
+varies in polymer length from a few to several thousand important physiological activator of coagulation.
+phosphate units depending on the organism and the tis-
+sue in which it is synthesized.2 In mammals, polyP has
+See accompanying editorial on page 1671
+been implicated in blood coagulation, innate immunity,
+inflammation, cancer metastasis, cell proliferation, and
+cell death.3,4 Therefore, polyP has myriad functions. PolyP also functions at the cellular level. PolyP is found
+In humans, large amounts of polyP are found in the in the heart, kidneys, and brain.17–19 In cardiac mitochon-
+dense granules of platelets.5,6 Platelet polyP, which is dria, polyP activates the mitochondrial permeability tran-
+60 to 100 phosphate units in length, is released when sition pore, a nonselective pore in the inner mitochondrial
+Correspondence to: Jeffrey I. Weitz, OC, MD, Thrombosis and Atherosclerosis Research Institute, 237 Barton St E, Hamilton, Ontario L8L 2X2, Canada. Email weitzj@taari.ca
+*R.A. Malik and J. Zhou contributed equally.
+Supplemental Material is available at https://www.ahajournals.org/doi/suppl/10.1161/ATVBAHA.124.320899.
+For Sources of Funding and Disclosures, see page 1669.
+© 2024 American Heart Association, Inc.
+Arterioscler Thromb Vasc Biol is available at www.ahajournals.org/journal/atvb
+1658 July 2024 Arterioscler Thromb Vasc Biol. 2024;44:1658–1670. DOI: 10.1161/ATVBAHA.124.320899
+Downloaded
+from
+http://ahajournals.org
+by
+on
+March
+23,
+2026
+--- Page 2 ---
+BASIC
+SCIENCES
+-
+T
+Malik et al HRG Modulates Polyphosphate Toxicity
+Nonstandard Abbreviations and Acronyms Highlights
+ASO antisense oligonucleotide • With high doses, intravenous polyphosphate is lethal
+CK-MB creatine kinase myocardial band in mice.
+• Lethality reflects cardiotoxicity rather than thrombosis.
+DAPI 4ʹ,6-diamidino-2-phenylindole
+• Histidine-rich glycoprotein protects against the
+FV factor V
+lethal effects of polyphosphate.
+FXI factor XI
+FXII factor XII
+FXIIa activated factor FXII pretreatment with enoxaparin or knockdown of FXII with
+HEK human embryonic kidney an antisense oligonucleotide (ASO) rescued the mice
+and attenuated thrombosis. The potential cardiotoxicity of
+HRG histidine-rich glycoprotein
+polyP was investigated by continuous monitoring of the
+HRG−/− histidine-rich glycoprotein-deficient
+ECG, by quantification of the levels of troponin I and the
+LDH lactate dehydrogenase
+myocardial band of creatine kinase (CK-MB) before and
+PolyP polyphosphate
+after polyP injection, and by assessment of the effects of
+TAT thrombin-antithrombin
+polyP on the viability of a cultured murine cardiomyocyte
+cell line in the absence or presence of HRG. Finally, the
+potential toxic effect of polyP on the kidneys was investi-
+membrane that provides a permeation pathway for ions,
+gated by measuring the creatinine levels before and after
+solutes, and small proteins.20–22 By allowing their entry,
+polyP injection and by examining the effect of polyP on
+polyP may modulate cardiomyocyte viability because
+the viability of cultured HEK (human embryonic kidney)
+polyP depletion protects cardiomyocytes from ischemic
+cells in the absence or presence of HRG.
+injury.17,23 PolyP also alters the viability of kidney cells
+although less is known about the mechanism.19
+HRG (histidine-rich glycoprotein) is a 75-kDa gly-
+METHODS
+coprotein that is synthesized in the liver and that circu-
+lates in plasma at 1 to 3 µmol/L.24 HRG modulates the The authors declare that all supporting data are available within
+prothrombotic effect of intraperitoneal polyP injection the article (and the Supplemental Material).
+in mice because compared with wild-type mice, HRG-
+deficient (HRG−/−) mice exhibit increased thrombin gen- Reagents and Isolation of Platelet-Derived
+eration and fibrin deposition, effects abolished with HRG polyP
+supplementation.25 There are at least 2 mechanisms
+The source of reagents and the methods for the isolation
+by which HRG attenuates the prothrombotic effects of
+of platelet-derived polyP, in vivo studies, histology, and cell
+intraperitoneal polyP. First, HRG binds polyP and neu-
+culture are available in the Major Resources Table in the
+tralizes its procoagulant activities.25 Second, HRG binds Supplemental Material. Synthetic short-chain polyP, which was
+FXIIa (activated FXII) and attenuates its capacity to pro- generously provided by Dr Thomas Staffel (70.5 CAREPHOS
+mote autoactivation and to activate FXI.25–27 The relative 244; BK Giulini, GmbH, Ladenburg, Germany), was dissolved
+importance of these 2 mechanisms is uncertain. in 20 mmol/L HEPES, pH 7.4, for the in vitro studies and in
+When given by intravenous injection to mice, concen- 0.9% sterile saline for the in vivo studies without added cal-
+trations of polyP up to 300 mg/kg cause death within cium. PolyP was isolated from platelets as described in the
+Supplemental Material. The various polyP preparations were minutes.7,28,29 Mortality was attributed to overwhelming
+subjected to TBE (tris-boric acid)-urea gel analysis and their
+thrombosis, and consequently, high-dose intravenous
+capacities to promote FXII autoactivation were compared. On polyP infusion is often used as a trigger of thrombosis
+TBE-urea gel analysis, the size distribution of platelet-derived
+in animal models. However, neither the protective effect
+polyP was like that of synthetic short-chain polyP from BK
+of HRG nor the potential cardiotoxicity of polyP has
+Giulini and commercially available polyP-100 from Kerafast
+been considered. Because intraperitoneal polyP induces (Boston, MA), whereas longer polyP polymers were evident in
+thrombosis that is exaggerated with HRG depletion and synthetic long-chain polyP from BK Giulini (Figure S1A). All
+attenuated with FXII depletion, we set out to determine the polyP preparations promoted FXII autoactivation to a simi-
+whether HRG and FXII depletion have the same oppos- lar extent (Figure S1B). PolyP concentrations used in this study
+ing effects in the intravenous polyP model. To explore are given in terms of phosphate monomer (NaPO ) concentra-
+3
+the protective effects of HRG, we compared the survival tion as described previously.3,6
+of wild-type and HRG−/− mice given increasing intrave-
+nous doses of synthetic or platelet-derived polyP. The Mice
+contribution of thrombosis to the lethal effects of intra- HRG−/− mice were maintained on a pure C57BL/6N back-
+venous polyP was investigated by determining whether ground (The Jackson Laboratory, Bar Harbor, MA) after >10
+Arterioscler Thromb Vasc Biol. 2024;44:1658–1670. DOI: 10.1161/ATVBAHA.124.320899 July 2024 1659
+Downloaded
+from
+http://ahajournals.org
+by
+on
+March
+23,
+2026
+--- Page 3 ---
+T
+-
+SECNEICS
+CISAB
+Malik et al HRG Modulates Polyphosphate Toxicity
+generations of backcrossing.25,30,31 Wild-type C57BL/6J mice injection of 50 mg/kg polyP or an equivalent volume of saline.
+were purchased from The Jackson Laboratory (Bar Harbor, This dose of enoxaparin produced plasma anti-Xa and anti-IIa
+MA) and were bred in-house for at least 5 generations. Mice levels of 1.2±0.2 and 0.5±0.1 U/mL, respectively (Figure S5),
+were housed in Micro-Isolator cages exposed to a 12-hour consistent with the reported anti-Xa/anti-IIa ratio of enoxaparin
+constant light-dark cycle and were given free access to food of about 3 to 1.32,33 The anti-Xa level was within the reported
+and water. Weight- and age-matched female mice were used therapeutic range of 0.6 to 1.0 IU/mL.32,33
+for all the experiments. Blood was collected, and serum and
+plasma were prepared as described in the Supplemental
+ECG Monitoring
+Material. All animal utilization protocols were approved by the
+To assess for cardiotoxicity, the ECG was continuously moni-
+Animal Research Ethics Board at McMaster University, and
+tored after induction of anesthesia using an animal BioAmp
+studies were performed according to the Canadian Council on
+recorder (AD Instruments) and subdermal electrodes (AD
+Animal Care guidelines.
+Instruments, Sydney, Australia) inserted into the right hind foot,
+left chest/breast, and right neck-shoulder area. ECG tracings
+Intravenous polyP Injection in Mice
+were recorded starting 2 minutes before jugular vein cannu-
+HRG−/− and wild-type mice were anesthetized using a combi- lation and continuing until 30 minutes after polyP or saline
+nation of oxygen (0.5 L/min) and isoflurane (1%–4%) deliv- injection or until death. The ECG tracings were analyzed by 3
+ered by face mask. After the skin was aseptically prepared, the investigators (R.A.M, J.Z., and J.S.H., an electrophysiologist),
+jugular vein was exposed via a midline incision in the neck and who were blinded to treatment allocation, using a combination
+a cannulus (polyethylene tubing) was inserted and secured in of visual inspection and LabChart 8 software (AD Instruments,
+place with a suture. Synthetic or platelet-derived polyP (10– Dunedin, New Zealand).
+50 mg/kg in saline) or an equivalent volume of saline was
+given intravenously via an infusion pump (Harvard Apparatus,
+Levels of Biomarkers
+Holliston, MA) at a rate of 2 µL/min per g. Both the synthetic
+Serum levels of murine troponin I and CK-MB were quantified
+and platelet-derived polyP preparations tested negative for
+using immunoassays (Biomatik, Cambridge, Ontario, Canada)
+endotoxin activity in a screening assay (Pierce Endotoxin
+according to the manufacturer’s instructions. Plasma creati-
+Chromogenic Kit from Thermo Fisher). For comparison pur-
+nine levels were quantified using a kit purchased from Crystal
+poses, an intravenous dose of 50 mg/kg polyP produces a
+Chem (Elk Grove Village, IL). Plasma thrombin- antithrombin
+circulating polyP concentration of about 7 mmol/L assuming
+(TAT) complex levels were quantified by immunoassay
+a 1-mL blood volume for a 25-g mouse. The plasma and tissue
+(Affinity Biologicals, Ancaster, Ontario, Canada) as described
+samples were collected 30 minutes after treatment with either
+previously.25 saline or polyP or at the time of death if it occurred earlier. Mice
+were euthanized via cervical dislocation, blood was collected
+via puncture of the inferior vena cava, and plasma or serum was Effects of polyP on Cultured Cells
+prepared as detailed in the Supplemental Material (Figure S2).
+Mouse cardiomyocyte HL-1 and HEK293 cell line were cul-
+The lungs, liver, heart, and kidneys were removed for histologi-
+tured to about 60% confluence in 8-well chambers coated with
+cal analysis.
+fibronectin (10 µg/mL per well). The cells were exposed to
+polyP in concentrations up to 42 mmol/L or buffer for up to 24
+Effects of HRG Supplementation, FXII hours. Cell cytotoxicity was assessed by measuring the levels
+of LDH (lactate dehydrogenase) in the culture medium using
+Knockdown, or Treatment With Enoxaparin
+a commercial kit (Thermo Fisher, Grand Island, NY). The effect
+To investigate the potential protective effects of HRG and the
+of polyP on cell structure was assessed by staining for actin
+contribution of FXII in this model, some HRG−/− mice were
+filaments (F-actin) after the cells were fixed with 4% para-
+given a retro-orbital injection of 6 mg/kg of human HRG before
+formaldehyde for 30 minutes, permeabilized with 0.1% Triton
+the intravenous administration of 30 mg/kg polyP. This dose of
+X-100 in PBS, and blocked by incubation with 1% BSA in PBS
+supplemental human HRG was chosen because it raises the
+for 1 hour at room temperature. Actin filaments were stained
+plasma HRG concentration to 1.5 to 2 µmol/L, which is similar
+with 1X Phallodin-iFluor-488 (Cayman Chemicals, Ann Arbor,
+to that in wild-type mice.31
+MI), and the nuclei were stained with DAPI (4ʹ,6-diamidino-
+To determine whether thrombosis was responsible for the
+2-phenylindole). The cells were imaged using the Olympus
+toxicity of polyP, we examined the effect of FXII knockdown
+BX41 fluorescence microscope equipped with a DP72 cam-
+or enoxaparin. The levels of FXII in wild-type or HRG−/− mice
+era (Center Valley, PA), and images were assessed using the
+were knocked down with a liver-directed, mouse-specific FXII-
+ImageJ software, version 1.48 (National Institutes of Health,
+directed ASO generously provided by Ionis Pharmaceuticals
+Bethesda, MD).
+(Carlsbad, CA).25 The FXII ASO was administered subcutane-
+ously at a dose of 20 mg/kg twice weekly for 4 weeks (Figure
+Statistical Analysis
+S3), and the extent of knockdown was assessed by comparing
+hepatic mRNA and plasma FXII levels (Figure S4) before and All results are presented as mean±SD. Unless otherwise
+after ASO administration as described previously.25 Treatment stated, experiments were performed at least 3×. The Shapiro-
+with FXII ASO significantly reduced FXII levels by over 99% Wilk test was used to test for normality, and the significance of
+(P<0.001; Figure S4). Enoxaparin (10 mg/kg) was given differences was determined by 1- or 2-way ANOVA followed by
+via the retro-orbital vein 30 minutes before the intravenous the Holm-Sidak or Tukey comparison test. SigmaPlot, version
+1660 July 2024 Arterioscler Thromb Vasc Biol. 2024;44:1658–1670. DOI: 10.1161/ATVBAHA.124.320899
+Downloaded
+from
+http://ahajournals.org
+by
+on
+March
+23,
+2026

@@ -1,0 +1,506 @@
+
+--- Page 1 ---
+Histidine-Rich Glycoprotein Protects from Systemic
+CandidaInfection
+Victoria Rydenga˚rd1*, Oonagh Shannon2, Katarina Lundqvist1, Lukasz Kacprzyk1,3, Anna Chalupka1,3,
+Anna-KarinOlsson4,MatthiasMo¨rgelin2,WilliJahnen-Dechent5,MartinMalmsten6,ArturSchmidtchen1
+1Section of Dermatology and Venereology, Department of Clinical Sciences, Lund University, Biomedical Center, Lund, Sweden, 2Section of Infection Medicine,
+DepartmentofClinicalSciences,LundUniversity,BiomedicalCenter,Lund,Sweden,3DepartmentofMicrobiology,FacultyofBiochemistry,Biophysics&Biotechnology,
+JagiellonianUniversity,Krako´w,Poland, 4DepartmentofMedicalBiochemistryandMicrobiology,Uppsala University,Uppsala BiomedicalCenter, Uppsala,Sweden,
+5Department of BiomedicalEngineering, RWTHAachen University Hospital, Aachen,Germany,6Department of Pharmacy, Uppsala University, Uppsala Biomedical
+Center,Uppsala,Sweden
+Abstract
+Fungi, such as Candida spp., are commonly found on the skin and at mucosal surfaces. Yet, they rarely cause invasive
+infectionsinimmunocompetentindividuals,an observationreflectingtheabilityofourinnateimmunesystemtocontrol
+potentially invasive microbes found at biological boundaries. Antimicrobial proteins and peptides are becoming
+increasingly recognized as important effectors of innate immunity. This is illustrated further by the present investigation,
+demonstratinganovelantifungalroleofhistidine-richglycoprotein(HRG),anabundantandmultimodularplasmaprotein.
+HRG bound to Candida cells, and induced breaks in the cell walls of the organisms. Correspondingly, HRG preferentially
+lysedergosterol-containing liposomesbutnotcholesterol-containing ones,indicatingaspecificity forfungalversus other
+typesofeukaryoticmembranes.Bothantifungalandmembrane-rupturingactivitiesofHRGwereenhancedatlowpH,and
+mappedtothehistidine-richregionoftheprotein.Exvivo,HRG-containingplasmaaswellasfibrinclotsexertedantifungal
+effects.Invivo,Hrg2/2miceweresusceptibletoinfectionbyC.albicans,incontrasttowild-typemice,whichwerehighly
+resistant toinfection. Theresults demonstrate akeyand previously unknownantifungalrole ofHRGininnate immunity.
+Citation:Rydenga˚rdV,ShannonO,LundqvistK,KacprzykL,ChalupkaA,etal.(2008)Histidine-RichGlycoproteinProtectsfromSystemicCandidaInfection.PLoS
+Pathog4(8):e1000116.doi:10.1371/journal.ppat.1000116
+Editor:AaronP.Mitchell,CarnegieMellonUniversity,UnitedStatesofAmerica
+ReceivedFebruary21,2008;AcceptedJuly7,2008;PublishedAugust1,2008
+Copyright:(cid:1)2008Rydenga˚rdetal.Thisisanopen-accessarticledistributedunderthetermsoftheCreativeCommonsAttributionLicense,whichpermits
+unrestricteduse,distribution,andreproductioninanymedium,providedtheoriginalauthorandsourcearecredited.
+Funding:ThisresearchwassupportedbygrantsfromfromtheSwedishResearchCouncil(projects13471and2006-4469),theRoyalPhysiographicSocietyin
+Lund,theSo¨derberg,Welander-Finsen,Crafoord,O¨sterlund,Lundgrens,LionsandKockFoundations,DermaGenAB,andTheSwedishGovernmentFundsfor
+ClinicalResearch(ALF).
+CompetingInterests:Drs.SchmidtchenandMalmstenhavesharesinDermaGenAB,acompanyinvolvedintherapeuticaldevelopmentofantimicrobial
+peptides.PeptidesofHRGareincludedinpatentapplicationsofthecompany.
+*E-mail:victoria.rydengard@med.lu.se
+Introduction central histidine-rich region (HRR) with highly conserved
+GHHPH tandem repeats flanked by proline-rich regions, and a
+The innate immune system, based on antimicrobial peptides C-terminalregion[20].ThismodularstructureofHRGfacilitates
+(AMP) and proteins, provides a first line of defence against multiple interactions, involving ligands such as heparin, plasmin-
+invading microbes [1–3]. At present, over 880 different AMPs ogen, fibrinogen, thrombospondin, heme, IgG, FccR, and C1q.
+have been identified in eukaryotes (www.bbcm.univ.trieste.it/ Due to its high content of histidine residues (,13%), which are
+,tossi/pag5.htm).Duringrecentyearsithasbecomeincreasingly concentratedtotheHRR,HRGcanacquireapositivenetcharge
+evidentthatmanyAMPs,suchasdefensinsandcathelicidins,are either by incorporation of Zn2+, or by protonation of histidine
+multifunctional, also mediating chemotaxis, apoptosis, and residues at acidic conditions [20]. In this context it has been
+angiogenesis [4–6]. Conversely, molecules previously not consid- proposed that HRG acts as a pH and Zn2+ sensor, providing a
+ered as AMPs, including proinflammatory and chemotactic mechanism for regulating the various activities of HRG [24].
+chemokines [7], neuropeptides [8], peptide hormones [9,10], the HRGhasrecentlybeenascribedantiangiogenic[25]effectsinvitro,
+anaphylatoxin peptide C3a [11,12], growth factors [13] and aswellasantitumor[26]effectsinvivo.RecentstudiesonHrg2/2
+kininogen-derived peptides [14–17] have recently been found to mice furthermore suggest that HRG plays a role as both an
+exert antibacterial activities. anticoagulant and an antifibrinolytic modifier, and may regulate
+Histidine-rich glycoprotein (HRG) is a plasma protein which platelet function invivo[22].
+wasfirstisolatedin1972byHeimburgeretal.[18,19].Theprotein Previous work has also demonstrated that HRG exert direct
+is present in human plasma at 1.5–2 mM, but the local antibacterialactivitiesinvitrowhicharedependentonZn2+andpH
+concentration when HRG is released from activated platelets is [27]. However, as many cationic proteins and peptide sequences
+likely to be higher [20–22]. It is a type 3 cystatin family protein display antimicrobial properties in vitro, the ultimate role(s) of
+[23], along with a-2-HS-glycoprotein/fetuin-A, fetuin-B and HRGininnateimmunityinvivostillremainedunresolved.During
+kininogen, and is found in vertebrates as well as in some thecourseofourstudies,weobservedthatHRGhadasignificant
+invertebrates. Thestructure contains twocystatin-like domains, a activity against Candida. Candida, an eukaryote, is present as a
+PLoSPathogens | www.plospathogens.org 1 August2008 | Volume 4 | Issue 8 | e1000116
+--- Page 2 ---
+Histidine-RichGlycoproteinIsAntifungal
+analysedbyimmunoblotting.Sincepreviousresultsindicatedthat
+Author Summary
+theHRRofHRG,whichbindsheparin/heparansulfate,mediates
+Ithasbeenestimatedthathumanscontainabout1kgof antibacterial effects [27], heparin was added for competition of
+microbes,anobservationthatreflectsourcoexistencewith bindingtoCandida.Figure1EshowsthatHRGwasabletobindto
+colonizingmicrobessuchasbacteriaandfungi.Thefungal thefungalcellsandthatthebindingwaspartiallyinhibitedbyan
+species Candida is present as a commensal at mucosal excessofheparin.Thisfindingiscompatiblewiththeobservation
+surfaces and on skin. Although it may cause life-
+that heparin completely blocks the antifungal effect of HRG
+threatening infections, such as sepsis, particularly in
+(Figure S1). As demonstrated by flow cytometry, HRG bound to
+immunocompromised individuals, it seldom causes dis-
+C. parapsilosis at neutral pH, and the binding was significantly
+ease in normal individuals. In order to control our
+increasedatpH 5.5(Figure1F),resultscompatiblewiththefungal
+microbial flora, humans as well as virtually all life forms
+killing assays (Figure 1A). In summary, therefore, the results
+are armoured with various proteins and peptides that
+demonstrate that the antifungal actions of HRG were pH-
+compriseintegralpartsofourinnateimmunesystem.Here
+dependent and likely mediated via the heparin-binding region of
+wedescribeanewcomponentinthissystem;histidine-rich
+glycoprotein (HRG), an abundant plasma protein. We theprotein.
+show, using a combination of microbiological, biochemi-
+cal, and biophysical methods, that HRG exerts a potent Membrane-permeabilizing effects of HRG
+antifungal activity, which is mediated via a histidine-rich ManyAMPskillmicrobesbymembranelysis,whileothersmay
+region of the protein, and targets ergosterol-rich mem- translocate through membranes and subsequently interact with
+brane structures such as those of Candida. HRG killed intracellulartargets,suchasDNAandmitochondria,alleventually
+Candidabothinplasmaaswellaswhenincorporatedinto resulting in microbial killing [32,33]. Considering the antifungal
+fibrinclots.Inmouseinfectionmodels,HRGwasprotective effectsandthebindingtoCandidacells,itwasofinteresttofurther
+against systemic infection by Candida, indicating a novel
+study the possible mode of action for HRG on Candida. Electron
+antifungal roleofHRG ininnateimmunity.
+microscopydemonstratedthatHRGcausedmembranebreaksin
+Candida cells and release of cytoplasmic components (Figure 2A),
+commensal at mucosal surfaces and on skin. Although it may effectsparticularlynotedatlowpH,wheresignificantextracellular
+causelife-threateningsepsisinimmunocompromisedindividualsit material was detected. The effects were similar tothose observed
+seldom causes invasive disease in immunologically normal after treatment with the ‘‘classical’’ human AMP LL-37
+individuals [28]. We therefore speculated that HRG could (Figure 2A). These data suggest that HRG acts on fungal
+constitute a natural defence against Candida infections. In the membranes, however they do not demonstrate the exact
+present study we show, using a combination of microbiological, mechanistic events, as secondary metabolic effects on fungi also
+biochemical,andbiophysicalmethods,thatHRGexertsapotent may trigger death and membrane destabilization. Therefore, the
+antifungalactivityparticularlyatlowpH,whichismediatedviaits impermeant dye FITC was used to assess permeabilisation. The
+HRR, and targets ergosterol-rich membrane structures such as resultsshowedthatHRGindeedwasabletopermeabiliseCandida
+thoseofCandida.Inmouseinfectionmodels,HRGprotectsagainst membranes (Figure 2B). In line with previous antifungal and
+systemic infection by Candida, indicating a previously undisclosed bindingexperiments(seeFigure1Aand1F),thepermeabilisation
+antifungal role ofHRG ininnate immunity. was mostapparent at lowpH.
+Theseresultswerefurthersubstantiatedbytheuseofaliposome
+Results modeltoassessmembranepermeabilisation.Incorrespondencewith
+the effects of HRG on Candida, HRG caused liposome leakage.
+Antifungal activity of HRG and binding to Candida cells CompatiblewiththepHsensitivityobservedforHRG,themolecule
+InordertoassesspossibleantifungaleffectsofHRG,wetested preferably disrupted ergosterol-containing liposomes at pH6.0
+the activity of the protein against various Candida isolates. HRG when compared with pH7.4 (Figure 2C, left panel). Notably,
+was shown to be antifungal against C. parapsilosis at normal pH ergosterol-containing liposomes, mimicking fungal membranes,
+(10 mMTris,pH 7.4),andtheactivitywassignificantlyincreased were more sensitive than cholesterol-containing ones, mimicking
+in low pH buffer (10mM MES, pH 5.5) (Figure 1A). It is well- mammalianmembranes(Figure2C,rightpanel).Theseresultsare
+known that activities of AMPs and antimicrobial proteins are in agreement with numerous previous findings on the membrane-
+dependent of the microenvironment. For example, various stabilizing effects of cholesterol [34], as well as the findings that
+chemokines, defensins, LL-37 as well as heparin binding protein ergosterol induce less membrane stability in phospholipids than
+are partly, or completely, antagonized by high salt conditions or cholesterol[35].AtlowerpH,protonationofhistidinegroups(pKa
+thepresenceofplasmaproteinsinvitro[27,29,30].Therefore, the for the isolated histidine group is approximately 6.5), effectively
+influenceofsaltwastested.TheresultsshowedthatHRGpartially increasesthenetchargedensityofHRG,thustheobservedeffects
+retainedantifungalactivityatphysiologicalCl2levels(0.1M)but are compatible with findings previously reported for histidine-
+only at low pH (Figure 1B). The antifungal activity against C. containing consensus peptides and histidine-rich endogenous
+parapsilosis was both time- and dose-dependent (Figure 1C). In peptides[36,37].AlsonoteworthyisthatHRGdidnotdisplayany
+subsequent experiments various Candida strains (C. parapsilosis, C. majorconformationalchangeseitheratlowpH,orinthepresenceof
+albicans, C. glabrata and C. krusei) were incubated with HRG (at 3 fungal mannan (Figure 2D) or ergosterol-containing phospholipid
+mM)atneutralaswellaslowpH.Figure1Ddemonstrates,inline liposomes (not shown). Hence, large-scale conformational changes
+withtheaboveexperiments,thatHRGisparticularlyactiveatlow appear not tobecritical for theantifungalaction ofHRG.Taken
+pH. Thus, C. parapsilosis, C. albicans and C. krusei were all nearly together,thecombinationofelectronmicroscopy,FITC-studies,and
+completelykilledbyHRGatlowpH,whereasC.glabrataexhibited liposomedatademonstratesthatHRGactsatleastinpartthrough
+a partial resistance at this concentration of HRG, the latter in membrane disruption, although it is possible that additional
+analogytoC.glabratadisplayingsomeresistanceagainsthistatin5 intracellulareffectsofHRGmayalsocontributetofungaldeath.It
+[31]. Next, to investigate the binding of HRG to fungi, C. is also notable that the observed effects were most marked and
+papapsilosis was incubated with HRG at low pH, washed, and consistentatlowpH.AtneutralpH,binding(Figure1B),aswellas
+PLoSPathogens | www.plospathogens.org 2 August2008 | Volume 4 | Issue 8 | e1000116
+--- Page 3 ---
+Histidine-RichGlycoproteinIsAntifungal
+Figure 1. Antifungal activity and binding of HRG toCandida. (A) Antifungal activity of HRG. C. parapsilosis ATCC 90018 (16105 cfu) was
+incubatedwithpurifiedhumanHRGatconcentrationsrangingfrom0.03to6mMfor2hoursin10mMTris,pH7.4(N)or10mMMES,pH5.5(#),
+platedandthenumberofcfudetermined(n=6).(B)AntifungaleffectsofHRGinsalt.C.parapsilosisATCC90018(16105cfu)wasincubatedwith6
+mMHRGfor2hoursin10mMMES,pH5.5containing0,25,50,100or150mMNaCl,platedandthenumberofcfuwasdetermined.(C)Killing
+kinetics.0.3or3mMHRGwereincubatedwith16105cfuC.parapsilosisATCC90018for0,5,15,30,60or120minutesin10mMTris,pH7.4(N)or
+10mMMES,pH5.5(#),platedandthenumberofcfudetermined.(D)AntifungalactivityofHRGagainstdifferentstrainsofCandida.3mMHRGwere
+incubatedwith16105cfuC.parapsilosisATCC90018orBD17837,C.albicansATCC90028orBD1060,C.glabrataATCC90030orC.kruseiATCC6258
+in10mMTris,pH7.4(blackbars)or10mMMES,pH5.5(whitebars)for2hours,platedandnumberofcfudetermined(n=6).(E)BindingofHRGto
+fungi.C.parapsilosis(16105cfu)wasincubatedwithHRG(0.6mM)in10mMMES,pH5.5.Forinhibitionstudies,heparin(50mg/ml)wasadded.
+Sampleswerecentrifugedandthepelletandsupernatantswereextractedandrunon8%SDS-PAGEunderreducingconditions.HRGwasdetected
+by western and immunoblotting using polyclonal antibodies against GHH20. Purified HRG was used as a positive control (labeled C). (F) Flow
+cytometryanalysisofbindingofHRGtofungalmembranes.C.parapsilosis(56107cfu)wereincubatedwithFITC-labeledHRGin10mMTrispH7.4or
+10mMMESpH5.5.
+doi:10.1371/journal.ppat.1000116.g001
+permeabilization (Figure 2A and 2B) was less apparent and these mM) displayed no activity at pH 5.5 against Candida (Figure 3C).
+observations reflected the diminished antifungal effects at pH7.4 Taken together, considering the well-known heparin binding
+(Figure1Aand1D). capacity of HRR, its pH dependence, as well as the absence of
+antifungal activity of rHRG1-240, it was logical to focus on the
+Antifungal regions of HRG HRRof HRG inthesubsequent studies ofantifungal activity.
+Inordertoexplorethestructure-functionrelationshipsofepitopes TheHRRcontains12tandemrepeatsoffiveconsensussequences
+of HRG, overlapping peptide sequences comprising 20mers of amino acids, GHHPH [20], a motif highly conserved among
+(Figure 3A and Table S1) were synthesized and screened, at both various vertebrate species [27]. To examine the activity of this
+neutralandacidicpH,forantifungalactivitiesagainstC.parapsilosis sequence motif further, a 20-mer peptide (GHHPH) 4 [16,27] was
+aswellasC.albicans.Theexperiments identifiedseveral antifungal chosen for further studies. Similar to intact HRG, GHH20 was
+regions.Inparticularpeptidesno.20–24and26,spanningtheHRR, antifungalagainstC.parapsilosisandC.albicans,particularlyatlowpH
+displayedasignificantantifungalactivityagainstbothCandidastrains (Figure 4A). As demonstrated by FACS analysis, Tetramethyl-6-
+atlowpH(Figure3B).Therewasaclearcorrelationwithnetcharge Carboxyrhodamine(TAMRA)-labeledGHH20peptideboundtoC.
+(at the respective pH) of the various peptide regions and their parapsilosis, and in correspondence with the antifungal data, the
+observed antifungal activity (Figure S2). Although intuitively binding was stronger at pH5.5 when compared to neutral pH
+apparent(Figure3B),theanalysisfurthermoreshowedthatpeptides (Figure 4B). As illustrated by fluorescence microscopy, TAMRA-
+derivedfromtheHRRwere(withtheexceptionoftheKandR-rich labeledGHH20showedasignificantbindingtoCandidaatpH5.5
+peptideno.27)characterizedbyanincreaseinnetchargeatlowpH (Figure 4C). As with the HRG holoprotein, heparin abolished the
+(TableS1andFigureS2). binding,reflectingtheheparin-bindingcapacityofthisregionofthe
+In order to further study the importance of the HRR we HRR [27]. Also in line with the above experiments on fungi,
+investigated the activity of recombinant HRG (rHRG) and a GHH20 preferably disrupted liposomes at pH6.0, with no
+truncatedversion(rHRG1-240),lackingtheHRRandC-terminal significant activity at pH7.4 (Figure 4D). The GHH20 peptide
+domain. In contrast to full-length rHRG, truncated rHRG (0.6 causedliposomeleakagewithinafewhundredseconds(notshown),
+PLoSPathogens | www.plospathogens.org 3 August2008 | Volume 4 | Issue 8 | e1000116
+--- Page 4 ---
+Histidine-RichGlycoproteinIsAntifungal
+Figure2.HRGinducesmembranepermeabilisationofCandidacellsaswellasliposomes.(A)Negativestainingandelectronmicroscopy
+analysisofC.parapsilosisexposedtoHRG.C.parapsilosisATCC90018wereincubatedintheabsenceofHRGin10mMTris,pH7.4or10mMMES,
+pH5.5.Thesefungididnotexhibitsignsofmembraneperturbations.Incontrast,whentreatedwith10mMHRGin10mMTris,pH7.4or10mMMES,
+pH5.5membranedamage,blebbingandejectionofcytoplasmiccomponentswasobserved.Fungitreatedwith10mMLL-37wasusedasapositive
+controlformembranedamage.Thescalebarcorrespondsto2mm.(B)FungalviabilityafterincubationwithHRGandLL-37.C.albicansATCC90028
+wereincubatedwith10mMHRGorLL-37ineither10mMTris,pH7.4(leftpanel)or10mMMES,pH5.5(rightpanel).Theleftimagesineachroware
+NomarskiDifferentialInterferenceContrastimages,whereastherightimagesshowFITCfluorescenceoffungi.(C)Effectsof1mMHRGonliposome
+permeability.Leftpanel.IncreaseinHRG-inducedpermeabilizationofergosterol-containingliposomesisdetectedatpH6.0.Rightpanel.Increased
+HRG-inducedlysisof(atpH7.4)ergosterolcontainingliposomes.(D)CDspectroscopyofHRGunderdifferentconditions.CDspectrafor0.25mMHRG
+inbufferandinpresenceofS.cerevisiaemannanarepresented.
+doi:10.1371/journal.ppat.1000116.g002
+whichcontrastedtothesignificantlyslowerHRG-inducedliposome [38,39]. However, compared with plasma and serum HRG, the
+leakage (Figure 2B), likely a manifestation of the much higher molecule was not fragmented in this chronic wound fluid fraction
+molecularweightoftheholoprotein.AgainaswithintactHRG,CD (Figure5A).Theproteinwasalsodetectedinfibrinclots(Figure5A)
+spectroscopy showed that GHH20 displayed no major conforma- but not present in seminal plasma. It is of note that the molecule
+tionalchangesassociatedwiththehistidineprotonationatlowpH, migratedaberrantlyintheusedgelsystems;relative55–60kDain
+nor on interaction with phospholipid liposomes or mannan (not 8% gels (Tris-Glycine) and 45–50kDa in 16.5 gels (Tris-Tricine).
+shown). Taken together, the GHH20 peptide showed similar IdenticalserumandplasmapreparationsofHRGwereusedinthe
+characteristics as the holoprotein HRG with respect to activity, two gel systems, and recombinant HRG showed the same
+binding,andmembranepermeabilisation. anomalous migration (not shown). In addition to its presence in
+plasmaandotherbiologicalfluids,HRGoccursatsignificantlevels
+in,andbindsavidlyto,fibrinclots[40].Coagulationwasinitiatedin
+HRG is found in biological fluids and is active in plasma
+normalandHRG-deficienthumanplasmainthepresenceofFITC-
+and in fibrin clots labeled HRG (Figure 5B). FITC-labeled HRG bound to clots
+Inordertoinvestigatethefunctionalrelevanceoftheaboveinvitro derivedfromHRG-deficientplasma,andnotably,itappearedtobe
+activities,we first testedthe roleofHRG againstfungi inrelevant present at clot boundaries, suggesting that it may ‘‘coat’’ the clot
+physiological‘‘settings’’exvivo.InitialresultsshowedthatHRGwas surfaces. In clots from normal plasma, no staining was seen,
+detectedinbloodfractions(plasma,serum)andinplatelets,alsoin indicativeofaninhibitionofbindingofFITC-HRGbytheexcessof
+woundfluidfromacutewounds,andchroniclegulcers(Figure5A). endogenous HRG (,150 mg/ml). Clots, physiologically important
+Thelatterwoundtypeischaracterizedbyunregulatedandexcessive ‘‘barriers’’, formed during hemostasis and infection, could thus
+proteinaseactivityleadingtodegradationofmanyplasmaproteins constitute a unique milieu with high levels of surface-immobilized
+PLoSPathogens | www.plospathogens.org 4 August2008 | Volume 4 | Issue 8 | e1000116
+--- Page 5 ---
+Histidine-RichGlycoproteinIsAntifungal
+Figure3.Theantifungalactivityofthehistidine-richdomainofHRGissignificantlyincreasedatlowpH.(A)SequenceofHRGand
+syntheticpeptidesusedinthisstudyareindicated.(B)ScreeningofantifungalepitopesofHRG.20-merpeptidesspanningthewholesequenceof
+HRG(forsequencesseeTableS1)wereusedinradialdiffusionassaysagainstC.parapsilosisATCC90018andC.albicansATCC90028in10mMTris,
+pH7.4orin10mMMES,pH5.5.A4mmdiameterwellwasloadedwith6mlof100mMpeptide.Theclearancezones(mm)weremeasuredafteran
+overnightincubationat27uC(n=6).(C)ComparisonoftheantifungalactivityofrHRGandthetruncatedversionrHRG1-240.C.parapsilosisATCC
+90018(16105cfu)wasincubatedwith0.6mMrHRGorrHRG1-240in10mMTris,pH7.4orin10mMMES,pH5.5.Sampleswereplatedandthe
+numberofcfuwasdetermined.SignificancewasdeterminedusingKruskall-Wallisone-wayANOVAanalysis(***p,0.001,n=6).
+doi:10.1371/journal.ppat.1000116.g003
+HRG. Considering the above results we investigated whether the pointsatHRGasthemainfactorresponsibleforthepartialgrowth
+presence of HRG could reduce the growth of Candida in plasma. inhibitionnoted.Furthermore,asdemonstratedinFigure5D,fibrin
+Firstly,thegrowthofC.parapsilosiswasinvestigatedinnormalhuman clotsderivedfromplasmaofHRGdeficientmiceweresignificantly
+plasmaandinplasmadepletedofHRG.TheresultsshowedthatC. moreproneto infection byC.parapsilosisthanclotsfrom wild-type
+parapsilosis multiplied significantly faster in HRG-depleted human mice,andsimilarresultswereobtainedwithhumanplasmadepleted
+plasma (Figure 5C). Analogous results on fungal growth were of HRG when compared with normal plasma (not shown). The
+observed using plasma from mice deficient in HRG (data not observationthatclotsdevoidofHRGshoweddetectable,although
+shown).Itisofnotethattheseresultsdonotexcludethepossibility reduced,antifungalactivity(Figure5D)suggesttheexistenceofother
+that other antifungal mechanisms may be involved, such as those yet unidentified factors in clots also mediating fungal killing.
+dependent of complement activation. Furthermore, although the Nevertheless,theresultsindicatethatHRGcontributestoantifungal
+total protein levels (as determined by the Bradford method) and activityunderphysiologicalconditions.
+contents(asassessedbySDS-PAGEon8%gels,notshown)werethe
+same in depleted plasma (51.0+/21.2g/l) when compared with In vivo role of HRG
+control plasma (51.7+/23.3g/l), it cannot be excluded that ToinvestigatetheroleofHRGduringCandidainfectioninvivo,we
+additionalchangesoflowabundanceproteins,inducedbypassage designedamousemodelofintraperitonealinfectionwithC.albicans.
+overNi-NTAagarosecouldaffectCandidagrowth.Nevertheless,the Afterinfection,thebodyweightofthemicewasfollowedforthree
+observationthatsimilarresultswereobtainedwiththemiceplasmas days (Figure 6A). Hrg2/2 mice showed a significantly increased
+PLoSPathogens | www.plospathogens.org 5 August2008 | Volume 4 | Issue 8 | e1000116
+--- Page 6 ---
+Histidine-RichGlycoproteinIsAntifungal
+Figure 4. Antifungal activity and fungal binding of GHH20 peptide. (A) Antifungal activity of GHH20. C. parapsilosis ATCC 90018 or C.
+albicansATCC90028(16105cfu)wereincubatedwithGHH20peptide(0.03to6mM)for2hoursin10mMTris,pH7.4(N)or10mMMES,pH5.5(#),
+platedandthenumberofcfudetermined.Arepresentativeexperiment(ofthree)isshown.(B)FlowcytometryanalysisofbindingofGHH20to
+fungalmembranes.C.parapsilosis(56107cfu)wereincubatedwith20mgTAMRA-labeledGHH20in10mMTrispH7.4or10mMMESpH5.5.(C)
+Bindingof2mgTAMRA-labeledGHH20peptidetoC.parapsilosisATCC90018andinhibitionbyanexcessofheparin.C.parapsilosiswereincubated
+withTAMRA-labeledGHH20in10mMMES(panel3),pH5.5orthesamebuffersupplementedwithheparin(50mg/ml)(panel4).Theleftpanelshows
+Nomarski images (1 and 3), whereas the right panel shows red fluorescence of peptide bound to fungi. (D) The GHH20 peptide permeabilizes
+ergosterol-containingliposomespreferablyatpH6.0.1mMGHH20wasused(n=6).
+doi:10.1371/journal.ppat.1000116.g004
+weightlossatday1and2(p=0.02)whencomparedwithwildtype of possible epitopes of HRG mediating this effect, as well as
+mice,andthewildtypemiceregainedtheirinitialweightafterthree mechanistic data on HRG targeting of Candida membranes. The
+days. Blood samples were collected from the animals 2 days post resultshaveimplicationsforourunderstandingofnovelantifungal
+infection,andthefungalloadinbloodwasdetermined(Figure6B).A properties of HRG, and demonstrate that HRG constitutes a
+significantlyhigheramountofCandidacellswasdetectedintheblood previouslyundisclosednaturalandantimicrobialdefencesystem.
+of Hrg2/2 mice when compared with wild type mice (p=0.032), Fromastructuralperspective,severallinesofevidenceindicate
+indicatingthatasystemicinfectionhasdevelopedinHRG-deficient thattheHRRis,atleasttoasignificantextent,responsibleforthe
+mice.Inasimilarexperiment,wedeterminedtheabilityofthefungi HRG interaction with Candida membranes. Although the 3D
+to establish infection in target organs distant from the site of structureofHRGhasnotyetbeendetermined,modellingstudies
+administration.Thespleenandkidneywereharvested3daysafter suggest that the HRR of HRG forms a polyproline (II) helical
+initiation of intraperitoneal infection and the fungal load was structure with numerous histidines. At physiological pH, HRG is
+determined. The results showed significant differences between netnegativelycharged(pI6.45).However,duetoitshighcontent
+Hrg2/2miceandthewildtypemice;oneanimaloutof10inthe ofhistidineresidues(,13%),whichareconcentratedtotheHRR,
+control group showed fungal load in the spleens and kidneys itcanacquireapositivechargebyprotonation[20,41],andthisin
+compared with 8 out of 10 in the Hrg2/2 group (p=0.009) turn likely facilitates the interactions between HRG and Candida.
+(Figure 6C). Histopathological examination of the kidney tissues These results were substantiated by the finding that a region of
+fromHrg2/2miceshoweddenseneutrophilinfiltratesandnotably,
+HRG containing the motif sequence GHHPH, was antifungal,
+CandidacellswerevisualisedbyPASstaininginthecentreofthese andthatlowpHenhancedthisactivity.Thehighconservationof
+infiltrates(Figure6D).Theseresultsshowastrikingprotectiverole this sequence among vertebrates likely reflects its importance for
+forHRGagainstinvasiveCandidainfectioninvivo. membrane interactions of HRG [27]. However, as evident in
+Figure 3B, there are also other antifungal regions in the protein,
+active irrespective of pH in the interval investigated, an
+Discussion
+observation compatible with the antifungal activity of HRG
+The key findings in our study are the identification of an detectedatneutralpH.Itshouldbepointedouthowever,thatthe
+antifungalactivityofHRGinvivotogetherwiththecharacterization peptide data do not reflect the complex structure-activity
+PLoSPathogens | www.plospathogens.org 6 August2008 | Volume 4 | Issue 8 | e1000116
+--- Page 7 ---
+Histidine-RichGlycoproteinIsAntifungal
+Figure5.LocalizationandactivitiesofHRG.(A)AnalysisofHRGinbiologicalfluids.Theindicatedbiologicalmaterialswereelectrophoresedon
+a8%gel(Tris-Glycine,non-reducingconditions)(leftpanel)orona16.5%Tris-Tricinegelunderreducingconditions(rightpanel)andtransferredtoa
+nitrocellulosemembrane.WesternblotwasperformedusingpolyclonalantibodiesdirectedagainsttheGHH20epitopeofHRG.(B)Localizationof
+HRGinfibrinclots.Humancontrolplasma(panel4)orplasmadepletedofHRG(panel2)wereincubatedwithFITC-labeledHRGandclotswere
+generatedovernightafteradditionof10mMCa2+at37uC.Theclotsweremountedonslidesandvisualizedbyfluorescencemicroscopy.Theleftside
+showsNomarskiimages(1and3),whereastherightpartshowsfluorescenceofHRGassociatedwiththeclots.(C)Candidagrowthinplasma.C.
+parapsilosis(26107cfu)wasinoculatedinhumanplasma(N)orhumanHRG-deficientplasma(#)andincubatedat27uCfor0,4,8or18hoursandthe
+numberofcfuwasdetermined(n=6).(D)AntifungalactivityofHRGexvivo.MousecontrolplasmaorplasmaofHrg2/2micewereusedtoform
+fibrinclotsinthepresenceof10mMCa2+.ClotswereincubatedwithC.parapsilosisATCC90018(16105cfu)in10mMMES,pH5.5for2hours,
+platedandthenumberofcfudetermined(p=0.043,n=6).
+doi:10.1371/journal.ppat.1000116.g005
+relationshipsoftheholoprotein.AlthoughtheCDexperimentsdid activityofHRGisthuscomparabletootherhistidine-richproteins
+not detect any major conformational changes upon interaction andpeptides,andprovidesanadditionallinkbetweenpHsensitive
+with liposomes or polysaccharides, it cannot be ruled out that AMPs and HRG. However, contrasting to histatins, which
+conformationalchangesmediatedbyHRRinteractionswithintact translocate through Candida membranes, bind mitochondria, and
+fungal cells lead to the exposure of additional antimicrobial inducecelldeathbynon-lyticATP-release[44],HRGactsdirectly
+epitopes in the molecule. Nevertheless, a recombinant and on fungal membranes.
+truncated variant of HRG, lacking the histidine-rich and C- Many AMPs are generated by proteolysis of larger, and non-
+terminal domains, was not active against Candida, pointing to the antimicrobial holoproteins. For example, the cathelicidin LL-37 is
+HRR as an important, possibly the most important, effector of released from hCAP18, and other AMPs are proteolytically
+HRGs antifungal effects. generatedfrom complement factor C3andhigh molecular weight
+Many histidine-rich AMPs are known, among these the kininogen [3,11,12,14–17]. Considering that intact HRG is
+clavanins[36],histatins,andcalprotectin[42].Wehavepreviously antifungal,proteolysisofthismoleculedoesnotappeartobeneeded
+shownthattheantibacterialeffectsinvitroofvarioushistidine-rich foractivity.ItisofnotethatlikeHRG,severalantimicrobialproteins
+peptides,bothconsensusmotifsandpeptidesderivedfromdomain are antimicrobial per se, including bacterial permeability increasing
+5 of HMW kininogen [17] and from HRG [27] are enhanced at protein, serprocodins such as proteinase 3, elastase and heparin
+low pH or upon addition of Zn2+. Others have reported that the binding protein, as well as lactoferrin [27,45]. However, it is also
+antimicrobial activity of clavanins were substantially increased in describedthatantibacterialproteins,suchasbacterialpermeability
+low pH as compared with neutral pH [36]. Furthermore, the increasingproteinandlactoferrin,maygiverisetopeptidesexerting
+antimicrobialeffectofhistatin5isenhancedatlowpH[43],and antibacterial activities [46,47]. Likewise, it has been shown that
+histidine-rich variants of magainin, the LAH4-peptides, were HRG may be degraded by plasmin [48], as well as in patients
+recently shown tohave increased antibacterial activity inlow pH undergoing thrombolytic therapy [49] and bioactive fragments of
+comparedtoneutralpH[37].Takentogether,thepHdependent HRG are involved in antiangiogenesis [26,41]. Thus, although a
+PLoSPathogens | www.plospathogens.org 7 August2008 | Volume 4 | Issue 8 | e1000116
+--- Page 8 ---
+Histidine-RichGlycoproteinIsAntifungal
+Figure6.CandidaproducessevereinfectioninHrg2/2mice.(A)WeightlossinmiceafterinfectionwithC.albicans.C57BL/6(solidline)and
+C57BL/6Hrg2/2(dottedline)micewereinfected(i.p.)with16109cfuofC.albicans,andthebodyweightwasfollowedfromday0today3(n=6,4
+and2,respectively)(p=0.02).(B)Fungaldisseminationtothebloodstream.C57BL/6(N)(n=4)andC57BL/6Hrg2/2(#)(n=5)micewereinfectedas
+aboveandtheanimalsweresacrificedonday2andnumberofcfuinbloodwasdetermined(p=0.032).(C)HRGsuppressesfungaldisseminationto
+thespleenandkidney.C57BL/6(N)andC57BL/6Hrg2/2(#)micewereinfectedasaboveandthecfuofC.parapsilosisinspleenandkidneywas
+determined(p=0.009,n=10)(D)Intwoanimalskidneyswerecollectedonday3,fixed,sectionedandthenstainedwithhematoxylinandeosin(HE)
+(leftpanel)orPAS(rightpanel)(uppersection;magnification610andlowersection;magnification630).
+doi:10.1371/journal.ppat.1000116.g006
+majorfragmentationofHRGwasnotobservedinthiswork,e.g.,in plasminogen activity and phagocytosis. The history of ‘‘classic’’
+woundfluidandafterbindingtofibrin,itislikelythatdegradationof AMPshaveshownthatthesemolecules,initiallybelievedtotakepart
+HRG may occur at sites of high proteolysis and plasmin activity. merelyindirectmicrobialkilling,haveextendedtheirrolesintothe
+Indeed,thefindingthattheHRG-derivedpeptideGHH20,aswell ability to act as chemokines and to induce chemokine production
+as numerous other other 20mer peptides were antifungal, and as leadingtorecruitmentofleukocytes,promotionofwoundhealing,
+particularly noted for HRR-derived peptides, exhibiting a similar and an ability to modulate adaptive immunity [51]. Indeed, as
+pHdependenceasHRG,exemplifiesthattheholoproteinisnota interestintheinvivofunctionsofhostdefencepeptidesisincreasing,it
+prerequisiteforantifungalaction.Clearly,suchpossibilitiesneedto isimportanttoconsiderthedirectantimicrobialandimmunomod-
+beaddressedinfuturestudies. ulatory properties observed. Nevertheless, several findings in this
+Aspreviouslymentioned,HRGisinvolvedinvariousaspectsof studyunequivocallydemonstratethatHRG,likemanyAMPs,acts
+angiogenesis, coagulation, and fibrinolysis [20], reflecting its directlyonmicrobes.Thus,inadditiontotheantifungalinvitrodata,
+interactionswithligandssuchasheparin,plasminogen,fibrinogen, theenhancedfungalgrowthinHRG-deficientplasma,aswellasthe
+andthrombospondin.Additionally,itactsasanopsoninbybridging findingthatCandidawasdetectedathigherlevelsinbloodofHrg2/2
+FcyRI receptors on macrophages to DNA on apoptotic cells, animals,indicatesadirectantifungalactionofthemolecule.Itisalso
+stimulatingphagocytosis[50],andmodulatesthebindingofIgGand interestingtonotethattheseHRGdeficientanimalshavealsobeen
+immunecomplexestoFccRI[50].Consideringthesemultipleroles, shown to be more susceptible to Streptococcus pyogenes infection
+it is likely that HRG binding to microbial surfaces could (Shannon et al, unpublished results). However, considering both
+induce additional ‘‘down-stream’’ effects, such as modulation of AMPandHRGmultifunctionalityinvitroaswellasinvivo,itmaybe
+PLoSPathogens | www.plospathogens.org 8 August2008 | Volume 4 | Issue 8 | e1000116
+--- Page 9 ---
+Histidine-RichGlycoproteinIsAntifungal
+envisagedthatadditionalactions,resultingintheobservedantifungal synthetic peptides (PEP-screen) spanning the sequence of HRG
+effects,willlikelyberevealed.Alloftheseeffectsmaybedependent (Table 1) were obtained from Sigma-Genosys (St Louis, MO).
+on binding of HRG tomicrobes and subsequent interactions with Polyclonal rabbit antibodies against GHH20 and TAMRA-
+cells(e.g.,neutrophilsandmacrophages)indifferentcompartments labeled GHH20 were from Innovagen AB (Lund, Sweden).
+(e.g., skin, internal organs, and blood). In this respect, the pH HRG was FITC-labeled using theFluoroTag FITC Conjugation
+dependenceofHRGisparticularlyinterestingandrelevant.Itiswell Kit (Sigma, St Louis, MO). Human serum and plasma were
+knownthatinfectionfoci,includingabscesses,arecharacterizedby collected from healthy volunteers. Sterile wound fluids were
+lowpHlevelsreachingaslowaspH5,duetoincreasedanaerobic obtained from surgical drainages after mastectomy. The use of
+metabolism and lactate production, as well as leukocyte mediated human wound fluid was approved by the Ethics Committee at
+oxidative burst and subsequent acidification [52]. The capacity of LundUniversity(LU708-01).Seminalplasmawascollectedatthe
+HRG to kill Candida at these pH levels and the corresponding Fertility Center at Malmo¨ University Hospital, Sweden. The
+increaseinsalt-resistanceatlowpHsuggestthatHRGcouldtarget GenBank (http://www.ncbi.nlm.nih.gov/Genbank/index.html)
+infection foci, resulting in a physiologically relevant concentration accession number of human histidine-rich glycoprotein is
+and localization of antifungal activity. As previously mentioned, NP_000403.
+HRG’s opsonising activity could hypothetically lead to enhanced
+phagocytosis. Although it remains to be investigated, such Fungal strains
+localisation of antifungal activity to endosomal compartments, ThefungiCandidaparapsilosisBD17837andCandidaalbicansBD
+whereacidificationcouldresultinenhancedHRG-mediatedkilling 1060wereclinicalisolates.C.parapsilosisATCC90018,C.albicans
+ofphagocytosedfungi,couldserveasaneffectivewayofeliminating ATCC 90028, Candida glabrata ATCC 90030, and Candida krusei
+invadingCandidacellsatsitesoftissueinflammationwithoutreleasing ATCC 6258 isolates were from the American Type Culture
+potentiallytoxicmicrobialcomponents. Collection (ATCC, Rockville,MD).
+Again hypothetically, genetic deficiencies of HRG or acquired
+functional defects could provide interesting clues with respect to Purification of human HRG
+functionalrolesofHRG.Insomepatients,reducedlevelsofHRG
+Serum HRG was purified using nickel-nitrilotriacetic acid (Ni-
+areassociatedwithathrombophilicphenotype,indeedcompatible
+NTA)agaroseasdescribedbefore[27].Theconcentrationofthe
+withthephenotypeobservedinHrg2/2mice,whichhadashorter
+protein wasdetermined using theBradford method[56].
+prothrombin time [22]. As these patients still have ,20–50% of
+normallevelsofHRG,thehumanphenotypeofcompleteabsence
+Production and purification of recombinant HRG (rHRG
+of HRG remains, however unknown. Although patients with low
+and rHRG1-240)
+levels of HRG have not been reported to be more prone to
+RecombinantHis-taggedHRGPandtruncatedversionofHRG
+infections,itmustberememberedthatexamplesfromdeficiencies
+(HRG1-240), containing amino acids 1-240 was produced and
+of particular innate immune proteins, e.g., complement and
+purified aspreviously described[26,27].
+mannose-bindinglectin,illustratethatevenhomozygousdeficien-
+cyandacompleteabsenceofaparticularinnateimmunemolecule
+Western blot
+maygiverisetosurprisinglymildsymptoms.Forexample,patients
+with mannose-binding lectin deficiencies are normally not at risk Plasma,serum,woundfluids,seminalplasma(1ml),andplatelets
+ofdevelopinginfectionsunlesscompromisedbyimmunesuppres- (fluid from 16103 cells, disrupted by freeze thawing) were
+sion or severe disease [53]. In this context, it is particularly electrophoresedon8%SDS-polyacrylamide(SDS-PAGE)geloran
+interesting that antibodies against HRG have been detected in 16.5%Tris-tricinegelandtransferredtoanitrocellulosemembrane
+patientswithantiphospholipidsyndrome[54],adiseaseassociated (Hybond-C,GEHealthcareBioSciences,LittleChalfont,UK)[57].
+withthrombodiathesisandsystemiclupuserythematosus.Notably, Themembranewasincubatedin3%skimmedmilkin10mMTris,
+the latter disease is associated with an increased risk for 0.15M NaCl, pH7.4 for 1h at room temperature, followed by
+opportunistic infections, including Candida [55]. Taken together, incubationfor1hwithrabbitpolyclonalantibodiesagainstGHH20
+andconsideringtheroleofHRGininnateimmunity,itshouldbe (diluted 1:1000 in the same buffer). The membrane was washed 3
+of interest to study potential associations between functional times, and incubated again for 1h with horseradish peroxidase-
+inactivation(s) or deficiencies of HRG as well as genetically conjugated secondary swine anti rabbit antibodies diluted 1:1000
+determineddifferences,inrelationtotheoccurrenceofinfections. (Dako,Carpinteria,CA). Theimagewas developed using theECL
+During the last three decades, research on innate immune system(AmershamBiosciences).
+moleculeshasdemonstratedthesignificanceoftheinnateimmune
+system for prevention of invasion by microbes at biological Preparation of fibrin clots
+boundaries. Previous studies have emphasized that various Human plasma was subjected to a Ni-NTA agarose gel. The
+molecules, such as ‘‘classic’’ AMPs, complement factors, and eluent(plasmacompletelydepletedofHRG)wascollectedandused
+cytokines, bridge between innate and adaptive immunity. The toformclots.Hrg2/2andC57BL/6(wildtype)mice[22]wereused
+presentworkaddsanothersignificantcomponenttothisfamilyof forpreparationoffibrinclotsfromplasmaoftherespectiveanimals.
+molecules, theplasma protein HRG. PlasmadeficientofHRGandnormalplasmawereincubatedwitha
+totalconcentrationof10mMCa2+ineppendorftubesat37uCover
+Materials and Methods night.Clotswerewashedthreetimesandthenstoredin10mM2-
+Morpholinoethanesulfonicacid(MES),pH5.5.Clots(,0.04g)were
+Materials usedinviablecountexperiments.Toinvestigatethelocalizationof
+The peptides GHH20 (GHHPHGHHPHGHHPHGHHPH) HRGinfibrinclots,humanplasmaandHRG-deficientplasmawere
+andhistatin5(DSHAKRHHGYKRKFHEKHHSHRGPY)were incubated with 10 ml FITC-labeled HRG (0.4mg/ml) and then
+synthesizedbyInnovagenAB(Lund,Sweden),andwereof.95% processedasbeforeinthepresenceof10mMCa2+overnight.The
+purity. The purity and molecular weight was confirmed by clotswerethenwashedindistilledwaterandmountedonslidesusing
+MALDI-TOFMSanalysis(Voyager,AppliedBiosystems).20-mer Dakomountingmedia(Dako).
+PLoSPathogens | www.plospathogens.org 9 August2008 | Volume 4 | Issue 8 | e1000116
+--- Page 10 ---
+Histidine-RichGlycoproteinIsAntifungal
+Viable count assay Fluorescence microscopy
+C. parapsilosis, C. albicans, C. glabrata and C. krusei were grown to C.parapsilosisATCC90018fungiweregrowninTHmediumat
+mid-logarithmicphaseinTodd-Hewitt(TH)medium(Bectonand 27uCtomid-logarithmicphase.Thefungiwerewashedin10mM
+Dickinson,Maryland,USA)at27uCandwashedin10mMTris, Tris, pH 7.4, and resuspended in the same buffer. C. parapsilosis
+pH 7.4or10mMMES,pH 5.5.Fordose-responseexperiments, (26106/ ml) were incubated with 1 ml of TAMRA-labeled
+purified HRG or GHH20 (0.03–6 mM) were incubated with GHH20 (2 mg/ml) in 10mM MES, pH 5.5, with or without
+16105C.parapsilosisATCC90018orC.albicansATCC90028for heparin (50 mg/ml), left standing for 5 minutes on ice, and then
+2 h at 37uC in 10mM, Tris, pH 7.4 or in 10mM MES-buffer, washed twice in 10mM Tris, pH 7.4. Fungi were fixed with 4%
+pH 5.5, plated on Sabouraud dextrose broth (Becton and paraformaldehyde by incubation on ice for 15minutes and in
+Dickinson) agar, and incubated 48hours at 27uC, whereafter room temperature for 45minutes. The fungi were then applied
+the number of cfu was determined. In order to investigate the ontoPoly-L-lysinecoatedcoverglassandafteranincubationtime
+antifungal activity of HRG in presence of salt, 6 mM HRG were of 30minutes, finally mounted on slides using Dako mounting
+incubatedwith16105C.parapsilosisATCC90018for2hat37uC
+media (Dako, Carpinteria, CA). In order to assess permeabilisa-
+in 10mM, MES, pH 5.5 containing 0, 25, 50, 100 or 150mM tion, C. albicans ATCC 90028 (26106 cfu) were incubated with
+NaCl, plated and the number of cfu was determined. In kinetic HRGorLL-37(bothat10mM)in10mMTris,pH 7.4or10mM
+experiments, 0.3 and 3 mM HRG were incubated with C. MES,pH 5.5for30minutesat37uC.Samplesweretransferredto
+parapsilosis ATCC 90018 for 5, 15, 30, 60, or 120minutes in Poly-L-lysine coated cover glass and incubated for 45minutes at
+10mM MES, pH 5.5, plated and the number of cfu was 37uC,washedand2 mgof FITC were added ina volumeof 200
+determined. For determination of the effect of HRG on various ml,andincubatedfor30minutesat30uC,washedandthenfixed
+Candida strains, HRG (3 mM) was incubated with C. parapsilosis as above. Samples were visualized using a Nikon Eclipse TE300
+ATCC90018orBD17837,C.albicansATCC90028orBD1060, inverted fluorescence microscope equipped with a Hamamatsu
+C.glabrataATCC90030orC.kruseiATCC6258in10mMTris,
+C4742-95 cooled CCD camera, a Plan Apochromat 100X
+pH 7.4 or 10mM MES, pH 5.5, plated and number of cfu
+objective anda highN.A. oilcondenser.
+determined. Truncated and full length recombinant HRG, 0.6
+mM rHRG, or rHRG1-240 were incubated with C. parapsilosis
+Negative staining and transmission electron microscopy
+(16105) for two hours and then plated and number of cfu
+C.parapsilosisATCC90018weregrowninTHmediumat37uC
+determined.ToinvestigatetheinvitroantifungalactivityofHRG,
+tomid-logarithmicphase.Thefungiwerewashedin10mMTris,
+normal or HRG-deficient fibrin clots (,0.04g) were incubated
+pH 7.4 or 10mM MES, pH 5.5, and resuspended in the same
+withC.parapsilosisATCC90018for2 hin10mMMES,pH 5.5,
+buffer. HRG orLL-37 (10 mM)was incubated with C.parapsilosis
+platedandnumberofcfuweredetermined.Forinhibitionstudies,
+0.3 mM HRGP were incubated with C. parapsilosis (16105) in
+(206106cfu)fortwohoursinatotalvolumeof10mlinTrisbuffer,
+pH 7.4orinMESbuffer,pH 5.5.SamplesofC.parapsilosisfungi
+10mM MES, pH 5.5, in presence or absence of heparin (50 mg)
+suspensions were adsorbed onto carbon-coated copper grids for
+fortwohoursandthenplatedandnumberofcfuwasdetermined.
+1 min, washed briefly on two drops of water, and negatively
+In allexperiments, 100%survival was defined astotal survival of
+stained on two drops of 0.75 % uranyl formate. The grids were
+fungiinthesamebufferandunderthesameconditionsinabsence
+rendered hydrophilic by glow discharge at low pressure in air.
+of peptide, protein, or clots. The p-values were determined using
+SpecimenswereobservedinaJeolJEM1230electronmicroscope
+Kruskall-Wallis one-way ANOVA analysis.
+operated at 60kV accelerating voltage. Images were recorded
+with aGatan Multiscan 791CCDcamera.
+Radial diffusion assay
+Radial diffusion assay (RDA) was performed essentially as
+Flow cytometry
+described earlier [58]. C. parapsilosis ATCC 90018 and C. albicans
+ATCC90028weregrowntomidlogarithmicphaseinTH-medium,
+C.parapsilosisATCC90018weregrowninTHmediumat27uC
+andthenwashedwithdistilledwater.46106colonyformingunitswas tomid-logarithmicphase.Thefungiwerewashedin10mMTris,
+addedto5mloftheunderlayagarosegel(0.03%(w/v)trypticasesoy pH7.4 or 10mM MES, pH5.5 and resuspended in the same
+broth(TSB),1%(w/v)lowelectroendosmosistypeagarose(Sigma), buffer. C. parapsilosis (56107 in a total volume of 0.5ml) were
+0.02%(v/v)Tween20(Sigma).Thebuffersusedintheunderlaygels incubatedwith 10ml of FITC-labeled HRG (0.4mg/ml)or10 ml
+were10mMTris,pH7.4or10mMMES,pH5.5.Theunderlay TAMRA-labeledGHH20(2mg/ml)in10mMTris,pH7.4orin
+gelwaspouredintoan85-mmPetridish.Afteragarosesolidification, 10mM MES, pH5.5, let stand for 5minutes on ice and then
+wellsof4mmindiameterwerepunched,and6mlofpeptidesolution washed in 10mM Tris, pH7.4. The cells were fixed with 4%
+wasaddedtoeachwell.Bufferswereusedasanegativecontrol.Plates paraformaldehydebyincubationonicefor15minutesandinroom
+wereincubatedat28uCfor3htoallowdiffusionofthepeptides.The temperaturefor45minutes.Flowcytometryanalysiswasperformed
+underlay gel was then covered with 5ml of molten overlay. using a FACS-Calibur flow cytometry equipped with a 15mW
+Antimicrobialactivityofapeptideisvisualizedasazoneofclearance argon laser turned a 488mm (Becton-Dickinson, Franklin Lakes,
+aroundeachwellafter18–24hofincubationat28uC.Peptideswere NJ).Thefungalpopulationwasselectedbygatingwithappropriate
+testedinconcentrationsof100mM. settings of forward scatter (FSC) and sideward scatter (SSC). The
+FL1 fluorescence channel (l =530nm) was used to record the
+em
+Binding of HRG to Candida emitted fluorescence of FITC, and the FL3 fluorescence channel
+C.parapsilosis(16105cfu)wereincubatedwith0.6mMHRGin (l em =585nm)wasusedtorecordtheemittedfluorescenceofTexas
+50 ml 10mM MES, pH 5.5, with or without heparin (50 mg/ml) red.
+for2 hat37uC,centrifugedandthepelletwaswashedthreetimes
+in 10mM MES, pH 5.5. The pellet and the supernatant were Liposome preparation and leakage assay
+resuspended in SDS sample buffer, electrophoresed (8% SDS- Dry lipid films were prepared by dissolving dioleoylphosphati-
+PAGE), and then transferred to a nitrocellulose membrane. dylcholine(1,2-dioleoyl-sn-Glycero-3-phoshocholine,.99%purity,
+Western blotting wasperformed as above. AvantiPolarLipids,Alabaster,AL)(60mol%)andeitherergosterol
+PLoSPathogens | www.plospathogens.org 10 August2008 | Volume 4 | Issue 8 | e1000116

@@ -1,0 +1,109 @@
+
+--- Page 1 ---
+iScience
+ll
+OPEN ACCESS
+Article
+Histidine-Rich Glycoprotein Inhibits High-Mobility
+Group Box-1-Mediated Pathways in Vascular
+Endothelial Cells through CLEC-1A
+ShangzeGao,
+HidenoriWake,
+Masakiyo
+Sakaguchi,...,
+KeyueLiu,Hideo
+Takahashi,
+Masahiro
+Nishibori
+mbori@md.okayama-u.ac.jp
+HIGHLIGHTS
+HRGinhibitedLPS-
+inducedHMGB1
+translocationandrelease
+fromendothelialcells
+HRGreduced
+inflammatoryresponsesin
+endothelialcellscaused
+byreleasedHMGB1
+CLEC-1Awasidentifiedas
+thereceptorforthe
+functionofHRGon
+endothelialcells
+Gaoetal.,iScience23,101180
+June26,2020ª2020The
+Authors.
+https://doi.org/10.1016/
+j.isci.2020.101180
+--- Page 2 ---
+iScience
+ll
+OPEN ACCESS
+Article
+Histidine-Rich Glycoprotein Inhibits High-Mobility
+Group Box-1-Mediated Pathways
+in Vascular Endothelial Cells through CLEC-1A
+ShangzeGao,1HidenoriWake,1MasakiyoSakaguchi,2DengliWang,1YouheiTakahashi,1KiyoshiTeshigawara,1
+HuiZhong,1ShujiMori,3KeyueLiu,1HideoTakahashi,4andMasahiroNishibori1,5,*
+SUMMARY
+High-mobilitygroupbox-1(HMGB1)proteinhasbeenpostulatedtoplayapath-
+ogenic role in severe sepsis. Histidine-rich glycoprotein (HRG), a 75 kDa plasma
+protein, was demonstrated to improve the survival rate of septic mice through
+the regulation of neutrophils and endothelium barrier function. As the relation-
+shipofHRGandHMGB1remainspoorlyunderstood,weinvestigatedtheeffects
+of HRG on HMGB1-mediated pathway in endothelial cells, focusing on the
+involvement of specific receptors for HRG. HRG potently inhibited the HMGB1
+mobilization and effectively suppressed rHMGB1-induced inflammatory re-
+sponsesandexpressionofallthreeHMGB1receptorsinendothelialcells.More-
+over, we first clarified that these protective effects of HRG on endothelial cells
+were mediated through C-type lectin domain family 1 member A (CLEC-1A) re-
+ceptor. Thus, current study elucidates protective effects of HRG on vascular
+endothelial cells through inhibition of HMGB1-mediated pathways may
+contributetothetherapeuticeffectsofHRGonseveresepsis.
+INTRODUCTION
+High-mobility group box-1 (HMGB1), a nonhistone chromatin-binding nuclear protein, can be actively
+secretedintotheextravascularspacebyseveralimmunecelltypesorpassivelyreleasedbydamagedtis-
+suesandnecroticcells(DeMarcoetal.,2005;Anderssonetal.,2000).AhighconcentrationofHMGB1inthe
+plasmaofpatientswithseveresepsiscorrelateswithapoorprognosisandhighmortality,andthepharma-
+cologicinhibitionofHMGB1improvedsurvivalinanimalmodelsofacuteinflammationandseveresepsis
+(Chenetal.,2004).Systemicinflammationisoneofthehallmarksofsepticshock,andthedisorderofmicro- 1Departmentof
+vascularendotheliumappearstoproducetheamplificationoftheseinflammatoryresponses(Kirkpatrick Pharmacology,Okayama
+etal.,1997).Thus, microvascularinjuryisoneofthecharacteristicsofsepsis-associatedtissuedamage UniversityGraduateSchoolof
+Medicine,Dentistryand
+that may be manifested by single or multiple organ failure syndromes (Lehr et al., 2000; Lentsch and PharmaceuticalSciences,
+Ward,2000).HMGB1wasreportedtohavemultipleproinflammatoryeffectsonvascularendothelialcells 2-5-1Shikata-cho,Kita-ku,
+Okayama700-8558,Japan
+bybindingtothreepathogen-associatedcellsurfacepatternrecognitionreceptors,therebyinducingtu-
+mornecrosisfactoralpha(TNF-a)expressionandNF-kBactivationintargetcellsandstimulatingthepro- 2DepartmentofCellBiology,
+OkayamaUniversity
+ductionofanarrayofproinflammatorycytokines(Abrahametal.,2000;Parketal.,2004;LotzeandTracey, GraduateSchoolof
+2005;Fiuzaetal.,2003;Treutigeretal.,2003;Mullinsetal.,2004),whichsuggestanimportantrolefor Medicine,Dentistryand
+PharmaceuticalSciences,
+HMGB1inendothelialcellactivationandinjuryinsepsisandsystemicinflammation.
+Okayama700-8558,Japan
+3Departmentof
+Histidine-rich glycoprotein (HRG) is an abundant plasma protein (60–100 mg/mL) synthesized in liver, Pharmacology,Schoolof
+whichcanregulatemanybiologicalprocessessuchasangiogenesis,coagulation,andthephagocytosis Pharmacy,ShujitsuUniversity,
+Okayama703-8516,Japan
+ofapoptoticcellsthroughtheinteractionwithvariousligands(Koideetal.,1986;RoncaandRaggi,2015;
+4Departmentof
+Poonetal.,2011).Shannonetal.provedthatHRGdecreasedthemortalityofasepticmousemodelwith
+Pharmacology,Facultyof
+Spyogenes-inducedabscessesbykillingandtrappingbacteriaintheabscesssites(Shannonetal.,2010). Medicine,KindaiUniversity,
+Wakeetal.reportedthatHRGpreventssepticlethalitythroughtheregulationofneutrophilsandvascular Osakasayama589-8511,
+Japan
+endothelial cells (Wake et al., 2016). A counteracting role of HRG on damage-associated molecular
+5LeadContact
+pattern/pathogen-associatedmolecularpattern(DAMP/PAMP)-inducedresponseshaslongbeenrecog-
+*Correspondence:
+nized(Wakeetal.,2009,2016;Gaoetal.,2019;Zhongetal.,2018).Inrecentclinicalstudies,HRGwasalso
+mbori@md.okayama-u.ac.jp
+proposed as anew biomarker topredicttheoutcome of sepsis patients (Kurodaet al., 2018; Nishibori
+https://doi.org/10.1016/j.isci.
+et al., 2018). However, the effect of HRG on HMGB1 release or HMGB1 signaling has never been 2020.101180
+iScience23,101180,June26,2020ª2020TheAuthors. 1
+ThisisanopenaccessarticleundertheCCBYlicense(http://creativecommons.org/licenses/by/4.0/).
+--- Page 3 ---
+iScience
+ll
+OPEN ACCESS Article
+2 iScience23,101180,June26,2020

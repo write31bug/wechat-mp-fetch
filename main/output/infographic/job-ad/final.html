@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>星光科技招聘</title>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  width: 1080px;
+  height: 1440px;
+  background: url('bg.png') no-repeat center center;
+  background-size: cover;
+  font-family: "PingFang SC", "Microsoft YaHei", "Helvetica Neue", Arial, sans-serif;
+  position: relative;
+  overflow: hidden;
+}
+.overlay {
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  padding: 36px 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+/* === HEADER === */
+.header {
+  text-align: center;
+  padding: 16px 0 8px;
+}
+.logo-tag {
+  display: inline-block;
+  background: linear-gradient(135deg, #7c3aed, #a855f7);
+  color: #fff;
+  font-size: 14px;
+  font-weight: 700;
+  padding: 6px 20px;
+  border-radius: 20px;
+  letter-spacing: 2px;
+  margin-bottom: 12px;
+}
+.company-name {
+  font-size: 64px;
+  font-weight: 900;
+  color: #1e1b4b;
+  letter-spacing: 4px;
+  text-shadow: 0 2px 12px rgba(255,255,255,0.9);
+  line-height: 1.1;
+}
+.company-tagline {
+  font-size: 22px;
+  color: #6366f1;
+  font-weight: 600;
+  margin-top: 8px;
+  letter-spacing: 4px;
+}
+/* === GRID: 2 rows, mixed === */
+.main-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+  flex: 1;
+}
+.card {
+  background: rgba(255,255,255,0.92);
+  border-radius: 20px;
+  padding: 22px 20px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+}
+.card-icon {
+  font-size: 24px;
+  margin-bottom: 6px;
+}
+.card-title {
+  font-size: 20px;
+  font-weight: 800;
+  color: #1e1b4b;
+  margin-bottom: 10px;
+}
+.card-text {
+  font-size: 14px;
+  color: #374151;
+  line-height: 1.8;
+}
+.badge {
+  display: inline-block;
+  background: #f3f4f6;
+  color: #374151;
+  font-size: 13px;
+  padding: 4px 12px;
+  border-radius: 12px;
+  margin: 3px 3px 3px 0;
+  font-weight: 500;
+}
+.badge.blue { background: #dbeafe; color: #1d4ed8; }
+.badge.green { background: #d1fae5; color: #065f46; }
+.badge.purple { background: #ede9fe; color: #6d28d9; }
+.badge.orange { background: #ffedd5; color: #9a3412; }
+.badge.pink { background: #fce7f3; color: #9d174d; }
+.badge.teal { background: #ccfbf1; color: #0f766e; }
+.badge.yellow { background: #fef9c3; color: #854d0e; }
+/* === FULL WIDTH CARDS === */
+.full-card {
+  background: rgba(255,255,255,0.92);
+  border-radius: 20px;
+  padding: 22px 24px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+}
+.full-card .badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 8px;
+}
+/* === FOOTER === */
+.footer {
+  text-align: center;
+  padding: 12px 0 4px;
+}
+.footer-cta {
+  font-size: 28px;
+  font-weight: 900;
+  color: #1e1b4b;
+  letter-spacing: 2px;
+}
+.footer-sub {
+  font-size: 15px;
+  color: #6366f1;
+  font-weight: 600;
+  margin-top: 4px;
+}
+.footer-email {
+  display: inline-block;
+  margin-top: 8px;
+  background: linear-gradient(135deg, #4f46e5, #7c3aed);
+  color: #fff;
+  font-size: 15px;
+  font-weight: 700;
+  padding: 10px 28px;
+  border-radius: 30px;
+  letter-spacing: 1px;
+}
+.decor {
+  position: absolute;
+  font-size: 20px;
+  opacity: 0.6;
+}
+.decor-1 { top: 20px; right: 30px; }
+.decor-2 { bottom: 60px; left: 20px; }
+</style>
+</head>
+<body>
+<div class="overlay">
+  <!-- Header -->
+  <div class="header">
+    <div class="logo-tag">⭐ 招 聘</div>
+    <div class="company-name">星光科技</div>
+    <div class="company-tagline">做热爱的事，和对味的人</div>
+  </div>
+
+  <!-- Top row: 2 cards -->
+  <div class="main-grid">
+    <div class="card">
+      <div class="card-icon">🏢</div>
+      <div class="card-title">关于星光</div>
+      <div class="card-text">
+        专注企业协作工具的创业团队<br>
+        成立3年，融资A轮<br>
+        团队40人，95后为主力<br>
+        扁平管理，开放办公
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-icon">💼</div>
+      <div class="card-title">在招职位</div>
+      <div style="margin-top:8px;">
+        <span class="badge blue">前端工程师</span>
+        <span class="badge green">UI设计师</span>
+        <span class="badge purple">产品经理</span>
+        <span class="badge orange">内容编辑</span>
+      </div>
+      <div class="card-text" style="margin-top:10px; font-size:13px; color:#6b7280;">
+        全部职位 → www.starlight.tech
+      </div>
+    </div>
+  </div>
+
+  <!-- Middle row: 2 cards -->
+  <div class="main-grid">
+    <div class="card">
+      <div class="card-icon">🎁</div>
+      <div class="card-title">福利待遇</div>
+      <div style="margin-top:6px;">
+        <span class="badge teal">六险一金</span>
+        <span class="badge pink">弹性打卡</span>
+        <span class="badge yellow">节日礼盒</span>
+        <span class="badge green">学习基金</span>
+        <span class="badge blue">免费零食</span>
+        <span class="badge purple">下午茶</span>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-icon">☀️</div>
+      <div class="card-title">团队氛围</div>
+      <div class="card-text">
+        扁平管理，没有大公司病<br>
+        每周五下午茶自由<br>
+        每月团建，每季度outing<br>
+        技术分享会，成长型团队
+      </div>
+    </div>
+  </div>
+
+  <!-- CTA Footer -->
+  <div class="footer">
+    <div class="footer-cta">来这里，写你的故事</div>
+    <div class="footer-sub">期待闪闪发光的你加入 🌟</div>
+    <div class="footer-email">📧 join@starlight.tech &nbsp;|&nbsp; 🌐 www.starlight.tech</div>
+  </div>
+
+</div>
+<span class="decor decor-1">✨</span>
+<span class="decor decor-2">💫</span>
+</body>
+</html>

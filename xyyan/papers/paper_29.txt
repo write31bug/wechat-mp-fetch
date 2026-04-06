@@ -1,0 +1,256 @@
+
+--- Page 1 ---
+The JournalofImmunology
+Histidine-Rich Glycoprotein Stimulates Human Neutrophil
+Phagocytosis and Prolongs Survival through CLEC1A
+Yohei Takahashi,* Hidenori Wake,* Masakiyo Sakaguchi,† Yukinori Yoshii,*
+Kiyoshi Teshigawara,* Dengli Wang,* and Masahiro Nishibori*
+Histidine-richglycoprotein(HRG)isamultifunctionalplasmaproteinandmaintainsthehomeostasisofbloodcellsandvascular
+endothelialcells.Inthecurrentstudy,wedemonstratethatHRGandrecombinantHRGconcentrationdependentlyinducedthe
+phagocyticactivityofisolatedhumanneutrophilsagainstfluorescence-labeledEscherichiacoliandStaphylococcusaureusthrough
+thestimulationofCLEC1Areceptors,maintainingtheirsphericalroundshape.Thephagocytosis-inducingeffectsofHRGwere
+inhibitedbyaspecificanti-HRGAbandenhancedbyopsonizationofbacteriawithdilutedserum.HRGandC5aprolongedthe
+survivaltimeofisolatedhumanneutrophils,inassociationwithareductioninthespontaneousproductionofextracellularROS.
+In contrast, HRG maintained the responsiveness of neutrophils to TNF-a, zymosan, and E. coli with regardto reactive oxygen
+speciesproduction.TheblockingAbforCLEC1AandrecombinantCLEC1A-FcfusionproteinsignificantlyinhibitedtheHRG-
+inducedneutrophilrounding,phagocyticactivity,andprolongationofsurvivaltime,suggestingtheinvolvementoftheCLEC1A
+receptor in the action of HRG on human neutrophils. These results as a whole indicated that HRG facilitated the clearance of
+E.coliandS.aureusbymaintainingtheneutrophilmorphologyandphagocytosis,contributingtotheantisepticeffectsofHRG
+invivo. TheJournalof Immunology, 2021,206: 737–750.
+N
+eutrophilsarethemostabundantleukocytesinsystemic bacterialinfection.Theneutrophilsarethemainphagocytesinthe
+circulation (60–70%) and are present in the blood of front line and are responsible for therelease of appropriate reac-
+healthyhumanadultsat2.5–7.53109cellsperliter(1). tive oxygen species (ROS) and proteolytic enzymes as a defense
+Circulating neutrophils are maintained in a quiescent state until against invading bacteria. Neutrophil extracellular trap (NET)
+they are activated by signals such as inflammatory cytokines, formationmaybeanothermodeofdefensebywhichneutrophils
+activated complements, and bacterial peptides. Once neutrophils protect against the diffusion of bacteria, contributing to the host
+are activated, they interact with vascular endothelial cells and defense against bacterial infections. Indeed, patients with neu-
+migratetotheinflamedsitebeyondthevascularendothelialcells. tropenicorneutrophiladhesion deficiencyhaveanincreasedrisk
+The neutrophils play a central role in the host defense against of bacterial infection (2). In contrast, excessive ROS and NET
+releasefromneutrophilscanbeamajorcauseoftissuedamagein
+many inflammatory diseases (3). Especially under septic condi-
+*DepartmentofPharmacology,OkayamaUniversityGraduateSchoolofMedicine,Den- tions,thedysregulatedneutrophilscausedbyinfectionareknown
+tistryandPharmaceuticalSciences,Okayama700-8558,Japan;and†DepartmentofCell
+to induce excessive ROS production, NET release, and aberrant
+Biology,OkayamaUniversityGraduateSchoolofMedicine,DentistryandPharmaceutical
+Sciences,Okayama700-8558,Japan neutrophil-vascular endothelial cell adhesion, which in turn trig-
+ger immunothrombus formation and failure in microcirculation,
+ORCIDs: 0000-0002-2584-5005 (Y.T.); 0000-0002-0160-7379 (H.W.); 0000-0002-
+6048-2756(K.T.);0000-0002-0380-494X(D.W.). leading to disseminated intravascular coagulation and multiple
+Received for publication July 15, 2020. Accepted for publication November 20, organfailure (4,5).
+2020. Histidine-rich glycoprotein (HRG) is a 75-kDa glycoprotein
+ThisworkwassupportedbytheJapanAgencyforMedicalResearchandDevelop- characterizedbytheexistenceofhistidine-containingrepeats(6).
+ment (JP19im0210109) and the Japan Society for the Promotion of Science
+HRG consists of four domains: cystatin-like domain 1, cystatin-
+(17K15580).
+like domain 2, a histidine-rich region that contains 12 GHHPH
+Y.T.,M.S.,D.W.,andY.Y.performedtheexperiments;Y.T.,H.W.,K.T.,D.W.,
+andM.N.analyzedtheresultsandmadethefigures;H.W.andM.N.designedthe sequences,andaC-terminaldomain(7,8).HRGwasfirstisolated
+researchandcriticallyrevisedthearticle;andY.T.andM.N.designedthere- fromhumanserumin1972andhassincebeenfoundtobepresent
+searchandwrotethepaper.
+inmanyvertebratesandaquaticinvertebrates(8).Inhumans,HRG
+AddresscorrespondenceandreprintrequeststoDr.MasahiroNishibori,Department is synthesized by the liver parenchymal cells and is constitutively
+ofPharmacology,OkayamaUniversityGraduateSchoolofMedicine,Dentistryand
+Pharmaceutical Sciences, 2-5-1, Shikata-cho, Okayama 700-8558, Japan. E-mail presentinplasmaataconcentrationof60–150mg/ml(0.8–2.0mM)
+address:mbori@md.okayama-u.ac.jp (6, 7, 9). HRG has been detected on the cell surface of mac-
+Theonlineversionofthisarticlecontainssupplementalmaterial. rophagesandmonocytes(10)andinagranulesofplateletsand
+Abbreviationsusedinthisarticle:CHO,Chinesehamsterovary;CLEC1A,C-type megakaryocytes(11).HRGhasbeenreportedtobindtovarious
+lectinreceptor1A;CLEC1B,C-typelectinreceptor1B;CLP,cecalligationpuncture; components,suchasheparin(6),heparansulfate(12),fibrin,
+HRG,histidine-richglycoprotein;HSA,albuminfromhumanserum;NET,neutro-
+fibrinogen(13),plasminogen(14),thrombospondin(15),complement
+phil extracellular trap; PMN, polymorphonuclear cell; rCLEC1A-Fc, recombinant
+CLEC1A-Fc; rHRG, recombinant HRG; ROS, reactive oxygen species; wt, wild complements (16), FcgRI (17, 18), FcgRII (19), IgG (20), zinc
+type. (21),andheme(22).Basedonitsbindingprofile,HRGhasbeen
+ThisarticleisdistributedunderTheAmericanAssociationofImmunologists,Inc., suggestedtoplayimportantrolesinantifungalandantibacterial
+ReuseTermsandConditionsforAuthorChoicearticles.
+defense, the clearance of apoptotic and necrotic cells, and the
+Copyright(cid:1)2021byTheAmericanAssociationofImmunologists,Inc.0022-1767/21/$37.50 regulationofcoagulation/fibrinolysis(17,23–27).Inaprevious
+www.jimmunol.org/cgi/doi/10.4049/jimmunol.2000817
+--- Page 2 ---
+738 REGULATIONOF NEUTROPHILSBYHRG
+study, we demonstrated that plasma HRG levels decreased mAb(ratIgG2a:no.75–14),anti-humanHRGmAb(ratIgG2b:no.29–14),
+significantlyinacecalligationpuncture(CLP)sepsismodelin anti-humanHRGpolyclonalAb(rabbit),andthecontrolAbscorresponding
+toeachweremadeinourlaboratory.
+mice (28). In addition, we reported that supplementary treat-
+ment with HRG prevented high mortality in the CLP mice, in Cell preparation
+association with suppression of the tight adhesion and aggre-
+In accordancewith the ethicsapproval andguidelinesof Okayama Uni-
+gation of neutrophils and platelets to the vascular endothelial
+versity,bloodwascollectedfromhealthyvolunteers(n=3)afterobtaining
+cells.Moreover,itwasshowninvitrothatHRGmaintainedthe informed consent. The blood was drawn from the cubital vein using
+spherical shape of human neutrophils with few microvilli on heparin (10 U/ml) as anticoagulant. The polymorphonuclear cell (PMN)
+their surfaces as well as the reduced ROS production and easy fractionwasfractionatedfromhumanbloodsamplesbydensity-gradient
+centrifugation.Indetail,5.0mlofanticoagulatedwholebloodlayeredon
+passageofmicrocapillaryvessels.Thus,themorphologicaland
+5.0 ml of polymorphprep in a 15-ml centrifuge tube was centrifuged at
+functional features induced by HRG may imply the neutrophil 500 3 g for 30 min at 22˚C. After centrifugation, the PMNs band was
+state keeping the quiescence and preventing from unnecessary harvestedinatube.ThePMNsrecoveredwerewashedtwicewithPBSand
+activation. Phagocytosis of bacteria by neutrophils constitutes wereresuspendedinHBSStogiveanappropriateconcentrationforeach
+experiment.Allprocedureswereperformedinthesafetycabinet,andall
+the frontline against infection. Therefore, it is very important
+instruments were sterilized. The solutions used were at least of a guar-
+to know whether the neutrophils with suppressed spontaneous
+anteed reagent grade. The neutrophil fraction was 95% or more of total
+ROS production by HRG respond properly to bacteria as pri- PMNs.
+mary phagocytic defense cells.
+Cell lines
+C-type lectins are a family of soluble and transmembrane re-
+ceptors that bind carbohydrates via a carbohydrate-recognition HEK293T (a human embryonic kidney cell line stably expressing the
+domain. C-type lectin-like receptors (CTLRs) are a family of SV40 large TAg; RIKEN BioResource Center, Tsukuba, Japan) were
+cultivatedinD/FMedium(ThermoFisherScientific)supplementedwith
+proteinreceptorsinvolvedintherecognitionofself-andnon–self-
+10%FBS.
+ligands and recognize not only carbohydrate ligands butalso ad-
+ditional ligands such as proteins and lipids (29). With regard to Stabletransformants
+their function, CTLRs have been reported to play many roles, The HEK293Tcell–originatedclones,HEK293T-CLEC1A (wildtype
+including the uptake of microorganisms, clearance of apoptotic [wt])orHEK293T-CLEC1A(Dcyt;adeletionvariantoftheN-terminal
+cells, modulation of immune responses through cytokine and cytoplasmic region [45 aa] of CLEC1A), which permanently express
+CLEC1A(wt)or CLEC1A(Dcyt) protein, were established by a conve-
+chemokine, and regulation of cell–cell adhesion (30, 31).One of
+nient electroporation gene delivery method using our original plasmid,
+the orphan receptors, C-type lectin receptor 1A (CLEC1A), is a
+pSAKA-4B vector (36–38) and subsequent selection with puromycin at
+group V type II transmembrane receptor of the C-type lectin su- 20mg/ml.
+perfamily and is expressed by endothelial cells, dendritic cells,
+PurificationofHRGfromhumanplasmaHRGandrHRGfrom
+monocytes, and neutrophils in humans (32). Concerning the
+HRG-expressing Chinesehamsterovarycells
+functionofCLEC1A,tworoleshavebeensuggested:upregulation
+of TGF-b and activation of CD4+ Th17 (33, 34). However, cor- HRGwaspurifiedfromhumanplasma(suppliedbytheJapaneseRed
+respondingexogenousandendogenousligandsareunknown,and Cross Society) as previously described (28, 39). rHRG was obtained
+fromChinesehamsterovary(CHO)cellsthatweretransfectedwitha
+the downstream signaling remains uncharacterized. Recently, we
+humanHRGexpressionvector.Inbrief,humanHRGexpressionvector–
+identified CLEC1A as a novel receptor for HRG by using the transfectedCHOcellswereculturedwithDMEM/NutrientMixtureF-12+
+HEK293Texpressionsystemandcoimmunoprecipitationwiththe 10%FCS+puromycin.Thecellculturesupernatantwasincubatedwith
+tethered ligand HRG(35). Ni-NTAagarosegelfor2hat4˚C.Thegelwaspackedintoacolumn
+andwashedwith30mMimidazoleinPBS(2)(pH7.4),thenwith1M
+In the current study, we evaluated the functional regulation of
+NaCl+10mMPB(pH7.4),andfinallywithPBS(pH7.4).rHRGwaseluted
+humanneutrophilsbynativeandrecombinantHRG(rHRG),witha by500mMimidazoleinPBS(2)(pH7.4).PurifiedrHRGwasidentifiedby
+particularfocusonbacterialphagocytosisandtheinvolvement SDS-PAGEandWesternblottingwithahumanHRG-specificAb.
+of CLEC1A receptors in the action of HRG. Because the life
+Neutrophilshapeassay
+span of neutrophils has been speculated to be 24 h in the cir-
+culation,theeffectsofHRGonthelongevityofneutrophilswere PurifiedneutrophilswerestainedbyHoechst33342(Nuclei)andCalcein-
+also determined. AM(Cytosol)asdescribedpreviously(28).Thecellsuspensionwasmixed
+with one of the reagents (BSA, HSA, fMLP, C5a, and HRG) and then
+aliquotedinto a 96-wellplate (BDBiosciences)(finalcell concentration
+53104cellsperwell).Afterincubationfor60minat37˚Cand5%CO,
+Materials and Methods 2
+scanningandanalysisofneutrophilshapewere performedusinganIN
+Reagent CellAnalyzer2000(GEHealthcare)andINCellAnalyzerWorkstation
+software (GE Healthcare). Cell rounding (the average of maximum
+HBSSwasobtainedfromLifeTechnologies(Carlsbad,CA).Heparinwas diameter/minimumdiameterpercell)andcellarea(mm2/cell)wereused
+obtained from Mochida Pharmaceutical (Tokyo, Japan). Hoechst 33342,
+asparameterstoevaluateneutrophilshape.
+Calcein-AM,CM-H2DCFDA,pHrodo RedEscherichiacoli BioParticles
+andpHrodoRedStaphylococcusaureusBioParticleswereobtainedfrom PreparationofpHrodoE.coliandS.aureus
+ThermoFisherScientific(Waltham,MA).fMLPwasobtainedfromPep-
+tide Institute (Minoh, Japan). Polymorphprep was obtained from AXIS- We used the pH-sensitive dye pHrodo E. coli and S. aureus reagents to
+SHIELD(Oslo,Norway).Nickel-nitriloaceticacid(Ni-NTA)agarosewas evaluatetheneutrophilphagocyticactivity.PHrodohasweakfluorescence
+obtained from QIAGEN (Venlo, Netherlands). The ApoTox-Glo Triplex inaneutraloralkalineenvironmentandhasincreasedfluorescencein-
+Assay kit was obtained from Promega (Madison, WI). C5a, IL-8, anti- tensity in an acidic environment such as in lysosomes. Using these re-
+human CLEC1A polyclonal Ab (AF1704), anti-human C-type lectin re- agents,wewereabletomeasurephagocyticactivitywithoutseparating
+ceptor1B(CLEC1B)polyclonalAb(AF1718),anti-humanCLEC1AmAb neutrophilsandfreebacteria.ThepHrodoE.coliandS.aureusreagents
+(MAB1704), anti-human CLEC1B mAb (MAB1718), IgG goat control weredissolvedinHBSS(0.5mg/ml)andthensonicatedfor5min.After
+(AB-108-C),IgG2bmousemonoclonalisotypecontrol(MAB004),and sonication,theywerecentrifugedat2003gfor5min.Thesupernatants
+mousemonoclonalanti-phospho-tyrosineHRP-conjugatedAbwereob- were used for phagocytosis assay. Opsonization of the pHrodo E. coli
+tainedfromR&DSystems(Minneapolis,MN).DulbeccoPBS,albumin and S. aureus reagents was performed using 20% human serum. The
+fromhumanserum(HSA),albuminfromBSA,LPS(E.coli0111:B4), pHrodo E. coli and S. aureus reagents were dissolved in 2 ml of 5-fold
+zymosan A from saccharomyces, isoluminol and HRP type IV (HRP) dilutedhumanserumandincubatedfor15minat37˚Cand5%CO.After
+2
+were obtained from Sigma-Aldrich (St. Louis, MO). Anti-human HRG washingthereagentstwiceandadjustingtheirconcentrationto0.5mg/ml
+--- Page 3 ---
+TheJournal ofImmunology 739
+byHBSS,weusedthemforthephagocytosisassay.UnopsonizedpHrodo Statisticalanalysis
+wasincubatedwithHBSSinsteadofserum.
+Statistical analysis was determined using the unpaired Student t test for
+Neutrophilphagocytosisassay comparisons between two groups. For multiple comparisons, ANOVA
+followedbyDunnetttestandTukeytestwasused.Alldataarepresented
+PurifiedneutrophilswerestainedbyHoechst33342andCalcein-AM.The as means 6 SEM. The p values , 0.05 were considered statistically
+cellsuspensionwasmixedwithoneofthereagents(BSA,HSA,fMLP,C5a, significant.
+orHRG)andthenaliquotedintoa96-wellplate.Afterincubationfor30min
+at37˚Cand5%CO ,thepHrodoE.coli,pHrodoS.aureus,orzymosan
+Awasaddedtothew 2 ell(finalcellconcentration:53104cellsperwell; Results
+final pHrodo concentration: 25 mg/well). After incubation for 60 min HRGinducessphericalshapechangeofpurified
+(E.coli) or 120min (S. aureus andzymosan A) at 37˚C and5% CO 2 , humanneutrophils
+scanningandanalysisofneutrophilphagocytosiswereperformedusing
+anINCellAnalyzer2000andINCellAnalyzerWorkstationsoftware. Weinvestigatedtheneutrophilmorphologyafterthetreatment
+TotalpHrodofluorescenceareasweremeasured,andtheaverageareaof withtestreagents(BSA,HSA,fMLP,C5a,HRG,eachat1-mM
+pHrodopercell(mm2/cell)wasusedtoevaluatetheamountofneutrophil
+concentration)for60min(Fig.1A).Thecellroundingandcell
+phagocytosis.
+area were significantly reduced in the HRG-treated group
+Neutrophilviabilityassay compared with the other groups (Fig. 1B, 1C). Neutrophils
+treatedwithHRGandrHRGshowedadecreasedcellrounding
+PurifiedneutrophilswerestainedbyHoechst33342andCalcein-AM.
+andcellareainaconcentration-dependentmanner(Fig.1D–F).
+Theneutrophilsuspensionwasaliquotedtoa96-wellplateinavolume
+of100ml(finalcellconcentration53104cellsperwell)withoneof WeverifiedthespecificityoftheHRGeffectsonneutrophilsby
+thereagents(HSA,fMLP,C5a,HRG:finalconcentration1mM)inthe addinganti-HRGAb(finalconcentrationofAb:10mg/ml;HRG:
+presenceorabsenceofAb(ratIgG2acontrolAb,ratanti-humanHRG 0.25 mM) to the incubation media. Neutrophil rounding was
+Ab[IgG2a]:finalconcentration10ng/ml).Wescannedtheneutrophils
+suppressed by two kinds of anti-HRG mouse mAbs as well as
+andcountedthecalcein-positiveneutrophilnumberat0,1,2,4,6,9,
+12,18,and24hafterstimulationat37˚Cand5%CO usinganINCell rabbitpolyclonalAb(Fig.1G–I).TheseblockingeffectsofAbs
+2
+Analyzer2000.Weevaluatedthetime-dependentchangeinneutrophil strongly indicated the specificity of the HRG effects on human
+number. neutrophils.
+ApoTox-GloTriplexAssay HRGstimulatesthephagocyticactivityofbacteriainvitro
+Forneutrophilviabilityassays,weusedanApoTox-GloTriplexAssay Phagocytosisofbacteriaandfungiisoneofthemainfunctions
+kit (Promega GmbH; High-Tech-Park, Mannheim, Germany). The of neutrophils. To evaluate the effects of HRG on neutrophil
+neutrophil suspensions were treated with one of the reagents (HBSS,
+phagocytic activity, we performed a phagocytosis assay using
+HSA,fMLP,C5a,HRG:1.0mM)andseededintoa96-wellplate.After
+incubationfor6hat37˚Cand5%CO ,20mlofviability/cytotoxicity E. coli and S. aureus labeled by pHrodo red. pHrodo red is a
+2
+reagent containing both glycylphenylalanyl-aminofluorocoumarin and pH-sensitive fluorescence probe and exhibits red fluorescence
+bis-alanylalanyl-phenylalanyl-rhodamine 110 substrate was added to under acidic conditions such as thosewithin phagosomes. For
+each well, and then these ingredients were briefly mixed for 30 s and thequantitativemeasurements,wedeterminedthepHrodo-derived
+incubated for 30 min at 37˚C. Fluorescence was measured at 400ex/
+red fluorescence area in the neutrophils (total area: mm2/cell) as
+505em(viability)and485ex/520em(cytotoxicity)usingaFlexStation3
+(Molecular Devices, San Jose, CA). Next, 100 ml of Caspase-Glo 3/7 thephagocyticactivity.pHrodo-derivedredfluorescenceofE.coli
+reagentwasaddedtoeachwell,andthesamplesweremixedandthen and S. aureus was observed in HRG- and rHRG-treated neutro-
+incubatedatroomtemperaturefor30min.Luminescencewasmeasured philsbutwasnotobservedinHBSS-andHSA-treatedneutrophils
+usingtheFlexStation3.
+(Fig. 2A, 2B). In the videos, the enhanced movement of neu-
+DetectionofextracellularandintracellularROSproduction trophils was apparent after the addition of HRG to the sus-
+inneutrophils pensions(SupplementalVideos1–4;conditions:totalfor2.5h,
+one flame represents 3 min). C5a (1 mM) treatment stimulated
+Oneofthereagentsoracombinationoftworeagents(HSA,fMLP,C5a,
+thephagocytosisofE.coliaswellasS.aureusbyneutrophils,
+HRG: 1 mM; rat IgG2a control Ab, rat anti-human HRG Ab [IgG2a]:
+10mg/ml;zymosanAfromsaccharomyces:10mg/ml;LPSandTNF-a: whereas the same concentrations of fMLP and IL-8 as well as
+50 ng/ml; autoclaved E. coli or S. aureus: 5 3 105 from 106) were ali- LPS (100 mg/ml) and TNF-a (10 ng/ml) did not show any
+quotedtoa96-wellpolystyreneplateinavolumeof50ml.Intheextra- stimulatory effects on bacterial phagocytosis (Fig. 2C, 2D).
+cellularROSproductionassay,theneutrophilsuspensionwithisoluminol
+TheconcentrationdependenceoftheeffectsofHRGandrHRG
+(finalconcentration:50mM)andHRP(finalconcentration:4U/ml)was
+aliquotedtoeachwellinavolumeof50ml(finalconcentration53104 on E. coli and S. aureus is shown in Fig. 2E, 2F. The results
+cells).NeutrophilextracellularROSproductionwasmeasuredevery5min showed that the effects were maximal at a concentration of
+for 45 min, and then chemiluminescence intensity was evaluated at 0.3 mM for both HRGs. The anti-HRG Ab (10 mg/ml) almost
+30minafterthestartofincubationat37˚CbymeasurementusingFlex-
+completelysuppressedtheeffectsofHRGonE.coliphagocytosis
+Station3. In the intracellular ROS production assay, the neutrophil sus-
+by neutrophils, whereas the same concentration of anti-HRG Ab
+pensionwithCM-H2DCFDA(finalconcentration,10mM)wasaliquoted
+to each well in a volume of 50 ml (final concentration 5 3 104 cells). onlypartiallyinhibitedtheeffectsofHRGonS.aureusphagocytosis
+Neutrophil intracellular ROS production was measured as the fluores- (Fig.2G–I).
+cenceintensity(485ex/538em)at60minafterthestartofincubationat
+37˚CusingaFlexStation3. HRGalsostimulatesthephagocyticactivityofzymosanAand
+opsonizedbacteria
+Westernblotting
+To investigate whether HRG also promotes neutrophil phago-
+ThecollectedcellpelletswerelysedwithM-PERbuffer(ThermoFisher
+cytosis of other bacteria, we performed a phagocytosis assay
+Scientific).TheextractedcellspecimenswerethensubjectedtoSDS-PAGE,
+andtheelectrophoresedgelwastransferredtothepolyvinylidenedifluoride using zymosan A labeled by pHrodo red. As observed in the
+(PVDF)membrane.BSAwasusedforthemembraneblocking.Thedetection E. coli and S. aureus assays, zymosan A fluorescence was in-
+ofthephosphorylationmodificationontyrosineandserinewasperformedby corporated into HRG-treated neutrophils, whereas almost no
+usingmousemonoclonalanti-phospho-tyrosineHRP-conjugatedAbor
+fluorescence was detected in HBSS-, HSA-, or fMLP-treated
+mousemonoclonalanti-phospho-serineAb(BDBiosciencesPharmingen,
+SanDiego,CA)withtheHRP-conjugatedrabbitanti-mouseIgGAb(Cell neutrophils (Fig. 3A, 3B). Next, we investigated the effect
+SignalingTechnology,Danvers,MA). of HRG on neutrophil phagocytosis in opsonized bacteria.

@@ -1,0 +1,500 @@
+
+--- Page 1 ---
+EBioMedicine9(2016)180–194
+ContentslistsavailableatScienceDirect
+EBioMedicine
+journal homepage: www.ebiomedicine.com
+ResearchPaper
+Histidine-RichGlycoproteinPreventsSepticLethalitythroughRegulation
+of Immunothrombosis and Inflammation
+HidenoriWakea,ShujiMorif,KeyueLiua,YutaMoriokaa,KiyoshiTeshigawaraa,MasakiyoSakaguchib,
+KosukeKurodac,YuanGaoa,HideoTakahashig,AijiOhtsukad,TadashiYoshinoe,
+HiroshiMorimatsuc,MasahiroNishiboria,⁎
+aDepartmentofPharmacology,OkayamaUniversityGraduateSchoolofMedicine,Dentistry,andPharmaceuticalSciences,Okayama700-8558,Japan
+bDepartmentofCellBiology,OkayamaUniversityGraduateSchoolofMedicine,Dentistry,andPharmaceuticalSciences,Okayama700-8558,Japan
+cDepartmentofAnesthesiologyandResuscitology,OkayamaUniversityGraduateSchoolofMedicine,Dentistry,andPharmaceuticalSciences,Okayama700-8558,Japan
+dDepartmentofHumanMorphology,OkayamaUniversityGraduateSchoolofMedicine,Dentistry,andPharmaceuticalSciences,Okayama700-8558,Japan
+eDepartmentofPathology,OkayamaUniversityGraduateSchoolofMedicine,Dentistry,andPharmaceuticalSciences,Okayama700-8558,Japan
+fDepartmentofPharmacology,ShujitsuUniversity,SchoolofPharmacy,Okayama703-8516,Japan
+gDepartmentofPharmacology,KinkiUniversity,FacultyofMedicine,Osakasayama589-8511,Japan
+a r t i c l e i n f o a b s t r a c t
+Articlehistory: Sepsisisamajorcauseofdeathworldwide.Weshowthataplasmaproteinhistidine-richglycoprotein(HRG)
+Received4April2016 wasdecreasedsignificantlyinsepticmicewithcecalligationandpuncture(CLP)andsupplementarytreatment
+Receivedinrevisedform2June2016 ofsepticmicewithexogenousHRGimprovedsurvival,withstronginhibitionoftightattachmentofneutrophils
+Accepted2June2016 topulmonaryvasculatures,subsequentimmunothrombosis,DICstate,lunginflammation,hypercytokinemia,
+Availableonline4June2016
+andactivationofvascularendothelialcells(VECs).Incontrast,knockdownofHRGbysiRNAexacerbatedlethality.
+PurifiedhumanHRGreversiblyinducedmorphologicalchangesinhumanneutrophilsinvitro;inductionof
+Keywords:
+sphericalshapewithreducedmicrovilliandadhesivenesstoVECs.HRGmaintainedthepassageofneutrophils
+Histidine-richglycoprotein
+Sepsis throughmicrocapillariesandabolishedproductionofreactiveoxygenspecies.Theseresultssuggestedthatthe
+ARDS supplementarytherapywithHRGmayprovideanovelstrategyforthetreatmentofsepsisthroughsuppression
+Immunothrombosis ofexcessivesystemicinflammationandimmunothrombosisbykeepingcirculatingneutrophilsquiescentand
+Neutrophil preventinguncontrolledactivationofVECs.
+©2016TheAuthors.PublishedbyElsevierB.V.ThisisanopenaccessarticleundertheCCBY-NC-NDlicense
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+1.Introduction andZemans,2011;Morelandetal.,2004;EngelmannandMassberg,
+2013;Brinkmannetal.,2004;YippandKubes,2013).Thus,circulating
+Sepsisisasystemicinflammatoryresponsesyndrome(SIRS)associ- neutrophilsmayplayimportantrolesinthepathogenesisofsepticcon-
+atedwithinfection.Thepathogenesisofsepsisincludesthedisturbance ditionsinadditiontoinfiltratingneutrophils.However,theuncon-
+ofblood-vascularhomeostasis,whichmaycausemultipleorganfailure, trolledactivationofneutrophilshasnotbeenexaminedindetaildue
+circulatoryshock,anddisseminatedintravascularcoagulation(DIC), tomethodologicallimitations(Alves-Filhoetal.,2008).Neutrophils
+leading to high mortality (Aziz et al., 2013; Dellinger et al., 2012; areeasilyactivatedbyinvitrohandlingorevenbywithdrawingfrom
+Hotchkissetal.,2013;Semeraroetal.,2012).Theproinflammatorycy- bloodvessels.Therefore,itmightberatherdifficulttoknowandspecu-
+tokineresponseintheacutephasemaybetriggeredbytheconstituents lateabouttheprecisefeaturesofthecirculatingneutrophilsbyanin
+ofinvadingpathogensandtissuedamage-associatedmolecularpatterns vitroanalysis.Also,ifanyarepresent,acontrollingfactorofneutrophils
+(PiccininiandMidwood,2010;Ward,2012),accompaniedbytheacti- inplasma,onethatmightregulateafundamentalstateofcirculating
+vationofvascularendothelialcells(VECs),apivotalstepforinducing neutrophils in both healthy and disease conditions, remains to be
+themigrationofleukocytesintoinflammatorysiteswithpathogeninva- determined.
+sion(Salomãoetal.,2008;Williamsetal.,2011).Arecentstudysug- Histidine-richglycoprotein(HRG)isa75kDaplasmaglycoprotein
+gested that neutrophil adhesion on VECs may trigger platelet producedinandsecretedfromtheliver(Koideetal.,1986).Theplasma
+aggregationandimmunothrombusformationinsepticacuterespirato- levelsofHRGinhealthyhumanwerereportedtobeconstantaround
+rydistresssyndrome(ARDS)(GrommesandSoehnlein,2011;Matthay 1μM(Poonetal.,2011).HRG'sprimaryaminoacidsequencehasan
+extraordinarynumberofhistidineresiduesandtypicalGHHPHrepeats
+⁎ Correspondingauthor. (Borzaetal.,1996).SinceHRGbindstoadiverserangeofligandsinclud-
+E-mailaddress:mbori@md.okayama-u.ac.jp(M.Nishibori). ing heparin, heparan sulfate, fibrin, fibrinogen, plasminogen,
+http://dx.doi.org/10.1016/j.ebiom.2016.06.003
+2352-3964/©2016TheAuthors.PublishedbyElsevierB.V.ThisisanopenaccessarticleundertheCCBY-NC-NDlicense(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+--- Page 2 ---
+H.Wakeetal./EBioMedicine9(2016)180–194 181
+thrombospondin,divalentmetalcations,heme,andcomplementC1q,it 2.2.CellPreparation
+issuggestedtobeinvolvedintheregulationofcoagulation/fibrinolysis
+(Lijnenetal.,1983;Leung,1986;Petersonetal.,1987;Silversteinet InaccordancewiththeethicsapprovalandguidelinesofOkayama
+al., 1985), immune response (Gorgani et al., 1997; Morgan, 1985; University,writteninformedconsentwasobtainedfromhealthyvolun-
+Poonetal.,2010),andangiogenesis(Doñateetal.,2004;Juarezetal., teers(n=5),andbloodwasdrawnfromthecubitalvein.Theblood
+2002;Wakeetal.,2009).Moreover,HRGisreportedtohavetheanti- waslayeredontoPolymorphprep(Axis-Shield,Oslo,Norway)priorto
+bacterialandantifungalactivitiesinacidicpHandhighZncondition density-gradient centrifugation. The purified neutrophils were
+(Rydengårdetal.,2007;Kacprzyketal.,2007;Rydengårdetal.,2008) suspended in Hank's Balanced Salt Solution (HBSS) buffer. The
+aswellastheneutralizingeffectonlipopolysaccharide(LPS)(Bosshart EA.hy926cells(ATCCCRL-2922),ahybridomaofHumanUmbilical
+andHeinzelmann,2003).Actually,Shannonetal.demonstratedthat VeinEndothelialCells(HUVEC)andhumanepithelialcelllineA549,
+HRGdecreasesmortalityofsepticmicemodelwithS.pyogenes-induced wereculturedinDulbecco'smodifiedEaglemedium(ATCC)containing
+abscessbykillingandtrappingofbacteriainabscesssite(Shannonetal., 10%fetalbovineserum(LifeTechnologies).Thesecellsweregrownina
+2010).However,theeffectsofHRGonthecirculatingleukocytes,espe- humidifiedatmosphereandpassagedevery3–4days.
+ciallyneutrophilsinsystemicsepticcondition,arepoorlyunderstood.
+In the present study, we identified and characterized HRG as a
+2.3.PurificationofHRGfromHumanPlasma
+uniqueplasmafactorthatmaintainsaneutrophil'ssphericalshape
+withminimalmicrovillionthesurfaceindependentoftheextravascular
+HRGwaspurifiedfromhumanplasma(suppliedbytheJapanese
+action.Thesemorphologicalfeaturesrenderneutrophilsquiescentwith
+RedCrossSociety)aspreviouslydescribed(Morietal.,2003).Inbrief,
+respecttothecelladhesiontoVECs,thepassageofmicrovasculatures,
+human plasma was incubated with nickel–nitrilotriacetic acid (Ni-
+andthespontaneousreleaseofreactiveoxygenspecies(ROS).Incecal
+NTA)agarose(Qiagen,Hilden,Germany)for2hat4°Cwithgentle
+ligationandpuncture(CLP)sepsismice,plasmalevelsofHRGdecreased
+shaking.Thegelwaspackedintoacolumnandwashedsuccessively
+significantly,andsupplementarytreatmentwithhumanHRGdramati-
+with10mMTris-bufferedsaline(TBS)(pH8.0)containing10mMim-
+callyimprovedthesurvivalrateofCLPmiceassociatedwiththeinhibi-
+idazoleandthen10mMTris-buffer(TB)(pH8.0)containing1MNaCl.
+tion of immunothrombosis in pulmonary vasculatures, DIC state,
+HumanHRGwaselutedby0.5Mimidazolein10mMTBS(pH8.0).The
+hypercytokinemia,andinflammatoryresponsesinthelung,withoutin-
+protein extract was further purified by a Mono Q column (GE
+terferingwiththeinfiltrationofneutrophilsintotheperitonealcavity.
+Healthcare,LittleChalfont,UK)withNaClgradient.Purifiedhuman
+Thepresentstudyhasshedlightonourunderstandingofsepticcondi-
+HRGwasidentifiedbysodiumdodecylsulfate–polyacrylamidegelelec-
+tionsbyclarifyingacrucialroleofHRGinneutrophils.
+trophoresis(SDS-PAGE)andWesternblottingwithahumanHRG-spe-
+cificantibody.
+2.MaterialsandMethods
+2.1.Reagents 2.4.CecalLigationPunctureModel
+Thrombin(fromhumanplasma),isoluminol,andhorseradishper- Allanimalexperimentswereapprovedbytheuniversity'scommit-
+oxidase type IV were obtained from Sigma (St. Louis, MO). DAPI, teeonanimalexperimentationandperformedaccordingtotheguide-
+SYTOXBlue,SYTOXGreen,Hoechst33342,Calcein-AM,Fluo-4,CM- linesofOkayamaUniversityonanimalexperiments.MaleC57BL/6N
+H2DCFDA, Phalloidin-Alexa584, DNaseI-Alexa488, BAPTA-AM, and mice (22–25 g, 7–8 wk) were obtained from Japan SLC (Shizuoka,
+InvivofectaminewereobtainedfromLifeTechnologies(Carlsbad,CA). Japan).SepsiswasinducedinmicebyCLP.Animalswereanesthetized
+Anti-phosphatidylserineantibody(Ab)(clone:1H6)wereobtained andaligaturewasplacedbelowtheileocecalvalve.Thececumwas
+fromMerck(Darmstadt,Germany).N-formyl-L-methionyl-L-leucyl- punctured once (mild sepsis) or twice (severe sepsis) with an 18-
+phenylalanine (fMLP) was obtained from Peptide Institute, Inc. gauge needle and then returned to the peritoneal cavity. Animals
+(Minoh,Japan).ToxinBfromClostridiumdifficilewasobtainedfrom weretreatedwithvehicle(phosphate-bufferedsaline(PBS))orwith4
+ListBiologicalLaboratories(Campbell,CA).Imipenem(TIENAMforin- or20mg/kgofhumanHRGorproteincontrol(humanserumalbumin
+tramuscularinjection)wasobtainedfromMSD(Tokyo,Japan).C5a,IL- (HSA);20mg/kg)immediatelyor6handat24hand48hafterCLPin-
+8,anti-mousemyeloperoxidase(MPO)Ab,andanti-mouseCD42dAb duction.Shammiceunderwentthesamesurgicalprocedureswithout
+wereobtainedfromR&Dsystems(Minneapolis,MN).Anti-mousefi- ligationandpuncture.
+brinogen/fibrinAb,anti-HistoneH3Ab(citrullineR2+R8+R17)
+(cit-histone H3), DyLight488-labeled anti-human CD54 Ab (clone:
+2.5.SicknessBehavior
+EPR4776), Alexa Fluor 647-labeled anti-rabbit IgG Ab, Alexa Fluor
+647-labeledanti-sheepIgGAb,AlexaFluor568-labeledanti-rabbitIgG
+Sicknessbehaviorswereevaluatedat24hafterCLP.Detailsoftheas-
+Ab,AlexaFluor568-labeledanti-sheepIgGAb,AlexaFluor568-labeled
+sessmentsusedandthescoringareasfollows:1=normal(locomotion,
+anti-goatIgGAb,AlexaFluor488-labeledanti-goatIgGAb,andAlexa
+appearance); 2 = slight signs of illness (lethargy, ptosis, or
+Fluor405-labeledanti-rabbitIgGAbwereobtainedfromabcam(Cam-
+piloerection);3=obviousillness(verylittlemovement,ptosisand
+bridge, UK). FITC-labeled anti-human activated CD11b Ab (clone:
+piloerection,curledbodyposture);4=verysickanimal(virtuallyno
+CBRM1/5) were obtained from eBioscience (San Diego, CA). Alexa
+movement, impaired breathing, unresponsiveness, plus the above
+Fluor 488-labeled anti-human CD62P Ab was obtained from
+symptoms)(Sudometal.,2004).
+BiossAntibodies(Woburn,MA).Anti-mouseGr-1(clone:RB6-8C5)-
+AlexaFluor594wasobtainedfromBioLegend(SanDiego,CA).FITC-la-
+beled anti-human CD11b Ab (clone: Bear1) and FITC-labeled anti- 2.6.CLPMiceModelwiththeImipenem-pretreatment
+humanCD62LAb(clone:DREG56)wereobtainedfromBeckmanCoul-
+ter(Brea,CA).PE-labeledanti-humanCD162Ab(clone:TC2)wasob- SepsiswasinducedinmicebyCLP.Animalswereanesthetizedanda
+tainedfromNovusBiologicals(Littleton,CO).DyLight488-labeledanti- ligaturewasplacedbelowtheileocecalvalve.Thececumwaspunctured
+mouseCD42cAbwasobtainedfromemfretANALYTICS(Eibelstadt,Ger- twicewithan18-gaugeneedleandthenreturnedtotheperitonealcav-
+many).Anti-humanHRGmonoclonalantibody(Rat)(#75–14)and ity.Whentheeffectsofimipenemwereexamined,imipenemwasad-
+anti-human HRG polyclonal antibody (Rabbit) were made in our ministeredi.m.at6hor12handHRGwasadministeredat12h,24h,
+laboratory. and48hafterCLPinduction.
+--- Page 3 ---
+182 H.Wakeetal./EBioMedicine9(2016)180–194
+2.7.ExperimentswithCLPMiceSamples 2.13.InvivoNeutrophilImaging
+Wholebloodfrommouseheartat24hafterCLPwasplatedonLB NeutrophilsandplateletswerestainedwithAlexaFluor594-labeled
+agardishesandincubatedat37°C;colony-formingunits(CFUs)were anti-Gr-1antibody(10μg/mouse)andDyLight488-labeledanti-CD42c
+countedafter24h.TheresultswereexpressedasCFU/mL.Thenumber antibody(2μg/mouse),respectively,viai.v.injectionbeforetheinvivo
+ofredbloodcells(RBC),whitebloodcells(WBC),andplateletwere imagingexperiments.Sham-operatedorCLP-treatedmicewereanes-
+countedinwholebloodfrommouseat24hafterCLP(subcontractani- thetizedwithisoflurane,theabdomenwasopened,andtheexposed
+malclinicalexamination:Orientaleast,Tokyo,Japan).Thebloodwas mesenteryvesselswereobservedbyahigh-speedscanspinning-disk
+mixedwith3.2%sodiumcitratesolution(blood:sodiumcitratesolu- confocalmicroscopysystem.Heatingpadswereusedtokeepthebody
+tion=9:1)andseparatedtheplasmafromtheblood.Theplasmasam- temperatureat37°C.
+ples were used for coagulation and fibrinolysis tests (subcontract
+animalclinicalexamination:Monoris,Tokyo,Japan)andalbumin,as-
+2.14.MicroChannelArrayFlowAnalyzer(MC-FAN)
+partate transaminase (AST), andalaninetransaminase(ALT) levels
+(subcontractanimalclinicalexamination:Orientaleast)(TableS2).
+Thebloodorneutrophilsampleswerepreparedasfollows.Mice
+Thecellspresentintheperitonealcavitywerecollectedbyinjecting
+weresacrificed24hafterCLP.Bloodwasobtainedfromtheheartand
+5mLofsaline.ThecellswerecountedusingaBurker–Turkcounting
+mixedwithheparinforthehematocrittestorwithacid–citrate–dex-
+chamber.
+trose(ACD)solutionforthemicrocapillarypassagetest.Humanwhole
+bloodwaswithdrawnfromthecubitalveinandmixedwithACDsolu-
+2.8.LungWet-to-DryWeightRatio
+tion.Thebloodwasincubatedwithratanti-humanHRGmonoclonalan-
+tibody (clone #75- 14) or rat IgG for 30 min at 37 °C. The human
+Thewholelungfrommouseat24hafterCLPtreatedwithPBS,HSA,
+neutrophilsisolatedweretreatedwithoneofthereagents(bovine
+orHRGwasweighed,driedinanovenat65°Cfor48h,andweighed
+serumalbumin(BSA),HSA,HRG,fMLP)for1hat37°C.Thewhole
+again.Thelungwet/dryweightratiowasthencalculated.
+blood or neutrophil samples were forced to flow through artificial
+microchannels made of silicon (width 7 μm, depth 4.5 μm, length
+2.9.WesternBlotAnalysisofHRGLevelsinPlasma
+30 μm) under a constant suction of −20 cm H O (Micro Channel
+2
+ArrayFlow Analyzer;MC-FAN,MC Lab,Tokyo,Japan). Thepassage
+Mouseplasmawaselectrophoresedonpolyacrylamidegel(12.5%)
+timeofthe100μlsamplesthroughmicrocapillarieswasdetermined.
+andtransferredontoapolyvinylidenediflouride(PVDF)membrane
+(Bio-Rad,Hercules,CA).AfterthemembranewasstainedwithSYPRO
+Ruby(LifeTechnologies),itwasblockedwith10%skimmilkfor1h 2.15.Immunohistochemistry
+andincubatedovernightat4°Cwithrabbitanti-hHRGpolyclonalAb
+followedbyanti-rabbitIgGgoatpolyclonalIgG-horseradishperoxidase Immunohistochemicalstainingofnuclei,MPO,CD42d,andfibrino-
+(HRP)(MBL,Nagoya,Japan)for2hatroomtemperature(RT).Thesig- gen/fibrin was performed on 5 μm lung sections with DAPI, anti-
+nalswerefinallyvisualizedusinganenhancedchemiluminescencesys- mouseMPOAbat5μg/mlfollowedbyAlexaFluor488-labeledanti-
+tem(PierceBiotechnology,Rockford,IL). goatIgG,anti-mouseCD42dAbat5μg/mlfollowedbyAlexaFluor
+568-labeledanti-sheepIgG,andanti-mousefibrinogen/fibrinAbat
+2.10.InVivoRNAiExperiments 5μg/mlfollowedbyAlexaFluor647-labeledanti-rabbitIgGafteranti-
+genretrieval;incubationofthelungsectionwithTargetRetrievalSolu-
+Invivofectamine2.0reagentandHRGsiRNAornegativecontrol tion,pH9(DAKO,Glostrup,Denmark)for10minat120°C.Inotherset
+siRNA(LifeTechnologies)weremixedandincubatedfor30minat ofexperiments,thenuclei,MPO,andcit-histoneH3werestainedon
+50°C.ThemixturesweredialyzedbyPBSandinjectedviatailveinsof 5μmlungsectionswithSYTOXGreen,anti-mouseMPOAbat5μg/ml
+maleC57BL/6Nmice(7weeksold).Two,three,andsevendaysafterin- followedbyAlexaFluor568-labeledanti-goatIgGandanti-cit-histone
+jection,mousebloodwasobtainedbycuttingthetail,andtheplasma H3Abat5μg/mlfollowedbyAlexaFluor405-labeledanti-rabbitIgG
+levelsofHRGweredeterminedusingWesternblotting.Then,amild afterantigenretrieval;incubationofthelungsectionwithTargetRe-
+CLPsepsis(withonepuncture)wasinducedintheRNAi-treatedmice. trievalSolution,pH9(DAKO)for10minat120°C.Immunohistochem-
+icalstainingofnuclei,MPO,HRG,andfibrinogen/fibrinwasperformed
+2.11.Ezyme-linkedImmunosorbantAssay(ELISA) on5μmlungsectionswithDAPI,anti-mouseMPOAbat5μg/mlfollow-
+edbyAlexaFluor488-labeledanti-goatIgG,anti-HRGAbat5μg/ml
+InaccordancewiththeethicsapprovalandguidelinesofOkayama followedbyAlexaFluor568-labeledanti-rabbitIgG,andanti-mousefi-
+University,writteninformedconsentwasobtainedfromtenhealthy brinogen/fibrinAbat5μg/mlfollowedbyAlexaFluor647-labeledanti-
+subjectsandeightsepticpatients.Thesepticpatientswereevaluated sheepIgGafterantigenretrieval;incubationofthelungsectionwith
+byclinicalcriteriaofinfectionswithSIRSaccordingto2001guidelines TargetRetrievalSolution,pH6.1(DAKO)for10minat120°C.Immuno-
+(Levyetal.,2003).Theplasmasampleofsepticpatientswasobtained histochemicalstainingofnucleiandGr-1wasperformedon5μmlung
+onthefirstdayofadmissioninintensivecareunit.Humanplasma sectionswithSYTOXBlueandAlexaFluor594-labeledratanti-mouse
+HRG levels were assessed by ELISA using solid-phase-immobilized Gr-1Abat5μg/mlafterantigenretrieval;incubationofthelungsection
+anti-HRGmonoclonalantibodies(#75-14)andNi-NTAlabeledwith with0.3%pepsin(Sigma)for30minat37°C.MPO-positiveneutrophils
+HRP(Qiagen). andneutrophilextracellulartraps(NETs)(cit-histoneH3positivesite)
+werecountedinthreefieldsofalungsectionat×200magnification
+2.12.High-speedScanSpinning-diskConfocalMicroscopySystem under a confocal laser scanning microscopy. The number of MPO,
+CD42d,andfibrin/fibrinogentriplepositivesiteswascountedinthree
+ImageswereacquiredwithaninvertedmicroscopeIX73(Olympus, fieldsofalungsectionat×400magnificationunderaconfocallaser
+Tokyo,Japan)usinga×20/0.75objectivelens.Themicroscopewas scanningmicroscopy.Theresultswereexpressedasthenumberof
+equippedwithaCSU-X1confocalscanner(Yokokawa,Tokyo,Japan) MPO-positiveneutrophils,MPO,CD42d,andfibrin/fibrinogentriple
+andaniXON3EMCCDcamera(AndorTechnology,Belfast,NorthernIre- positivesitesandNETspersquaremillimeter.ThenumberofCD42d-
+land).ImageacquisitionsoftwareiQ2(AndorTechnology)wasusedto andfibrin/fibrinogen-positivesitesamongMPO-positiveneutrophils
+drivetheconfocalmicroscope. ineachgroupwerealsodetermined.
+--- Page 4 ---
+H.Wakeetal./EBioMedicine9(2016)180–194 183
+2.16.PrimerSequenceforReal-timePolymeraseChainReaction(PCR) at37°Cfor1h.Foractinstaining,theneutrophilswerefixedwith4%
+PFA and treated with 0.1% TritonX-100 followed by staining with
+Glyceraldehyde-3-phosphate dehydrogenase (GAPDH) Phalloidin-Alexa568(F-actin),DNaseI-Alexa488(G-actin),andDAPI
+(NM_008084)F-5′TGACGTGCCGCCTGGAGAAA3′,R-5′AGTGTA (Nuclei). The samples were observed using a confocal microscope
+GCC CAA GAT GCC CTT CAG 3′; tumor necrosis factor (TNF)-α (LSM510,CarlZeiss,Oberkochen,Germany).Forelectronmicroscopy,
+(NM_013693)F-5′GACCCTCACACTCAGATCATCCTTCT3′,R-5′ thesampleswerefixedin4%paraformaldehydeand2.5%glutaralde-
+GCGCTGGCTCAGCCACTC3′;induciblenitricoxidesynthase(iNOS) hydefor24hat4°C,thenpost-fixedusing1%osmiumtetroxidefor
+(NM_010927)F-5′GATTTTGCATGACACTCTTCA3′,R-5′GGAGCC 1hat4°C.OsO coatingwithanosmiumcoaterHPC-1S(VacuumDe-
+4
+ATAATACTGGTTGAT3′;IL-6(NM_031168)F-5′GACCTGTCTATA vice,Mito,Japan)wasused.Eachsamplewasexaminedusingans-
+CCACTTCACA3′,R-5′CTCTGGAAGTTTCAGATTGTT3′;plasminogen 4800scanninglasermicroscope(Hitachi,Tokyo,Japan).
+activatorinhibitor-1(PAI-1)(NM_008871)F-5′CTATGGCGTGTCCTC
+GGTGCT3′,R-5′CATTCTTGTTCCACGGCCCCAT3′;neutrophilelas- 2.22.DeterminationofROSProduction
+tase(NM_015779)F-5′CTACTGGCATTGTTCCTGGGTG3′,R-5′GCT
+GACATGACGAAGTTCCTGG3′;receptorforadvancedglycationend Theneutrophilsuspensionwithisoluminol(finalconcentration,
+products(RAGE)(NM_007425)F-5’CTAGAGCCTGGGTGCTGGTTC 50µM)andhorseradishperoxidasetypeIV(finalconcentration4U/
+3′;R-5′GTTTCCATTCTAGCTGCTGGGGC3′;HRG(NM_053176)F- ml)werealiquotedtoa96-wellplate(BDBiosciences)inavolumeof
+5′TGCTCACCACAGCATTGCTT3′;R-5′CACTCCTCCGCCCTTTAT 100μl(5×104cells)withoneofthereagents(BSA,HSA,HRG,eachat
+TGA3′. afinalconcentrationof1μM).NeutrophilextracellularROSproduction
+wasevaluatedat15minafterthestartofincubationat37°Cbythe
+2.17.Real-timeQuantitativePCR measurementofchemiluminescenceintensityusingFlexstation3.In-
+tracellularROSwasdeterminedbypre-loadingofCM-H2DCFDAinto
+TotalRNAwasisolatedfromthemouselungorliverusinganRNeasy neutrophilsfor20min.
+minikit(Qiagen).ComplementaryDNAwassynthesizedwithaTakara
+RNAPCRkitVer.3.0(TakaraBio,Nagahama,Japan)accordingtothe 2.23.DetectionofIntercellularAdhesionMolecule-1(ICAM-1),P-selectin
+manufacturer's instructions. Real-time PCR was performed with a andPhosphatidylserineonEA.hy926Cell
+LightCycler(Roche,Basel,Switzerland)accordingtothemanufacturer's
+instructions.ReactionmixturescontainedcDNAtemplate,SYBRpremix EA.hy926cellmonolayerwasgentlywashedtwicebyPBStoremove
+ExTaq(TakaraBio),andsequence-specificprimers.GAPDHexpression culturemediumandwasstimulatedbythemixtureofHBSS,BSA,HSA
+wasusedtonormalizecDNAlevels.ThePCRproductswereanalyzedby or HRG (1 μM each), and LPS (10 ng/ml) or TNF-α (10 ng/ml) for
+ameltingcurvetoascertainthespecificityofamplification. 30minat37°Cin5%CO atmosphere.Thecellswerefixedby10%for-
+2
+malinafterPBSwashingtwiceandwereincubatedwith0.1%Triton-
+2.18.HRGDigestionAssay X100TBSbufferfor10min.ThesefixedcellswerestainedbyAlexa
+Fluor488-labeledanti-humanCD54AborDyLight488-labeledanti-
+HSA(4μg)orHRG(4μg)wasmixedwithorwithoutthrombin humanCD62PAbfor2hatRT,oranti-phosphatidylserineAbfollowed
+(30U/ml)andincubatedfor4hat37°C.Thereactionmixtureswerean- byAlexaFluor488-labeledanti-rabbitIgGfor1hatRT.Thenumberof
+alyzedbySDS-PAGEwithCoomassiebrilliantbluestaining. phosphatidylserine-positivecellswascountedinsixfieldsat×100
+magnificationunderaconfocallaserscanningmicroscopy.Thenumber
+2.19.CytometricBeadArray(CBA) ofCD54-orCD62P-positivecellswascountedinfourfieldsat×200
+magnificationunderaconfocallaserscanningmicroscopy.
+IL-6,TNF-α,andIL-10concentrationintheserumfrommouseat
+24hafterCLPtreatedwithPBS,HSA,andHRGweremeasuredbyCBA 2.24.ChemotaxisAssay
+kits according to the manufacturer's instructions (BD Biosciences,
+FranklinLakes,NJ). Thetransferofneutrophilstotheverticaldirectionwasexamined
+usinga24-wellChemotaxicellchamber(Kurabo,Kurashiki,Japan).
+2.20.NeutrophilShapeandAdhesionAssay Neutrophils(5×105cellsin100μl)wereaddedtotheupperwellsof
+thechamberandwereseparatedbyapolycarbonatemembrane5μm
+Purifiedhumanneutrophilspre-stainedwithHoechst33342(Nu- indiameterporesfromlowerwellscontainingoneofthereagents
+clei)andCalcein-AM(Cytosol)werealiquotedinavolumeof100μl (BSA,HSA,HRG,orfMLP).Following1hincubation,thecellsthathad
+(5 × 104 cells/well) to polystyrene wells or confluent wells of migratedtolowerwellswerecountedunderalightmicroscope.For
+EA.hy926 cells (ATCC CRL-2922), a hybridoma of HUVEC and the the horizontal chemotaxis assay, neutrophils (5 × 105 cells/ 10 μl)
+humanepithelialcelllineA549.Theincubationstartedwithoneofthe withorwithoutHRG(1μM)wereaddedtoonewellinagarosegel
+reagents(BSA,HSA,HRG,fMLP:eachatafinalconcentration1μM) (5 mm thick) and were allowed to migrate toward the other well
+andcontinuedforindicatedperiodsat37°C.Thecellshapeandfluores- (2 mm from the former) containing a possible chemoattractant
+cenceintensitywereanalyzedbyusinganInCellAnalyzer2000(GE (1μM).Twohoursafterthestartofmigration,theneutrophilswere
+Healthcare)andInCellAnalyzerWorkstationsoftware(GEHealthcare). fixedandstainedwithWright'sstain,andthedistancefromtheorigin
+Neutrophiladhesionwasevaluatedbymeasuringthefluorescencein- totheleadingedgewasmeasured.
+tensityofthewellsbyaFlexstation3(MolecularDevices,Sunnyvale,
+CA)beforeandafterthewellsweregentlywashedtwicetoremove 2.25.FACSAnalysis
+anynonadherentcells.WhenHRG'seffectsonintracellularcalcium
+wereexamined,BAPTAorFluo-4-AMwaspreloadedfor20min. C5a,IL-8,orfMLPwaspreincubatedwithHSAorHRGfor1hat37°C.
+Purifiedhumanneutrophilswerestimulatedwiththemixturefor1hat
+2.21.F-actinDistributionandCellSurfaceStructureinNeutrophils 37°Cin5%CO atmosphere.Thestimulationwasstoppedbyice-cold
+2
+coolingfor10min.TheneutrophilswerestainedbyFITC-labeledanti-
+Neutrophils(5×106cells/ml)wereseededontopolyL-lysine-coat- humanCD11bAb,FITC-labeledanti-human-activatedCD11bAb,FITC-
+edcoverglass(Matsunami,Tokyo,Japan)andincubatedwithoneofthe labeledanti-humanCD62LAb,orPE-labeledanti-humanCD162Ab
+reagents(BSA,HSA,HRG,orfMLP:eachatafinalconcentrationof1μM) for25minat4°C.Thefluorescenceintensityofthecellswasdetected
+--- Page 5 ---
+184 H.Wakeetal./EBioMedicine9(2016)180–194
+--- Page 6 ---
+H.Wakeetal./EBioMedicine9(2016)180–194 185
+byFACScalibur(BDBiosciences).ThesedatawereanalyzedbyFlowJo indicating a similar dynamics of plasma HRG in septic patients to
+software(TOMYDigitalBiology,Tokyo,Japan). thoseinsepticmice.Takentogether,theresultsofourexperimentson
+supplementarytreatmentwithHRGandtheacutedepletionofHRG
+stronglysuggestedthatHRGmaybeanimportantplasmafactorcon-
+2.26.StatisticalAnalysis
+trollingthelethalityofmiceinsepticconditions.
+Thestatisticalanalysisacrossmultipletreatmentgroupswasdeter-
+minedwithANOVA,followedbyDunnetttest.Thestatisticaldifference 3.2.EffectsofHRGonMicrocapillaryPassageofBloodinCLPMice
+betweenpairedgroupsweredeterminedusingMann–Whitneytest.All
+dataarepresentedasthemeans±standarderror(SEM).Pvaluesb0.05 Invivoimagingofcirculatingneutrophilslabeledwithanti-Gr-1Ab
+wereconsideredstatisticallysignificant.TheKaplan–Meiermethodwas andplateletslabeledwithanti-CD42cAbshowedthatthespherical
+usedforthesurvivalexperiments,andthedifferenceswereanalyzed shapeofneutrophilsandplateletscirculatedwithdifferentvelocities
+usingthelog-ranktest. in both mesenteric arterioles and venules in sham-operated mice.
+Rolling,sphericalneutrophilsontheVECsweresometimesobserved
+alongthemarginalflowoftheblood-streaminvenulesinshammice
+3.Results
+(Fig.1H;MovieS1).Transientovalorteardropshapechangeswereob-
+servedinthearteriolesofshammice.Incontrast,deformedneutrophils
+3.1.EffectsofHRGonLethalityofCLPSepticMice
+withamultiangularandrigidappearancewereobservedinthecircula-
+tioninCLPmice.Extremelydeformedneutrophilswereattachedto
+InCLP,amousemodelofsepsis,plasmaHRGlevelsdecreasedsignif-
+VECsinvenulesandwerearrestedtherewithoutmigrationduringthe
+icantly,by77%,comparedwiththeshamcontrollevels24hafterCLP
+observationperiods(Fig.1I;MovieS1).Moreover,theaccumulationof
+(Fig.1A).ThesurvivalrateofmicetreatedwithPBSfor3daysafter
+CLPwas0%atday7.TheadministrationofpurifiedhumanHRG(4 plateletsoccurredonthosedeformedneutrophils(Fig.1J;MovieS1).
+and20mg/kg,i.v.)for3dayssignificantlyimprovedlethalityinCLP Thus,theextrememorphologicalchangesofcirculatingneutrophils
+andtheenhancedinteractionwithVECsdemonstratedbyinvivoimag-
+mice,whereasthesamedoseofHSA(20mg/kg,i.v.)hadnoeffecton
+ingappeartorepresentpathologicalfeaturesinthesepticmousemodel.
+thesurvivalrate,indicatingtheclearsurvivaleffectsofi.v.injectionof
+Incontrast,HRG-treatedmiceshowedthesphericalneutrophilsinthe
+HRG(Fig.1B).Inadditiontosurvivalrate,locomotoractivityofmice
+circulationandhadmarkedlyfewerneutrophilsandaggregatedplate-
+treatedwithHRGwasimprovedclearly(Fig.S1A).Thetherapeutic
+letsattachedtoendothelialcellsinvenulescomparedwithcontrol
+timewindowofi.v.HRGappearedtobe6hoftheCLPinductionin
+CLPmice(Fig.1H–J;MovieS1),stronglysuggestingthelessinteraction
+whichonly30%survivalratewasobtained(Fig.S1B).However,when
+ofcirculatingneutrophilswithVECsinthesemice.
+imipenem(25mg/kg)wasadministeredi.m.6hor12hafterCLP,the
+ThemicrocapillarypassageofperipheralbloodfromCLPmicewas
+therapeutictimewindowofi.v.HRGwasprolongedto12hafterCLP
+examinedusingaMC-FANexvivo(Fig.1K;MovieS2).Inmicetreated
+(Figs.S1CandS1D).TheCFUofthebloodfromthreegroupsofmice
+with PBS or HSA, deformed leukocytes were attached to the
+treatedwithPBS,HSA,andHRGshowedsimilarvalues(Fig.S1E).Also,
+thetotalnumberofinfiltratingcellsintheperitonealcavitydidnotdif- microcapillaryentranceveryoftenindicatedbyredarrowheads,where-
+astherewerefewsuchleukocytesinHRG-treatedmice(Fig.1K;Movie
+feramongthegroups(Fig.S1F).Theseresultssuggestedthatthebene-
+ficialeffectsofHRGwerenotascribabletotheincreaseinbacteriocidal
+S2).Thetimerequiredforthepassageof100μlbloodthroughthe
+microcapillaryreflectedtheadhesionofleukocytes(Fig.1L).Onthe
+activity(Shannonetal.,2010)intheperitonealcavity.
+otherhand,therewerenosignificantdifferencesinhematocritlevels
+PretreatmentofmicewithsiRNAformouseHRGreducedplasma
+amongthetreatedgroups(Fig.S1H).
+levelsofHRGby90%at5daysafteri.v.injectionascomparedwith
+thoseinnonrelevantsiRNA-treatedmice(Fig.1C).Thehalf-lifeofHRG
+inmousebloodwasestimatedtobe15haftersiRNAinjection,based 3.3.AnalysisofHRGEffectsonSepticARDS
+onthedeclinecurveofplasmaHRG(Fig.S1G).Thesurvivalrateof
+HRG-knockdownmiceaftermildCLP(onececumpenetrationbynee- Hematoxylin–eosinstainingoflungtissuerevealedlunginflamma-
+dle)wascomparedwiththatincontrolmicetoseewhetherthedeple- tion24hafterCLPinmicetreatedwithPBSandHSA;thisinflammation
+tionofHRGfromplasmacouldexacerbatesepticinflammationand includedincreasedthicknessoftheinterstitialspaceofalveoli,infiltra-
+lethality.TheresultsclearlyindicatedthatdepletionofHRGreduced tionofneutrophils,andcongestion/hemorrhage(Fig.2A).However,
+thesurvivalratesignificantly(Fig.1D).HRGmRNAlevelsdecreased HRGtreatment(20mg/kg,i.v.)amelioratedpathologicalfindingsin
+time-dependentlyafterCLPorLPSinjection,leadingtolessthan15% thelungremarkably(Fig.2A).Measurementofwet/dryweightratio
+ofshamcontrolat24h(Fig.1E).TheresultantplasmalevelsofHRG showedthatHRGtreatmentinhibitedlungedemasignificantly(Fig.
+inCLPmicewerelessthanthatinLPS-injectedmice(Fig.1F).Moreover, 2B).Also,thenumberofneutrophilsinthelungdetectedbyanti-MPO
+plasmaHRGlevelsinsepticpatientsdecreasedsignificantly,by77%, AbincreasedsignificantlyinCLPmicetreatedwithPBSandHSA,and
+compared with those in healthy volunteers (Fig. 1G; Table S1), HRGtreatmentinhibitedthenumberofneutrophilsby55%(Fig.2C
+Fig.1.HRG'seffectsonthemortalityofCLPmiceandthepassageofneutrophilsthroughmicrocapillaries.(A)CLPwasperformedinmice,andplasmalevelsofHRGweredetermined24hafter
+CLPbyWesternblotting.QuantificationoftheresultsofWesternblotting. ⁎⁎⁎ Pb0.001vs.sham.(B)Kaplan–MeiersurvivalcurveofmicewithCLP.PBS,HSA(20mg/kg),orhuman-purified
+HRG(4or20mg/kg)wasadministeredi.v.10min,24h,and48hafterCLP.(C)EffectsofknockdownofliverHRGbysiRNAontheplasmalevelsofHRG.Theplasmalevelsweredetermined
+immediatelybeforeCLPbyWesternblotting.QuantificationoftheresultsofWesternblotting. ⁎⁎⁎ Pb0.001vs.ControlRNAi.(D)EffectsofknockdownofliverHRGbysiRNAonthesurvival
+ofmild-CLPmice.(E)DeterminationofHRGmRNAsintheliverofCLPorLPS(10mg/kgi.v.)-injectedmice.Thetissuesamplesforreal-timePCRwerecollected6or24hafterCLPorLPS
+injection.TherelativeexpressionlevelsofHRGmRNAintheliverwerecalculatedas%ofshamcontrol. ⁎⁎⁎ Pb0.001vs.sham.(F)PlasmalevelsofHRGweredetermined6or24hafterCLP
+orLPSinjectionbyWesternblotting.Therelativeexpressionlevelswerecalculatedas%ofshamcontrol. ⁎ Pb0.05, ⁎⁎ Pb0.01,and ⁎⁎⁎ Pb0.001vs.sham.(G)DecreasedplasmaHRGlevelsin
+humansepsis.HRGlevelsweredeterminedbyELISA.Individualsymbolsrepresentindividualdonorsandhorizontallinesindicatemean. ⁎⁎⁎ Pb0.001vs.normal.(H)Invivoimagingof
+circulatingneutrophilsandplateletsinCLPmice.Theneutrophils(red)andplatelets(green)werelabeledbyi.v.injectionofanti-Gr-1andanti-CD42cantibodies12hafterCLP,and
+thecirculatingneutrophilsandplateletswereobservedunderaninvivoimagingsystem.Bluearrowheadsindicatethecirculatingneutrophil.Redarrowheadsindicatetheneutrophil
+attachedtothevascularwall.Yellowarrowheadindicatesthesiteswhereneutrophilsandplateletswereattachedtothevascularwalltogether(seeMovieS1).Scalebar,20μm.(I)
+Theattachmentsitesofneutrophilsor(J)neutrophils-plateletsclotsattachedtothemesenteryvesselwallwerecountedineachgroup. ⁎⁎⁎ Pb0.001and†††Pb0.001vs.PBSandHSA,
+respectively.(K)WholebloodofCLPmicewaswithdrawn24hafterCLPandappliedtoaMC-FAN.Theredarrowheadsindicatetheleukocytesattachedtothetopsofmicrocapillaries.
+(L)Thetimerequiredforthepassageof100μlofwholebloodwasdeterminedusingaMC-FANinfourgroups. ⁎ Pb0.05and†Pb0.05vs.PBSandHSA,respectively.Theresultsshown
+arethemeans±SEMoffivemice(A,C,E,F,I,J,andL)ortenhealthyvolunteersandeightsepticpatients(G).Tenmicewereusedineachgroup(BandD).
+--- Page 7 ---
+186 H.Wakeetal./EBioMedicine9(2016)180–194
+--- Page 8 ---
+H.Wakeetal./EBioMedicine9(2016)180–194 187
+Fig.3.EffectsofHRGtreatmentonthenumberofbloodcells,coagulation,andhypercytokinemiainCLPmice.(A)Thewholebloodsampleswerecollected24hafterCLP.Theresultsshownare
+themeans±SEMoffivemice. ⁎⁎ Pb0.01vs.PBS.†Pb0.05and††Pb0.01vs.HSA.(B)Theplasmasamplesforcoagulationtestwerecollected24hafterCLP.Theresultsshownarethe
+means±SEMofsixmice. ⁎⁎ Pb0.01, ⁎⁎⁎ Pb0.001vs.PBS.†Pb0.05and†††Pb0.001vs.HSA.(C)Theserumsamplesforthedeterminationofcytokineswerecollected24hafterCLP.
+Theresultsshownarethemeans±SEMoffivemice. ⁎⁎ Pb0.01vs.PBS.†Pb0.05and††Pb0.01vs.HSA.
+Fig.2.EffectsofHRGtreatmentoninflammationinlungsandkidneysofCLPmice.(A)CLPmicetreatedwithPBS,HSA,orHRGwerefixedat24hafterCLP.Paraffin-embeddedsectionsofthe
+lungs(upper)andkidneys(lower)werestainedwithHE.(B)Edemaofthelungwasevaluatedineachgroupasaratioofwettodrylungtissueweight. ⁎ Pb0.05,†††Pb0.001vs.PBSand
+HSA,respectively.(C)ThelungsofCLPmicewerestainedbyDAPI(nuclei:blue),anti-MPOantibody(neutrophil:green),anti-CD42dantibody(platelet:orange),andanti-fibrinogen/fibrin
+antibody(fibrin:red)followedbyfluorescencedetection.YellowarrowheadsindicateMPO,CD42d,andfibrintriple-positivesites.(D)Neutrophilsinthelungswerecountedineach
+group. ⁎⁎⁎ Pb0.001,†††Pb0.001vs.PBSandHSA,respectively.(E)ThenumberofMPO-positive,CD42d-postiveornegative,andfibrin-positiveornegativesitesinthelungswas
+countedineachgroup. ⁎⁎⁎ Pb0.001,†††Pb0.001vs.PBSandHSA,respectively.(F)ThelungsofCLPmicewerestainedbySYTOXGreen(nuclei:green),anti-MPOantibody(neutrophil:
+red)andanti-cit-histoneH3antibody(NET:blue)followedbyfluorescencedetection.YellowarrowheadsindicateNETs.(G)NETs(cit-histoneH3positivesites)inthelungswere
+countedineachgroup. ⁎⁎⁎ Pb0.001,†††Pb0.001vs.PBSandHSA,respectively.(H)DeterminationofmRNAsofTNF-α,IL-6,PAI-1,iNOS,neutrophilelastase,andRAGEinlungsofCLP
+mice.Thetissuesamplesforreal-timePCRwerecollected24hafterCLP.Therelativeexpressionlevelswerecalculatedtreatingshamcontrolasoneunit. ⁎⁎ Pb0.01vs.PBS.†Pb0.05
+and††Pb0.01vs.HSA.Theresultsshownarethemeans±SEMoffivemice(B,D,E,G,andH).Scalebars,50μm(A).Scalebars,10μm(CandF).
+--- Page 9 ---
+188 H.Wakeetal./EBioMedicine9(2016)180–194
+andD).Tripleimmunohistochemicalstainingofneutrophil,plateletand lower(Fig.2CandE).HRGinhibitedthedepositionoffibrinonneutro-
+fibrinclearlyrevealedtheexistenceofimmunothrombicomposedof philsandplatelets(Fig.2E).HRGimmunoreactivitieswereobservedon
+neutrophiladhesiontovascularwall,plateletaggregation,andfibrinde- neutrophilsfromshamandCLPmice(onimmunothrombus)(Fig.S2A).
+positsinCLPmicetreatedwithPBSorHSA(Fig.2CandE),whereasthe ExtracellularlocalizationofDNAassociatedwithcitrullinatedhistone
+totalnumberofoverlappingspotsinmicetreatedwithHRGwasmuch H3 specific for NETosis (yellow arrowheads) was evident on
+Fig.4.HRG'sspherical-shape-inducingandadhesion-increasingeffectsonpurifiedhumanneutrophils.(A,H,andI)Purifiedhumanneutrophilswerelabeledwithcalcein-AM(green)and
+Hoechst33342(blue)for20min.Theneutrophilswereincubatedwithreagents(1μM)onpolystyrenesurface(A)oramonolayerofEA.hy926(HandI)for60minandtheneutrophil
+shapewasobservedunderafluorescentmicroscope(AandI)oradifferentialinterferencecontrastmicroscope(H).(BandJ).TheroundingofneutrophilswasanalyzedbytheInCell
+Analyzer.Formfactor(maxdiameter/mindiameter)wasdetermined.Oneunitrepresentsanidealsphericalshape. ⁎ Pb0.05, ⁎⁎⁎ Pb0.001vs.HBSS.†Pb0.05,†††Pb0.001vs.BSA.
+‡‡Pb0.01,‡‡‡Pb0.001vs.HSA.§§§Pb0.001vs.fMLP.(CandK)AftergentlewashingofthemicrotiterplatewithHBSStwice,theresidualcellnumberswerecountedandexpressedas
+percentagesoftheinitialcellnumbers. ⁎⁎ Pb0.01,††Pb0.01,‡‡Pb0.01,and§§Pb0.01vs.HBSS,BSA,HSA,andfMLP,respectively.(D)Theconcentration-effectcurvewasdrawnbythe
+plotofasphericalshapeatdifferentconcentrationsofHRG.Themaximalroundnessat1μMofHRGwasexpressedas100%.(E)EffectsofpolyclonalantibodyagainstHRGonHRG-
+inducedinductionofsphericalshapeinneutrophils.Anti-HRGAb(300μg/ml)orcontrolIgGwasaddedsimultaneouslywithHRGandtheincubationcontinuedfor1h.(F)
+QuantitativeanalysisoftheeffectsofspecificantibodiesagainstHRGonneutrophilshape. ⁎⁎⁎ Pb0.001and†††Pb0.001vs.HBSSandHRG+IgGgroups,respectively.(G)Effectsof
+specificantibodyagainstHRGonadhesionofneutrophils. ⁎⁎⁎ Pb0.001and†Pb0.05vs.HBSSandHRG+IgG,respectively.Theresultsshownarethemeans±SEMofthree
+experiments(B,C,D,F,G,J,andK).Scalebars,20μm.
+--- Page 10 ---
+H.Wakeetal./EBioMedicine9(2016)180–194 189
+--- Page 11 ---
+190 H.Wakeetal./EBioMedicine9(2016)180–194
+immunothrombosis(Figs.2FandS3).TheNETsinCLPmicetreatedwith confirmingthespecificityofHRG'seffects.Inadditiontotheinhibition
+PBSorHSAweresignificantlyhigherthanthatinshammiceandthe ofsphericalshape,anti-HRGAbantagonizedHRG'sinhibitoryeffecton
+treatmentwithHRGinhibitedthenumberofNETs(Fig.2G).Inconsis- neutrophiladhesion(Fig.4G).TheadhesionpropertyofHRG-treated
+tencywiththesehistologicalfindings,theresultsofmRNAexpression neutrophilsonVECs(EA.hy926)wasthenexamined(Fig.4H–K).As
+ofTNF-α,IL-6,PAI-1,iNOS,andneutrophilelastaseinthelungusing showninFig.4K,HRGsignificantlyinhibitedtheadhesionofneutro-
+real-timePCRat24hclearlyshowedthesignificantupregulationof philsontheEA.hy926surface.
+thesemRNAsinCLPmicetreatedwithPBSorHSA,whereasHRGtreat- HRG'seffectsontheverticaltransferofneutrophilsthroughmicro-
+mentstronglysuppressedthemRNAsofallofthese,especiallyinthe pores(5μmdiameter)wereexaminedinaBoydenchamber.Theresults
+casesofIL-6andPAI-1(amarkerofVECdamage)(Fig.2H).Thus,itis indicatedthatincreasingconcentrationsofHRGaswellasfMLP(1μM)
+likelythatHRGsuppressedtheinflammatoryresponsesinsepticARDS stimulatedthetransferofneutrophilstothelowerchamber(Fig.S5A).
+efficiently.TheexpressionofRAGEmRNAinthelungwasinverselyreg- However,thechemotaxis-inducingactivitytothehorizontaldirection
+ulatedbyCLPandHRG.HRGtreatmentinhibitedglomerularleukocyte wasdetectedsolelyinfMLPandnotinHRG.HRGdidnotonlyinhibit
+infiltration,increaseinmesangealmatrixandrenaltubularswellingin butalsostimulatedthechemotaxisinducedbyfMLP(Fig.S5B).Thus,
+CLPmiceobservedat24h(Fig.2A). theapparenttransferofneutrophilstotheverticaldirectionmaybeas-
+cribedtothedecreaseindiameter,thelossofmicrovilli,andgravity.
+3.4.EffectsofHRGonCoagulationandHypercytokinemiainCLPSepticMice
+Scanningelectronmicroscopicobservationconfirmedthelossof
+surface microvilli structures from neutrophils treated with HRG at
+TheplateletcountsinCLPmicetreatedwithPBSorHSAweresignif- least15minafterthestartofincubation(Fig.5AandB).Themicrovilli
+icantlylowerthanthatinshammice,andthetreatmentwithHRGre- onneutrophilswereobservedafterincubationwithbufferalone,BSA,
+storedtheplateletcounts(Fig.3A).Consistentwiththeconsumption HSA,andfMLP,aswasthecasewiththewashedneutrophilsimmedi-
+ofplateletsinCLPmicetreatedwithPBSorHSA,disordermarkersofin- atelyafterisolation(Fig.5AandB).ThecytochemicalstainingofG-
+trinsicandextrinsiccoagulationpathways,suchasactivatedpartial andF-actininneutrophilsdemonstratedthatF-actinwasdominantin
+thromboplastintime(APTT)andprothrombintime(PT)values,were HRG-treatedneutrophilsandthattheHRG-inducedsphericalshape
+prolongedinthesemicecomparedwithshamcontrolvalue(Fig.3B). wasaccompaniedbytheF-actinringformationbeneaththeplasma
+HRGtreatmentsignificantlyreducedAPTTandPTvalues.HRGdidnot membraneofneutrophils(Fig.5C).Ontheotherhand,cytosolicG-
+affectthechangesinplasmalevelsoffibrinogenandantithrombinIII actinwasdominantinneutrophilstreatedwithHBSS,BSA,andHSA
+(ATIII)levelsinCLPmice(Fig.3B). (Fig.5C).FewneutrophilshadanF-actinringundertheseconditions.
+Determination of blood cytokines 24 h after CLP revealed the Thepassage of purifiedneutrophils through microcapillary slits
+markedincreaseinIL-6,TNF-α,andIL-10levelsintheCLPmicetreated (7.0μmwidth,4.5μmdepth)wasevaluatedbyaMC-FANunderdiffer-
+withPBSorHSA(Fig.3C).HRGtreatmentalmostcompletelyinhibited entconditions.Fig.5D,EandMovieS3showthatneutrophilstreated
+thecytokineresponses.
+withHRG(1μM)canpassmicrocapillariesmoreeasilythancanother
+treatmentgroups,inwhichthetrappingofneutrophilswithirregular
+shapessometimesoccurredbefore(redarrowheads)oron(whitear-
+3.5.EffectsofHRGonMorphology,AdhesionandMicrocapillaryPassageof
+PurifiedHumanNeutrophils
+rowheads)themicrocapillaryslits.HRG-treatedneutrophilsflowed
+throughtheslitsmuchmoresmoothlyinateardropshape(Fig.5D
+andE;MovieS3).Incontrast,theadditionofanti-HRGmAbtowhole
+ToexaminetheeffectsofHRGonneutrophilsindetail,weused
+humanneutrophilspurifiedfromperipheralbloodandlabeledwith
+bloodretardedthepassageofwholebloodsignificantly,probablydue
+calcein-AMandHoechst33342.HRG(1μM)-inducedmorphological tothetrappingofleukocytesontheslits(Fig.5FandG;MovieS4).
+changeswereobservedunderafluorescentmicroscope60minafterin-
+cubationwithoutafixationprocedure(Fig.4A).Themainfeaturesin- 3.6. PharmacologicalAnalysisofHRG-inducingSignalTransduction in
+duced by HRG were the following: spherical shape change, loss of Neutrophils
+irregularityofshape,andshorteningofthediameter.Whencompared
+withothermediacontainingthesameconcentrationofBSA,HSA,or PretreatmentwithBAPTAfor30min(50μM)preventedHRGfrom
+fMLP,thesphericalshape-inducingeffectsofHRGwereevident(Fig. inducing spherical shape formation (Fig. 6A). Determination of
+4AandB).Theadhesionofneutrophilstotheplasticwellwasdeter- [Ca2+]iaftertheprolongedincubationwithHRGrevealedthatHRGin-
+minedbycountingtheresidualneutrophilsafterthewellswerewashed ducedtime-dependentandveryslowincreasesin[Ca2+]ilevelsin
+twice.TheresultsclearlyshowedthattheHRG-inducedsphericalshape neutrophils(Fig.6B,CandS4C).ToxinB(100ng/ml),anonselectivein-
+werelessadhesivetotheplasticmaterial(Fig.4C).Quantificationof hibitorofthreesmallGproteins,Cdc42,Rac,andRho,partiallyinhibits
+HRG'ssphericalshape-inducingeffectsrevealedHRG'sconcentration- HRG'sspherical-shape-inducingeffects(Fig.6D).
+dependenteffectswiththemaximalresponseat0.8μMoraboveand TheproductionofROSoutsidetheneutrophilswasdeterminedat
+EC around0.1μM(Fig.4D).Ittook15–30minforHRGtoinduceasta- 15 min after the start of incubation by thedetection of isoluminol
+50
+blesphericalshapefromafreshlypreparedcellsuspension(Fig.S4A). chemiluminescenceunderdifferentconditions(Fig.6E).TheROSpro-
+Moreover,theroundnessofthecompletelyflattenedneutrophilswas ductionlevelsinHRG(1μM)-treatedneutrophilswerelessthan5%
+restoredbytheadditionofHRG(1μM)time-dependently,suggesting thelevelsintheHBSS-,BSA-,andHSA-treatedgroups(Fig.6E).The
+thereversibilityoftheshape-changeresponse(Fig.S4B).Thespherical ROSproductioninsidetheneutrophilswasdeterminedbyDCFfluores-
+structure-inducingeffectsofHRGwereinhibitedbytheadditionofrab- cenceafterincubationinthepresenceofHRG(1μM)orotherfactors
+bitpolyclonalAbagainstHRGbutnotbycontrolIgG(Fig.4EandF), (Fig.6F).ConsistentwiththeextracellularROS,ROSproductioninside
+Fig.5.Relationshipbetweenneutrophilsurfacestructureandpassagethroughmicrocapillaries.(AandB)Thepurifiedhumanneutrophilswereincubatedwithreagentsat1μMonacover
+grassfor1hat37°C.Scanningelectronmicroscopicpicturesofneutrophilswereobtained.Time-dependentchangesintheshapes(B).(C)Thepurifiedhumanneutrophilswere
+incubatedasin(A).TheneutrophilswerestainedwithAlexaFluor594-labeledphalloidin(red)forF-actinandAlexaFluor488-labeledDNaseI(green)forG-actin.Cellnucleiwere
+stainedwithDAPI(blue).Scalebars,5μm(AandC),10μm(B).(D)Thepurifiedhumanneutrophilswereincubatedwithreagentsat1μMfor60minandthenappliedtoaMC-FAN.
+Redarrowheadsindicatetheleukocytesattachedtotheupperchamber.Whitearrowheadsindicatetheleukocytesattachedtothemicrocapillaryentrance.(EandG)Thetime
+requiredforthepassageof100μlneutrophilsuspensionthroughtheMC-FANwasdetermined. ⁎ Pb0.05,††Pb0.01,‡Pb0.05,and§§§Pb0.001vs.HBSS,BSA,HSA,andfMLP,
+respectively(E). ⁎ Pb0.05vs.IgGcontrol(G).(F)Theanti-coagulatedwholebloodtreatedwithanti-HRGAborcontrolIgGwasappliedtotheMC-FAN.Whitearrowheadindicatesthe
+leukocyteattachedonthemicrocapillaryentrance.Theresultsshownarethemeans±SEMoffiveexperiments(EandG).
+--- Page 12 ---
+H.Wakeetal./EBioMedicine9(2016)180–194 191

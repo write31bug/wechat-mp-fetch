@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "eastmoney": {
+      "version": "0.1.0",
+      "installedAt": 1774916524864
+    },
+    "wechat-mp-fetch": {
+      "version": "1.0.0",
+      "installedAt": 1775287365043
+    },
+    "humanizer": {
+      "version": "1.0.0",
+      "installedAt": 1775322909746
+    }
+  }
+}

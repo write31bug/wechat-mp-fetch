@@ -1,0 +1,552 @@
+
+--- Page 1 ---
+Oiwa et al. BMC Anesthesiology (2022) 22:232
+https://doi.org/10.1186/s12871-022-01774-7
+RESEARCH Open Access
+Histidine-rich glycoprotein as a novel
+predictive biomarker of postoperative
+complications in intensive care unit patients:
+a prospective observational study
+Masahiko Oiwa*, Kosuke Kuroda, Naoya Kawanoue and Hiroshi Morimatsu
+Abstract
+Background: Decrease in histidine-rich glycoprotein (HRG) was reported as a cause of dysregulation of the coagula-
+tion-fibrinolysis and immune systems, leading to multi-organ failure, and it may be a biomarker for sepsis, ventilator-
+associated pneumonia, preeclampsia, and coronavirus disease 2019. However, the usefulness of HRG in periopera-
+tive management remains unclear. This study aimed to assess the usefulness of HRG as a biomarker for predicting
+postoperative complications.
+Methods: This was a single-center, prospective, observational study of 150 adult patients who were admitted to
+the intensive care unit after surgery. Postoperative complications were defined as those having a grade II or higher
+in the Clavien–Dindo classification, occurring within 7 days after surgery. The primary outcome was HRG levels in the
+patients with and without postoperative complications. The secondary outcome was the ability of HRG, white blood
+cell, C-reactive protein, procalcitonin, and presepsin to predict postoperative complications. Data are presented as
+number and median (interquartile range).
+Results: The incidence of postoperative complications was 40%. The HRG levels on postoperative day 1 were
+significantly lower in patients who developed postoperative complications (n 60; 21.50 [18.12–25.74] µg/mL) than
+=
+in those who did not develop postoperative complications (n 90; 25.46 [21.05–31.63] µg/mL). The Harrell C-index
+=
+scores for postoperative complications were HRG, 0.65; white blood cell, 0.50; C-reactive protein, 0.59; procalcitonin,
+0.73; and presepsin, 0.73. HRG was independent predictor of postoperative complications when adjusted for age, the
+presence of preoperative cardiovascular comorbidities, American Society of Anesthesiologists Physical Status Clas-
+sification, operative time, and the volume of intraoperative bleeding (adjusted hazard ratio 0.94; 95% confidence
+=
+interval, 0.90–0.99).
+Conclusions: The HRG levels on postoperative day 1 could predict postoperative complications. Hence, HRG may be
+a useful biomarker for predicting postoperative complications.
+Keywords: Biomarker, Clavien–Dindo classification, Histidine-rich glycoprotein, Intensive care unit, Perioperative
+management, Postoperative complication, Predictor
+Background
+*Correspondence: pprh0e1m@s.okayama-u.ac.jp
+After surgery, approximately 3–22% of patients develop
+Department of Anesthesiology and Resuscitology, Okayama University postoperative complications [1–4]. Once a complica-
+Graduate School of Medicine, Dentistry and Pharmaceutical Sciences, 2-5-1,
+tion develops, the patient’s hospitalization is prolonged,
+Shikata-cho, Kita-ku, Okayama 700-8558, Japan
+© The Author(s) 2022. Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which
+permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the
+original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line
+to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory
+regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this
+licence, visit http:// creat iveco mmons. org/ licen ses/ by/4. 0/. The Creative Commons Public Domain Dedication waiver (http:// creat ivec o
+mmons. org/ publi cdoma in/ zero/1. 0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.
+--- Page 2 ---
+Oiwa et al. BMC Anesthesiology (2022) 22:232 Page 2 of 10
+worsening the prognosis [1]. Previous studies have Patients and data collection
+reported that white blood cell (WBC), C-reactive protein Patients admitted to the intensive care unit (ICU) after
+(CRP), procalcitonin (PCT), and presepsin (P-SEP) levels surgery at Okayama University Hospital (Okayama,
+may be useful biomarkers for predicting postoperative Japan) during consecutive periods were prospectively
+complications [5–13]. However, standard biomarkers for included. At our institution, all patients post respira-
+predicting postoperative complications have not been tory surgery, neurosurgery, hepato–biliary–pancreatic
+established. surgery, esophageal surgery, cardiovascular surgery,
+Histidine-rich glycoprotein (HRG) is an approxi- and highly invasive oral and otolaryngological surgery
+mately 75-kDa glycoprotein mainly synthesized in the are admitted to the intensive care unit. In other depart-
+liver and present at a level of 60–150 µg/mL in healthy ments, patients are admitted to the intensive care unit
+individuals [14–17]. HRG binds to various ligands and post-surgery at the discretion of the physician. Accord-
+regulates coagulation fibrinolysis, the immune system, ing to previous studies, HRG levels are higher in adults
+and angiogenesis [17, 18]. In mice with sepsis, HRG lev- than in children [15] and decrease during pregnancy [22];
+els decreased because of decreased production in the thus, patients who were pregnant or < 20 years old were
+liver and increased degradation. Furthermore, decrease excluded. We planned to enroll 150 patients based on a
+in HRG levels caused dysregulation of the coagulation- power calculation. According to our previous study [16],
+fibrinolysis system, abnormal neutrophil morphology, we expected that the HRG levels would vary by 20 µg/mL
+endothelial cell abnormalities, and immune thrombosis, between patients with and without postoperative com-
+leading to multiple organ failure [17, 19]. Earlier clinical plications; this calculation was based on the number of
+studies have reported that decrease in HRG levels may patients required for an 80% power to detect a 20 µg/mL
+be a biomarker for sepsis [16, 20], ventilator-associated difference in HRG levels. A two-sided type I error of 0.05
+pneumonia [21], preeclampsia [22], and coronavirus dis- was considered for the 10% incidence of postoperative
+ease 2019 [23]. complications and loss to follow up.
+However, the usefulness of HRG in perioperative man- All enrolled patients’ information was collected from
+agement remains unknown. We hypothesized that HRG electronic medical records. Preoperative comorbid car-
+levels on postoperative day 1 (POD 1) could predict post- diovascular diseases included arrhythmia, coronary
+operative complications and conducted a prospective artery disease, heart failure, and macrovascular dis-
+observational study to assess the usefulness of HRG as a eases. Chronic kidney disease was classified with an
+biomarker for predicting postoperative complications. estimated glomerular filtration rate < 50 mL/min. The
+surgical Apgar score (SAS) was calculated using anes-
+thesia records. Preoperative and postoperative sequen-
+Methods tial organ failure assessment scores and acute physiology
+Study design and ethical considerations and chronic evaluation II scores on admission to the ICU
+This single-center, prospective, observational study was were calculated using clinical variables and blood-test
+approved by the Institutional Review Board of the Okay- results.
+ama University Hospital (Okayama, Japan) on August Postoperative complications were defined as an
+14, 2020 (approval number: 2007–006). The need for extended Clavien–Dindo classification [25] grade II or
+registration of the study was waived because this was an higher, occurring within 7 days after surgery. Among
+observational investigation. The requirement for written the postoperative complications, we defined infectious
+informed consent was waived by the Institutional Review complications as those that required antibiotic therapy
+Board because this was a non-invasive study using resid- or drainage due to infection. The mortality rate was
+ual blood samples collected from routine blood tests assessed 28 days postoperatively. The enrolled patients
+performed on POD 1. We described the study protocol were followed up to the day of discharge or 28 days
+to the all patients and obtained verbal informed consent postoperatively.
+for study participation and publication were obtained
+from them. This information was preserved as an elec-
+tronic medical record before their inclusion in the study. Measurement methods
+The patients received a copy of the study description and To measure HRG levels, we used the residual blood sam-
+were provided with contact information, in case addi- ples collected for routine blood tests in tubes containing
+tional questions or concerns arose. In addition, the study K2-EDTA in the morning of POD 1. The samples were
+protocol was published on the website. We followed the then centrifuged at 3,000 rpm for 10 min. Plasma com-
+Strengthening the Reporting of Observational Studies in ponents were transferred to polypropylene tubes with a
+Epidemiology guidelines [24]. pipette, and a protease inhibitor cocktail (Complete mini
+--- Page 3 ---
+O iwa et al. BMC Anesthesiology (2022) 22:232 Page 3 of 10
+EDTA-free; Roche Diagnostics, Basel, Switzerland) was Categorical variables are expressed as numbers (percen-
+added. The samples were stored at -80 °C. tiles) and compared using Fisher’s exact test. Continu-
+Plasma HRG levels were measured using a modified ous variables are expressed as median and interquartile
+quantitative sandwich enzyme-linked immunosorb- ranges (IQRs, 25–75th percentiles) and compared using
+ent assay, in which the detection and chromogenic rea- the Mann–Whitney U test or Kruskal–Wallis test. Fur-
+gents were changed from those previously described thermore, the Steel–Dwass test was used to compare the
+[16] because of discontinuation of the reagent. In brief, medians of continuous variables for the post-hoc analy-
+a rat monoclonal antibody (mAb) against human HRG sis among the three groups. The differences in the means
+(made in-house, number 75–14) was used as the cap- of continuous variables are expressed as differences in
+ture antibody, and a nickel (Ni 2+)-activated derivative means and 95% confidence intervals (CIs) and were com-
+of horseradish peroxidase (HisProbe™-HRP Conjugate; pared using t-tests. Cox proportional hazards models
+Thermo Fisher Scientific, Waltham, MA, USA) was used and ROC curve analysis were used to assess the ability
+for detection. Plasma samples were diluted 200-fold and of each biomarker to predict postoperative complica-
+400-fold in phosphate-buffered saline containing 1% tions. The results of the Cox proportional hazards models
+bovine serum albumin and 0.1% K -EDTA and pipet- are expressed as hazard ratio (HR), 95% CI, and Harrel
+2
+ted into mAb-coated 96-well plates (Clear Flat-Bottom C-index score. In the multivariate analysis, we adjusted
+Immuno Nonsterile 96-Well Plates, Thermo Fisher Sci- for the presence of preoperative cardiovascular comor-
+entific). A microplate washer (Immuno Wash™ 1575 bidities, age, American Society of Anesthesiologists
+Microplate Washer; Bio-Rad Laboratories, Hercules, CA, Physical Status Classification (ASA-PS), operative time,
+USA) was used for the washing process. Subsequently, and the volume of intraoperative bleeding, which have
+o-Phenylenediamine (FUJIFILM Wako Pure Chemical been reported to be associated with postoperative com-
+Corporation, Osaka, Japan) and 30% H O were used for plications [1, 2, 26–28]. To assess the association between
+2 2
+the chromogenic reaction; the reaction was stopped with HRG levels and postoperative complications, we utilized
+3 M H SO . Plasma HRG levels were measured using a the Kaplan–Meier method and log-rank test by clas-
+2 4
+96-well plate reader (Nivo™ 5S Multimode Plate Reader; sifying patients into two groups using the cut-off levels
+PerkinElmer, Waltham, MA, USA) at an absorbance of obtained from the logistic regression ROC curve analysis.
+492 nm. A standard curve was established using serial A two–sided P-value < 0.05 was considered statistically
+dilutions of known amounts of purified HRG (prepared significant. Data were analyzed using JMP Pro 14.0.0
+in-house). Each plasma sample was measured in dupli- (SAS Institute Inc., Cary, NC, USA) and STATA 16.1 and
+cate, and plasma HRG levels were determined by aver- 17.0 (Stata Corp LLC, College Station, TX, USA).
+aging two independent assays. The intra and inter-assay
+Results
+coefficients of variability were 7.4% and 13%, respectively.
+WBC, CRP, PCT, and P-SEP levels were measured from Patient characteristics
+the same blood used for the HRG-level measurements. Patient characteristics are shown in Table 1. Eligible
+PCT and P-SEP levels were determined using a chemi- patients were prospectively included from September 17,
+luminescent enzyme immunoassay (SRL, Tokyo, Japan). 2020 to November 11, 2020. Figure 1 shows the patient
+WBC and CRP levels were measured at the Clinical flow. The data of 150 patients were included in the final
+Chemistry Laboratory of Okayama University Hospital. sample and analyzed. None of the patients dropped out
+during the follow-up period. The patients were hospi-
+Outcomes talized in the departments of respiratory surgery (31
+The primary outcome was the HRG levels on POD 1 in patients), neurosurgery (30 patients), hepato–biliary–
+the patients with and without postoperative complica- pancreatic surgery (25 patients), gastrointestinal sur-
+tions. The secondary outcomes were the WBC, CRP, gery (19 patients: esophageal surgery, 17 patients and
+PCT, and P-SEP levels on POD 1 in the patients with and colorectal surgery, two patients), cardiovascular surgery
+without postoperative complications, the association of (12 patients), urology (nine patients), oral surgery (eight
+HRG, WBC, CRP, PCT, and P-SEP with postoperative patients), otolaryngology (seven patients), orthopedic
+complications, and their ability to predict postoperative surgery (five patients), and breast–thyroid surgery (four
+complications. patients).
+Ninety patients with Clavien–Dindo grades 0–I were
+Statistical analysis included in the ‘no-complication group’, and 60 patients
+The statistical approach was designed a priori. Multivari- with Clavien–Dindo grades II–IV were included in the
+ate, receiver operating characteristic (ROC) curve, and ‘complication group’. The overall incidence of postop-
+subgroup analyses were designed as post-hoc analyses. erative complications was 40%. In the complication
+--- Page 4 ---
+Oiwa et al. BMC Anesthesiology (2022) 22:232 Page 4 of 10
+Table 1 Patient characteristics
+No-complication group (n 90) Complication group (n 60) P-value
+= =
+Preoperative factors
+Age (years), and median (IQR) 63.0 (51.0–72.0) 71.0 (60.3–76.0) 0.009
+Male sex, n (%) 42 (46.7) 36 (60.0) 0.134
+Comorbidity, n (%)
+Hypertension 40 (44.4) 30 (50.0) 0.510
+Diabetes 22 (24.4) 10 (16.7) 0.311
+Cardiovascular disease 11 (12.2) 16 (26.7) 0.030
+Asthma 5 (5.6) 1 (1.7) 0.403
+COPD 4 (4.4) 5 (8.3) 0.485
+Liver cirrhosis 1 (1.1) 3 (5.0) 0.302
+Chronic kidney disease (eGFR 50) 9 (10.0) 12 (20.0) 0.097
+≤
+Acute infection 1 (1.1) 1 (1.7) 0.999
+Autoimmune disease 7 (7.8) 4 (6.7) 0.999
+Preoperative use of steroids 6 (6.7) 2 (3.3) 0.477
+Preoperative use of heparin 1(1.1) 1(1.7) 0.999
+ASA-PS III 17 (19.0) 23 (38.0) 0.014
+≥
+Preoperative SOFA score, median (IQR) 0 (0–0) 0 (0–1) 0.085
+Intraoperative factors
+Operative time, min, median (IQR) 249.5 (159.5–379.5) 398.5 (291.3–565.0) < 0.001
+Volume of bleeding (mL), median (IQR) 97.5 (5.0–267.5) 300 (120.0–888.8) < 0.001
+Fluid balance (mL), median (IQR) 1432.5 (962.5–2109.5) 2710.5 (1665.0–3920.8) < 0.001
+SAS, median (IQR) 7.0 (6.0–8.0) 6.0 (4.3–7.0) < 0.001
+Postoperative factors
+APACHE II score on admission to the ICU, median 9 (7–11) 11 (9–14) 0.003
+(IQR)
+Postoperative SOFA score, median (IQR) 1.0 (0–3.0) 4.0 (2.3–5.8) < 0.001
+ICU stay (days), median (IQR) 2 (2–2) 4 (2–6) < 0.001
+Hospital stay (days), median (IQR) 16.0 (12.8–21.3) 29.0 (20.0–37.0) < 0.001
+Death within 28-days after surgery, n (%) 0 0
+−
+APACHE II Score Acute Physiology and Chronic Health Evaluation II Score, ASA-PS American Society Anesthesiologists Physical Status Classification, COPD chronic
+obstructive pulmonary disease, GFR estimated glomerular filtration rate, ICU intensive care unit, IQR interquartile range, n numbers, SAS surgical Apgar score, SOFA
+Score Sequential Organ Failure Assessment Score
+group, 33 patients had Clavien–Dindo grade II, nine Regarding preoperative factors, patients in the com-
+had grade III (eight patients, grade IIIa and one patient, plication group had significantly higher age, higher
+grade IIIb), and 18 patients had grade IV (14 patients incidence of cardiovascular diseases, and more
+had grade IVa and four patients had grade IVb). Post- instances of ASA-PS III than those in the no-com-
+≥
+operative complications included hypotension in 11 plication group. Regarding the intraoperative factors,
+patients, hemorrhage in seven patients, atelectasis/ patients in the complication group had a significantly
+sputum excretion difficulty in six patients, thrombo- longer operative time and greater amount of bleed-
+sis/embolism in six patients, intraabdominal abscess ing and intraoperative fluid balance than those in the
+in six patients, and others in 24 patients. Twenty-seven no-complication group. The SAS in the complication
+patients underwent drainage or change in antibiotics group was significantly lower than that in the no-
+due to infection. Details of postoperative complica- complication group. Regarding postoperative factors,
+tions are provided in Supplementary Table 1 in Addi- ICU and hospital stays in the complication group were
+tional file 1. The distribution of the participants in the significantly longer than those in the no-complication
+no-complication and complication groups per clini- group. Among all patients, no deaths occurred within
+cal department is shown in Supplementary Table 2 in the first 28 days after surgery.
+Additional file 2. Postoperative complications devel-
+oped on median POD 3 (IQR, 1–5 days).
+--- Page 5 ---
+O iwa et al. BMC Anesthesiology (2022) 22:232 Page 5 of 10
+Fig. 1 Patient flow chart. ICU intensive care unit
+HRG and other biomarker levels
+Figure 2 shows that the HRG levels on POD 1 in the
+complication group (21.50 µg/mL [IQR, 18.12–25.74 µg/
+mL]) were significantly lower than those in the no-com-
+plication group (25.46 µg/mL [IQR, 21.05–31.63 µg/
+mL]) (P < 0.001). Table 2 shows the WBC, CRP, PCT, and
+P-SEP levels on POD 1. The CRP, PCT, and P-SEP levels
+on POD 1 in the complication group were higher than
+those in the no-complication group. The WBC levels on
+POD 1 were not significantly different between the two
+groups.
+Biomarkers’ ability to predict postoperative complications
+Table 3 shows the association between biomarkers and
+Fig. 2 Plasma HRG levels on postoperative day 1 in the groups postoperative complications. In the univariate analy-
+with and without postoperative complications. The box shows ses, we found that the HRG, CRP, PCT, and P-SEP levels
+the median, 25th, and 75th percentiles. Bars represent the 5th
+were significantly associated with postoperative compli-
+and 95th percentiles. The Mann–Whitney U test was used. P < 0.05
+cations, but the WBC levels were not. Furthermore, the
+was considered significant. HRG histidine-rich glycoprotein, POD 1
+postoperative day 1 Harrell C-index scores for postoperative complications
+Table 2 White blood cell, C-reactive protein, procalcitonin, and presepsin levels on postoperative day 1
+No-complication group (n 90) Complication group (n 60) P-value
+= =
+WBC (/µL) 9265.0 (7275.0–11,927.5) 9585.0 (7557.5–11,267.5) 0.877
+CRP (mg/dL) 3.32 (1.66–5.78) 4.68 (2.75–6.49) 0.036
+PCT (ng/mL) 0.06 (0.03–0.18) 0.25 (0.12–0.75) < 0.001
+P-SEP (pg/mL) 447.5 (355.3–597.5) 778.5 (578.8–1047.5) < 0.001
+Expressed as median (IQR)
+CRP C-reactive protein, IQR interquartile range, P-SEP presepsin, PCT procalcitonin, WBC white blood cell
+--- Page 6 ---
+Oiwa et al. BMC Anesthesiology (2022) 22:232 Page 6 of 10
+Table 3 Associations between biomarkers and postoperative complications
+Variables Univariate analysis Multivariate analysis
+Unadjusted HR (95% CI) P-value Harrell Adjusted HR (95% CI) P-value
+C-index
+HRG 0.92 (0.88–0.96) < 0.001 0.65 0.94 (0.90–0.99) 0.014
+WBC/1000 0.98 (0.90–1.06) 0.554 0.50 0.97 (0.89–1.06) 0.484
+CRP 1.08 (1.003–1.16) 0.042 0.59 1.03 (0.96–1.11) 0.453
+PCT 1.06 (1.01–1.11) 0.019 0.73 1.03 (0.98–1.09) 0.284
+P-SEP/100 1.18 (1.12–1.24) < 0.001 0.73 1.13 (1.06–1.20) < 0.001
+HR hazard ratio, Adjusted HR hazard ratio adjusted for age, presence of preoperative cardiovascular comorbidities, American Society Anesthesiologists Physical Status
+Classification, operative time, and volume of intraoperative bleeding, CRP C-reactive protein, HRG histidine-rich glycoprotein, P-SEP presepsin, PCT procalcitonin, WBC
+white blood cell
+were HRG, 0.65; WBC, 0.50; CRP, 0.59; PCT, 0.73; and
+P-SEP, 0.73. In multivariate analyses, after adjustment
+for confounding factors, such as age, presence of preop-
+erative cardiovascular comorbidities, ASA-PS, operative
+time, and volume of intraoperative bleeding, only HRG
+and P-SEP were found to be independent predictors of
+complications.
+Furthermore, we performed ROC curve analysis to
+compare the predictive ability of each biomarker. The
+area under curve (AUC) was HRG, 0.69; P-SEP, 0.76;
+PCT, 0.77; CRP, 0.60; and WBC, 0.51. The AUC for HRG
+was significantly higher than that of WBC (P 0.005).
+=
+There was no significant difference among the AUCs of
+HRG, P-SEP, PCT, and CRP. The sensitivity and specific-
+Fig. 3 Receiver operating characteristic curves for predicting
+postoperative complications. Receiver operating characteristic ity of the HRG levels to predict postoperative complica-
+curves of HRG, P-SEP, PCT, CRP, and WBC. CRP C-reactive protein, HRG tions at the cut-off level of 24.21 µg/mL were 0.73 and
+histidine-rich glycoprotein, P-SEP presepsin, PCT procalcitonin, WBC 0.57, respectively (Fig. 3). Furthermore, when the ana-
+white blood cell
+lyzed patients were divided into a high-HRG group and
+Fig. 4 Kaplan–Meier curves. Patients were classified into two groups of high (n 67) and low (n 83) HRG levels, using a cut-off level of 24.21 µg/
+= =
+mL. The Kaplan–Meier method and log-rank test were used. P < 0.05 was considered significant. HRG histidine-rich glycoprotein
+--- Page 7 ---
+O iwa et al. BMC Anesthesiology (2022) 22:232 Page 7 of 10
+a low-HRG group using this cut-off level, the postop- and PCT levels on POD 1 between the mild- and severe-
+erative complication rate of the low HRG group (n 83) complication groups. The CRP and WBC levels on POD
+=
+was significantly higher than that of the high HRG group 1 were not significantly different among the three groups.
+(n 67) (Fig. 4). For details, see Supplementary Fig. 3 in Additional file 5.
+=
+HRG levels between the subgroups with and without Discussion
+postoperative complications by clinical department In this study, we found that the HRG levels on POD 1
+We examined the differences in the means of the HRG were significantly lower in the complication group than
+levels on POD 1 between the no-complication and com- in the no-complication group. Furthermore, the ability of
+plication groups in patients of the respiratory surgery HRG to predict postoperative complications was superior
+(n 31) and hepato–biliary–pancreatic surgery (n 25) to that of WBC and CRP, and similar to that of PCT and
+= =
+departments. The difference was set as [means of HRG P-SEP. However, the difference in HRG levels on POD 1
+levels on POD 1 in the no-complication group] minus between the no-complication and complication groups
+[means of HRG levels on POD 1 in the complication was not significant for the patients of the respiratory
+group] and was found to be nonsignificant. For details, and hepato–biliary–pancreatic surgery departments,
+see Supplementary Fig. 1 in Additional file 3. The number and there were no significant differences in HRG levels
+of patients in the other clinical departments did not suf- on POD 1 between the infectious- and non-infectious-
+fice for examining between-group differences. complication groups and mild- and severe-complication
+groups.
+HRG and other biomarker levels in the groups Previous studies have shown that HRG levels negatively
+with and without postoperative infectious complications correlate with CRP levels in patients with acute inflam-
+We classified the complication group into two sub- mation; therefore, HRG may function as a negative acute
+groups: those who developed infectious complications phase reactant [16, 29]. Previous clinical studies have
+(infectious-complication group, n 27) and those who reported that a decrease in HRG levels may be a bio-
+=
+developed non-infectious complications (non-infectious- marker for sepsis [16, 20], ventilator-associated pneumo-
+complication group, n 33). HRG and other biomarker nia [21], preeclampsia [22], and coronavirus disease 2019
+=
+levels on POD 1 were compared between the no-com- [23]. We found that a decrease in HRG levels on POD 1
+plication, non-infectious-complication, and infectious- might predict postoperative complications, and the abil-
+complication groups. The HRG, PCT, and P-SEP levels ity of HRG to predict postoperative complications was
+on POD 1 were significantly different among the three more strongly associated with postoperative complica-
+groups (HRG, P < 0.001; PCT, P < 0.001; P-SEP, P < 0.001, tions than that of WBC and CRP and had an association
+respectively). However, there was no significant differ- strength similar to that of PCT and P-SEP. Furthermore,
+ence in HRG, PCT, and P-SEP levels on POD 1 between the HRG levels could independently predict postopera-
+the infectious- and non-infectious-complication groups. tive complications in the multivariate analyses. Thus, our
+The CRP and WBC levels on POD 1 were not signifi- study showed that the HRG level may be a novel and
+cantly different among the three groups. For details, see independent biomarker for predicting postoperative
+Supplementary Fig. 2 in Additional file 4. complications.
+However, there were no significant differences in HRG
+HRG and other biomarker levels and severity levels on POD 1 between patients who developed and
+of postoperative complications did not develop postoperative complications in the res-
+We divided the complication group into two subgroups: piratory and hepato–biliary–pancreatic surgery depart-
+those classified as Clavien–Dindo grade II (mild-com- ments. It could be that decrease in HRG levels on POD
+plication group; n 33) and those classified as Clavien– 1 might not predict postoperative complications in some
+=
+Dindo grades III and IV (severe-complication group; clinical departments; however, the detection power may
+n 27). The HRG and other biomarker levels on POD have been insufficient because of the low number of
+=
+1 were compared between the no-complication, mild- samples. Further studies could confirm this hypothesis.
+complication, and severe-complication groups. The HRG, Furthermore, there were no significant differences in
+PCT, and P-SEP levels on POD 1 were significantly dif- HRG levels on POD 1 between patients who developed
+ferent among the three groups (HRG, P < 0.001; PCT, infectious complications and those who developed non-
+P < 0.001; P-SEP, P < 0.001, respectively). Furthermore, the infectious complications and between the mild- and
+P-SEP levels on POD 1 in the severe-complication group severe-complication groups. In contrast, in our previ-
+were higher than those in the mild-complication group. ous study with patients who had systemic inflammatory
+However, there was no significant difference in the HRG response syndrome (SIRS), we concluded that HRG may
+--- Page 8 ---
+Oiwa et al. BMC Anesthesiology (2022) 22:232 Page 8 of 10
+be a biomarker for detecting infection and may be useful predict postoperative complications was superior to that
+for evaluating severity [16]. This contradictory result may of WBC and CRP and similar to that of PCT and P-SEP.
+be attributable to differences in the studied populations, Thus, HRG levels may be useful biomarkers for pre-
+i.e., patients who had undergone surgery and patients dicting postoperative complications. Future studies are
+with SIRS. needed on the usefulness of HRG in predicting postop-
+The main strength of this study is that it showed the erative complications based on clinical departments and
+association between HRG levels and postoperative complications.
+complications. We believe that patients with very low
+postoperative HRG levels are at high risk of developing
+Abbreviations
+postoperative complications, and clinicians need to fol- ASA-PS: American Society of Anesthesiologists Physical Status Classification;
+low them more closely. AUC : Area under the curve; CI: Confidence interval; CRP: C-reactive protein;
+HR: Hazard ratio; HRG: Histidine-rich glycoprotein; ICU: Intensive care unit;
+This study had several limitations. First, it was a single-
+IQR: Interquartile range; mAb: Monoclonal antibody; PCT: Procalcitonin; POD:
+center study. Therefore, it is unclear whether our find- Postoperative day; P-SEP: Presepsin; ROC: Receiver operating characteristic;
+ings can be applied to other populations. Second, many SAS: Surgical Apgar score; SIRS: Systemic inflammatory response syndrome;
+WBC: White blood cell.
+of the included patients had cancer. It has been reported
+that HRG may prevent the development of tumors [30],
+Supplementary Information
+and the levels vary across breast, ovarian, and lung can-
+The online version contains supplementary material available at https:// doi.
+cers [31–33]. The variations in HRG levels in other can-
+org/ 10. 1186/ s12871- 022- 01774-7.
+cers are unknown. These patient characteristics may
+have influenced the results. Third, the time from the end Additional file 1: Supplementary Table 1. Postoperative complications
+of surgery to specimen collection varied across patients (extended Clavien–Dindoclassification grade II). Details of postoperative
+≥
+complications.
+because we used residual blood samples collected for
+Additional file 2: Supplementary Table 2. Distribution of the patients
+routine blood tests in the morning of POD 1. This dif-
+in the no-complication and complication groups according to clini-
+ference in time may have influenced the postoperative cal department of surgery. Detailed description of the distribution of the
+changes in HRG levels. Fourth, HRG levels were meas- patients in the no-complication group and complication group according
+to the clinical department of surgery.
+ured only on POD 1. HRG levels before surgery and the
+time course of HRG levels after surgery are unknown. Additional file 3: Supplementary Fig. 1. Differences in the mean of HRG
+levels on postoperative day 1 in the groups with and without postopera-
+Further studies are needed to examine these issues. Fifth,
+tive complications by department of surgery. Differences in the mean of
+the postoperative complications in this study include sur- HRG levels on postoperative day 1 in the groups with and without post-
+gical complications, which are unrelated to the intrinsic operative complications have been illustrated according to the clini-
+cal department of surgery.
+physiology of the patients. Further study limited to medi-
+Additional file 4: Supplementary Fig. 2. Levels of plasma biomarkers
+cal complications related to the bioactivity of HRG is
+in the groups with and without postoperative infectious complications.
+needed. Sixth, the study included postoperative patients Illustration showing the comparison of the levels of plasma biomarkers in
+from a variety of clinical departments, with differences the groups with and without postoperative infectious complications.
+in the originating departments between the two groups. Additional file 5: Supplementary Fig. 3. Levels of plasma biomarkers
+and severity of postoperative complications. Illustration of the comparison
+This background may have influenced the results. Further
+of the levels of plasma biomarkers and severity of postoperative complica-
+studies limited to specific departments are needed. Sev- tions among the groups.
+enth, the differences in HRG levels between patients with
+and without postoperative complications were smaller
+Acknowledgements
+than expected. We expected a difference of approxi- We would like to thank Mariko Shimizu (Department of Anesthesiology and
+mately 20 µg/mL between the two groups, in reference Resuscitology, Okayama University Graduate School of Medicine, Dentistry
+and Pharmaceutical Sciences, Okayama, Japan) for her help in obtaining
+to the results of our previous study [16]. However, accu-
+informed consent and collecting samples and Hiroko Yasuda (Department
+rate prediction of differences in HRG levels on POD 1 of Anesthesiology and Resuscitology, Okayama University Graduate School
+between the two groups was challenging because of the of Medicine, Dentistry and Pharmaceutical Sciences, Okayama, Japan) for her
+help in obtaining informed consent and gathering samples and measure-
+paucity of studies in which postoperative HRG levels
+ments. We would also like to thank Editage (www. edita ge. com) for English
+have been measured. Hence, our power calculation may language editing.
+have been ineffective.
+Authors’ contributions
+All authors contributed to the study conception and design. MO and KK
+Conclusions recruited the patients. MO collected the data. MO, KK, and NK performed
+laboratory measurements. MO, KK, and NK analyzed the data. All authors were
+The HRG levels on POD 1 in patients who developed
+involved in data interpretation. KK obtained the grant. HM supervised the
+postoperative complications were significantly lower study. MO prepared the first draft of the manuscript. All authors commented
+than those in patients who did not develop postopera- on previous versions of the manuscript. All authors read and approved the
+final manuscript.
+tive complications. Furthermore, the ability of HRG to
+--- Page 9 ---
+O iwa et al. BMC Anesthesiology (2022) 22:232 Page 9 of 10
+Authors’ information major abdominal surgery: Advantage from daily measurement. Med.
+Not applicable. 2018;97:e9496.
+11. Yao S, Kaido T, Uozumi R, Hirata M, Iwamura S, Miyachi Y, et al. Diagnostic
+Funding potential of presepsin in bacterial infection following hepato-biliary-
+This work was supported by KAKENHI provided by the Japan Society for the pancreatic surgery: A prospective observational study. J Hepatobiliary
+Promotion of Science [grant number, 19K18297] to KK. Pancreat Sci. 2020;27:756–66.
+12. Takeuchi M, Yokose T, Kawakubo H, Matsuda S, Mayanagi S, Irino T, et al.
+Availability of data and materials The perioperative presepsin as an accurate diagnostic marker of post-
+The datasets generated and analyzed during the present study are available operative infectious complications after esophagectomy: a prospective
+from the corresponding author on reasonable request. cohort study. Esophagus. 2020;17:399–407.
+13. Clementi A, Virzì GM, Muciño-Bermejo MJ, Nalesso F, Giavarina D, Carta M,
+et al. Presepsin and procalcitonin levels as markers of adverse postopera-
+Declarations
+tive complications and mortality in cardiac surgery patients. Blood Purif.
+2019;47:140–8.
+Ethics approval and consent to participate
+14. Poon IKH, Patel KK, Davis DS, Parish CR, Hulett MD. Histidine-rich
+This study was performed in accordance with the Declaration of Helsinki and
+glycoprotein: the Swiss Army knife of mammalian plasma. Blood.
+Ethical Guidelines for Medical and Health Research Involving Human Subjects.
+2011;117:2093–101.
+This study was approved by the institutional ethics review board of Okayama
+15. Corrigan JJ Jr, Jeter MA, Bruck D, Feinberg WM. Histidine-rich glycoprotein
+University Hospital (Okayama, Japan) on August 14, 2020 (approval number:
+levels in children: the effect of age. Thromb Res. 1990;59:681–6.
+2007–006). According to the instruction of the ethics review board, after
+16. Kuroda K, Wake H, Mori S, Hinotsu S, Nishibori M, Morimatsu H. Decrease
+describing the study protocol, verbal informed consent for study participation
+in histidine-rich glycoprotein as a novel biomarker to predict sepsis
+was obtained from all patients. This information has been preserved as an
+among systemic inflammatory response syndrome. Crit Care Med.
+electronic medical record. All patients received a detailed description of the
+2018;46:570–6.
+study and were provided with contact information in case of further clarifica-
+17. Wake H. Histidine-rich glycoprotein modulates the blood-vascular system
+tion, any additional questions, or concerns.
+in septic condition. Acta Med Okayama. 2019;73:379–82.
+18. Blank M, Shoenfeld Y. Histidine-rich glycoprotein modulation of immune/
+Consent for publication
+autoimmune, vascular, and coagulation systems. Clinic Rev Allerg Immu-
+Prior to inclusion in the study, verbal informed consent for publication was
+nol. 2008;34:307–12.
+obtained from all patients. This information has been preserved as an elec-
+19. Wake H, Mori S, Liu K, Morioka Y, Teshigawara K, Sakaguchi M, et al.
+tronic medical record.
+Histidine-rich glycoprotein prevents septic lethality through regulation of
+immunothrombosis and inflammation. EBioMedicine. 2016;9:180–94.
+Competing interests
+20. Kuroda K, Ishii K, Mihara Y, Kawanoue N, Wake H, Mori S, et al. Histi-
+Not applicable.
+dine-rich glycoprotein as a prognostic biomarker for sepsis. Sci Rep.
+2021;11:10223.
+Received: 8 April 2022 Accepted: 12 July 2022
+21. Ding HG, Zhou HF, Diao MY, Xu Y, Pan QM, Shen XH. A novel biomarker of
+serum Histidine-Rich Glycoprotein (HRG) for diagnosing and predicting
+prognosis of ventilator-associated pneumonia (VAP): a pilot study. Eur
+Rev Med Pharmacol Sci. 2018;22:7920–7.
+22. Bolin M, Åkerud P, Hansson A, Åkerud H. Histidine-rich glycoprotein as an
+References early biomarker of preeclampsia. Am J Hypertens. 2011;24:496–501.
+1. Bellomo R, Goldsmith D, Russell S, Uchino S. Postoperative serious 23. Völlmy F, Toorn H, Chiozzi RZ, Zucchetti O, Papi A, Volta CA, et al. A serum
+adverse events in a teaching hospital: a prospective study. Med J Aust. proteome signature to predict mortality in severe COVID-19 patients. Life
+2002;176:216–8. Science Alliance. 2021;4:e202101099.
+2. Kable AK, Gibberd RW, Spigelman AD. Adverse events in surgical patients 24. von Elm E, Altman DG, Egger M, Pocock SJ, Gøtzsche PC, Vandenbroucke
+in Australia. Int J Qual Health Care. 2002;14:269–76. JP. Strengthening the Reporting of Observational Studies in Epidermiol-
+3. Gawande AA, Thomas EJ, Zinner MJ, Brennan TA. The incidence and ogy (STROBE) statement: guidelines for reporting observational studies.
+nature of surgical adverse events in Colorado and Utah in 1992. Surgery. BMJ. 2007;335:806–8.
+1999;126:66–75. 25. Katayama H, Kurokawa Y, Nakamura K, Ito H, Kanemitsu Y, Masuda N, et al.
+4. WHO Guidelines for Safe Surgery 2009: safe surgery saves lives. 2009. Extended Clavien-Dindo classification of surgical complications: Japan
+http:// apps. who. int/ iris/ bitst ream/ handle/ 10665/ 44185/ 97892 41598 552_ Clinical Oncology Group postoperative complications criteria. Surg Today.
+eng. pdf; seque nce 1 Accessed 23 Dec 2021. 2016;46:668–85.
+=
+5. Lamm G, Auer J, Weber T, Berent R, Ng C, Eber B. Postoperative white 26. Iwamoto K, Ichiyama S, Shimokata K, Nakashima N. Postoperative pneu-
+blood cell count predicts atrial fibrillation after cardiac surgery. J Cardio- monia in elderly patients: Incidence and mortality in comparison with
+thorac Vasc Anesth. 2006;20:51–6. younger patients. Intern Med. 1993;32:274–7.
+6. McSorley ST, Ramanathan ML, Horgan PG, McMillan DC. Postoperative 27. Hackett NJ, Oliveira GS, Jain UK, Kim JYS. ASA class is a reliable independ-
+C-reactive protein measurement predicts the severity of complica- ent predictor of medical complications and mortality following surgery.
+tions following surgery for colorectal cancer. Int J Colorectal Dis. Int J Surg. 2015;18:184–90.
+2015;30:913–7. 28. Shiozaki K, Morimatsu H, Matsusaki T, Iwasaki T. Observational study to
+7. Heredia-Rodríguez M, Bustamante-Munguira J, Lorenzo M, Gómez- assess and predict serious adverse events after major surgery. Acta Med
+Sánchez E, Álvarez FJ, Fierro I, et al. Procalcitonin and white blood cells, Okayama. 2016;70:461–7.
+combined predictors of infection in cardiac surgery patients. J Surg Res. 29. Saigo K, Yoshida A, Ryo R, Yamaguchi N, Leung LLK. Histidine-rich
+2017;212:187–94. glycoprotein as a negative acute phase reactant. Am J Hematol.
+8. Ito S, Sato N, Kojika M, Yaegashi Y, Suzuki Y, Suzuki K, et al. Serum procalci- 1990;34:149–50.
+tonin levels are elevated in esophageal cancer patients with postopera- 30. Johnson LDS, Goubran HA, Kotb RR. Histidine rich glycoprotein and
+tive infectious complications. Eur Surg Res. 2005;37:22–8. cancer: A multi-faceted relationship. Anticancer Res. 2014;34:593–603.
+9. Bogar L, Molnar Z, Tarsoly P, Kenyeres P, Marton S. Serum procalcitonin 31. Matboli M, Eissa S, Said H. Evaluation of histidine-rich glycoprotein tissue
+level and leukocyte antisedimentation rate as early predictors of RNA and serum protein as novel markers for breast cancer. Med Oncol.
+respiratory dysfunction after oesophageal tumor resection. Crit care. 2014;31:897.
+2006;10:R110. 32. Wu J, Xie X, Liu Y, He J, Benitez R, Buckanovich RJ, et al. Identification and
+10. Spoto S, Valeriani E, Caputo D, Cella E, Fogolari M, Pesce E, et al. The confirmation of differentially expressed fucosylated glycoproteins in the
+role of procalcitonin in the diagnosis of bacterial infection after
+--- Page 10 ---
+Oiwa et al. BMC Anesthesiology (2022) 22:232 Page 10 of 10
+serum of ovarian cancer patients using a lectin array and LC-MS/MS. J
+Proteome Res. 2012;11:4541–52.
+33. Winiarska A, Zareba L, Krolczyk G, Czyzewicz G, Zabczyk M, Undas
+A. Decreased levels of histidine-rich glycoprotein in advanced lung
+cancer: Association with prothrombotic alterations. Dis Markers.
+2019;2019:8170759.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in pub-
+lished maps and institutional affiliations.
+RReeaaddyy ttoo ssuubbmmiitt yyoouurr rreesseeaarrcchh ?? CChhoooossee BBMMCC aanndd bbeenneeffiitt ffrroomm::
+• fast, convenient online submission
+• thorough peer review by experienced rese archers in your field
+• rapid publication on acceptance
+• support for research data, including large and complex data types
+• gold Open Access which fosters wider collaboration and increased citations
+• maximum visibility for your research: over 100M website views per year
+At BMC, research is always in progress.
+Learn more biomedcentral.com/submissions

@@ -1,0 +1,5 @@
+#!/bin/bash
+SKILL="/e/openclaw-work/skills/baoyu-imagine/scripts/main.ts"
+PROMPT="Manga comic single scene, 3:4 portrait. Funny meme style. An angry young female character (小鱼 with glasses) standing center pointing dramatically at four male characters to her left. Four male characters: first male 30s tired office look scratching head awkwardly, second male 30s trying to hide face behind phone looking away guiltily, third male 26ish young guy doing awkward peace sign laughing nervously, fourth male 30s with arms crossed looking embarrassed. All four looking guilty and awkward. Speech bubble from angry girl pointing finger at them: 你们四个不去 五月天都救不了你们. Background: messy bedroom with MAYDAY concert poster on wall. Exaggerated comedy manga expressions, dramatic finger pointing pose, Japanese manga style clean lineart flat colors. Chinese text included."
+OUT="/e/openclaw-work/comic/mayday-mayday/accusation.png"
+npx -y bun "$SKILL" --prompt "$PROMPT" --image "$OUT" --provider dashscope --model qwen-image-2.0-pro --quality 2k

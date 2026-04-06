@@ -1,0 +1,228 @@
+
+--- Page 1 ---
+Biochem.J.(2009)424,27–37(PrintedinGreatBritain) doi:10.1042/BJ20090794 27
+Regulation of histidine-rich glycoprotein (HRG) function via
+plasmin-mediated proteolytic cleavage
+IvanK.H.POON*†,Anna-KarinOLSSON‡,MarkD.HULETT*†1 andChristopherR.PARISH*1,2
+*TheJohnCurtinSchoolofMedicalResearch,AustralianNationalUniversity,Canberra,ACT2601,Australia,†DepartmentofBiochemistry,LaTrobeUniversity,Melbourne,SA3086,
+Australia,and‡DepartmentofMedicalBiochemistryandMicrobiology,UppsalaBiomedicalCenter,UppsalaUniversity,SE-75123Uppsala,Sweden
+The plasminogen/plasmin system is involved in a variety of human HRG by plasmin and the effect of this cleavage on
+normalphysiologicalandpathologicalprocesses,includingtissue variousfunctionsofHRG.HRGfragments,generatedbyplasmin
+remodelling, angiogenesis and tumour metastasis. Plasminogen cleavage, are held together by disulfide linkages and are not
+activatorsandreceptorsforplasminogen/plasminogenactivators released from the molecule under non-reducing conditions.
+are essential for the processing of plasminogen to form the Plasmin-mediated cleavage partially inhibited HRG binding to
+activeserineproteaseplasmin.Plasmincaninturnpositivelyor cell surface HS, but enhanced HRG binding to necrotic cells
+negatively regulate further plasminogen activation via plasmin- and to plasminogen. However, both intact and plasmin-cleaved
+mediated cleavage of receptors and activators. HRG (histidine- HRG enhanced the binding of plasminogen to heparin-coated
+richglycoprotein),arelativelyabundant(approx.100–150μg/ml) surfacestoasimilarextent.Furthermore,thepresenceofheparin,
+plasma glycoprotein, has a multi-domain structure that can Zn2+ or acidic pH was found to protect HRG from plasmin
+interactwithmanyligands,includingZn2+,heparin,HS(heparan cleavage. Thus proteolytic cleavage of HRG by plasmin may
+sulfate)andplasminogen.HRGhasbeenshowntofunctionasan provideafeedbackmechanismtoregulatetheeffectsofHRGon
+adaptor molecule to tether plasminogen to GAG (glycosamino- theplasminogen/plasminsystemandotherfunctionsofHRG.
+glycan)-bearingsurfacesandtoregulateplasminogenactivation
+via various mechanisms. As HRG itself is sensitive to plasmin Key words: heparan sulfate (HS), histidine-rich glycoprotein
+cleavage, the present study examines in detail the cleavage of (HRG),plasmin,plasminogen,proteolyticcleavage.
+INTRODUCTION concentration of approx. 100–150μg/ml [6]. HRG has a multi-
+domain structure consisting of two N-terminal regions with ho-
+Serumprotein-basedbiologicalsystems,suchasthecomplement, mologywithcystatin-likedomains,togethertermedtheN1N2do-
+coagulation and fibrinolytic pathways, often rely heavily on the main,acentralHRR(histidine-richregion),flankedbytwoPRRs
+proteolytic cleavage of serum proteins to regulate successive (proline-rich regions; PRR1 and PRR2), and a C-terminal do-
+enzymaticcascadesortogeneratespecificproteinfragmentsthat main [6]. HRG also contains four intra-domain and two inter-
+can perform various functions. In particular, the plasminogen/ domain disulfide bridges that link the C-terminal domain and
+plasminsystem,whichplaysanimportantroleinthedissolution the HRR to the N1N2 domain [7]. There are many ligands
+offibrinclotsandremodellingoftheECM(extracellularmatrix), of HRG, such as Zn2+, haemin, heparin, HS (heparan sulfate),
+utilizes a variety of proteolytic cleavage-based mechanisms to IgG and fibrinogen [6,8], with HRG also interacting strongly
+eitherpositivelyornegativelyregulatetheformationoftheserine withthelysine-bindingsitesonplasminogen[9],possiblyviaits
+protease plasmin from its zymogen plasminogen [1]. Briefly, C-terminallysineresidues[10,11].Initially,HRGwasproposed
+plasmin is formed via the proteolytic processing of the plasma tobeananti-fibrinolyticagent,actingbyblockingplasminogen
+zymogen plasminogen by activators such as urokinase-type or from interacting with binding partners that are important for
+tissue-type plasminogen activators (u-PA or t-PA) [1]. Plasmin plasmin activation [9], such as fibrinogen, fibrin, integrin α β
+M 2
+can in turn regulate plasminogen activation via a number of andannexin2[1].However,thereareconflictingreportsinthis
+different mechanisms, namely: (i) plasmin-mediated cleavage areawithdifferentstudiesdemonstratingthatHRGeitherinhibits,
+of single chain u-PA and t-PA to generate a more active two- orhasnoeffecton,fibrinogen-dependentplasminogenactivation
+chainenzyme[2,3];(ii)proteolyticcleavageoffibrinbyplasmin [12,13].Instarkcontrast,HRGhasbeensuggestedtofunctionas
+to expose C-terminal lysine residues that enhance plasminogen asolubleplasminogenreceptorthataidsplasminogenactivation
+binding to fibrin and activation by t-PA [4]; and (iii) plasmin- by tethering plasminogen to GAG (glycosaminoglycan)-coated
+mediated cleavage of the u-PAR (u-PA receptor) to reduce the surfaces[12]andtocellsurfaces[14].
+cell surface localization of u-PA for plasminogen activation HumanHRGhasbeenshowntobesusceptibletoproteolytic
+[5]. cleavage in vitro by serine proteases, such as plasmin and
+HRG (histidine-rich glycoprotein) is a secreted single- kallikrein,butnotthrombin[15].Extensiveproteolysisofhuman
+polypeptide-chain protein, with a molecular mass of approx. HRG has also been observed in patients that have received
+75kDa, that is found in human plasma at the relatively high streptokinase therapy, which increases plasmin activity in vivo
+Abbreviationsused:CHO,Chinese-hamsterovary;ECM,extracellularmatrix;FGF,fibroblastgrowthfactor;GAG,glycosaminoglycan;HRG,histidine-
+richglycoprotein;HRR,histidine-richregionofHRG;HRP,horseradishperoxidase;HS,heparansulfate;N1N2,theN-terminaldomainsofHRG;Ni-NTA,
+Ni2+–nitrilotriaceticacid;PE,phycoerythrin;PRR,proline-richregionofHRG;t-PA,tissue-typeplasminogenactivator;u-PA,urokinase-typeplasminogen
+activator.
+1 Theseauthorscontributedequallytothiswork.
+2 Towhomcorrespondenceshouldbeaddressed(emailChristopher.Parish@anu.edu.au).
+(cid:2)c TheAuthorsJournalcompilation(cid:2)c 2009BiochemicalSociety
+--- Page 2 ---
+28 I.K.H.Poonandothers
+[15].Furthermore,theabilityofplasmintocleaveHRGatspecific approved by the Australian Red Cross Blood Service, the
+sitesbetweendifferentdomainsofthemoleculehasbeenutilized AustralianNationalUniversityandLaTrobeUniversity.Briefly,
+to isolate various intact domains of HRG and characterize their human plasma was passed through a phosphocellulose column
+structure and function, with rabbit HRG having been studied in (Whatman)equilibratedwithasolutioncontaining0.5MNaCl,
+somedetail[10,16–18].AlthoughthereleaseoftheHRRofHRG 10mM sodium phosphate buffer and 1mM EDTA at pH6.8.
+following plasmin cleavage was suggested to play an important Bound HRG was eluted with a solution containing 2.0M
+roleinmediatingtheanti-angiogenic[19],andpossiblytheanti- NaCl, 10mM sodium phosphate buffer and 1mM EDTA at
+microbial, effects of the molecule [20], the physiological signi- pH6.8.TracesofhumanIgGwereremovedbypassingplasma-
+ficance of plasmin-mediated cleavage of human HRG has derivedHRGthroughaHiTrapTM ProteinGcolumn(Amersham
+not been thoroughly examined. To this end, in the present Biosciences).
+study human HRG was proteolytically cleaved by plasmin, a
+treatment that generated HRG fragments that are held together
+Generationofplasmin-cleavedHRG
+by disulfide bonds. Although initial plasmin treatment did not
+release any HRG fragments under non-reducing conditions, Plasmin-cleaved HRG used in the present study was generated
+plasmin-mediatedcleavagepartiallyreducedHRGbindingtocell viathesameprocedurewithminormodifications,dependingon
+surfaceHSandpotentiatedHRGbindingtonecroticcellsandto theapplication.Fortheinitialanalysisoftheproteolyticcleavage
+plasminogen. However, plasmin cleavage had no major effect of HRG by plasmin and the preparation of samples for Edman
+on the ability of HRG to tether plasminogen to heparin-coated N-terminalsequencing,plasmin-mediateddigestionofHRGwas
+surfaces.Inaddition,thepresenceofheparin,Zn2+ oracidicpH performedat37◦Cusing1mg/mlHRGand50μg/mlplasminin
+was found to protect HRG from plasmin cleavage. Therefore, PBS(pH7.2).Toexamineplasmin-mediatedcleavageofHRGex
+proteolyticcleavageofHRGbyplasminmayplayanimportant
+vivo,1μlofhumanplasmawasdilutedto10μlinPBS(pH7.2)
+roleinregulatingHRGfunction.
+containing1,3and9μgofplasminandthenincubatedat37◦Cfor
+120min. For ELISA- and flow cytometry-based binding assays
+andWesternblotanalysisusingtheHRG-4N1N2-domainspecific
+EXPERIMENTAL anti-(human HRG) antibody, proteolytic cleavage of HRG was
+performedat37◦Cusing300μg/mlHRGand30μg/mlplasmin
+Antibodiesandreagents inPBS(pH7.2).Followingplasmintreatment,HRGpreparations
+An N1N2-domain specific anti-(human HRG) monoclonal
+weredilutedinappropriatebuffercontaining50μg/mlaprotinin
+antibody,HRG-4,wasprovidedbyAGENBiomedical.Domain- (Boehringer) to inhibit further digestion of HRG by plasmin
+specific rabbit anti-(human HRG) antibodies (0115, 0116 and during the subsequent binding assay. To investigate the effect
+0119)wereproducedin-houseaspreviouslydescribed[19].The
+ofheparin(12.5kDa),pHandZn2+ontheproteolyticcleavageof
+use of animals to generate domain-specific rabbit anti-(human HRG by plasmin, 30μg/ml HRG and 6μg/ml plasmin were
+HRG)antibodieswasapprovedbytheUppsalaUniversity.Rabbit diluted in PBS and incubated at 37◦C for 60min under the
+anti-(humanplasminogen)antibodywassuppliedbyDako.Sheep differentconditions.
+anti-mouse Ig–HRP (horseradish peroxidase) antibody,
+sheepanti-rabbitIg–HRPantibody,sheepF(ab(cid:3)) 2 anti-mouseIg– SDS/PAGEandCoomassieBrilliantBlueproteinstaining
+FITC antibody and sheep F(ab(cid:3)) anti-mouse Ig–PE (phycoery-
+2 Protein samples were boiled in reducing or non-reducing SDS
+thrin) antibody were purchased from Chemicon and Ni-NTA
+(Ni2+-nitrilotriacetate)–HRPwaspurchasedfromKirkegaardand samplebuffer[125mMTris/HCl,pH6.8,containing20%(v/v)
+glycerol, 4% (w/v) SDS], with the reducing buffer containing
+Perry Laboratories. Human plasminogen and biotinylated hepa-
+50mMdithiothreitol.SamplesweresubjectedtoPAGEona4–
+rinweregiftsfromDrAllisonJonesandDrCraigFreeman(The
+20%(w/v)gradientgel(Gradipore).Unlessotherwisestated,all
+John Curtin School of Medical Research, Australian National
+University,Canberra,Australia)respectively.BSA,ExtrAvidin®, samplesweresubjectedtoSDS/PAGEunderreducingconditions.
+Protein samples were subsequently stained with Coomassie
+bovine lung heparin and human plasmin were purchased from
+Brilliant Blue [0.2% Coomassie Brilliant Blue, 50% (v/v)
+Sigma–Aldrich.
+methanol, 7.5% (v/v) acetic acid] and then destained with
+destainingbuffer[40%(v/v)methanol,7%(v/v)aceticacid].
+Celllines
+The GAG-bearing CHO (Chinese-hamster ovary)-K1 and the N-terminalsequencing
+GAG-deficientCHOpgsA-745celllineswereculturedin50%
+Following SDS/PAGE and Coomassie Brilliant Blue staining,
+Dulbecco’s modified Eagle’s medium and 50% Ham’s nutrient
+selectedproteinbandswereexcisedfromthepolyacrylamidegel
+mixtureF-12(Invitrogen).JurkatT-cellswereculturedinRPMI-
+and subjected to Edman N-terminal sequencing (performed by
+1640 medium (Invitrogen). All mammalian cell culture media
+theAustralianProteomeAnalysisFacility).
+were supplemented with 10% (v/v) fetal calf serum, 5mM
+L-glutamine, 30μg/ml penicillin G, 50μg/ml streptomycin
+sulfate and 50μg/ml neomycin sulfate. Mammalian cell lines Westernblotting
+were incubated at 37◦C in a humidified atmosphere containing Following SDS/PAGE, protein samples were transferred elec-
+5%CO .Togenerateprimarynecroticcells,JurkatT-cellswere trophoreticallyfromthepolyacrylamidegelontoanitrocellulose
+2
+resuspendedataconcentrationof2×106 cells/mlandexposed membrane (Amersham Biosciences) using a Mini-Protean II
+tohyperthermicconditions(56◦C)for30min. apparatus (Bio-Rad) in transfer buffer containing 25mM Tris
+base,192mMglycineand20%(v/v)methanol.Themembrane
+was blocked for 16h at 4◦C with 5% (w/v) skimmed milk
+Purificationofhumanplasma-derivedHRG
+powder diluted in PBS. Intact and plasmin-cleaved HRG were
+HRGwaspurifiedfromhumanplasmaaccordingtoapreviously detected using domain-specific mouse and rabbit anti-(human
+described method [21,22]. The use of human plasma was HRG)antibodiesandNi-NTA–HRPandbychemiluminescence
+(cid:2)c TheAuthorsJournalcompilation(cid:2)c 2009BiochemicalSociety
+--- Page 3 ---
+RegulationofHRGfunctionbyplasmincleavage 29
+using ECL® (enhanced chemiluminescence) Western blotting examinedbySDS/PAGEunderbothnon-reducingandreducing
+detectionreagents(GEHealthcare). conditions.Undernon-reducingconditions,plasmin-cleaved(30–
+120minat37◦C)HRGshowednomajordecreaseinmolecular
+mass compared with untreated (0min) HRG, whereas multiple
+Enzyme-linkedimmunoabsorbentassay protein bands were observed under reducing conditions with
+plasmin-cleavedbutnotwithuntreatedHRG(Figure1A).These
+ELISAswereperformedbycoatingU-bottomed96-wellmicro-
+results demonstrate that plasmin can effectively cleave human
+titre plates (Dynex) with the protein to be immobilized in PBS
+for16hat4◦C.PlateswerewashedwithPBScontaining0.02% HRG at multiple sites with a cleavage pattern similar to that
+previously described for rabbit HRG [16] and human HRG
+Tween-20andthenincubatedwithPBScontaining3%(w/v)BSA
+for3hat4◦Ctoblocknon-specificbinding.Insomeexperiments [15] when analysed by SDS/PAGE under reducing conditions.
+10μg/ml biotinylated heparin, diluted in PBS conataining 1% In addition, plasmin-cleaved fragments of HRG remain
+(w/v) BSA, was added to 10μg/ml ExtrAvidin®-coated plates predominately bound together by disulfide bonds and are not
+for90minat4◦CpriortoadditionofPBScontaining3%(w/v) releasedfromtherestofthemoleculeundernon-reducingcondi-
+tions. However, it is worth noting that under non-reducing
+BSA.BindingproteinsdilutedinPBScontaining1%(w/v)BSA
+were then added and the plates incubated for 90min at 4◦C. conditions a small proportion of the HRG subjected to the
+extensive plasmin-cleavage (120min at 37◦C) showed a clear
+Plate-bound HRG and plasminogen were detected using the
+reduction in molecular mass compared with the untreated HRG
+HRG-4N1N2-domainspecificantibodyandarabbitanti-(human
+(Figure1A).Theseresultssuggestthatcertainplasmin-generated
+plasminogen) antibody respectively, followed by secondary
+fragments of HRG are not linked to the rest of the molecule
+antibodydetectionwithHRP-conjugatedantibodies.Plate-bound
+via disulfide bonds and can be released from HRG under non-
+HRP was detected using a peroxidase substrate (Kirkegaard
+reducingconditions,althoughsuchfragmentsareonlygenerated
+and Perry Laboratories). The absorbance of the enzymatic
+followingprolongedplasmintreatment.Furthermore,proteolytic
+productat405nmwasmeasuredusingaThermomaxmicroplate
+cleavage of HRG can also occur in human plasma ex vivo by
+reader (Molecular Devices). The results were analysed using
+the addition of exogenous plasmin (Figure 1B), indicating that
+SoftMaxPro4.0software(MolecularDevices).
+an increase in plasmin activity in plasma can generate plasmin-
+cleavedfragmentsofHRG.
+Immunofluorescenceflowcytometry To determine the domains of HRG that are present in each
+Viable and necrotic cells were analysed for HRG binding by fragment of plasmin-cleaved HRG, domain-specific rabbit anti-
+immunofluorescenceflowcytometry.Typically,2×105cellswere (human HRG) antibodies (0115, 0116 and 0119) were used to
+incubatedwith100μg/mlintactorplasmin-cleavedHRGdiluted detectintactandplasmin-cleavedHRGunderreducingconditions
+inPBScontaining0.1%BSA(pH6.6orpH7.2),withorwithout byWesternblotanalysis.AsshowninFigure1(C),theN-terminal-
+Zn2+, for 30min at 4◦C. Cells were washed three times with specific anti-(human HRG) antibody (0116) bound strongly
+PBS containing 0.1% BSA (pH7.2) and then cell-bound HRG to intact HRG and plasmin-cleaved HRG fragments that are
+wasdetectedusingtheHRG-4N1N2-domainspecificantibody, ∼37kDa or above, indicating that all these fragments contain
+followed by secondary antibody detection with FITC- or PE- the N-terminal domain of HRG. It is worth noting that these
+conjugated antibodies. Cells were resuspended in PBS, pH7.2, N-terminal fragments of HRG appear to migrate as doublets
+containing0.1%BSAand1μg/mlHoechst33258(Calbiochem) on SDS/PAGE under reducing conditions (Figure 1C), possibly
+and immediately analysed by immunofluorescence flow cyto- representingdifferentglycoformsofHRG.Moreover,theHRR-
+metryusingaLSR1FlowCytometerandCellQuestProsoftware specificanti-(humanHRG)antibody(0119)onlydetectedintact
+(BDBiosciences).Theresultantflowcytometryresultswereana-
+HRGandthelargestplasmin-cleavedHRGfragmentof∼60kDa,
+lysed using FlowJo software (Tree Star). Cells treated in the indicatingthattheepitoperecognizedbytheHRR-specificanti-
+same manner in the absence of binding proteins were used as (humanHRG)antibody(0119)isabsentinalltheotherplasmin-
+negativecontrolstosetupappropriatelaservoltage.Cellswere cleaved HRG fragments (Figure 1C). Similarly, the C-terminal-
+gatedappropriatelybasedonforwardandsidescattering.Living specific anti-human HRG antibody (0115) detected intact HRG
+anddeadcellsweredistinguishedonthebasisofHoechst33258 and the ∼12kDa fragment (Figure 1C), indicating that the
+negativeandpositivestainingrespectively. 12kDaplasmin-cleavedHRGfragmentcontainstheC-terminal
+domain.
+TheproteolyticcleavageofhumanHRGbyplasminwasfurther
+Plasminactivityassay
+investigated by Edman N-terminal sequence analysis of intact
+The chromogenic plasmin substrate N-(p-tosyl)-Gly-Pro-Lys and selected plasmin-cleaved HRG fragments acquired under
+(Sigma–Aldrich) was used to assess plasmin activity. Briefly, reducingconditions,inordertodefinetheplasmincleavagesites
+samples were prepared in 50μl of PBS (pH7.2, 6.6 or 6.0) and predict the domains of HRG present in the fragment of
+containing 1mg/ml N-(p-tosyl)-Gly-Pro-Lys and incubated for interest.Consistentwiththeantibody-bindingresults(Figure1C),
+60min at 37◦C. Samples were then transferred into a U- and with previous studies on rabbit HRG [16], the N-terminal
+bottomed 96-well microtitre plate and the absorbance of the sequence of intact and the ∼37kDa fragment of HRG was
+enzymatic product was measured at 405nm on a Thermomax identical (Figure 2A), suggesting that all plasmin-cleaved HRG
+microplate reader. Results were analysed using SoftMaxPro 4.0 fragmentsabove37kDaarelikelytocontainthesameN-terminus
+software. andeachsuccessivefragmentfrom75to37kDarepresentspro-
+gressiveplasmin-mediatedcleavageofHRGfromtheC-terminus.
+The ∼12kDa fragment that was released after plasmin treat-
+RESULTS ment of HRG at 37◦C for 30min contains an N-terminal
+sequenceofRRGPGKG(Figure2A),indicatingaplasmincleav-
+ProteolyticcleavageofhumanHRGbyplasmin
+agesiteonthecarboxysideofArg421andthereforethisfragment
+As the plasmin cleavage sites in human HRG have not been contains the C-terminal domain and parts of the PRR2 of HRG
+defined,theabilityofplasmintocleavehumanHRGwasinitially (seeSupplementaryFigureS1,availableathttp://www.BiochemJ.
+(cid:2)c TheAuthorsJournalcompilation(cid:2)c 2009BiochemicalSociety

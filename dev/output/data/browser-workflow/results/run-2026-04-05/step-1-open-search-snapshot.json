@@ -1,0 +1,170 @@
+{
+  "success": true,
+  "data": {
+    "origin": "https://www.baidu.com/",
+    "refs": {
+      "e1": {
+        "name": "",
+        "role": "generic"
+      },
+      "e10": {
+        "name": "文心",
+        "role": "link"
+      },
+      "e11": {
+        "name": "",
+        "role": "generic"
+      },
+      "e12": {
+        "name": "登录",
+        "role": "link"
+      },
+      "e13": {
+        "name": "更多",
+        "role": "link"
+      },
+      "e14": {
+        "name": "关于百度",
+        "role": "link"
+      },
+      "e15": {
+        "name": "About Baidu",
+        "role": "link"
+      },
+      "e16": {
+        "name": "使用百度前必读",
+        "role": "link"
+      },
+      "e17": {
+        "name": "帮助中心",
+        "role": "link"
+      },
+      "e18": {
+        "name": "企业推广",
+        "role": "link"
+      },
+      "e19": {
+        "name": "京公网安备11000002000001号",
+        "role": "link"
+      },
+      "e2": {
+        "name": "新闻",
+        "role": "link"
+      },
+      "e20": {
+        "name": "京ICP证030173号",
+        "role": "link"
+      },
+      "e21": {
+        "name": "点击一下，了解更多",
+        "role": "link"
+      },
+      "e22": {
+        "name": "百度热搜",
+        "role": "link"
+      },
+      "e23": {
+        "name": " 换一换",
+        "role": "link"
+      },
+      "e24": {
+        "name": " 缅怀先烈 致敬英雄",
+        "role": "link"
+      },
+      "e25": {
+        "name": "5 快递遭血液污染暴露顺丰两大硬伤",
+        "role": "link"
+      },
+      "e26": {
+        "name": "1 王楚钦：我也是第一次进世界杯决赛",
+        "role": "link"
+      },
+      "e27": {
+        "name": "6 伊朗称美军营救飞行员“任务失败”",
+        "role": "link"
+      },
+      "e28": {
+        "name": "2 鲁迅手植白丁香101岁生日绽放迎客",
+        "role": "link"
+      },
+      "e29": {
+        "name": "7 王楚钦4-1雨果 晋级世界杯决赛",
+        "role": "link"
+      },
+      "e3": {
+        "name": "hao123",
+        "role": "link"
+      },
+      "e30": {
+        "name": "3 三代人同框的这个画面让人泪目",
+        "role": "link"
+      },
+      "e31": {
+        "name": "8 美5名顶尖科学家离奇失踪或死亡",
+        "role": "link"
+      },
+      "e32": {
+        "name": "4 泰国总理换了一辆中国电动车",
+        "role": "link"
+      },
+      "e33": {
+        "name": "9 表面是扫墓 实则是荒野求生",
+        "role": "link"
+      },
+      "e34": {
+        "name": "",
+        "role": "generic"
+      },
+      "e35": {
+        "name": "",
+        "role": "textbox"
+      },
+      "e36": {
+        "name": "百度一下",
+        "role": "button"
+      },
+      "e37": {
+        "name": "复杂问题就找文心助手，深入思考回答更优",
+        "role": "link"
+      },
+      "e38": {
+        "name": "",
+        "role": "generic"
+      },
+      "e39": {
+        "name": "",
+        "role": "generic"
+      },
+      "e4": {
+        "name": "地图",
+        "role": "link"
+      },
+      "e40": {
+        "name": "",
+        "role": "generic"
+      },
+      "e5": {
+        "name": "贴吧",
+        "role": "link"
+      },
+      "e6": {
+        "name": "视频",
+        "role": "link"
+      },
+      "e7": {
+        "name": "图片",
+        "role": "link"
+      },
+      "e8": {
+        "name": "网盘",
+        "role": "link"
+      },
+      "e9": {
+        "name": "文库",
+        "role": "link"
+      }
+    },
+    "snapshot": "- link \"新闻\" [ref=e2]\n- link \"hao123\" [ref=e3]\n- link \"地图\" [ref=e4]\n- link \"贴吧\" [ref=e5]\n- link \"视频\" [ref=e6]\n- link \"图片\" [ref=e7]\n- link \"网盘\" [ref=e8]\n- link \"文库\" [ref=e9]\n- link \"文心\" [ref=e10]\n- link \"更多\" [ref=e13]\n- generic \"设置\" [ref=e11] clickable [cursor:pointer]\n- link \"登录\" [ref=e12]\n- link \"点击一下，了解更多\" [ref=e21]\n- textbox [ref=e35]\n- generic [ref=e40] clickable [cursor:pointer]\n- generic [ref=e38] clickable [cursor:pointer]\n- generic [ref=e39] clickable [cursor:pointer]\n- button \"百度一下\" [ref=e36]\n- generic \"复杂问题就找文心助手，深入思考回答更优\" [ref=e34] clickable [cursor:pointer]\n  - link \"复杂问题就找文心助手，深入思考回答更优\" [ref=e37]\n- link \"百度热搜\" [ref=e22]\n- link \" 换一换\" [ref=e23]\n- link \" 缅怀先烈 致敬英雄\" [ref=e24]\n- link \"5 快递遭血液污染暴露顺丰两大硬伤\" [ref=e25]\n- link \"1 王楚钦：我也是第一次进世界杯决赛\" [ref=e26]\n- link \"6 伊朗称美军营救飞行员“任务失败”\" [ref=e27]\n- link \"2 鲁迅手植白丁香101岁生日绽放迎客\" [ref=e28]\n- link \"7 王楚钦4-1雨果 晋级世界杯决赛\" [ref=e29]\n- link \"3 三代人同框的这个画面让人泪目\" [ref=e30]\n- link \"8 美5名顶尖科学家离奇失踪或死亡\" [ref=e31]\n- link \"4 泰国总理换了一辆中国电动车\" [ref=e32]\n- link \"9 表面是扫墓 实则是荒野求生\" [ref=e33]\n- link \"关于百度\" [ref=e14]\n- link \"About Baidu\" [ref=e15]\n- link \"使用百度前必读\" [ref=e16]\n- link \"帮助中心\" [ref=e17]\n- link \"企业推广\" [ref=e18]\n- link \"京公网安备11000002000001号\" [ref=e19]\n- link \"京ICP证030173号\" [ref=e20]\n- generic \"辅助模式\" [ref=e1] clickable [cursor:pointer]"
+  },
+  "error": null
+}

@@ -1,0 +1,521 @@
+
+--- Page 1 ---
+Received:13November2018 Revised:19March2019 Accepted:19April2019
+DOI:10.1111/bph.14711
+BJP
+RESEARCH PAPER
+‐
+Histidine rich glycoprotein ameliorates endothelial barrier
+‐κ
+dysfunction through regulation of NF B and MAPK signal
+pathway
+Shangze Gao1 | Hidenori Wake1 | Yuan Gao1 | Dengli Wang1 | Shuji Mori2 |
+Keyue Liu1 | Kiyoshi Teshigawara1 | HideoTakahashi3 | Masahiro Nishibori1
+1DepartmentofPharmacology,Okayama
+BackgroundandPurpose: Microvascularbarrierbreakdownisahallmarkofsepsis
+UniversityGraduateSchoolofMedicine,
+DentistryandPharmaceuticalSciences, that is associated with sepsis‐induced multiorgan failure. Histidine‐rich glycoprotein
+Okayama,Japan (HRG)isa75‐kDaplasmaproteinthatwasdemonstratedtoimprovethesurvivalof
+2DepartmentofPharmacology,Schoolof
+septicmicethroughregulationofcellshape,spontaneousROSproductioninneutro-
+Pharmacy,ShujitsuUniversity,Okayama,Japan
+3DepartmentofPharmacology,Facultyof phils, and adhesion of neutrophils to vascular endothelial cells. We investigated
+Medicine,KindaiUniversity,Osakasayama, HRG's role in the LPS/TNF‐α‐induced barrier dysfunction of endothelial cells
+Japan
+in vitro and in vivo and the possible mechanism, to clarify the definitive roles of
+Correspondence
+HRGinsepsis.
+ProfessorMasahiroNishibori,Departmentof
+Pharmacology,OkayamaUniversityGraduate ExperimentalApproach: EA.hy926endothelialcellswerepretreatedwithHRGor
+SchoolofMedicine,Dentistryand
+human serum albumin before stimulation with LPS/TNF‐α. A variety of biochemical
+PharmaceuticalSciences,2‐5‐1Shikata‐cho,
+Kita‐ku,Okayama700‐8558,Japan. assays were applied to explore the underlying molecular mechanisms on how HRG
+Email:mbori@md.okayama‐u.ac.jp
+protectedthebarrierfunctionofvascularendothelium.
+Fundinginformation Key Results: Immunostaining results showed that HRG maintains the endothelial
+AMED,Grant/AwardNumber:
+18im0210109h0002;Grant‐in‐AidforScien- monolayer integrity by inhibiting cytoskeleton reorganization, losses of VE‐
+tificResearch,Grant/AwardNumbers: cadherin and β‐catenin, focal adhesion kinase degradation, and cell detachment
+16K08232and15H04686;Grant‐in‐Aidfor
+induced by LPS/TNF‐α. HRG also inhibited the cytokine secretion from endothelial
+YoungScientists,Grant/AwardNumber:
+17K15580;SecomScienceandTechnology cells induced by LPS/TNF‐α, which was associated with reduced NF‐κB activation.
+Foundation
+Moreover, HRG effectively prevented the LPS/TNF‐α‐induced increase in capillary
+permeability in vitro and in vivo. Finally, Western blot results demonstrated that
+HRG prevented the phosphorylation of MAPK family and RhoA activation, which
+are involved mainly in the regulation of cytoskeleton reorganization and barrier
+permeability.
+Conclusions and Implications: Taken together, our results demonstrate that HRG
+has protective effects on vascular barrier function in vitro and in vivo, which may
+beduetotheinhibitionofMAPKfamilyandRhoactivation.
+Abbreviations:FAK,focaladhesionkinase;HRG,histidine‐richglycoprotein;HSA,humanserumalbumin;p‐MLC,phosphorylatedmyosinlightchain
+--------------------------------------------------------------------------------------------------------------------------------
+ThisisanopenaccessarticleunderthetermsoftheCreativeCommonsAttribution‐NonCommercial‐NoDerivsLicense,whichpermitsuseanddistributioninany
+medium,providedtheoriginalworkisproperlycited,theuseisnon‐commercialandnomodificationsoradaptationsaremade.
+©2019TheAuthors.BritishJournalofPharmacologypublishedbyJohnWiley&SonsLtdonbehalfofBritishPharmacologicalSociety.
+2808 wileyonlinelibrary.com/journal/bph BrJPharmacol.2019;176:2808–2824.
+--- Page 2 ---
+GAOETAL. BJP 2809
+1 | INTRODUCTION
+Whatisalreadyknown
+Sepsis is a leading cause of death with infection worldwide
+• HRG has an anti‐septic effect in mice through the
+(Riedemann, Guo, & Ward, 2003). It is a life‐threatening organ dys-
+maintenanceofneutrophilquiescence.
+functioncausedbyadysregulatedhostresponsetoinfection(Singer
+et al., 2016; Vincent, Opal, Marshall, & Tracey, 2013). Septic organ
+Whatthisstudyadds
+dysfunctionisduemainlytoanoverwhelmingsystemicinflammatory
+• HRGproducedsignificantprotectiveeffectsonvascular
+process,characterizedbytheactivationofinflammatorycellsaswell
+endothelialcellsinvitroandinvivo.
+as the enhanced production and release of various cytokines (Gill,
+Taneja, Rohan, Wang, & Mehta, 2014). Endothelial dysfunction is
+Whatistheclinicalsignificance
+oneofkeyprocessesinvolvedinthepathogenesisofsepsis,anditis
+• TherapiddecreaseinplasmaHRGinsepsiscontributes
+reportedtobeassociatedwithpatientmortalityintheclinic(Backer,
+tothedysregulationofvascularendothelialcells.
+Creteur,Preiser,Dubois,&Vincent,2002;Trzeciaketal.,2007).Itis
+generallyagreedthatendothelialdysfunctionpromotestheadhesion
+ofneutrophilstovascularendothelialcells,coagulationabnormalities,
+microvascular leakage, and hypoperfusion leading to sepsis‐induced permeability changes in endothelial cells (Guay et al., 1997;
+multiorgan failure (Aird, 2003). Thus, the recovery and maintenance Nwariaku et al., 2002).
+ofthebody'sendothelialbarrierfunctionmustbecriticaltosurvival Activationofthevascularendotheliuminsepticconditionsresults
+incasesofsepsis.Theseprocessesarelikelytoprovidenoveltargets in the production of various pro‐inflammatory molecules including
+forthetreatmentofsepsis. leukocyte adhesion molecules as well as soluble cytokines and
+The endothelial barrier is maintained mostly by the balance chemokines(Pober&Cotran,1990).TheactivationofNF‐κBinendo-
+between its intrinsic contractility and intercellular adhesive interac- thelialcellsisrequiredforthereleaseofpro‐inflammatorycytokines,
+tions (Hoelzle, Svitkina, & Blanchoin, 2011; Huveneers et al., 2012). includingIL‐1β,IL‐6,andTNF‐α(Baeuerle&Baltimore,1996).There-
+The intrinsic contractility—which is produced by cytoskeleton fore,theinhibitionofNF‐κBactivationwillcontroltheoverproduction
+rearrangement, the cortical actin dissolution, and stress fibre of cytokines in sepsis conditions, which further protects the barrier
+formation—can result in endothelial retraction and gap formation functioninthepathogenesisofsepsis.
+(Dejana, Corada, & Lampugnani, 1995; Jean et al., 2014; Histidine‐rich glycoprotein (HRG) is a 75‐kDa plasma protein.
+Nwariaku et al., 2003). The actin cytoskeleton of endothelial cells HumanHRGissynthesizedintheliverandispresentinthebloodat
+is tethered to adherent focal adhesions, which mediate cell–matrix a concentration range of 60–100 μg·ml−1 (Koide, Foster, Yoshitake,
+interactions (Burridge, Fath, Kelly, Nuckolls, & Turner, 1988; Wu, &Davie,1986).TheprimarystructureofhumanHRGispredictedto
+2005). Cell–cell contacts are mediated by adherent junctions among be a 507‐amino acid multidomain polypeptide consisting of two
+endothelial cells, and these contacts are composed mainly of VE‐ cystatin‐likeregionsattheN‐terminus,ahistidine‐richregionflanked
+cadherin. VE‐cadherin is an endothelium‐specific transmembrane byproline‐richregions,andaC‐terminaldomain.HRGis anadaptor
+adhesion molecule that regulates the cytoskeleton reorganization proteinthatinteractswithmanyligands,includingZn2+,haem,tropo-
+via an interaction with actin filaments through catenin binding, myosin, heparin, heparan sulphate, plasminogen, and complement
+whichalsoplaysacriticalroleinmodulatingendothelialpermeability (Ronca&Raggi,2015).
+(Gumbiner, 1996; Luscinskas & Shaw, 2001; Rodrigues & It has been shown that HRG can regulate many biological pro-
+Granger, 2015). cesses,suchasangiogenesis,coagulation,fibrinolysis,andthephago-
+Hyperpermeability is a hallmark of different inflammatory cytosisofapoptoticcells(Poon,Patel,Davis,Parish,&Hulett,2011).
+diseases such as acute respiratory distress syndrome and sepsis, Shannonetal.(2010)demonstratedthatHRGdecreasedthemortality
+and aberrant actin dynamics during sepsis leads to intercellular of a septic mouse model with Streptococcus pyogenes‐induced
+junction destabilization, vascular hyperpermeability, and immune cell abscessesbythekillingandtrappingofbacteriaintheabscesssites.
+recruitment. Therefore, the actomyosin contractility machinery has Wake et al. (2016) demonstrated that HRG prevents septic lethality
+become the focus of many studies investigating sepsis (Schnoor throughtheregulationofneutrophilsandtheinhibitionofthestrong
+et al., 2017). In this process, RhoA triggers the formation of stress attachmentofneutrophilstovascularendothelialcells.Inrecentclini-
+fibres through the phosphorylation of myosin light chain (MLC) by calstudies,HRGwasfurtherproposedasanewbiomarkertopredict
+Rho‐associatedkinase(ROCK;García‐Ponceetal.,2016).Phosphor- theoutcomeofasepsispatient(Kurodaetal.,2018;Nishibori,Wake,
+ylatedMLC(p‐MLC)enablesthemyosinmoleculetochangeconfor- & Morimatsu, 2018). Based on these findings, our present research
+mation, interact with actin, and slide along its filaments, leading to demonstratesforthefirsttimetheprotectiveeffectsofHRGonthe
+increased contractility. Members of the MAPK family also interact endothelium,especiallythebarrierdysfunctionofendotheliuminsys-
+with the cytoskeleton, and in particular, activated ERK1/2 or p38 temicsepticconditions,andthepossiblemechanism.Thiswillprovide
+was shown to mediate changes in actin dynamics, leading to stress newevidencefortheuseofHRGasasupplementarytherapyforthe
+fibre formation, redistribution of VE‐cadherin junctions, and treatmentofsepsis.
+--- Page 3 ---
+2810 BJP GAOETAL.
+2 | METHODS used comply with the recommendations made by the British Journal
+ofPharmacology(Alexanderetal.,2018).
+2.1 | Cell culture
+2.4 | Western blotting
+EA.hy926 cells (ATCC Cat# CRL‐2922, RRID:CVCL_3901), a
+hybridomaofHUVECsandthehumanepithelialcelllineA549were Cellsculturedinsix‐wellplateswerecollectedwithRIPA(50mmol·L−1
+cultured using DMEM (Sigma) supplemented with 10% FBS (Gibco), Tris–HCl,150mmol·L−1NaCl,1%NP‐40,0.5%sodiumdeoxycholate,
+10% L‐glutamine (#G7513, Sigma), and 5% penicillin/streptomycin 0.1% SDS, 1 mmol·L−1 EDTA, 1 mmol·L−1 DTT, 20 mmol·L−1 β‐
+(Gibco)in5%CO 2 at37°C.Afterreachingconfluence,theendothelial glycerophosphate,andprotease/phosphataseinhibitorsaddedimme-
+cells were detached from culture flasks using 0.25% trypsin–EDTA diatelybeforeuse)andthenelectrophoresedonapolyacrylamidegel
+(Gibco), washed, and resuspended in DMEM. These cells were and transferred onto a PVDF membrane (Bio‐Rad, Hercules, CA).
+passaged every 3–4 days, and all experiments were performed with Themembranewasblockedwith10%skimmedmilkfor1hrandincu-
+cellskeptinculturebetweenthreeandsixpassages. bated overnight at 4°C with rabbit anti‐VE‐cadherin Ab, anti‐p‐VE‐
+cadherin Ab (Abcam, #ab119785), anti‐FAK Ab (Abcam, #ab40794,
+RRID:AB_732300), anti‐p‐FAK Ab (Abcam, #ab81298), anti‐p38 Ab
+2.2 | Purification of HRG from human plasma (Cell SignalingTechnology, #9212S, RRID:AB_330713), anti‐ERK1/2
+Ab(CellSignalingTechnology,#12940),anti‐p‐p38(T180/Y183,Cell
+HRGwaspurifiedfromhumanplasmabyourlabasdescribedprevi- SignalingTechnology, #4631SS, RRID:AB_331765) or anti‐p‐ERK1/2
+ously (Mori, Takahashi, Yamaoka, Okamoto, & Nishibori, 2003).
+Ab (T202/Y204, Cell Signaling Technology, Cat# 4370, RRID:
+HumanplasmawassuppliedbytheJapaneseRedCrossSocietyfrom AB_2315112), and anti‐MLC and anti‐p‐MLC Ab (Abcam,
+the healthy volunteer's donation. The study protocol complied with #ab157747) followed by goat anti‐rabbit IgG‐HRP (MBL, Nagoya,
+theprinciplesoutlinedintheDeclarationofHelsinki,andallsubjects Japan)for2hratRT.Thesignalswerevisualizedbytheluminal‐based
+signed an informed consent. Briefly, human plasma was incubated
+enhancedchemiluminescenceHRPsubstratemethod(ThermoFisher
+with nickel–nitrilotriacetic acid (Ni–NTA) agarose (Qiagen, Hilden,
+Scientific,MA).AnImageQuantLAS4000systemwasusedfordetec-
+Germany)for2hrat4°Cwithgentleshaking.Thegelwaspackedinto
+tion,andimageswereanalysedwithImageJsoftwareVersion1.51.
+a column and washed successively with 10 mmol·L−1 Tris‐buffered
+saline (pH 8.0) containing 10 mmol·L−1 imidazole and then
+2.5 | Cell detachment assay
+10 mmol·L−1 Tris buffer (pH 8.0) containing 1 mol·L−1 NaCl. Human
+HRGwaselutedby0.5mol·L−1imidazolein10mmol·L−1Tris‐buffered
+First, 96‐well plates were coated with 5 μg per well extracellular
+saline(pH8.0).TheproteineluatefromNi–NTAwasfurtherpurified
+matrixprotein–laminin(Sigma‐Aldrich)at37°Cfor2hr,thenwashed
+byaMonoQcolumn(GEHealthcare,LittleChalfont,UK)withaNaCl
+twice with PBS. EA.hy926 endothelial cell suspensions were added
+gradient. Purified human HRG was identified by SDS‐PAGE and
+intoplainorlaminin‐coatedplatestogetherwiththemixtureofHRG
+WesternblottingwithahumanHRG‐specificantibody.
+or HSA and LPS or TNF‐α (100 ng·ml−1). After incubation for 2 hr,
+thedetachedcellswerewashedoutwithPBS,andtheadherentcells
+were fixed with 4% paraformaldehyde for 30 min and stained for
+2.3 | Immunostaining assay
+15 min with 1% crystal violet (Wako, Osaka, Japan). The cells were
+EA.hy926 cell suspensions (5 × 105 cells·ml−1) were cultured in
+washedtwicewithPBSandairdriedandthenobservedwithanAll‐
+96‐well plates (Falcon, Tewksbury, MA) until confluent. The mono- in‐One Fluorescence Microscope (BZ‐X700, Keyence, Japan). After
+the microscopic observation, crystal violet was extracted from the
+layerwasthenwashedwithPBSandpretreatedwithHRGorhuman
+serumalbumin(HSA;1μmol·L−1)for30minbeforestimulationwith cells with 100% methyl alcohol, and the OD was measured at
+LPS (Escherichia coli 0111:B4, Sigma) or TNF‐α (Sigma‐Aldrich; 595‐nm wavelength with a multi‐detection reader Flex Station 3
+100ng·ml−1).Afterincubation,thecellswerewashedwithPBStwice (MolecularDevices,CA).
+andfixedwith4%paraformaldehyde(Wako,Japan).Cellcytoskeleton
+F‐actin was stained with phalloidin–Alexa 568 (Invitrogen, Carlsbad, 2.6 | Cytometric bead array
+CA)atroomtemperature(RT)for1hr,andtheintercellularjunction
+proteins or NF‐κB were stained with primary antibodies for VE‐ Weexaminedthecytokinessecretedintothesupernatantofcultured
+cadherin (Abcam, #ab33168, RRID:AB_870662), β‐catenin (Abcam, endothelialcellsbyperformingacytometricbeadarrayusingaHuman
+#ab16051),orNF‐κB p65(Abcam,#ab16502,RRID:AB_443394) for Soluble Protein Master Buffer Kit and cytokine Flex Set (BD
+1 hr at 37°C, followed by Alexa Fluor 488 goat anti‐rabbit IgG Biosciences,CA)followingthemanufacturer'sinstructions.Generally,
+(Invitrogen) secondary antibody for 1 hr at RT. Nuclei were stained multiple capture beads for IL‐6, IL‐8, IL‐1α, and IFN‐γ were mixed
+with DAPI for 5 min. The samples were observed using a confocal together.Themixedcapturebeadswereco‐incubatedwith50μlof
+microscope (LSM 780, Carl Zeiss). The immuno‐related procedures supernatant and detection reagent for 2 hr. The beads were then
+--- Page 4 ---
+GAOETAL. BJP 2811
+washed carefully and resuspended. Samples were analysed using a 2.11 | Sepsis model
+FACSCantoIIsystem(BDBiosciences).Thedatawereanalysedwith
+FCAPArraysoftware. Two types of septic animal models were used in the present study:
+an LPS‐induced endotoxaemia model and a caecal ligation puncture
+(CLP) model. The LPS‐induced septic model was established with
+2.7 | RNA isolation and real‐time PCR
+an i.v. injection of LPS (10 mg·kg−1) and was used for experiments
+12 hr thereafter (London et al., 2010; Xu, Wu, Hack, Bao, &
+Cellswereharvested,andmRNAwasextractedusinganRNeasymini
+Cunningham, 2015). TheCLP septicanimalmodelswere established
+kit (Qiagen). cDNA was synthesized with a Takara RNA PCR kit
+as described in our previous study (Wake et al., 2016). Briefly, the
+Version3.0(TakaraBio,Nagahama,Japan)accordingtothemanufac-
+mice were anaesthetized with 3% isoflurane in 48.5% N O and
+turer'sinstructions.Real‐timePCRwasperformedwithaLightCycler 2
+48.5% O , and a ligature was set below the ileocaecal valve. The
+2
+(Roche,Switzerland)accordingtothemanufacturer'sinstructions.The
+caecumwasgentlyexteriorizedfromtheperitonealcavityandpunc-
+primers shown in Table S1 were used to amplify specific cDNA
+turedtwicewithan18‐gaugeneedleandwasthenreturnedbackto
+fragments. β‐actin expression was used to normalize cDNA levels.
+the abdomen. The mice were killed 24 hr later with pentobarbital
+ThePCRproductswereanalysedbyameltingcurvetoascertainthe
+sodium (50 mg·kg−1, i.p.).
+specificity of amplification, and the relative fold gene expression of
+sampleswascalculatedwiththeΔ–ΔCtmethod.
+2.12 | Vascular permeability in septic mice
+2.8 | In vitro permeability assay
+We assessed the vascular permeability of different organs in
+EA.hy926 endothelial cells were seeded at a density of
+endotoxaemic or septic mice by determining the Evans blue
+5×105cells·ml−1onto24‐wellplateswith6.5‐mm‐diametertranswell
+leakage from capillaries. First, HRG or HSA in vehicle (PBS) was
+insertsanda0.4‐μmporesizepolyestermembrane(Corning,MA)and
+administered through the tail vein immediately after the operation.
+cultured until confluent. Cells were pre‐incubated for 30 min with
+Each mouse was given 20 mg·kg−1 HRG or HSA in a volume of
+HRG/HSAbeforestimulationwithLPS/TNF‐α.After12hr,theculture
+200 μl (i.v.). After 12 or 24 hr, mice were given an i.v. injection
+medium was replaced with medium containing 0.5 mg·ml−1 FITC–
+of Evans blue albumin (EBA, 20 mg·kg−1, Wako). EBA was allowed
+dextran(70,150,and250kDa,Sigma‐Aldrich)intheupperchamber.
+to circulate for 1 hr, and the mice were then anaesthetized and
+Thefluorescenceinthelowerchamber,whichrepresentstheperme-
+perfused with saline. The lung, liver, and kidney were excised,
+ability of the monolayer of endothelial cells, was detected with the
+weighed, homogenized, and kept in 2 ml of formalin for 48 hr at
+FlexStation3(Ex=492nm;Em=518nm)atdifferenttimepoints.
+60°C. The extracted dye was then measured with a spectrometer
+at 610 nm. The absorbance value was converted to μg of Evans
+2.9 | Animals blue dye . g‐1 wet weight of lung, liver, or kidney respectively (Lon-
+don et al., 2010).
+AdultmaleC57BL/6Nmice(22±3g,8weeks,RRID:MGI_5658420)
+were purchased from SLC (Hamamatsu, Japan) and then housed in
+the Okayama University institutional animal units (12‐hr light cycle).
+2.13 | Rho GTPase pull‐down assay
+Themiceweremaintainedonastandardrodentdietwithfreeaccess
+towater.Uptofourmicewerekeptperplasticcagewithaspenwood
+RhoAregulatesmoleculareventsbycyclingbetweenaninactiveGDP‐
+beddingmaterial.Allproceduresinvolvinganimalswereperformedin
+bound form and an active GTP‐bound form. In this study, RhoA
+accordancewithguidelinesofDirective2010/63/EUoftheEuropean
+GTPaseactivitywasdetectedby a Rho GTPasepull‐downassay for
+Parliament on the protection of animals used for scientific purposes
+theGTP‐boundactiveRhoAaccordingtothemanufacturer'sinstruc-
+andapprovedbytheEthicsReviewBoardoftheOkayamaUniversity.
+tions (STA‐403‐A‐T, Cell Biolabs, CA). EA.hy926 cell suspensions
+AnimalstudiesarereportedincompliancewiththeARRIVEguidelines
+(5 × 105 cells·ml−1) were culturedin six‐well plates until confluence.
+(Kilkenny, Browne, Cuthill, Emerson, & Altman, 2010) and with the
+The cells were then washed with PBS and pretreated with HRG or
+recommendations made by the British Journal of Pharmacology
+HSA (1 μmol·L−1) for 30 min before the stimulation with LPS for
+(McGrath and Lilley, 2015). Every effort was taken to minimize the
+1hr.Attheendoftheincubation,theculturemediumwasremoved,
+numberofanimalsusedandtheirsuffering(inlinewiththe3Rs).
+and the cells were washed with ice‐cold PBS. Then, the cells were
+detached fromtheplate by addingice‐cold 1× lysisbuffer (PartNo.
+2.10 | Randomization and blinding 240102‐T) and scraping with a cell scraper. Cell lysates were then
+incubatedwithagarosebeadscontainingrhotekin‐bindingdomainto
+Animalswererandomizedfortreatment.Datacollectionandevalua- pulldowntheactivatedRhoA.Thebeadswerecollected,andproteins
+tionofallexperimentswereperformedblindlyofthegroupidentity. wereanalysedbyimmunoblotting.
+--- Page 5 ---
+2812 BJP GAOETAL.
+2.14 | Data and statistical analysis Concise Guide to PHARMACOLOGY 2017/18 (Alexander et al.,
+2017a,2017b).
+DatawereanalysedwithGraphPadPrismstatisticsoftware(Version
+6.01, San Diego, CA). All values are presented as the means ± SEM
+3 | RESULTS
+and analysed by ANOVA followed by Bonferroni's test or post hoc
+Fishertestwhenthe F statisticwassignificant.P<.05wasconsid-
+3.1 | HRG inhibited stress fibre formation and
+ered statistically significant. At least five independent experiments
+cytoskeleton reorganization
+were performed with all the assays. The data and statisticalanalysis
+complywiththerecommendationsoftheBritishJournalofPharmacol-
+Giventhewell‐knownimportantfunctionsofactinandactin‐binding
+ogyonexperimentaldesignandanalysisinpharmacology(Curtisetal.,
+proteins for endothelial barrier homeostasis (García‐Ponce, Citalán‐
+2018).
+Madrid, Velázquez‐Avila, Vargas‐Robles, & Schnoor, 2015), we
+investigated the effects of HRG on the stress fibre formation and
+cytoskeleton remodelling inducedby LPS/TNF‐α in endothelial cells.
+2.15 | Nomenclature of targets and ligands Under the resting condition, F‐actin predominated as a thin band
+alongthecellboundaries,andnoF‐actinbundleswerepresentinside
+Key protein targets and ligands in this article are hyperlinked to the cells (Figure 1a, left panel). We observed that 10 ng·ml−1 of
+corresponding entries in http://www.guidetopharmacology.org, the LPS/TNF‐α stimulation for 2 hr induced the reorganization of the
+common portal for data from the IUPHAR/BPS Guide to PHARMA- actin cytoskeleton, as evidenced by an increase in the thickness of
+COLOGY(Hardingetal.,2018),andarepermanentlyarchivedinthe the peripheral F‐actin band and the appearance of F‐actin bundles
+FIGURE1 Effectsofhistidine‐rich
+glycoprotein(HRG)onLPS/TNF‐α‐induced
+stressfibreformationandcytoskeleton
+reorganization.EA.hy926endothelialcells
+wereincubatedwith1μmol·L−1ofhuman
+serumalbumin(HSA),HRG,orPBSfor30min
+beforestimulationwith10ng·ml−1LPS/
+TNF‐αfor2hr(a)or100ng·ml−1for12hr(d).
+Theactindistributionandmorphologyof
+endothelialcellswereanalysedby
+fluorescenceusingAlexa568–phalloidin.
+Actinstainingisingrey(a)orred(d),and
+nucleusstainingisblue.Imagesare
+representativeoffiveindependent
+experiments.Bar=20μm.(b)Upper:The
+methodofactinfibrequantificationis
+depictedastheyellowarrowshownin(a).
+Lower:theassessmentofcentralactinfibre
+density,theresultsofwhichareshownin(c).
+Pixelintensities(c)andcellareas(e)were
+quantifiedusingImageJsoftware.(f)Western
+blotresultsofHRGontheLPS/TNF‐α‐
+inducedphosphorylationofmyosinlightchain
+(MLC).(g)ThequantificationofWestern
+blottingresultsin(f).Theresultsingraphsare
+shownasthemeans±SEM(n=5pergroup).
+One‐wayANOVAfollowedbytheposthoc
+Fishertest,**P<.05versuscontrol,##P<.05,
+and++P<.05versusPBSandHSA
+respectively
+--- Page 6 ---
+GAOETAL. BJP 2813
+(stress fibres, indicated by arrows in Figure 1a, middle panel) inside expression of VE‐cadherin induced by LPS or TNF‐α (Figure 2d,e).
+thecell.Ourquantitativeanalysisoftheseactinstructuresbydeter- The phosphorylation and dephosphorylation of intercellular tyrosine
+mining the pixel intensities of these fibres inside the cells (Figure 1 residuesintheVE‐cadherincomplexareresponsibleforthemodula-
+b, upper panel) revealed a significant increase in such F‐actin fibres tion of VE‐cadherin function (Weidert, Pohler, Gomez, & Dong,
+comparedwiththecontrolgroup(Figure1c,leftpanel).Additionally, 2014). Wessel et al. (2014) showed that Tyr 685 and Tyr 731 of
+the fluorescence intensity of the horizontal diameter of the cell VE‐cadherin distinctly and selectively regulate the induction of
+shown in Figure 1b (lower panel, red line) was measured as the vascular permeability or leukocyte extravasation. In this study, we
+central stress fibre density as described by Peacock et al. (2007). investigated the effects of HRG on the Y‐685 phosphorylation in
+Thesemeasurementsinvariablyrevealedasignificantincreaseinactin VE‐cadherin. The results showed that HRG effectively inhibited the
+fibrescrossingthecellcentresofthecellsstimulatedwithLPS/TNF‐α LPS/TNF‐α‐stimulatedphosphorylationofVE‐cadherinatTyr685site
+(Figure1c,rightpanel). (Figure2d,e).
+AfterthecellswerestimulatedwithLPS/TNF‐α(100ng·ml−1)for Moreover, HRG prevented the LPS/TNF‐α‐induced loss of other
+12 hr, we found that F‐actin had broken down and redistributed at junction molecules like occludin and ZO‐1, which were involved in
+the cell periphery accompanied by cell contraction towards the cell theendotheliumpermeabilitycontrol(FigureS3).
+centre (Figure 1d, middle panel). The results were quantified with
+the cell area shown in Figure 1e. HRG (1 μmol·L−1) effectively
+3.3 | LPS/TNF‐α‐induced degradation of focal
+inhibited this stress fibre formation (Figure 1a, right panel) and cell
+adhesion kinase and cell detachment were reduced by
+morphological changes (Figure 1d, right panel) and maintained the
+HRG
+monolayer integrity. The results also demonstrated the
+concentration‐dependent effects of HRG on the morphology
+Focal adhesion kinase (FAK) is associated with actin stress fibres,
+changes induced by LPS (Figure S1). HRG (1 μmol·L−1) significantly
+whichserveasholdingpointsforcytoskeletaltension.FAKisrespon-
+inhibited the phosphorylation of MLC induced by LPS/TNF‐α
+siblefor the regulationof cell contractilityand cell–matrixadhesion.
+(Figure 1f). The quantification of Western blotting results is illus-
+LPSwasreportedtoinducethestressfibreformation,associatedwith
+trated in Figure 1g. These results suggested that HRG inhibited the
+phosphorylation and degradation of FAK. The results in Figure 3a
+stress fibre formation and cytoskeleton reorganization through the
+showed that LPS and TNF‐α induced slight FAK degradation and
+regulation of MLC phosphorylation. However, HSA, a major plasma
+stronglystimulatedphosphorylationofFAK,whichwereinhibitedby
+protein, did not show any inhibitory effects at the same concentra-
+the treatment with HRG. These results proved that HRG not only
+tion (1 μmol·L−1). The inhibitory effects of HRG on the LPS/TNF‐α
+prevented the loss of FAK but also effectively regulated the FAK
+induced cytoskeleton reorganization, and morphology changes are
+phosphorylationstimulatedbyLPS/TNF‐α.Tofurtherconfirmthereg-
+alsotruefortheprimarycultureofhumanlungmicrovascularendo-
+ulationeffects of HRGon cell–matrix adhesion,the cell detachment
+thelial cells (HMVECs; Figure S6).
+assay was performed. Results showed that LPS/TNF‐α stimulation
+led to a large number of cells detaching from the plain plates
+(Figure 3b(A,C)) and laminin‐coated plates (Figure 3b(B,D)), whereas
+3.2 | HRG prevented the loss of intercellular
+HRGeffectivelypreventedthecelldetachmentunderbothconditions.
+adherent junctions
+The results also statistically analysed the measurement of OD of
+crystalviolentremainingontheplatesat595nm(Figure3c).
+VE‐cadherin is a major transmembrane adherent junction protein in
+vascular endothelial cells, and it represents a crucial determinant of
+endothelialbarrierintegrity.TheimmunostainingofVE‐cadherinand 3.4 | HRG suppresses the cytokine secretion and
+β‐catenin showed a linear staining pattern at the cell borders under mRNA expression of inflammation‐related molecules
+control conditions in confluent endothelial monolayers (Figure 2a,b, in endothelial cells
+left panel). Incubation with LPS/TNF‐α for 6 hr led to intercellular
+gap formation and a pronounced loss of VE‐cadherin and β‐catenin Accordingtotheresults,a12‐hrincubationofendothelialcellswith
+stainingatthecellborders(middlepanel).PretreatmentwithHRGsig- LPS/TNF‐αresultedinalargeincreaseinthesecretionofIL‐6,IL‐8,
+nificantly prevented the loss of both VE‐cadherin and β‐catenin IL‐1α, and IFN‐γ in the culture media compared with the non‐
+(Figure 2a,b, right panel). The inhibitory effects of HRG on the loss stimulated control group. HRG (1 μmol·L−1) almost completely
+ofVE‐cadherinalsoshoweddosedependency(FigureS2).Thesepro- inhibitedallofthecytokinereleaseinducedbyLPS,andthesamecon-
+tective effects are also true for the HMVECs (Figure S7). Scanning centration of HRG had less effect on the IL‐6 release induced by
+electron microscopy observations also confirmed the formation of TNF‐α (Figure4a). Consistent with aboveresults,HRGalso reduced
+intercellulargaps,thicknessofthecellmembrane,andmicroparticle‐ theexpressionofIL‐6,IL‐8,IL‐1α,IFN‐γ,andIL‐10atthemRNAlevels
+like structure on the cell surface induced by LPS; this was also (Figure 4b). From these results, we speculate that the reduced
+inhibitedbyHRG(Figure2c).Inparallel,theWesternblottingresults cytokine secretions from endothelial cells by HRG were due to the
+ofVE‐cadherinalsoshowedthatHRGpreventedthedecreaseinthe regulationofbothsecretorypathwayandmRNAexpression.
+--- Page 7 ---
+2814 BJP GAOETAL.
+FIGURE 2 Histidine‐rich glycoprotein (HRG) prevents the loss of intercellular junction. Immunostaining results of VE‐cadherin/β‐catenin in
+endothelialcellsstimulatedwith100ng·ml−1LPSorTNF‐αfor6hraftertreatmentwithHRGorhumanserumalbumin(HSA).(a,b)Cellswere
+incubatedwithanti‐VE‐cadherinmAboranti‐β‐cateninmAbfor2hrandthenstainedwithAlexaFluor488(green)goat‐anti‐rabbitIgG.Thecells
+werealsostainedwithDAPI(blue)tovisualizethenuclei.Thepicturesarerepresentativeofthreeindependentexperiments(n=5pergroup).
+Scalebar=20μm.(c)Scanningelectronmicroscopypicturesofvascularendothelialcells.Scalebar=50μm(upperpanel)or20μm(lowerpanel).
+(d,e)Quantificationofresultsofthep‐VE‐cadherinandVE‐cadherinbyWesternblotting.One‐wayANOVAfollowedbytheposthocFishertest,
+**P<.05versuscontrol,##P<.05,and++P<.05versusPBSandHSArespectively
+Moreover,ourpreviousstudy(Wakeetal.,2016)alreadyproved HRGsignificantlyreducedtheIL‐6,IL‐10,andTNF‐αlevelsinserum
+thatthesystemicinjectionofHRGsignificantlyreducedthecytokine of LPS‐injected mice compared with control HSA‐injected group
+levelsinthesepticmicecomparedwithcontrolHSA‐injectedgroup. (FigureS4).
+Inthepresentstudy,theeffectsofHRGontheserumcytokinelevels As presented in Figure 4b, LPS enhanced the expression of all
+inLPS‐injectedmicewerealsodeterminedwithcytometricbeadarray. three receptors (TLR2, TLR4, and RAGE) on endothelial cells.
+--- Page 8 ---
+GAOETAL. BJP 2815
+FIGURE3 Effectsofhistidine‐richglycoprotein(HRG)onthedegradationoffocaladhesionkinase(FAK)andcelldetachment.(a)Westernblot
+resultsandquantificationofthephosphorylatedFAK(p‐FAK)anddegradedFAKinducedbyLPS/TNF‐αwithImageJ.(b)Thecellsuspensions
+wereplatedinto96‐wellplainplates(A,C)orlaminin‐coatedplates(B,D).Thecelldetachmentwasevaluatedbystainingtheremainingcellswith
+1%crystalviolet.(c)Quantitativeanalysisofcrystalvioletextractedfromtheremainingcells.PanelsA–DcorrespondtoA–Din(b).
+Dataaremeans±SEMinthegraph(n=5pergroup).One‐wayANOVAfollowedbytheposthocFishertest,**P<.05versuscontrol,##P<.05,
+and++P<.05versusPBSandhumanserumalbumin(HSA)respectively.Scalebar=10μm
+--- Page 9 ---
+2816 BJP GAOETAL.
+FIGURE 4 Histidine‐rich glycoprotein (HRG) inhibited the cytokine secretion and mRNA expressions of inflammation‐related molecules in
+endothelialcells.Thecellculturemediawerecollectedforthedeterminationofcytokines.(a)ThelevelsofIL‐6,IL‐8,IL‐1α,andIFN‐γinthe
+culturemediafromeachgroupareshownasthemeans±SEM(n=5pergroup).(b)TheexpressionsofTLR2,TLR4,RAGE,MMP‐2,IL‐6,IL‐8,IL‐
+1α,IFN‐γ,andIL‐10atthemRNAlevelonendothelialcellsweremeasuredbyquantitativeRT‐PCR.Theresultswerenormalizedtotheexpression
+ofβ‐actinandareexpressedasthemeans±SEM(n=5pergroup).One‐wayANOVAfollowedbytheposthocFishertest,**P<.05versus
+control,##P<.05,and++P<.05versusPBSandhumanserumalbumin(HSA)respectively
+--- Page 10 ---
+GAOETAL. BJP 2817
+Interestingly,HRGpartiallybutsignificantlyinhibitedthestimulatory significantlyreducedvascularpermeabilityinthelung,liver,andkid-
+effectsofLPSontheexpressionofallthreereceptors.Thestimulatory ney after 24 hr in the sepsis‐induced barrier dysfunction model
+effectofLPSontheexpressionofTLR2washigherthanthoseofthe (Figure6e).
+othertworeceptors,andtheinhibitoryeffectofHRGontheexpres-
+sion of this receptor was also more pronounced. MMP‐2 has been
+3.7 | HRG prevented the activation of MAPK and
+reportedtobesecretedfromdifferentcells(Alexander&ElrodJohn,
+Rho signal pathway induced by LPS
+2002),leadingtothedegradationoftightjunctionsandadherensjunc-
+tions, which results in an increase in the vascular permeability. The
+ROCKandMAPKcascades,whichincludep38andERK1/2,playcrit-
+results also showed that HRG can effectively suppress the LPS‐ icalrolesintheregulationofVE‐cadherinredistributionandcytoskel-
+inducedup‐regulationofMMP‐2mRNA.
+etal polymerization in endothelial permeability control (Yuan, 2002).
+TheresultsshowthatLPSstimulationinducedp38andERK1/2phos-
+3.5 | LPS/TNF‐α‐induced NF‐κB activation was phorylationinatime‐dependentmanner,astheactivationofp38and
+prevented by HRG in immunostaining ERK1/2wasbiphasicwithaninitialincrease(peakingat1hr)followed
+byaslightdropinthephosphorylationlevels(Figure7a,b).HRGeffec-
+NF‐κB/p65isamemberoftheNF‐κBproteinfamily.Itistransferred tively inhibited the phosphorylation of p38 and ERK1/2 induced by
+tothenucleusandboundtoaspecificsequenceinthegenomepro-
+LPS(Figure7c).TheinhibitoryeffectofHRGontheLPS‐inducedacti-
+moter regions, resulting in the regulation of proinflammatory vationofRhoA(GTPbound)wasshowninFigure7d.Thequantifica-
+responsesandendothelialpermeabilitywhenthecellsreceiveinflam- tionofWesternblottingresultsisillustratedinFigure7e.
+matorystimuli(Sprague&Khalil,2009).WeobservedthatNF‐κB/p65
+was located in the cytoplasm in the non‐stimulated control group,
+4 | DISCUSSION
+whereasintheLPS/TNF‐αtreatedcells,NF‐κB/p65wastranslocated
+intothenuclei.LPS‐inducedchangesintranslocationoccurred12hr
+Endothelial barrier dysfunction and microvascular leakage critically
+afterstimulation(Figure5a),andthetranslocationbyTNF‐αwasevi-
+contributetothepathogenesisoforganfailureandsepsis‐relatedcom-
+dent 6 hr after stimulation (Figure 5b). However, pretreatment with
+plications(Goldenberg,Steinberg,Slutsky,&Lee,2011).Theendothe-
+HRGclearlysuppressedtheLPS/TNF‐α‐inducedNF‐κB/p65translo-
+liumisthusgenerallyregardedasatargetforthetreatmentofsepsis,
+cation to nuclei in endothelial cells (Figure 5a,b). The results of our
+especiallywithregardtoendothelialbarrierrepairstrategies.Currently,
+quantitative analysis of the relative intensity of fluorescence in the
+thereisnoappropriatetherapyforrecoveryoftheendothelialbarrier
+nuclei/cytosol are provided in Figure 5c. The preventive effects of
+dysfunctioninsepsis.Thepresentstudyextendsourpreviousinvesti-
+HRGontheLPS/TNF‐α‐inducedNF‐κBactivationwerealsoobserved
+gationsandshowsthatplasmaproteinHRGhasapotentprotective
+inHMVECs(FigureS8).
+effectonLPS‐orseptic‐inducedbarrierdysfunctionofendothelium.
+The function of the vascular barrier is maintained by a balance
+3.6 | Protective role of HRG on the permeability of between endothelial cells' contractile forces and adhesive cell–cell
+vascular endothelium in vitro and in vivo and cell–matrix tethering forces; the former generate centripetal
+tension,andthelatterregulatecellshape.Stressfibrescomposedof
+In the FITC–dextran transwell assay as depicted in Figure 6a, bundlesofpolymerizedactinaretheprimaryelementsofthecontrac-
+LPS/TNF‐αinducedsignificantleakageof70‐kDaFITC–dextranfrom tilemachineryofendothelialcells,whichassembleinacharacteristic
+the endothelial monolayer compared with the control group, and mannerinresponsetopermeability‐increasingmediators.Inourexper-
+pretreatment with HRG produced a significant inhibition of dextran iments,stimulationwithalowconcentration(10ng·ml−1)ofLPS/TNF‐α
+leakage during the 12‐hr stimulation compared with the HSA treat- for2hrinducedstressfibreformationinendothelialcells(Figure1a),
+mentgroup.ThiseffectwasalsotrueforLPS‐induced150‐or250‐ whereasahigherconcentrationofLPS/TNF‐α(100ng·ml−1)for12hr
+kDaFITC–dextranleakage(Figure6b,c).Moreover,HRGalsoshowed resulted in marked changes in cell morphology (Figure 1d). These
+theinhibitoryeffectsontheLPS/TNF‐α‐inducedhyperpermeabilityin results suggested a time‐ and dose‐dependent increase in
+HMVECmonolayerinvitro(FigureS5). cytoskeleton rearrangement and contractile forces. HRG effectively
+ToexaminewhetherHRGreduceshyperpermeabilityundercyto- inhibitedthestressfibreformationandcellrounding,thusmaintaining
+kine storm conditions in vivo, we used a bacterial endotoxin model the monolayer integrity in a dose‐dependent manner (Figure S1).
+ofinflammation.LPSadministrationtriggeredalargeincreaseincapil- Phosphorylated MLC (p‐MLC) enables the formation of stress fibre
+larypermeabilityat12hraftertheinjection.UsingEBAasatracer,we andleadstoincreasedcontractilityinendothelialcells(García‐Ponce
+observedthatHRGsignificantlyreducedtheEBAleakagefromcapil- etal.,2016;Nwariakuetal.,2002).TheresultsinFigure1f,gshowthat
+laries in the lung, liver and kidney of LPS‐injected mice (Figure 6d). HRGeffectivelyreducedLPS/TNF‐α‐inducedphosphorylationofMLC,
+Totestthephysiologicalrelevanceof ourfindingsandtodetermine indicatingthatHRG'sprotectiveeffectsonendothelialbarrierfunction
+whether the effect of HRG is limited to the administration of LPS, are related to the prevention of contractile stress fibre formation
+we used a model of polymicrobial sepsis known as CLP. HRG also throughtheinhibitionofthephosphorylationofMLC.
+--- Page 11 ---
+2818 BJP GAOETAL.
+FIGURE5 Histidine‐richglycoprotein(HRG)suppressestheLPS/TNF‐α‐inducedactivationofNF‐κBinendothelialcells.Immunostainingresults
+ofNF‐κBinendothelialcellsstimulatedwith100ng·ml−1LPSfor12hror100ng·ml−1TNF‐αfor6hraftertreatmentwithHRGorhumanserum
+albumin(HSA).(a,b)Cellswerestainedwithanti‐NF‐κB/p65mAbfor2hrandthenstainedwithAlexaFluor488(green)goat‐anti‐rabbitIgG.Cells
+werealsostainedwithDAPI(blue)tovisualizethenucleus.Theresultsshownarerepresentativeof≥5experiments.Scalebar=10μm.(c)The
+nuclei/cytosolfluorescenceintensityratiorepresentsthetranslocationofNF‐κBfromthecytoplasmtonucleus.Dataaremeans±SEM(n=5per
+group).One‐wayANOVAfollowedbytheposthocFishertest,**P<.05versuscontrol,##P<.05,and++P<.05versusPBSandHSA
+--- Page 12 ---
+GAOETAL. BJP 2819
+FIGURE6 Protectiveeffectsofhistidine‐richglycoprotein(HRG)onendothelialpermeabilityinvitroandinvivo.(a–c)EffectsofHRGonLPS/
+TNF‐α‐inducedhyperpermeabilityoftheendothelialmonolayer.ThegraphshowsthefluorescenceintensityofFITC–dextranleakage,atdifferent
+sizes,fromtranswellfilterstothelowerchamber.Dataaremeans±SEM(n=5pergroup).One‐wayANOVAfollowedbytheposthocFisher
+test,**P<.05versuscontrol,##P<.05,and++P<.05versusPBSandhumanserumalbumin(HSA).(d)Miceweregivenani.v.injectionofLPS
+(10mg·kg−1)andthentreatedwithHRGorHSA(20mg·kg−1)for12hr.(e)Miceweresubjectedtocaecalligationpuncture(CLP)orashamope‐
+rationandthenanimmediatei.v.injectionofHRGorHSA.At12or24hrlater,themicereceivedani.v.injectionofEvansbluedye(EBA),and
+EBAextractionwasmeasuredinthelung,liver,andkidneytoassessvascularpermeability(n=6pergroup).Theextracteddyewasthenmeasured
+withaspectrometerat610nm.TheabsorbancevaluewasconvertedtoμgEvansbluedye.g‐1wetweightoflung,liver,orkidneyrespectively.
+Statisticalanalysiswasperformedbyone‐wayANOVAwithBonferroni'sposthoctest,**P<.05versussham,##P<.05,and++P<.05versusPBS
+andHSArespectively

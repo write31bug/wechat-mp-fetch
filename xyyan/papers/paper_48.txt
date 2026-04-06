@@ -1,0 +1,240 @@
+
+--- Page 1 ---
+THROMBOSISANDHEMOSTASIS
+Extracellular protein disulfide isomerase regulates coagulation on endothelial cells
+through modulation of phosphatidylserine exposure
+NarcisI.Popescu,1,2CristinaLupu,1andFloreaLupu1,2
+1CardiovascularBiologyResearchProgram,OklahomaMedicalResearchFoundation,and2DepartmentofPathology,OklahomaUniversityHealthSciences
+Center,OklahomaCity
+Tissuefactor(TF)isthecellularreceptor contribution to coagulation using an in In contrast, exogenous PDI addition en-
+for plasma protease factor VIIa (FVIIa), vitroendothelialcellmodel.Inthismodel, hanced PS internalization. Analysis of
+andtheTF-FVIIacomplexinitiatescoagu- extracellular PDI is detected by imaging fluorescent PS revealed that PDI affects
+lation in both hemostasis and thrombo- andflowcytometry.Inhibitionofcellsur- both the apparent flippase and floppase
+sis. Cell surface-exposed TF is mainly facePDIinducesamarkedincreaseinTF activitiesonendothelialcells.Inconclu-
+cryptic and requires activation to fully procoagulant function, whereas exog- sion,weidentifiedanewmechanismfor
+exhibit the procoagulant potential. Re- enousadditionofPDIinhibitsTFdecryp- PDIcontributiontocoagulationonendo-
+cently, the protein disulfide isomerase tion.ThecoagulanteffectsofPDIinhibi- thelial cells, namely, the regulation of
+(PDI) has been hypothesized to regulate tionweresensitivetoannexinVtreatment, PSexposure,wherePDIactsasanega-
+TF decryption through the redox switch suggestingexposureofphosphatidylser- tiveregulatorofcoagulation.(Blood.2010;
+ofanexposeddisulfideinTFextracellular ine (PS), which was confirmed by pro- 116(6):993-1001)
+domain. In this study, we analyzed PDI thrombinase assays and direct labeling.
+Introduction
+Tissuefactor(TF)isatransmembraneglycoproteinthatbindswith On monocytes, PDI apparently modulates TF decryption and
+high affinity to the plasma protease factorVII in either zymogen coagulation, by regulating the redox state of the Cys186-Cys209
+(FVII)oractivatedform(FVIIa).TheformationoftheTF-FVIIa pairintheextracellulardomainofTF.14,23Althoughthemolecular
+complexiscrucialforinitiationofcoagulation,leadingtothrombin mechanism for PDI modulation of TF function has been highly
+generation and fibrin formation. Although the primary role of debated,27,28invivoinhibitionofPDIwithmonoclonalantibodies
+TF-FVIIaistomaintainhemostasisaftervascularinjury,aberrant reducedfibrindepositionin2mousemodelsofvascularinjury.14,29
+activationofcoagulationunderliesthrombosis,themajorcauseof Recently, both PDI and TF have been identified on ECs and
+mortalityinmostindustrializedcountries.1 leukocytes in a deep vein thrombosis model, suggesting their
+In physiologic conditions, initiation of coagulation is main- involvementinyetanotherthromboticmanifestation.30
+tained silent by restricting the exposure of TF to the plasma PS exposure is a strong signal for multiple physiologic pro-
+factors.2,3 In pathologic conditions, however, TF may become cesses, such as coagulation and clearance of apoptotic cells. In
+exposed on the endothelium4,5 and on circulating monocytes.6At restingcells,mostofthePSislocalizedonthecytosolicleafletof
+these sites, TF can initiate thrombotic events associated with the lipid bilayers, an asymmetry maintained by the activity of
+sepsis,4,7cancer,8,9oratherosclerosis.10,11Multipleinvitrostudies phospholipid translocases.31 Both efflux and influx of PS are
+haveindicatedthatmostofthecell-exposedTFis“cryptic,”thus sensitivetosulfhydrylmodification.Sulfhydryloxidizingorcross-
+not fully active toward coagulation,12,13 and TF “decryption” has linkingreagentsactivatePSeffluxandinhibittheflippaseactivity,
+beenproposedastheinitialstepintheactivationofcoagulation.14 whereassulfhydrylreductionactivatestheflippaseandinhibitsPS
+Although the molecular mechanisms of TF decryption are not efflux.32This reciprocal modulation suggests that PS transporters
+completely understood, many of the stimuli that decrypt TF also mayberegulatedbyacommonredoxelement.Ourstudyidentifies
+increase the exposure of phosphatidylserine (PS),15-18 which is PDI,aknownmodulatorofsulfhydrylmodifications,asalsobeing
+knowntoenhancecoagulation.PS-independentmechanismsofTF apivotalregulatorofPStransport.
+decryptionhavealsobeenpostulated,suchasTFself-association,19 The present study analyzes PDI contribution to coagulation,
+associationwithlipidrafts,20-22andtheredoxswitchofanexposed using an in vitro EC model in whichTF was either expressed as
+disulfideinthemembraneproximaldomainofTF.23 yellowfluorescenceproteinTF(YFP-TF)orinducedbyinflamma-
+Proteindisulfideisomerase(PDI)isanoxidoreductase24local- tory mediators. Our data show that extracellular PDI could
+izedmainlyintheendoplasmicreticulum(ER),butalsoreported modulate coagulation, but surprisingly it acts as a negative
+onthecellsurfaceofvascularcells,suchasplatelets,monocytes, regulator. Surface PDI inhibition increased the PS exposure,
+and endothelial cells (ECs).24,25 On platelets, PDI influences whereasexogenousadditionofPDIenhancedtheaminophospho-
+coagulation by enhancing integrin-mediated platelet activation.26 lipid translocase activity. For the first time, we show that PDI
+SubmittedOctober16,2009;acceptedMay3,2010.Prepublishedonlineas The publication costs of this article were defrayed in part by page charge
+BloodFirstEditionpaper,May6,2010;DOI10.1182/blood-2009-10-249607. payment. Therefore, and solely to indicate this fact, this article is hereby
+marked‘‘advertisement’’inaccordancewith18USCsection1734.
+Theonlineversionofthisarticlecontainsadatasupplement. ©2010byTheAmericanSocietyofHematology
+(cid:1)
+BLOOD,12AUGUST2010 VOLUME116,NUMBER6 993
+Downloaded
+from
+http://ashpublications.org/blood/article-pdf/116/6/993/1460657/zh803210000993.pdf
+by
+guest
+on
+22
+May
+2025
+--- Page 2 ---
+(cid:1)
+994 POPESCUetal BLOOD,12AUGUST2010 VOLUME116,NUMBER6
+modulates the membrane phospholipid environment, which may TFandprothrombinaseactivityassays
+havemultipleimplications,bothforcoagulationandclearanceof
+TF procoagulant activity was measured on confluent monolayers by the
+apoptoticcells.
+2-stage Xa generation assay in the presence of inhibitory rabbit anti–TF
+pathwayinhibitorIgG(30(cid:3)g/mL).33ECsweretreatedfor30minuteswith
+anti-PDI, control IgG (10(cid:3)g/mL), or human recombinant PDI (hPDI;
+100nM) and/or ionomycin (5(cid:3)M) for 10 minutes, before the addition of
+Methods
+FVIIa (10nM) and excess substrate FX (100nM). Aliquots were taken
+duringa30-minuteincubationat37°C,FXagenerationwasquenchedwith
+Reagentsandcells
+ethylenediaminetetraaceticacid,andtheamountofFXawasmeasuredina
+Theantibodiesandreagentsusedinthisstudyaredetailedinsupplemental chromogenic assay.33 For prothrombinase assays, monolayers were
+data(availableontheBloodWebsite;seetheSupplementalMaterialslink treatedandthenincubatedwithFVa(50nM),FXa(5nM),andsubstrate
+atthetopoftheonlinearticle).Forthisstudy,weusedtheimmortalized prothrombin (0.5(cid:3)M) in HBS/Ca. The reaction was stopped after
+hybrid EC line EA.hy926 (gift from Dr Cora-Jean Edgell, University of 10 minutes with ethylenediaminetetraacetic acid, and the amount of
+NorthCarolina).Wehavepreviouslyreportedtheuseofthiscellmodelfor thrombinwasmeasuredwithSpectrozymeTH.
+analysisofTFpathwayinhibitor-dependentregulationofTFprocoagulant
+function.33CharacterizationofTFexpressionandactivityinthiscellular Insulinreductionassay
+modelisdetailedinsupplementaldataandsupplementalFigure1.Cells
+AntibodyinhibitionoftheenzymaticactivityofbovinePDIwasassessed
+were washed twice with HEPES-buffered saline (HBS; 10mM N-2-
+usinganinvitroinsulinreductionassay.36
+hydroxyethylpiperazine-N(cid:1)-2-ethanesulfonic acid, 137mM NaCl, 40mM
+KCl,20mMglucose,and0.5%bovineserumalbumin,pH7.4)beforeuse.
+Calciuminflux
+Unless otherwise noted, the assays were performed in HBS containing
+2mMCaCl
+2
+(HBS/Ca). ECswereloadedwith3(cid:3)MofeitherFluo-3orFluo-4-AMcalciumprobes
+inculturemediafor1hourandthenwashedtwicewithPBSanddetached
+with cell stripper. Residual ethylenediaminetetraacetic acid was washed,
+GenerationofECcelllinesstablyexpressingYFP-TFand/or
+andcellswereincubatedinHBS/CawithBD34anti-PDI,isotypecontrol,
+PDIshRNA
+or no monoclonal antibody (mAb) for 30 minutes at room temperature.
+GenerationandcharacterizationoftheYFP-TFchimeracontainingthe ChangesinMFIofthecalciumprobeweredetectedbyflowcytometryin
+monomeric yellow fluorescent protein34 (mYFP; gift from Dr Roger theFITCchannel.Aftercollectionof10000events,ionomycin(5(cid:3)M)was
+Tsien,UniversityofCalifornia,SanDiego)asN-terminaltagisdetailed addedfor10minutesandsamplesreanalyzedbyflow.
+under Supplemental data. Functional characterization of the YFP-TF
+chimera,transientlyorstablyexpressedinECs,isshowninsupplemen- AnnexinVdetectionofPSexposure
+tal Figure 2. ECs expressing low levels ofYFP-TF, renamedTF-ECs,
+EC monolayers on glass coverslips were incubated in HBS/Ca with
+wereusedinthisstudy.
+10(cid:3)g/mLBD34anti-PDI,isotypecontrol,ornoantibodyfor30minutes,
+For PDI silencing, we used PDI shRNAvectors specific for human
+or 5(cid:3)M ionomycin for 10 minutes at 37°C. Cells were incubated with
+P4HB/PDIA1(Origene).Fortransfection,weusedEffectene(QIAGEN).
+annexinV–FITCfor15minutesatroomtemperatureinthedark,washed,
+Parallel assays were run on nontransfected or control-transfected cells.
+fixed with 3% paraformaldehyde, and processed for imaging as for
+GeneticinwasusedtoselectECsstablyexpressinglowlevelsofYFP-TF,
+immunofluorescenceanalysis.
+whereaspuromycinwasusedforselectionofPDIshRNA-transfectedECs.
+Foranalysisofflippaseactivity,ECsweretreatedwith1(cid:3)Mthapsigar-
+gin (TG(cid:4)) or vehicle (TG(cid:5)) for 1 hour at 37°C in culture media
+Immunofluorescence supplemented with 2mM CaCl.After washing, cells were incubated for
+2
+30 minutes at 37°C with glutathione (GSH; 10(cid:3)M) or PDI (800nM)
+TheanalysiswascarriedoutonECsfixedwith3%paraformaldehydeinthe
+preincubatedfor30minuteswitheitherGSHorequimolarconcentrationof
+presence or absence of permeabilization with 0.1% Triton X-100.33,35 BD34anti-PDIinthepresenceofGSH.Cellswerewashedandlabeledwith
+Images were collected with a Nikon C1 confocal system on a Nikon
+annexinV–FITC.
+TE2000Umicroscope(NikonInstruments)asdescribed,33usingaPlanApo
+60(cid:2)NA1.2waterimmersionobjectivelensand/oraPlanApo20(cid:2)NA0.7
+AnalysisofPSdynamicsusingfluorescentNBD-PS
+dry objective lens. The acquisition software was EZ-C1 Version 3.6
+(Nikon). Mean fluorescence intensity (MFI), expressed in arbitrary units Flippase activity. For live cell imaging, ECs cultured in glass-bottom
+(AU),wasmeasuredonaminimumof50cellspergrouprandomlychosen
+dishes were preincubated with BD34 anti-PDI or isotype control for
+fromatleast5picturesforeachexperiment.
+30 minutes at 37°C in HBS/Ca. The fluorescence was recorded in
+time-lapsemicroscopy(4frames/minutefor30minutes)with1-oleoyl-2-{6-
+Flowcytometry [(7-nitro-2-1,3-benzooxadiazol-4-yl)amino]hexamoyl}-sn-glycero-3-phos-
+phoserine(NBD-PS;2(cid:3)Mfinalconcentration)addedafterthefifthframe.
+After detachment with cell stripper (Cellgro), ECs were washed with TheNBD-PSuptakeisrepresentedastheaverageMFIfromapproximately
+phosphate-buffered saline (PBS), fixed with 3% paraformaldehyde, and 20cellsasafunctionoftime.Forendpointanalysis,fluorescenceintensity
+permeabilizedwith0.1%TritonX-100inPBS.Approximately106intact measurementswereperformedonatleast80cellsrandomlychosenfrom
+and/orpermeabilizedECswereblockedwith5%donkeyseruminPBSand 10picturesfromeachexperiment.
+then stained for surface or total PDI with a rabbit polyclonal (Sigma- For flow cytometric analysis of flippase activity, we used the imper-
+Aldrich, 10(cid:3)g/mL) followed by donkey anti–rabbit immunoglobulin meantreducingagentsodiumdithionitetoquenchtheNBD-PSexposedon
+G–fluorescein isothiocyanate (IgG-FITC). Data were collected on a the cell surface.37,38 Approximately 106 cells, preincubated with either
+FACScanflowcytometerusingCellQuestsoftware(BDBiosciences). BD34 anti-PDI or isotype control, were incubated on ice with 2(cid:3)M
+NBD-PSfor2to5minutes.PSinternalizationwasinitiatedbywarmingthe
+cells to room temperature. During a 1-hour incubation, aliquots were
+Westernblot
+transferredtotesttubeseithercontainingornotcontaining25mMsodium
+Westernblotwasperformedessentiallyasdescribed,33usingchemilumines- dithioniteinHBS/Ca.ResidualMFIofNBD-PSinthepresence(F )or
+D
+centdetection(GEHealthcare).Densitometricanalysiswasperformedwith absence (F ) of dithionite was measured by flow cytometry, and the
+total
+ImageJsoftware1.42b(NIH). percentage of internalized NBD-PS was represented as the normalized
+Downloaded
+from
+http://ashpublications.org/blood/article-pdf/116/6/993/1460657/zh803210000993.pdf
+by
+guest
+on
+22
+May
+2025
+--- Page 3 ---
+(cid:1)
+BLOOD,12AUGUST2010 VOLUME116,NUMBER6 EXTRACELLULARPDIREGULATESPSEXPOSURE 995
+Figure 1. Low levels of PDI are expressed on the
+surfaceofECs.ConfocalanalysisofPDIimmunostain-
+ing was performed on nonpermeabilized (A) or Triton
+X-100-permeabilized(B)EA.hy926cellsandcompared
+withanirrelevantrabbitIgGorsecondaryantibodyalone.
+Scatter plot representation and statistical analysis
+(one-wayanalysisofvariance[ANOVA])ofMFIsofmore
+than50individualcellsperexperimentalconditionare
+shownontheright.(C)FlowcytometricanalysisofPDI
+immunostainingonsurfaceorTriton-permeabilizedECs,
+shownasMFI(cid:7)SEM.***P(cid:6).001,unpairedttest.
+F /F ratio.Incontrolexperiments,TritonX-100(0.1%)wasaddedtothe rinuclear accumulation consistent with an ER/secretory pathway
+D total
+dithionite group to allow quenching of internalized NBD-PS. Residual distribution. The PDI staining was higher under permeabilized
+F D /F total ratio in permeabilized samples was less than 5%. Analysis of conditions than surface only (1237(cid:7)42.68, n(cid:8)55, vs
+NBD-PCinternalizationwasperformedsimilarly. 234.3(cid:7)11.10,n(cid:8)61,fluorescencearbitraryunits,P(cid:6).001).
+Floppase activity. For live-cell imaging, ECs treated with BD34
+Weusedflowcytometry(Figure1C)toconfirmthemicroscopy
+anti-PDIorisotypecontrolIgGwereloadedfor20minuteswithNBD-PS,
+results in the EC population. The intensity of PDI staining was
+washed, and the initial MFI measurements performed in the absence of
+significantlyhigher(P(cid:6).001)thancontrolsunderbothnonperme-
+dithionite.Time-lapse(4frames/minutefor12minutes)changesinMFIfor
+20differentcellsweremeasured,withdithionite(25mM)addedafterthe abilized and permeabilized conditions (10.094(cid:7)0.199 vs
+ninthframe.Forbleachingcorrection,NBD-PSloadedECswerefixedwith 3.840(cid:7)0.073 AU, and 51.436(cid:7)3.382 vs 22.840(cid:7)1.151 AU,
+3%paraformaldehyde,andthelaser-inducedbleachingwasmeasuredinthe respectively).PDIstainingwashigherunderpermeabilizedcondi-
+absenceofdithioniteunderanidenticalcollectionprotocol.Forindividual tions compared with surface staining. These results confirm the
+cells,thecorrectedMFIateachtimepointwasnormalizedtotheaverage microscopydataandshowthatlowlevelsofPDIarepresentonthe
+MFImeasuredintheabsenceofdithionite(first9frames).Thechangesin surfaceofECs.
+normalized residual NBD-PS fluorescence over time, which inversely
+correlatewiththePS“flop,”arerepresented.Thirtyminutesfromthestart ExtracellularPDIinhibitionenhancescoagulation
+ofthetime-lapseprotocol,10differentfieldsperexperimentwerecollected
+for endpoint analysis. The PS flop is represented as the normalized IntheabsenceofspecificPDIinhibitors,39wetestedPDIcontribu-
+(F (cid:5)F )/F ratio. tiontocoagulationbyTF-dependentXagenerationinthepresence
+total D total
+of anti-PDI antibodies and compared their effects on coagulation
+Datacollection withpropercontrols.AsshowninFigure2A,the2mAbsusedat
+AllresultsarereportedasmeanplusorminusSDforactivityassaysand 10(cid:3)g/mL significantly enhanced the Xa generation on TF-EC,
+meanplusorminusSEMforimageanalysis.Differencesbetweengroups whereasthe2polyclonalantibodiesdidnot.InadditiontoRL-90
+wereanalyzedbytheunpairedttestor1-wayanalysisofvarianceusing mAb,areportedinhibitorofPDIenzymaticactivityinvitro40,41and
+Prism(GraphPad)andwereconsideredsignificantwhenPlessthan.05. invivo,14,29wefoundthatBD34mAbwasthemostpotentinhibitor
+Theexperimentswererepeatedatleast3times. in our screening. We used an insulin reduction assay to test the
+functional properties of BD34 mAb against purified bovine PDI
+(Figure 2B). In the presence of GSH, PDI reduces insulin
+Results disulfides,leadingtoaggregationofdenaturedinsulinandchanges
+inturbidity.GSHaloneisnotabletoreduceinsulin.Preincubation
+PDIdistributioninECs
+ofPDIwithequimolarconcentrationsofBD34mAbinhibitsPDI
+We analyzed the distribution of PDI in ECs using fluorescence reductase function and decreases insulin aggregation. In contrast,
+microscopy and flow cytometry. PDI was immunodetected on PDIpretreatmentwitheitheroneofthepolyclonalantibodiesdid
+nonpermeabilized or Triton X-100–treated cells with a rabbit notaffectinsulinaggregationandthusPDIreductaseactivity.We
+polyclonal anti-PDI. On nonpermeabilized cells, the anti-PDI observed some variability between different batches of antibody;
+staining was significantly higher (P(cid:6).001) than either an irrel- however, PDI inhibition by equimolar concentrations of BD34
+evant rabbit IgG or secondary-alone controls (Figure 1A). The mAbwasneverlessthan60%.Incomparison,RL-90inhibitionof
+surfacePDIstainingwaspunctuated,andcoalescentpatcheswere PDIactivitywasreportedlyapproximately25%to30%.41
+observedonmanycells,althoughthesignificanceofthisdistribu- Next, we sought to confirm these findings in ECs expressing
+tionpatternisyetunclear.PDIstaininginpermeabilizedcells,also endogenous TF in response to tumor necrosis factor (TNF). As
+significantly higher than controls (Figure 1B), exhibited a pe- showninFigure2C,PDIinhibitionwithBD34mAbsignificantly
+Downloaded
+from
+http://ashpublications.org/blood/article-pdf/116/6/993/1460657/zh803210000993.pdf
+by
+guest
+on 22
+May
+2025

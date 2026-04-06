@@ -1,0 +1,217 @@
+
+--- Page 1 ---
+Immunology 199481 296-302
+Role of N-terminal domain of histidine-rich glycoprotein in modulation
+of macrophage Fcy receptor-mediated phagocytosis
+N.-S. CHANG,* R. W. LEUt J. K. ANDERSONI & J. E. MOLE$ *Guthrie Research Institute,
+Laboratory Molecular Immunology, Guthrie Medical Center, Sayre, Pennsylvania, tThe Samuel Roberts Noble Foundation,
+of
+PO Box 2180, Ardmore, Oklahoma andJUniversity ofMassachusetts Medical Center, Department ofBiochemistry, Worcester,
+Massachusetts, U.S.A.
+SUMMARY
+A brief exposure of murine peritoneal inflammatory macrophages to plasma histidine-rich
+glycoprotein (HRG; 77,000-81,000 MW) for 1-2 hr increased Fcy receptor (FcyR) expression and
+phagocytic function in thesecells. However, acontinualculture ofthecellswithoutthepresenceof
+HRGforthenext 18-48hrresultedindown-regulationofFcyRexpressionandphagocyticfunction.
+Similarly, HRG decreased FcyRII expression in less differentiated human THP-1 monocytic cells
+duringtreatmentfor 18hr,asdeterminedbycellularELISAandmetaboliclabelling.Themolecular
+mechanism by which HRG regulates FcyR expression is unknown. However, at a relatively high
+concentration (> pg/ml), HRG altered the cellular metabolism by increasing cellular protein
+1
+synthesis but reducing protein secretion. These observations suggest a likely mechanism for the
+HRG-mediatedreductionofFcyRexpression. Adegraded HRG (40,000 MW)which possessed an
+identical N-terminal sequence as that ofthe native HRG was capable ofdecreasing macrophage
+FcyR expression and phagocytosis. The results indicate that the functional domain of HRG
+responsible forbinding to macrophages is localized to the N-terminal half.
+INTRODUCTION formation between T lymphocytes and autologous erythro-
+cytes,"'3 and restricts proliferation and interferon-y (IFN-y)
+Histidine-richglycoprotein(HRG)isasingle-chainpolypeptide
+production in T cells.'4 Furthermore, HRG modulates murine
+(77,000-81,000MW;507aminoacidresidues)withasubstantial
+peritoneal inflammatory macrophage Fcy receptor (FcyR)
+concentration(100-150yg/ml)inplasma. Biochemically, HRG
+expression and phagocytosis of antibody-opsonized sheep
+is characterized by an unusually high content ofproline and
+erythrocytes (EA).'5 HRG up-regulated macrophage FcyR
+histidine, whichcomprises higherthan 12% ofthe total amino
+expression and phagocytosis during aninitial pretreatment for
+acidsoftheprotein.'3Theprimarystructure ofHRGdeduced
+1-3hr,followedbydown-regulationwhenthepretreatmentwas
+fromthecDNAis showntopossess 12-tandemrepetitions ofa
+prolonged for up to 16-24 hr. In the present study, we have
+5-amino acid segment with a consensus sequence ofGly-His-
+further characterized HRG modulation of macrophage func-
+His-Pro-His (residue no. 330-389), which is referred to as the
+tionsandlocalizeditsfunctionaldomaintotheN-terminalhalf.
+histidine-richregion.'TheinvivofunctionofHRGhasnotbeen
+Modulation of cellular protein synthesis and/or secretion by
+welldefined.However,dueinparttoitshighlychargedhistidine
+HRG appears to be correlated with changes of macrophage
+region, HRGeffectivelybindsdivalentcations,4 heparin5-7 and
+FcyR expression and phagocytic function.
+heme.8 Additionally, HRG forms complexes with platelet
+thrombospondin,9 plasma plasminogen2 and S-protein (vitro-
+nectin).'0HRGregulatesthefunctionalefficiency ofthecoagu- MATERIALS AND METHODS
+lation/fibrinolysis system by interactions with heparin, plasmi-
+HRGpurification andgas-phase micro-sequencing
+nogen and probably other components. HRG also could Human or mouse plasma HRG was purified according to an
+modulateserumcomplementactivationofboththeclassicaland
+establishedprocedure,asdescribedpreviously.'5Thechromato-
+alternativepathways,inwhichithasbeenshowntointeractwith
+graphic purification steps included concanavalin A (Con A)-
+complement C8, C9 and Dand S-protein.'0 Sepharose4B, heparin-agarose and DEAE-Sephacel columns.
+In vitro studies have shown thatHRG inhibits auto-rosette The purified protein of 77,000-81,000 MW was subjected to
+amino-terminal gas-phase micro-sequencing (ABI 470A,
+Received 3August 1993;accepted 20October 1993. Applied Biosystems, Foster City, CA; and PI 2090, Porton
+Correspondence: DrN.-S.Chang,TheGuthrieResearchInstitute, Instruments, Tarzana, CA), and the determined partial
+Guthrie Square, Sayre, PA 18840, U.S.A. sequence(25residues)wasfoundtobeidenticaltothesequence
+296
+--- Page 2 ---
+Fcy receptor-mediatedphagocytosis 297
+deducedfromcDNA.
+'
+Additionally,adegradedHRGof40,000 weredetermined byscanningtheX-rayfilms usingtheGilford
+MW, which bound to DEAE-Sephacel and was eluted by a Responsespectrophotometer(CibaComingDiagnostics,Med-
+higher salt concentration than that of native HRG,'5 also field, MA). The amount ofprotein synthesized from control
+possessedanidentical amino-terminal sequence, asdetermined cells was regarded as 100%. Alternatively, newly synthesized
+by gas-phase micro-sequencing. The purified HRG prepara- proteins fromcelllysatesorculture supernatantswereprecipi-
+tionswere notcontaminatedwith bacterial lipopolysaccharide tated by 10% trichloroaceticacid(TCA), followed bywashing
+(LPS; <0-01 ng/ml), asdetermined byachromogenic Limulus thepellets three timeswith H20 and scintillation counting.
+amoebocyte lysate microassay (Whittaker, Walkersville, MO).
+HRG preparations were extensively dialysed against RPMI- FcyRIIexpression: cellularELISA andimmunoprecipitation
+1640medium priorto use in order to prevent possible interac- TodeterminetheeffectofHRGontheexpressionofmembrane
+tionbetween HRGandaminoacids,especiallywhen[35S]meth- typeIIFcyreceptor(FcyRII; CD32),'7THP-I cells(2x 106/ml)
+ionine was included in the metabolic labelling studies. wereseededonto96-wellmicrotitreplatesfor24hr,followedby
+treatingwithpurified humanHRG(40ng/ml-4jug/ml) for 16-
+Macrophage FcyR-mediatedphagocytosis 20hrinthepresenceorabsenceof10% FBS.Afterincubation,
+Photometric measurement ofmouse inflammatory peritoneal thecellswerefixedwith0-5% formaldehydeandthecell-surface
+macrophage FcyR-mediated bindingandphagocytosis ofanti- FcyRIIlevelsweremeasuredbyenzyme-linkedimmunosorbent
+body-conjugated sheep erythrocytes (EA) was performed as assay(ELISA). Theentireprocedurewasperformed according
+described previously.'5 6Briefly, inflammatory peritoneal mac- to the instructions ofthe Pierce ELISA kit (Pierce, Rockford,
+rophageswereharvested frommaleC3HeB/FeJ mice(Jackson IL). Both monoclonal antibodies against CD32 (AMAC,
+Laboratory, Bar Harbor, ME) with a 3-day prior intraperito- Westbrook,IL)andanti-mouseIgGantibodiesconjugatedwith
+nealinjection of2mlsterileparaffin oil. Macrophages (2x 106/ alkaline phosphatase(Pierce)wereutilized. TheeffectofHRG
+ml), suspended in endotoxin-free RPMI-1640 supplemented on the proliferation ofTHP-l cells after 24 hr treatment was
+with 200 mM L-glutamine, 25 mm HEPES and 50 pg/ml determined bystaining theviablecells withcrystal violet.'8
+gentamycin, were seeded in 96-well flat-bottomed microtitre The effect of HRG on FcyRII expression was also deter-
+plates(CorningGlassWorks, Corning, NY). Followingadher- mined by metabolic labelling. THP-1 cells (2x 106/ml) were
+ence for I hr at 370, the non-adherent cells were removed by treatedwithpurifiedhumanHRG(40ng/ml-4pg/ml)for 18hr
+washing with RPMI-1640. Macrophages were treated with in the presence or absence of 10% FBS. The cells were then
+nativeHRG,thedegradedHRG,ormediumalonefor24-48hr, washed with RPMI-1640 twice to remove HRG and labelled
+prior to exposure to EA formeasuring the efficiency ofFcyR- with [35S]methionine (100 pCi/106 cells) for 2 hr at 370 in
+mediated bindingand phagocytosis.'5"16Whereindicated, mac- methionine-serum-freeRPMI-1640(Sigma,StLouis,MO).The
+rophages were treated with HRG for 1-2 hr, followed by the cells were then washed once with cold RPMI-1640 and lysed
+removal ofHRG. Theculturewascontinued foran additional with 10mlofthelysisbufferasindicatedabove.Thecelllysates
+24hrwithout HRGpriortoconducting phagocyticassays. To werepreclearedfor I hrat40 byadding 1 mmphenylmethylsul-
+avoid interactions between HRG and serum proteins,2'9"0"5 phonylfluoride(PMSF,Sigma), 10,ug/mlaprotinin(Sigma)and
+macrophagesweretreatedwithpurifiedHRGunderserum-free 30y1ofproteinAagarosebeads(Pierce).Followingcentrifuga-
+conditions. More than 98% ofmacrophages remained viable tionat 1500gat40 for 15mintoremovethebeadsandcellular
+afterculturinginserum-freeconditionsfor48hr,asdetermined debris, FcyRII wasimmunoprecipitated byadding2p1 ofanti-
+by 5'Cr-release assays.'5 Quantification ofmacrophage FcyR- CD32monoclonalantibodies(1 ug/pl;AMACInc.,Westbrook,
+mediated phagocytosis ofEA was measured at405 nm for the ME)and 10y1ofproteinAagarosebeadstothepreclearedcell
+absorbance ofhaemoglobin using an MR580 microtitre plate lysates for rotating end-over-end at 40 for 4 hr. The protein
+reader(Dynatech, Alexandria, VA). Percentages ofphagocytic A-bound materials were washed three times with 5 ml of 10
+indices werecalculated as described elsewhere.'5"16 mM Tris-HCl, pH 8-0, containing 1 mm EDTA, 10 mM
+NaN3, 0-25% NP-40, 100 gM PMSF and 0-2 M NaCl, and
+Metabolic labelling released by heating at 1000 for 30 seconds in 100 p1 of0-06 M
+ToassesstheeffectofHRGoncellularproteinsynthesis,human Tris-HCl, pH 6-8, 0-1% glycerol, 2-0% SDS and 5%
+monocyticU937(ATCCno.CRL1593;AmericanTypeCulture JJ-mercaptoethanol. SDS PAGE was performed to analyse
+Collection, Rockville, MD), THP-l (ATCC no. TIB202), and FcyRII andthedriedgelwasexposedto anX-OMATARfilm
+mouse peritoneal macrophages (from C3HeB/FeJ), suspended at -70° for 1 week. HRG-mediated changes in FcyRII
+in methionine-free RPMI-1640 (Sigma) in the presence or expressionrelativetocontrolcellswereanalysedbyscanningthe
+absence of 10% fetal bovine serum (FBS), were treated with X-rayfilm.
+HRG for various indicated times at 370 in the presence of
+[35S]methionine (ICN, Costa Mesa, CA). Afterincubation, the
+RESULTS
+culture supernatants were harvested and the cells were lysed
+with
+10
+mlofalysisbuffer, 5mmTris-HC1,pH7-4,containing
+RegulationofFcyR-mediated phagocytosis
+0-02% NaN3, 10 mM EDTA, 5 mm iodoacetamide, 5 mM
+benzamidine, 0-15
+M
+NaCl, 0-05% Nonidet-40 (NP-40) and Previouslywereported thatfreshlyharvestedmouseperitoneal
+0-01% SDS. Onehundred-microlitrealiquotsofeachcelllysate inflammatory macrophages, whenpretreatedwithHRG under
+and supernatant was analysed twice by SDS-PAGE, and the serum-freeconditions for 1-2 hrat370,increasedtheirbinding
+dried gels were exposed to X-OMAT AR films (Kodak, andphagocyticefficiencyofEAcellsby 10-50%.'5Incontrast,a
+Rochester,NY)overnight.Thechangesinthelevelsofintracel- long-termpretreatmentofmacrophageswithHRGfor16-24hr
+lular or secreted proteins from HRG-treated and control cells resulted in down-regulation of FcyR-mediated EA binding/
+--- Page 3 ---
+298 N.-S. Chang et al.
+70- 70-
+60-
+60- T T "°'
+x 0) I ~ X 0 50 " I -
+-0 'C
+, 50- T T T *Su 40- 1,
+I %"% I i - I
+00 U ) 0) 30-
+Xo 40-
+0C.L
+T *
+0.r
+20-
+%I
+r
+T
+-------
+A -------------------
+30-1
+I
+10- vv
+200 , al _ S
+-500 0 500 1000 1500 2000 2500 3000 -500 0 500 1000 1500 2000 2500 3000
+HRG(ng/ml) HRG(ng/ml)
+Figure 1. EffectofmouseHRGonmacrophagephagocytosis. Freshly Figure 2. Reversible effect oflong-term pretreatment ofmacrophages
+harvestedmouseperitonealinflammatorymacrophageswerepretreated with HRG on phagocytic functions. Mouse peritoneal inflammatory
+withmouseHRG(312-5ng/ml-2-5 pg/ml)for 1 hr(A)or2hr(A)under macrophages were treated withpurified mouse HRG for24 hr(A) or
+serum-free conditions, followed by washing the monolayers with 48hr(0),followedbytestingtheirphagocyticefficiency.Additionally,
+RPMI-1640 and continuing the cell culture without HRG for an macrophages weretreatedwithHRG for24hr, followedbyremoving
+additional 24 hr. Macrophage FcyR-mediated phagocytosis was per- HRG and continuing thecell culture for an additional 24 hr priorto
+formed by adding 100-p1 aliquots of EA cells [sheep erythrocytes phagocytic assays (0). Each data point represents mean percentage
+conjugated with polyclonal IgG against sheep erythrocytes (1/5000 phagocyticindex+SD fromquadruplicateexperiments.
+dilution)]tothemacrophages, followedby I hrincubationat37°.The
+percentage of the phagocytic index was calculated as previously
+described.'5 Each data point represents mean percentage phagocytic peritoneal macrophages cultured in vitro for up to 48 hr (data
+index + SDfromquadruplicateexperiments. not shown). Compared with mouse plasma HRG, human
+plasma HRG was 10-20% less effective in reducing murine
+phagocytosisby40-90%. Asfurtherdeterminedinthisstudy,a
+macrophage FcyR-mediatedphagocytosis. Such reductionwas
+short-termexposure ofmacrophages to HRGwas sufficient to also reversible (data not shown).
+reducetheirphagocyticfunction. Forexample,pretreatmentof
+macrophages with HRG for 1-2 hr, followed by culturing the Localization ofHRG functionaldomain
+cellswithoutHRGforanadditional24hr,resultedinreduction
+ofFcyR-mediatedEAphagocytosis (Fig. 1). Atlowconcentra- The N-terminal sequence ofthe degraded HRG (40,000 MW)
+tions (less than 600 ng/ml), HRG decreased the phagocytic was identical to that ofthe native HRG, as determined by N-
+terminalgas-phasemicro-sequencing.ThedegradedHRGfrom
+functions in a linearly dose-dependent manner. However, by
+increasing the concentrations up to 2-5 ,ug/ml, the inhibitory
+mouseplasmawasshowntoreduceFcyR-mediatedEAphago-
+effectofHRGwaspartiallyreversed.PercentagesofEAbinding cytosis after treating macrophages for 16 hr in a dose-related
+to the HRG-pretreated macrophages at 40 for I hr were also manner (Fig. 4a). On a molar basis, the degraded HRG was
+approximately four-fold less effective in reducing macrophage
+reduced (data not shown). HRG was not cytotoxic to macro-
+phagocytosis than that ofnative HRG. Binding ofEA cells to
+phages and the reduction ofmacrophage phagocytic function
+was not due to cell death, as determined by 5"Cr-release assay.
+Thereductionofmacrophagephagocyticfunction byHRG 70
+was found to be reversible (Fig. 2). Forexample, macrophage
+FcyR-mediated phagocytosis was reduced by HRGafter24hr
+treatment, and the reduction was partially reversed when the I
+treatmentwasprolongedupto48hr. Moreover,bypretreating .xO 60-
+macrophageswithHRGfor24hr, followedbyremovingHRG C:
+and continuing the culture for another 24 hr, the FcyR-
+phagocyticfunctionwasalsopartiallyrestored,comparedtothe
+macrophage function after24 hr treatment (Fig. 2). CL 50-
+Thefreshlyharvestedperitonealinflammatorymacrophages 0-
+II
+werepreculturedinvitroat370for24-48hrpriortotestingtheir
+responsiveness to HRG. It was determined that the freshly
+h to ar u v p e - st o e r d d m o a w c n r - o r p e h g a u g l e a s ti a o f n te o r f 24 Fc h y r R i - n m c e u d l i t a ur t e ed co p u h l a d g s o t c il y l t r o e s s i p s o b n y d 40 -50 - 0 . 50 H 1 R 0 G 0 (ng/m 1 l 5 ) 0 200 250 300
+HRG after I and 24 hr treatment, respectively (Fig. 3). The Figure3.EffectofHRGonpreculturedmacrophages.Freshlyharvested
+percentages ofincreases in FcyR-dependent phagocytosiswere mouseperitonealmacrophageswerecultured24hrpriortoincubation
+comparable to the results obtained when the freshly harvested withmouse HRG for 1 hr(0) or 24 hr (0). Phagocytosis ofEA cells
+peritonealmacrophagesweredirectlytreatedwithHRGfor1-2 (sheep erythrocytes conjugated with 1/4000 diluted IgG) by macro-
+hr, followed by performingphagocyticassays.'5 Similarresults phages was then performed in quadruplicates by the standard pro-
+were obtained by testing the function of freshly harvested cedure.

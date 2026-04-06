@@ -1,0 +1,343 @@
+
+--- Page 1 ---
+PHAGOCYTES,GRANULOCYTES,ANDMYELOPOIESIS
+Histidine-rich glycoprotein is a novel plasma pattern recognition molecule that
+(cid:1)
+recruits IgG to facilitate necrotic cell clearance via Fc RI on phagocytes
+IvanK.H.Poon,1,2*MarkD.Hulett,1,2and*ChristopherR.Parish1
+1TheJohnCurtinSchoolofMedicalResearch,AustralianNationalUniversity,Canberra;and2DepartmentofBiochemistry,LaTrobeUniversity,Melbourne,
+Australia
+Undernormalphysiologicconditions,ne- immune systems. Recently, it has been potentiallyinteractwithanionicphospho-
+crotic cells resulting from tissue injury reported that HRG can bind strongly to lipidsexposedinnecroticcells.Further-
+arerapidlyremovedfromthecirculation cytoplasmic ligand(s) exposed in ne- more,theenhancedphagocytosisofne-
+andtissuesbyphagocytes,thusprevent- crotic cells to enhance clearance by crotic cells induced by HRG-IgG
+ingtheexposureofintracellularantigenic phagocytes.Herewedescribethemolecu- complexes triggers phagocytes to re-
+and immunostimulatory molecules that lar mechanisms underpinning this pro- leaseproinflammatorycytokinessuchas
+canaidthedevelopmentofautoimmune cess.AcomplexconsistingofbothHRG interleukin-8 and tumor necrosis factor.
+disease. Histidine-rich glycoprotein and immunoglobulin G (IgG) was found Thus, HRG has the unique property of
+(HRG),arelativelyabundantplasmagly- as necessary to aid necrotic cell uptake complexing with IgG and facilitating a
+coprotein, has a multidomain structure by monocytes, predominantly via an proinflammatoryinnateimmuneresponse
+thatcaninteractwithmanyligandsinclud- Fc(cid:1)RI-dependent mechanism. The find- topromotetheclearanceofnecroticcells.
+ing components of the fibrinolytic and ingsinthisstudyalsoshowthatHRGcan (Blood.2010;115:2473-2482)
+Introduction
+The immune system plays a vital role in distinguishing foreign tionofthecellmembrane.7Thelossofmembraneintegrityexposes
+pathogens/materialsfromhealthytissuestopreventtheinvasionof intracellularcontents,whichmayfunctionasadditional“eat-me”
+foreignsubstances.Itisalsoimportantfortheimmunesystemto signals to aid the removal of necrotic cells.8 Most importantly,
+discriminatehealthyviablecellsfromdying/deadcellsduringthe unlike the recognition of pathogens, apoptotic cell removal is
+course of development, tissue remodeling, and tissue injury to generally considered as nonimmunogenic and induces an anti-
+avoidthereleaseofintracellularmoleculesfromdying/deadcells inflammatoryresponseiftheappropriateclearancemechanismsare
+thatmaydamageneighboringcells.Professionalphagocytesofthe present.Incontrast,theuptakeofnecroticcellsisoftenassociated
+innate immune system use a broad range of germline-encoded with a proinflammatory response caused by the exposure of
+pattern recognition receptors and opsonins to specifically detect immunostimulatorymoleculesknownas“danger”signals.8,9There-
+pathogens/dying/deadcellsandaidtheirremovalviatheprocessof fore, it is critical for the innate immune system to efficiently
+phagocytosis.1,2 removeapoptoticandnecroticcellsfromthecirculationandtissues
+When viable cells undergo apoptosis in response to either topreventtheexposureofantigenicintracellularmoleculesaswell
+extrinsic or intrinsic mediators, a precise set of morphologic and as“danger”signalsthatcanpromotethedevelopmentofautoim-
+biochemicalchangesoccurs.3Toachievetheefficientclearanceof munediseasessuchassystemiclupuserythematosus.8,9
+dying cells, apoptotic cells release “come-get-me” signals (eg, While many of the intracellular “eat-me” signals of necrotic
+lysophosphatidylcholine) to recruit phagocytes to the site of cell cells are not well characterized, a growing number of pattern
+deathandexposeaspecificcombinationof“eat-me”and“don’t-eat- recognition molecules (PRMs) such as mannose-binding lectin
+me”signalstotriggerphagocytosis.4Typically,thelossofphospho- (MBL),Ficolin-2and-3,C-reactiveprotein(CRP),serumamyloid
+lipidasymmetrybytheplasmamembraneduringtheearlystagesof protein,andcomponentsoftheclassicalcomplementpathwayhave
+apoptosis can lead to the exposure of phosphatidylserine (PS), beenimplicatedintheclearanceofnecroticcells.10-16Inadditionto
+which can function as an “eat-me” signal to aid the uptake of these PRMs, histidine-rich glycoprotein (HRG), a member of the
+apoptotic cells via a diverse range of phagocytic receptors and cystatinsupergenefamily,hasbeendemonstratedrecentlytoplay
+opsoninssuchasTim-1and-4,BAI1,andscavengerreceptors,as an important role in the phagocytosis of late apoptotic17 and
+well as the opsonin (cid:2)-glycoproteinI ((cid:2) GPI).4,5 However, when necroticcells.18
+2 2
+apoptoticcellspersistduetoanoverloadofdyingcellsand/oran HRGisanabundant((cid:3)75-kDa)multifunctionalproteinthatis
+impairmentinphagocytosis,earlyapoptoticcellswillprogressinto presentintheplasmaofmanyvertebrates.19HRGhasamultido-
+late apoptotic and secondary necrotic cells, which possess more main structure that allows the molecule to interact with multiple
+permeable cell membranes.6 Similarly, generation of primary ligands including haem, Zn2(cid:4), heparin, heparan sulfate (HS),
+necroticcellsbyextremetraumacanalsoresultinthepermeabiliza- plasminogen, fibrinogen, thrombospondin, immunoglobulin G
+SubmittedJuly20,2009;acceptedDecember18,2009.Prepublishedonlineas The publication costs of this article were defrayed in part by page charge
+BloodFirstEditionpaper,January13,2010;DOI10.1182/blood-2009-07-234013. payment. Therefore, and solely to indicate this fact, this article is hereby
+marked‘‘advertisement’’inaccordancewith18USCsection1734.
+*M.D.H.andC.R.P.contributedequallytothisstudy.
+Theonlineversionofthisarticlecontainsadatasupplement. ©2010byTheAmericanSocietyofHematology
+(cid:1)
+BLOOD,25MARCH2010 VOLUME115,NUMBER12 2473
+Downloaded
+from
+http://ashpublications.org/blood/article-pdf/115/12/2473/1487019/zh801210002473.pdf
+by
+guest
+on
+24
+March
+2026
+--- Page 2 ---
+(cid:1)
+2474 POONetal BLOOD,25MARCH2010 VOLUME115,NUMBER12
+(IgG), C1q, and Fc(cid:1) receptor (Fc(cid:1)R).19 The ability of HRG to IgGHRG(thecopurifiedIgGisolatedfromHRGP)basedoninstructionsfrom
+interact with various ligands simultaneously has suggested that themanufacturer.
+HRG can act as an adaptor molecule and regulate numerous
+Theamountof(cid:6)and(cid:8)L-chainspresentinpoolednormalhumanIgG
+andIgGHRGwasestimatedbydensitometryanalysisofWesternblots,using
+biologic processes such as immune complex/permeabilized cell/
+an anti–human Ig (cid:6)-chain mAb (KP-53) and an anti–human Ig (cid:8)-chain
+pathogenclearance,angiogenesis,celladhesion,coagulation,and
+mAb (HP-6054; Sigma-Aldrich), respectively. Human IgG4(cid:6) and IgG4(cid:8)
+fibrinolysis.19,20Inthisstudy,themolecularcomponentsinvolved
+myelomaproteins(Calbiochem)wereusedtoconstructastandardcurve.
+inHRG-mediatednecroticcelluptakehavebeencharacterizedin
+detail,withHRG-IgGcomplex–mediatedphagocytosisofnecrotic
+cellsshowntoresultinthereleaseofproinflammatorycytokinesby ELISA
+monocytes. ELISAs were performed according to a previously described method,21
+withtheexceptionthatphospholipidsweredilutedinethanolandincubated
+atroomtemperaturefor16hourstoallowevaporationoftheethanolbefore
+Methods blockingwithPBS/3%BSA.
+Reagents
+Lipid-coatedmembranestrip–basedbindingassay
+An N-terminal domain–specific anti–human HRG mAb (HRG-4) was
+provided by AGEN. Mouse anti–human Fc(cid:1)RI mAb (10.1) was from HRGbindingtoPIPStripsandSphingoStrips(EchelonBiosciences)was
+eBioscience. Mouse anti–human Fc(cid:1)RIIA mAb (IV.3) and anti–human performedaccordingtothemanufacturer’sinstructions.Membrane-bound
+Fc(cid:1)RIIAmAb(8.26)wereagiftfromDrBruceWinesandProfessorMark HRG was detected by probing the membrane strips with an anti–human
+HRG mAb (HRG-4), followed by a sheep anti–mouse Ig-HRP Ab.
+Hogarth(BurnetInstitute,Melbourne,Australia).Horseradishperoxidase
+Membrane-bound HRP was detected by chemiluminescence using en-
+(HRP)–conjugatedsheepanti–mouseIg,fluoresceinisothiocyanate(FITC)–
+conjugated sheep F(ab(cid:5)) anti–mouse Ig, and phycoerythrin (PE)– hancedchemiluminescencedetectionreagents(GEHealthcare).
+2
+conjugatedsheepF(ab(cid:5)) anti–mouseIgAbswerepurchasedfromChemi-
+2
+con.HS,hemin,ovalbumin(OVA),IgG1(cid:6)andIgG2(cid:6)myelomaproteins,
+Immunofluorescenceflowcytometry
+normal human IgG, cytochalasin-D (Cyto-D), Triton X-100, cardiolipin,
+and bovine serum albumin (BSA) were purchased from Sigma-Aldrich. Viableandnecroticcellswereanalyzedforproteinbindingbyimmunoflu-
+DNaseI was from Roche Diagnostics. Sulfatide, phosphatidylinositol orescenceflowcytometryaspreviouslydescribed.18Cell-boundHRGand
+(PtdIns),andPtdIns(4)PwerepurchasedfromAvanti. IgG were detected using an anti–human HRG mAb (HRG-4) or rabbit
+anti–humanIgG-PE(Sigma-Aldrich),respectively.Cellswereresuspended
+Celllines
+inPBS/0.1%BSAcontaining1(cid:7)g/mLHoechst33258(Calbiochem)and
+immediately analyzed by flow cytometry using a LSR1 Flow Cytometer
+JurkatT,THP-1,andEL4celllineswereculturedinRPMI-1640medium andCellQuestProsoftware(BDBiosciences).
+(Invitrogen). MS cells were cultured in DMEM medium (Invitrogen)
+supplementedwith3.2(cid:7)Mmethotrexate(Sigma-Aldrich).Theglycosami-
+noglycan(GAG)–deficientChinesehamsterovary(CHO)cellline(pgsA- CLSM
+745) was cultured in 50% DMEM and 50% Ham nutrient mixture F-12
+ViableandnecroticcellswerestainedforHRGandIgGasdescribedabove
+(Invitrogen). All culture media were supplemented with 10% fetal calf
+for immunofluorescence flow cytometry. Cells were mounted onto glass
+serum,5mML-glutamine,and30(cid:7)g/mLpenicillinG,50(cid:7)g/mLstreptomy-
+microscope slides and imaged with confocal laser scanning microscopy
+cinsulfate,and50(cid:7)g/mLneomycinsulfate.Celllineswereincubatedat
+(CLSM)usingaNikonEclipseTE300confocalmicroscopewithaNikon
+37°Cinahumidifiedatmospherecontaining5%CO.
+2 SuperHighPressureMercuryLamppowersupply(Nikon)andaRadiance
+2000LaserScanningSystem(Bio-Rad).
+Purificationofprimaryhumanmonocytes
+CD14MicroBeads(MiltenyiBiotec)wereusedforthepositiveselectionof
+Phagocytosisassay
+humanmonocytesfromperipheralbloodmononuclearcellsaccordingto
+themanufacturer’sinstructions. Phagocytes(THP-1cellsandprimaryhumanmonocytes)andJurkatTcells
+werelabeledwithPKH26(Sigma-Aldrich)andcarboxy-fluoresceindiac-
+Proteinpurification,conjugation,andanalysis etatesuccinimidylester(CFSE;MolecularProbes),respectively,according
+to the manufacturer’s instructions. CFSE-labeled Jurkat Tcells were
+Plasma-derivedHRG(HRGP)waspurifiedfromhumanplasmaaccording
+induced into necrosis by exposure to hyperthermic conditions (56°C,
+toapreviouslydescribedmethod.21,22EndoTrapredcolumn(ProfosAG) 30minutes). The phagocytosis assay was performed immediately under
+wasusedtoremovetracesofendotoxinpresentinHRGPaccordingtothe serum-free conditions by incubating PKH26-labeled phagocytes with
+manufacturer’sinstructions.AHiTrapProteinGcolumn(GEHealthcare)
+CFSE-labelednecroticJurkatTcellsatacellratioofapproximately1:10to
+was used to affinity purify human IgG according to the manufacturer’s
+1:20.Sampleswerethenincubatedfor60minutesat37°Cinahumidified
+instructions.PurifiedproteinswerebiotinylatedusingEZ-LinkSulfo-NHS-
+atmospherecontaining5%CO.Sampleswereimmediatelyplacedonice
+LC-Biotin(PierceBiotechnology)asrecommendedbythemanufacturer. 2
+and analyzed by flow cytometry using an LSR1 Flow Cytometer and
+Purifiedproteinswereanalyzedbysodiumdodecylsulfate–polyacrylamide
+CellQuestProsoftware(BDBiosciences).Percentageofphagocytosiswas
+gel electrophoresis (SDS-PAGE) and Western blotting as previously
+determinedasthepercentageofPKH26-positivephagocyticcellsthathad
+described.21CommassieBrilliantBlue(Sigma-Aldrich)andsilverstaining
+ingestedCFSE-positivenecroticJurkatTcells.
+(Invitrogen) of gels were performed according to the manufacturer’s
+instructions.
+Humaninflammatorycytokinecytometricbeadarray(CBA)
+QuantificationofhumanIgheavy(H)–andlight(L)–chain assay
+subclasses
+CytokinesecretionbyphagocyteswasmeasuredusingaBDCBAhuman
+AhumanIgGsubclassprofileenzyme-linkedimmunosorbentassay(ELISA) inflammationkit(BDBiosciences)accordingtothemanufacturer’sinstruc-
+kit (Zymed Laboratories) was used to estimate the amount of different tions. Samples were analyzed by flow cytometry using a LSR1 Flow
+human Ig H-chain subclasses present in pooled normal human IgG and CytometerandFCAPArraySoftware(BDBiosciences).
+Downloaded
+from
+http://ashpublications.org/blood/article-pdf/115/12/2473/1487019/zh801210002473.pdf
+by
+guest
+on
+24
+March
+2026
+--- Page 3 ---
+A
+B
+Anti-HRG
+Anti-IgG
+H-chain
+IgG(Figure1D).Collectively,theseresultsindicatethataspecific
+Results subclass of IgG, namely IgG2(cid:6), copurifies with HRGP, implying
+thattheinteractionbetweenHRGandIgGHRGdependsontheH-
+HumanIgG2(cid:2)preferentiallycopurifieswithHRGP andL-chaincompositionoftheIgG.
+To examine further the interaction between HRG and the
+HumanHRGhasbeenshowntobindstronglytohumanIgG23,24
+copurified IgG, direct binding assays were performed by ELISA.
+andimmunecomplexes.24-26Therefore,thepurityofHRGPwas
+Interestingly, HRGPID preferentially bound more to IgGHRG than
+first examined before experiments involving cells expressing
+purified IgG2(cid:6) and IgG1(cid:6) myeloma proteins (Figure 1E). These
+Fc(cid:1)R. It was found by Western blotting that a relatively small
+results suggest that the interaction between HRGPID and IgGHRG
+amount of IgG was present in plasma-derived HRG (HRGP),
+may also depend on other factors such as the antigen binding
+which could be removed from HRGP via Protein G column
+propertiesorglycosylationstateofIgGHRG,ratherthansimplythe
+absorption to yield IgG-depleted HRGP (HRGPID) preparations
+H-andL-chaincompositionofIgGHRG.Furthermore,thepresence
+(Figure 1A-B). To further characterize the copurified IgG
+ofHRGligands,suchasHSandhemin,markedlyreducedHRGPID
+isolated from HRGP (termed IgGHRG), IgGHRG was eluted from
+bindingtoIgGHRG(Figure1F),suggestingthatligandbindingcan
+the Protein G column and found to be essentially free of HRG
+affecttheinteractionofHRGPIDwithIgGHRG.
+(Figure 1B). The purity of HRGPID and IgGHRG was also
+analyzedbySDS-PAGEandCoomassieBrilliantBlueorsilver HRGtethersIgGtonecroticbutnotviablecells
+staining as well as byWestern blotting of biotinylated samples
+ofeachpreparation(supplementalFigure1,availableonlineon Based on the observation that IgG2(cid:6) preferentially copurifies
+the Blood website; see the Supplemental Materials link at the withHRGP,theimportanceofthiscopurifiedIgGinpreviously
+top of the online article). The amount of IgG present in HRGP reported functions of HRGP was investigated. HRG has been
+was estimated to be approximately 1% to 4% of HRGP (wt/wt, shown recently to bind strongly to permeabilized apoptotic17
+3differentpreparationsofHRGPisolatedfromdifferentpooled and necrotic cells,18 and plays a vital role in dying/dead cell
+plasma samples), based on densitometry analysis of Western removal by phagocytes. To examine whether the presence of
+blotsforhumanIgGH-chaincontent(datanotshown). IgGinHRGPpreparationscaninfluencethebindingofHRGto
+BecauseHRGwaspreviouslyreportedtobindpreferentiallyto viable and necrotic cells, Jurkat Tcells were induced to be
+humanIgGmyelomaproteinscontainingspecificH-andL-chain necrotic by exposure to hyperthermic conditions. The necrotic
+subclasses,23 the H- and L-chain composition of IgGHRG was nature of the heat-killed Jurkat Tcells was validated by flow
+further investigated. IgGHRG preparations were found to contain cytometry on the basis of increased cell granularity (data not
+predominantlyIgG2(84.4%)andsomeIgG1(12.7%),whichisin shown), as well as the ability to take up the DNAbinding dye
+striking contrast to the proportion of IgG subclasses present in Hoechst 33258 and the exposure of PS, detected via annexin
+pooled normal human IgG preparations in which IgG1 predomi- V–PEstaining(Figure2A).HRGinboththeHRGPandHRGPID
+nates (Figure 1C). Furthermore, IgGHRG preparations also had a preparations(100(cid:7)g/mL)boundstronglyandtoasimilarextent
+higherproportionof(cid:6)L-chainsto(cid:8)L-chainsthannormalhuman tonecroticcells,bindingbeing3-to4-foldhigherthantoviable
+DIPGRH GRHGgI
+Western blot
+κ4GgI
+Anti-IgG
+H-chain
+PGRH
+Western blot
+100
+90
+80
+70
+60
+50 Normal human IgG Co-purified IgG 40
+30
+20
+10
+0
+IgG1 IgG2 IgG3 IgG4
+egatnecreP
+κand λL-chain content
+κ: λ
+Normal human IgG 3.16 :1
+IgGHRG 7.33 : 1
+1
+0.9
+0.8
+0.7
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0
+0 2 4 6 8 10
+Normal
+human
+IgG
+IgGHRG
+IgG1 IgG2 IgG3 IgG4
+)mn
+504(
+ecnabrosbA
+IgGHRG
+IgG2κ
+IgG1κ
+HRGPID(µg/mL)
+C
+F
+0.7
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0
+lm/gu
+0
+lm/gu
+20.0
+lm/gu
+2.0
+lm/gu
+2
+lm/gu
+02
+0.8
+0.7
+0.6
+0.5 0.4
+0.3
+0.2
+0.1
+0
+)mn
+504(
+ecnabrosbA
+lm/gu
+0
+lm/gu
+20.0
+lm/gu
+2.0
+lm/gu
+2
+lm/gu
+02
+HRGPIDbinding to IgGHRG
+0 20.0 2.0 2 02 0 10.0 1.0 1 01
+(cid:1)
+BLOOD,25MARCH2010 VOLUME115,NUMBER12 HRG-IgGCOMPLEXESAIDNECROTICCELLREMOVAL 2475
+Figure1.AspecificsubclassofIgGcopurifiesandinteracts D withhumanHRGP.(A)WesternblotanalysisoftheIgGcontent
+ofhumanHRGP(400ng),withahumanIgG4(cid:6)myeloma(20ng)
+beingincludedasapositivecontrol.(B)PresenceofHRGand
+IgG in preparations of HRGPID (0.5(cid:7)g) and copurified IgG
+isolatedfromHRGP(IgGHRG;0.5(cid:7)g)asdeterminedbyWestern
+blot analysis. (C) Analysis of the proportion of different IgG
+subclasses present in IgGHRG and pooled normal human IgG E
+preparations as determined by human IgG subclass specific
+ELISA.(D)Comparisonoftherelativeamountof(cid:6)and(cid:8)L-chains
+presentinpoolednormalhumanIgGandIgGHRGasdetermined
+bydensitometryanalysisof(cid:6)and(cid:8)L-chainsonWesternblots.
+(E)AnalysisoftheabilityofHRGPIDtobindtodifferentimmobi-
+lized IgG preparations by ELISA using wells precoated with
+2(cid:7)g/mLIgGHRG,humanIgG2(cid:6)orhumanIgG1(cid:6)myelomapro-
+teins.(F)Effectofheparansulfate(HS)andheminonHRGPID
+bindingtoimmobilizedIgGHRG,asmeasuredbyELISA,withwells
+being precoated with 2(cid:7)g/mL IgGHRG and then analyzed for
+HRGPID(2(cid:7)g/mL)bindingunderthedifferentconditions.Error
+barsinpanelsEandFrepresentSEM(n(cid:9)3).
+HS (µg/mL) Hemin (µg/mL)
+Downloaded
+from
+http://ashpublications.org/blood/article-pdf/115/12/2473/1487019/zh801210002473.pdf
+by
+guest
+on
+24
+March
+2026

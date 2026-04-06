@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "origin": "https://wappass.baidu.com/static/captcha/tuxing_v2.html?&logid=15651081849220635396&ak=c27bbc89afca0463650ac9bde68ebe06&backurl=https%3A%2F%2Fwww.baidu.com%2Fs%3Fie%3Dutf-8%26f%3D8%26rsv_bp%3D1%26rsv_idx%3D1%26tn%3Dbaidu%26wd%3DAI%2520agents%25202026%26fenlei%3D256%26rsv_pq%3D0xdf37ec9100010642%26rsv_t%3D1491br5mgeuliElwPR1ehPiJhuQC0n9OyhRGQwYODQwVUmL7Zz06H0iIQ1S1%26rqlang%3Den%26rsv_dl%3Dtb%26rsv_enter%3D1%26rsv_sug3%3D1%26rsv_btype%3Di%26rsv_jmp%3Dfail&ext=x9G9QDmMXq%2FNo87gjGO0P5r07ilxbnPLyf3BNpswRK2xS4CEhQa12Q7nS%2FbwHL39g1T9i%2F9aWxTqDk%2BHyX%2BPs%2FyB5b5vE0OYkixk84KXtGZIIB7URDciwb4Wfa7oJDxfSCAe1EQ3IsG%2BFn2u6CQ8X7jMuv5QHcgByxWFMMGA%2F9JIIB7URDciwb4Wfa7oJDxfSCAe1EQ3IsG%2BFn2u6CQ8X6owjmedDREkZO4zOaCthwE%3D&signature=2383fb1843d906363280a5ed6055f957&timestamp=1775380332",
+    "refs": {
+      "e1": {
+        "name": "意见反馈",
+        "role": "link"
+      },
+      "e2": {
+        "name": "",
+        "role": "generic"
+      }
+    },
+    "snapshot": "- link \"意见反馈\" [ref=e1]\n- generic \"|刷新\" [ref=e2] clickable [cursor:pointer]"
+  },
+  "error": null
+}

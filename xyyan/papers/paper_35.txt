@@ -1,0 +1,357 @@
+
+--- Page 1 ---
+Histidine-Rich Glycoprotein: A Possible
+Modulator of Coagulation and Fibrinolysis
+Sadao Wakabayashi, D.Sc.,1 and Takehiko Koide, D.Sc.1
+ABSTRACT
+Histidine-rich glycoprotein (HRG) is one of the major plasma proteins and
+thoughttofunctioninbloodcoagulation,fibrinolysis,andinnateimmunesystems.The
+aminoacidsequenceofHRGrevealedamultidomainstructureconsistingofcystatin-like
+domains 1 and 2, a Pro-rich domain 1, a His-rich domain, a Pro-rich domain 2, and a
+C-terminal domain. Broad ligand-binding properties of HRG are involved in the
+multivalent functions of HRG. Among various functions of HRG, its interactions
+with heparin/heparansulfate, fibrinogen, andplasminogenarethoughttobe intimately
+related to its roles in the coagulation and fibrinolytic systems. Recent studies on these
+topics are mainly reviewed in this article. The newly disclosed abilities of HRG in
+angiogenesis, its antibacterial effect, its activation of T-cell lines in cooperation with
+ConcanavalinA,andtheidentificationofaputativereceptorforHRGonTcelllinesare
+also described.
+KEYWORDS:Histidine-richglycoprotein,HRG,coagulation,fibrinolysis
+A lmost40yearshaspassedsincethediscoveryof bosis.7 However, subsequent studies could not establish
+histidine-richglycoprotein(HRG),butitsprecisephys- acausalrelationshipbetweentheelevatedplasmalevelof
+iologicalfunctionstillremainsenigmatic.HRGwasfirst HRG and thrombophilia.8 Paradoxically, HRG defi-
+isolatedasoneoffourserumproteinsadsorbedtightlyto ciencies in thrombotic patients were also reported,9–11
+carboxymethyl-cellulose.1 It has a very high content of and the function of HRG in the blood coagulation
+histidine and thus was named ‘‘histidine-rich 3.8S-a - systembecameobscure.Inaddition,phenotypicanalyses
+2
+glycoprotein.’’ From the late 1970s to the 1980s, many of the HRG-knockout mice could not confirm a tight
+properties of HRG were reported. The interactions of relationshipbetweenplasmaHRGandhemostaticabil-
+HRG with various molecules such as divalent metal ities.12 Thereafter, the major research focus on HRG
+ions,2 plasminogen,3 fibrinogen,4 and glycosaminogly- shifted to its possible functions in angiogenesis,13 anti-
+canssuchasheparinorheparansulfate5,6werereported, bacterial,14 and immunological systems. This review
+and HRG was thought to function as a modulator summarizes recent progress concerning studies on the
+moleculeofbloodcoagulationandfibrinolysis.Elevated function of HRG in hemostasis and fibrinolysis, and
+plasma levels of HRG in patients with thrombotic topics in the immunological or other fields are briefly
+disorders had been reported, and high plasma HRG described. Readers interested in these fields are advised
+levels were once assumed to be a risk factor for throm- to consult with recent reviews.15,16
+1Department of Life Science, Graduate School of Life Science, MarcelLevi,M.D.,Ph.D.,andJoostC.M.Meijers,Ph.D.
+UniversityofHyogo,HarimaScienceGardenCity,Hyogo,Japan. SeminThrombHemost2011;37:389–394.Copyright#2011by
+Addressforcorrespondenceandreprintrequests:TakehikoKoide, ThiemeMedicalPublishers,Inc.,333SeventhAvenue,NewYork,NY
+D.Sc.,Professor,DepartmentofLifeScience,GraduateSchoolofLife 10001,USA.Tel:+1(212)584-4662.
+Science,University ofHyogo,Harima ScienceGardenCity, Hyogo DOI:http://dx.doi.org/10.1055/s-0031-1276588.
+678-1297,Japan(e-mail:koide@sci.u-hyogo.ac.jp). ISSN0094-6176.
+ForgottenFactorsinThrombosisandHemostasis;GuestEditors,
+389
+.lairetam
+dethgirypoC
+.ytisrevinU
+sregtuR
+:yb
+dedaolnwoD
+--- Page 2 ---
+390 SEMINARSINTHROMBOSISANDHEMOSTASIS/VOLUME37,NUMBER4 2011
+STRUCTURE OFHISTIDINE-RICH rat genome, two HRG genes are closely located on
+GLYCOPROTEIN 11q23. The HRG gene is probably derived from the
+Theaminoacidsequenceofhuman HRG wasdeduced ancestral cystatin gene by multiple gene duplications in
+from the nucleotide sequence of its cDNA.17 The total this regionaspredicted from these genomic structures.
+number of amino acids in mature human HRG is 507
+and the number of His residues is 66 (13%). It has five
+potential carbohydrate attachment sites including one FUNCTIONSIN COAGULATION
+Asn-Asp-Cys sequence at position 69. The most re- ANDHEMOSTASIS
+markable feature of human HRG is its internal repeat
+structure, that is, two cystatin-like domains at the N- Changesin the Plasma Level Related to
+terminalregion,aHis-richdomainthatisflankedbytwo Physiological and Pathological States
+Pro-rich domains, and a C-terminal domain. The His- Human HRG is present in plasma at relatively high
+rich domain that contains about a half of the His concentrations (100 to 150 mg/L).1,23,24 HRG mRNA
+residues in HRG (32 of 66) is arranged in 12 repeats was detected in cultured rat, monkey, and human hep-
+of a consensus Gly-His-His-Pro-His sequence and in- atocytes, and further studies on the production of
+duces a conformational change in the whole molecule mRNArevealedthattheliveristhesolesourceofplasma
+upon chelating to metal ions, especially to Zn2þ. The HRG,25 although HRG is also found in platelets,
+importance of this conformational change is discussed megakaryocytes,26 colostrum, and milk.27 HRG is
+later. The N-terminal 229 residues constitute two cys- thought to be taken up from plasma because there is
+tatin-likedomains,andconsequently,HRGisclassified no positive evidence that cells other than liver paren-
+in the cystatin superfamily.18 Besides human HRG, chymal cells produce mRNA for HRG. The plasma
+HRGs have been isolated from plasmas of several HRG level is low in the neonatal stage and gradually
+mammalian species including bovine, mouse, rat, and increases with age.23 Serum HRG decreases during
+rabbit.EachoftheseHRGpreparationsarecomposedof pregnancy and with a low dose of oral contraceptives
+(cid:1)500 amino acid residues and exhibit a molecular containing levonorgestrel or lynestrenol,28 and it is
+weight of (cid:1)70,000, which includes one or more carbo- assumedthatestrogensareresponsibleforthesechanges.
+hydratemoieties.Interestingly,twomolecularspeciesof TheHRGlevelinplasmaisreducedineitheradvanced
+HRG were obtained from rat plasma.19 The gross liver cirrhosis,29 sepsis, or in the acute phase.30
+structures included five intramolecular disulfide bonds
+(twowithincystatindomain1,oneincystatindomain2,
+onebetweencystatindomain1andC-terminaldomain, KnockoutMouse
+andonebetweencystatindomain2andPro-richdomain ToelucidatethephysiologicalfunctionofHRG,HRG-
+2), which are highly conserved among mammalian knockout mice were produced and their hemostatic
+HRGs. These disulfide bonds keep the molecule from factors analyzed.12 These mice were viable and fertile.
+dispersion upon proteolytic digestion. However, the Therewerenoappreciableabnormalitiesintheirhemo-
+carbohydrate attachment sites are not well conserved static components except for the absence of HRG in
+amongmammalianHRGs.Itisparticularlynoteworthy theirblood.ThefibrinogenlevelsinfemaleHrg(cid:2)/(cid:2)mice
+that chicken HRG is fairly different from mammalian were somewhat higher (135%), and the number of
+HRG.Itiscomposedof721aminoacidresiduesandits monocytes in Hrg(cid:2)/(cid:2) mice were significantly higher
+molecular weight is (cid:1)100,000, including N- and O- (252%) than those of their wild-type littermates. Also,
+linked carbohydrate chains.Italso hastwocystatin-like some differences in blood tests were noted. The pro-
+and C-terminal domains homologous to mammalian thrombin time was shorter in Hrg(cid:2)/(cid:2) mice than in
+HRGs, but the central portion is composed of three Hrgþ/(cid:2) and Hrgþ/þ mice. Bleeding time after tail tip
+His/Pro-richregionsandtwoPro-richregionsinsteadof amputationwasshorterinHrg(cid:2)/(cid:2)micethaninHrgþ/þ
+two Pro-rich regions and one His-rich region found in mice,andthespontaneousfibrinolyticactivityinclotted
+mammalian HRG.20 bloodwashigherinHrg(cid:2)/(cid:2)micethaninHrgþ/þmice.
+The human HRG gene is (cid:1)15.5 kb long and Thesedifferencesmaynotposeproblemsinthelifeofa
+consistsof7exonsand6introns.21Eachofthecystatin- healthyHRG-deficientmousebutmayaffectthefateof
+like domains is encoded by three exons similar to those mice under some abnormal orpathological condition.
+ofothermembersofthecystatinsuperfamily;theentire
+C-terminal half of the HRG molecule is encoded by a
+single large exon. Following the determination of its Interaction with Heparin and Heparan Sulfate
+complete genome sequence, the precise location of the Since the first report on a high degree of sequence
+HRG gene was assigned on 3q27,22 proximal to the homology between the N-terminal regions of HRG
+genesforothermembersofthecystatinsuperfamilysuch and antithrombin III (currently, antithrombin [AT])
+as a -HS glycoprotein, fetuin B, and kininogen. In the wheretheputativeheparin-bindingsiteofATislocated,5
+2
+.lairetam
+dethgirypoC
+.ytisrevinU
+sregtuR
+:yb
+dedaolnwoD
+--- Page 3 ---
+HISTIDINE-RICHGLYCOPROTEIN/WAKABAYASHI,KOIDE 391
+theinteractionbetweenheparinandHRGhasbeenwell dependentmanner,andthedissociationconstantwas6.7
+studied.HRGbindsheparinandtherebyinterfereswith nM. The binding was abolished in the presence of
+itsinteractionwithAT,resultingintheneutralizationof EDTA. The proteolytic fragment of human HRG,
+its anticoagulant activity. The interaction between hep- 361–389, consisting of the putative repetitive sequence
+arin and HRG is counteracted by Ca2þ-binding anti- ofGHHPH,wasshowntospecificallybindtoFbgina
+coagulants,indicatingthatitdependsonthepresenceof Zn2þ-dependentmannerbyInteractionAnalysisSystem
+divalent metal ions.6 Both HRG and platelet factor 4 (IAsys). A synthetic His-rich peptide (HHPHG) also
+4
+effectively neutralize the ability of heparin to accelerate bound to Fbg in a Zn2þ-dependent manner, demon-
+theinhibitionsofbothactivatedproteinCandthrombin strating that the His-rich domain is responsible for the
+by protein C inhibitor (PCI). The heparin-neutralizing binding of HRG to Fbg.35 The HRG-binding site in
+abilityofHRGintheAPCinhibitionbyPCI,however, Fbgwasalsoanalyzed.Fbg2,anisoformofFbg,whichis
+was decreased in a Ca2þ-dependent manner and appa- the product of the alternatively spliced form of the Fbg
+rently lost at 1 mM Ca2þ, whereas it was enhanced by g-chain mRNA, has an extra C-terminal region rich in
+Zn2þ, regardless of the presence or absence of Ca2þ.31 acidic amino acid residues and provides the thrombin
+ThebindingsiteofheparininHRGwaspredictedtobe andfactor XIIIbinding site.HRGbindstoboth forms
+theN-terminalregionfromitshomologytoAT,andthe ofFbg,normalFbg1andthisalternativeformFbg2,but
+chymotrypticfragmentofHRGcontainingitsN-termi- moreefficientlytoFbg2.TheHis-richdomainofHRG
+nal cystatin domains 1 and 2 has been shown to have binds to this C-terminal acidic region of Fbg2 in the
+heparin-bindingandheparin-neutralizingabilitycompa- presenceof Zn2þ. HRG also binds to Fbg1 and, there-
+rable with the native HRG molecule.32 The cell surface fore, some portion of Fbg other than g’-region is also
+heparan sulfate binding site of HRG was analyzed by responsible for HRG binding.36 Tryptic digestion of
+flowcytometry.33 HRG was shown to bind to many cell Fbgrevealedthatthemajorbindingsiteislocatedinthe
+linesin a Zn2þ-dependent manner butfailedto interact D-region, and further fragmentation revealed that this
+with the CHO cell line lacking cell-surface glycosami- disulfide-bonded fragment effectively inhibited the in-
+noglycans. Heparinase treatment of the normal CHO teraction between Fbg and HRG. This fragment was
+cellsabolishedHRGbinding.Itwasalsoshownthatthe derived from the interchain ring C, at the C-terminal
+N-terminal domain of HRG produced by recombinant end of the coiled-coil region, and the cleavage of
+technology bound specifically to immobilized heparin disulfidebondsbyperformicacidabolisheditsinhibitory
+and cell-surface heparan sulfate in a Zn2þ-independent activity (Wakabayashi et al, unpublished results). HRG
+manner.Incontrast,syntheticpeptidescorrespondingto was reported to prolong the thrombin time.4 Because
+the Zn2þ-binding His-rich domain of HRG did not HRGand/orZndidnotaffectthereleaseoffibrinopep-
+interact with cells. From these results, it was proposed tides A and B by thrombin, the prolongation effect of
+thattheN-terminaldomainbindstocell-surfaceheparan HRG on thrombin time is due to the inhibition of
+sulfate and the interaction of Zn2þ with the His-rich assembly offibrin monomer.37Thesefindings, together
+domain can indirectly enhance cell-surface binding.33 with the shorter bleeding time in HRG-deficient mice,
+However, Vanwildemeersch et al showed a 35-amino- strongly suggest ananticoagulant effect of HRG.
+acid residue synthetic peptide, HRG330–364, derived
+fromtheHis-richdomain,retainedtheZn2þ-dependent
+inhibitory effect on blood vessel formation in vitro and Interaction with Thrombospondin
+in vivo.34 HRG330–364 bound heparin/heparan sulfate HRG is also found in a-granules of platelets and
+with the same capacity as full-length HRG and the releasedbythrombinstimulation.26HumanHRGforms
+binding was Zn2þ dependent. Peptides derived from a complex with purified human platelet thrombospon-
+the His-rich domain of HRG downstream of din.Theformationofthethrombospondin-HRGcom-
+HRG330–364failedtoinhibitendothelialcellmigration plex is specific, concentration-dependent, and
+and displayed a significantly reduced heparin-binding saturable.38 HRG binds to activated platelets and re-
+capacity.Anevenshorterpeptide,HRG335–360,cover- mains surface bound, and thrombospondin is a likely
+ing a 26-amino-acid sequence within HRG330–364, candidate for a HRG receptor on the platelet surface.39
+retained full heparin/heparan sulfate-binding capacity.34 This surface-bound HRG can form a complex with
+Therefore, the real interaction site in HRG to heparan heparin or plasminogen, as described later, and modu-
+sulfateremainscontroversial. lates coagulation or fibrinolysis, respectively. Activated
+platelets aggregate through a complex formation be-
+tween an activated surface glycoprotein (GPIIb/IIIa)
+Interaction with Fibrinogen and Fibrin and Fbg. As described earlier, HRG can bind to Fbg
+The interaction of HRG with fibrinogen (Fbg)/fibrin andthereforemodulatetheplateletaggregationprocess.
+was first reported in 1986 by Leung.4 HRG specifically Preliminary data suggest that HRG can interfere
+bound to Fbg immobilized to a plastic plate in a dose- with the interaction between GPIIb/IIIa and Fbg in a
+.lairetam
+dethgirypoC
+.ytisrevinU
+sregtuR
+:yb
+dedaolnwoD
+--- Page 4 ---
+392 SEMINARSINTHROMBOSISANDHEMOSTASIS/VOLUME37,NUMBER4 2011
+Zn2þ-dependent manner although the extent of regu- extent. Furthermore, heparin, Zn2þ or acidic pH was
+lation needs to be explored further (Kusuma et al, found to protect HRG from cleavage by plasmin. Thus
+unpublished results). proteolytic cleavage of HRG by plasmin may provide a
+HRG also contains a CD36 homology domain feedbackmechanismto regulate the effects of HRG on
+and acts as a soluble decoy to block the antiangiogenic the plasminogen/plasmin system and perhaps other
+activity of thrombospondin, thereby promoting angio- functions of HRG.44
+genesis. The tripartite interactions among CD36,
+thrombospondin type I repeat domains, and HRG in
+tissues thus may play an important role in regulating FUNCTIONSIN ANGIOGENESIS,
+physiological and pathological angiogenesis.40 ANTIBACTERIAL EFFECTS, ANDIMMUNE
+SYSTEM
+As described earlier, HRG binds to thrombospondin
+FUNCTION IN FIBRINOLYSIS and inhibits its antiangiogenic properties.40 However, a
+His-rich peptide (HRG330–364) can interact with cell
+Interaction with Plasminogen surface heparan sulfate and exert its antiangiogenic
+HRG was isolated together with a -antiplasmin as an effect.34 Zn2þ-dependent binding of the His-rich do-
+2
+unknownproteinboundtoanimmobilizedplasminogen main of HRG to heparan sulfate on endothelial cells is
+fragment containing the lysine-binding site.3 Chemical required for the inhibition of angiogenesis, providing a
+analyses identified this unknown protein as HRG. Be- novelmechanismtoincreasethelocalconcentrationand
+cause HRG bound to plasminogen with an apparent activity of HRG, which may reflect a host response to
+dissociationconstantof1.1mM,(cid:1)50%ofthecirculating counteract angiogenesis during pathological conditions.
+plasminogen in blood is reversibly complexed with The finding that tumor angiogenesis is elevated in
+HRG.Furthermore,HRGretards fibrinolysisbyform- HRG-deficientmice supports thisargument.45
+ingaternarycomplexwith tissue plasminogenactivator The peptide (GHHPH) , derived from the
+4
+(tPA)andplasminogeninthepresenceoffibrinthrough His-richdomainofHRG,containingaheparin-binding
+interactionwiththelysine-bindingsiteofplasminogen.3 motif,wasantibacterialforE.faecalisinthepresenceof
+ThisantifibrinolyticeffectofHRGisduetoareduction Zn2þ or at low pH. The results show a previously
+oftheeffectiveplasminogenconcentrationinblood.On undisclosed antibacterial activity of HRG and suggest
+the other hand, by forming a ternary complex with thattheHis-richandheparin-bindingdomainofHRG
+plasminogen and tPA, HRG enhances plasminogen is responsible for this antibacterial activity.14
+activation 30-fold. This is attributed to the profibrino- HRG promotes adhesion and morphological
+lyticactivityofHRG,andthusactivated plasminisnot changes of a human T-cell line (MOLT-4) in a con-
+inhibitedbya -antiplasmin.41HRGhasbeenshownto canavalin A–dependent manner. HRG/Con A cooper-
+2
+functionasanadaptormoleculetotetherplasminogento atetoactivateleukocytesviaasignalingpathwaydistinct
+GAG (glycosaminoglycan)-bearing surfacesand toreg- from that of Con A alone,46 and cell surface ATP
+ulate plasminogenactivationvia various mechanisms. synthase is likely to function as a receptor for HRG on
+The HRG-plasminogen interactionis lysine dis- MOLT-4 cells.47
+sociable and involves predominantly the C-terminal
+heptapeptidesequenceofHRG,includingtheC-termi-
+nal lysine, and the Kringledomainofplasminogen.42
+REFERENCES
+HRG was also shown to tether plasminogen to
+cell surfaces, with this interaction potentiated by an 1. Heimburger N, Haupt H, Kranz T, Baudner S. Human
+elevated level of Zn2þ, low pH, and conditions that serum proteins with high affinity to carboxymethylcellulose.
+occuratsitesoftissueinjury,tumorgrowth,andangio- II.Physico-chemicalandimmunologicalcharacterizationofa
+histidine-rich3,8S-2-glycoprotein(CM-proteinI).Hoppe
+genesis. Based on these observations, HRG was pro-
+SeylersZPhysiolChem1972;353(7):1133–1140
+posed to act asa soluble adaptormolecule that binds to
+2. Morgan WT. Human serum histidine-rich glycoprotein. I.
+cells at sites of tissue injury, tumor growth, and angio-
+Interactions with heme, metal ions and organic ligands.
+genesis, providing a high affinity receptor for tethering BiochimBiophysActa1978;535(2):319–333
+plasminogen to the cell surface and thereby enhancing 3. LijnenHR,HoylaertsM,CollenD.Isolationandcharacter-
+the migratory potential of cells.43 izationofahumanplasmaproteinwithaffinityforthelysine
+HRG itself is highly sensitive to cleavage by binding sites in plasminogen. Role in the regulation of
+fibrinolysis and identification as histidine-rich glycoprotein.
+plasmin. The plasmin-cleaved HRG exhibits lower af-
+JBiolChem1980;255(21):10214–10222
+finity for cell surface heparan sulfate but enhanced
+4. Leung LL. Interaction of histidine-rich glycoprotein with
+affinity for necrotic cells and plasminogen. Both intact
+fibrinogenandfibrin.JClinInvest1986;77(4):1305–1311
+and plasmin-cleaved HRG enhanced the binding of 5. Koide T, Odani S, Ono T. The N-terminal sequence of
+plasminogen to heparin-coated surfaces to a similar human plasma histidine-rich glycoprotein homologous to
+.lairetam
+dethgirypoC
+.ytisrevinU
+sregtuR
+:yb
+dedaolnwoD
+--- Page 5 ---
+HISTIDINE-RICHGLYCOPROTEIN/WAKABAYASHI,KOIDE 393
+antithrombinwithhighaffinityforheparin.FEBSLett1982; 22. Hennis BC, Frants RR, Bakker E, et al. Evidence for the
+141(2):222–224 absenceofintronHofthehistidine-richglycoprotein(HRG)
+6. Lijnen HR, van Hoef B, Collen D. Interaction of heparin gene: genetic mapping and in situ localization of HRG to
+with histidine-rich glycoprotein and with antithrombin III. chromosome 3q28-q29. Available at: http://www.ncbi.nlm.
+ThrombHaemost1983;50(2):560–562 nih.gov/genome/guide/human/.AccessedApril4,2011
+7. Engesser L, Kluft C, Brie¨t E, Brommer EJ. Familial 23. Morgan WT, Koskelo P, Koenig H, Conway TP. Human
+elevation of plasma histidine-rich glycoprotein in a family histidine-richglycoprotein.II.Serumlevelsinadults,pregnant
+withthrombophilia.BrJHaematol1987;67(3):355–358 women and neonates. Proc Soc Exp Biol Med 1978;158(4):
+8. Angles-Cano E, Gris JC, Loyau S, Schved JF. Familial 647–651
+association of high levels of histidine-rich glycoprotein and 24. LijnenHR,JacobsG,CollenD.Histidine-richglycoprotein
+plasminogenactivatorinhibitor-1withvenousthromboemb- in a normal and a clinical population. Thromb Res 1981;
+olism.JLabClinMed1993;121(5):646–653 22(4):519–523
+9. ShigekiyoT,OhshimaT,OkaH,Tomonari A,AzumaH, 25. Hennis BC, DeMaat MPM, Quax PHA, LeClercq EJ,
+Saito S. Congenital histidine-rich glycoprotein deficiency. Kuiper J, Kluft C. Evaluation of sites of synthesis of the
+ThrombHaemost1993;70(2):263–265 histidine-rich glycoprotein. In: Proceedings from the 13th
+10. Souto JC, Gar´ı M,Falkon L, Fontcuberta J. Anew case of Congress of the International Society on Thrombosis and
+hereditaryhistidine-richglycoproteindeficiencywithfamilial Haemostasis.ThrombHaemost1991;65:884.Abstract660
+thrombophilia.ThrombHaemost1996;75(2):374–375 26. Leung LL, Harpel PC, Nachman RL, Rabellino EM.
+11. Shigekiyo T, Yoshida H, Kanagawa Y, et al. Histidine-rich Histidine-richglycoproteinispresentinhumanplateletsand
+glycoprotein (HRG) Tokushima 2: novel HRG deficiency, isreleasedfollowingthrombinstimulation.Blood1983;62(5):
+molecular and cellular characterization. Thromb Haemost 1016–1021
+2000;84(4):675–679 27. Hutchens TW, Yip TT, Morgan WT. Identification of
+12. Tsuchida-StraetenN,EnsslenS,Scha¨ferC,etal.Enhanced histidine-rich glycoprotein in human colostrum and milk.
+bloodcoagulationandfibrinolysisinmicelackinghistidine- PediatrRes1992;31(3):239–246
+rich glycoprotein (HRG). J Thromb Haemost 2005;3(5): 28. JespersenJ,PetersenKR,SkoubySO.Effectsofneweroral
+865–872 contraceptivesontheinhibitionofcoagulationandfibrinol-
+13. Simantov R, Febbraio M, Crombie R, Asch AS, Nachman ysis in relation to dosage and type of steroid. Am J Obstet
+RL, Silverstein RL. Histidine-rich glycoprotein inhibits the Gynecol1990;163(1Pt2):396–403
+antiangiogenic effect of thrombospondin-1. J Clin Invest 29. Saito H, Goodnough LT, Boyle JM, Heimburger N.
+2001;107(1):45–52 Reduced histidine-rich glycoprotein levels in plasma of
+14. Rydenga˚rd V, Olsson AK, Mo¨rgelin M, Schmidtchen A. patients with advanced liver cirrhosis. Possible implications
+Histidine-richglycoproteinexertsantibacterialactivity.FEBS forenhancedfibrinolysis.AmJMed1982;73(2):179–182
+J2007;274(2):377–389 30. Saigo K, Yoshida A, Ryo R, Yamaguchi N, Leung LL.
+15. Blank M, Shoenfeld Y. Histidine-rich glycoprotein modu- Histidine-rich glycoprotein as a negative acute phase
+lation of immune/autoimmune, vascular, and coagulation reactant.AmJHematol1990;34(2):149–150
+systems.ClinRevAllergyImmunol2008;34(3):307–312 31. KazamaY,KoideT.ModulationofproteinCinhibitoractivity
+16. Jones AL, Hulett MD, Parish CR. Histidine-rich glyco- byhistidine-richglycoproteinandplateletfactor4:roleofzinc
+protein:anoveladaptorproteininplasmathatmodulatesthe and calcium ions in the heparin-neutralizing ability of
+immune, vascular and coagulation systems. Immunol Cell histidine-rich glycoprotein. Thromb Haemost 1992;67(1):
+Biol2005;83(2):106–118 50–55
+17. Koide T, Foster D, Yoshitake S, Davie EW. Amino acid 32. Koide T, Kazama Y, Odani S, et al. Histidine-rich
+sequence of human histidine-rich glycoprotein derived from glycoprotein:Analysesofheparin-bindingdomainbylimited
+the nucleotide sequence of its cDNA. Biochemistry 1986; proteolysis andbymonoclonalantibodies. Proceedingsfrom
+25(8):2220–2225 the 12th Congress of the International Society on Throm-
+18. Koide T, Odani S. Histidine-rich glycoprotein is evolutio- bosis and Haemostasis; Thromb Haemost 1989;62:473.
+narily related to the cystatin superfamily. Presence of two Abstract1482.
+cystatindomainsintheN-terminalregion.FEBSLett1987; 33. Jones AL, Hulett MD, Parish CR. Histidine-rich glyco-
+216(1):17–21 protein binds to cell-surface heparan sulfate via its
+19. Koide T, Izumi S, Ohashi T, et al. Histidine-rich N-terminal domain following Zn2þchelation. J Biol Chem
+glycoproteinsfromhuman,bovine,andratplasma:Presence 2004;279(29):30114–30122
+of two forms in rat plasma and a remarkable diversity of 34. VanwildemeerschM,OlssonAK,GottfridssonE,Claesson-
+primary structure among species. Paper presented at: 13th WelshL,LindahlU,SpillmannD.Theanti-angiogenicHis/
+InternationalCongressonFibrinolysisandProteolysis;June Pro-rich fragment of histidine-rich glycoprotein binds to
+1996;Barcelona,Spain endothelial cell heparan sulfate in a Zn2þ-dependent
+20. WakabayashiS,IoroiM,MaruyamaK,KoideT.Aminoacid manner.JBiolChem2006;281(15):10298–10304
+sequenceofchickenplasmahistidine-richglycoprotein.Paper 35. KoideT,FujimotoM,OhnishiT,MuraseK.Identificationof
+presented at: 1st Annual Meeting of the Protein Science fibrinogen binding site of human histidine-rich glycoprotein
+SocietyofJapan;June2001;Osaka,Japan. (HRG). Paper presented at: 18th International Congress on
+21. WakabayashiS,TakahashiK,KoideT.Structuralcharacter- FibrinolysisandProteolysis;August2006;SanDiego,CA
+ization of the gene for human histidine-rich glycoprotein, 36. KoideT,OhshimaM,TakeuchiY,WakabayashiS.Fibrinogen
+reinvestigation of the 50-terminal region of cDNA and a interacts with histidine-rich glycoprotein (HRG) at the
+searchfortheliverspecificpromoterinthegene.JBiochem multiplesites.Paperpresentedat:19thInternationalCongress
+1999;125(3):522–530 onFibrinolysisandProteolysis;July2008;Vienna,Austria
+.lairetam
+dethgirypoC
+.ytisrevinU
+sregtuR
+:yb
+dedaolnwoD
+--- Page 6 ---
+394 SEMINARSINTHROMBOSISANDHEMOSTASIS/VOLUME37,NUMBER4 2011
+37. Fujimoto M, Koide T. Zn2þ-dependent promotion of 43. Jones AL, Hulett MD, Altin JG, Hogg P, Parish CR.
+fibrinolysis by HRG. Paper presented at: 27th Congress of Plasminogenistetheredwithhighaffinitytothecellsurface
+the Japanese Society on Thrombosis and Hemostasis; by the plasma protein, histidine-rich glycoprotein. J Biol
+November2004;Nara,Japan Chem2004;279(37):38267–38276
+38. LeungLL,NachmanRL,HarpelPC.Complexformationof 44. PoonIK,OlssonAK,HulettMD,ParishCR.Regulationof
+platelet thrombospondin with histidine-rich glycoprotein. histidine-rich glycoprotein (HRG) function via plasmin-
+JClinInvest1984;73(1):5–12 mediated proteolytic cleavage. Biochem J 2009;424(1):
+39. Lerch PG, Nydegger UE, Kuyas C, Haeberli A. Histidine- 27–37
+rich glycoprotein binding to activated human platelets. Br J 45. ThulinA,RingvallM,DimbergA,etal.Activatedplatelets
+Haematol1988;70(2):219–224 provideafunctionalmicroenvironmentfortheantiangiogenic
+40. SilversteinRL,FebbraioM.CD36-TSP-HRGPinteractions fragment of histidine-rich glycoprotein. Mol Cancer Res
+in the regulation of angiogenesis. Curr Pharm Des 2007; 2009;7(11):1792–1802
+13(35):3559–3567 46. Ohta T, Ikemoto Y, Saeki K, Koide T, Wakabayashi S.
+41. Silverstein RL, Nachman RL, Leung LL, Harpel PC. Histidine-rich glycoprotein and concanavalin A synergisti-
+Activation of immobilized plasminogen by tissue activator. cally stimulate the phosphatidylinositol 3-kinase-independ-
+Multimolecular complex formation. J Biol Chem 1985; entsignalingpathwayinleukocytesleadingtoincreasedcell
+260(18):10346–10352 adhesion and changes in cell morphology. Cell Immunol
+42. Koide T, Kawate Y. Identification of plasminogen-binding 2009;259(1):5–12
+site with which histidine-rich glycoprotein functions as an 47. Ohta T, Ikemoto Y, Usami A, Koide T, Wakabayashi S.
+antifibrinolytic factor. Paper presented at: 16th Congress of Highaffinityinteractionbetweenhistidine-richglycoprotein
+the International Society on Thrombosis and Haemostasis; andthecell surfacetypeATPsynthaseonT-cells. Biochim
+June1997;Florence,Italy BiophysActa2009;1788(5):1099–1107
+.lairetam
+dethgirypoC
+.ytisrevinU
+sregtuR
+:yb
+dedaolnwoD

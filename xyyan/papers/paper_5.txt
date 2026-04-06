@@ -1,0 +1,192 @@
+
+--- Page 1 ---
+International Journal o f
+Molecular Sciences
+Article
+2+
+Zn Differentially Influences the Neutralisation of Heparins
+by HRG, Fibrinogen, and Fibronectin
+AmélieI.S.Sobczak1 ,RamziA.Ajjan2 andAlanJ.Stewart1,*
+1 SchoolofMedicine,UniversityofStAndrews,St.AndrewsKY169TF,UK;amelie.sobczak26@gmail.com
+2 LeedsInstituteofCardiovascularandMetabolicMedicine,UniversityofLeeds,LeedsLS23AA,UK;
+r.ajjan@leeds.ac.uk
+* Correspondence:ajs21@st-andrews.ac.uk;Tel.:+44-(0)1334-463546
+Abstract:Forcoagulationtobeinitiated,anticoagulantglycosaminoglycans(GAGs)suchasheparins
+needtobeneutralisedtoallowfibrinclotformation.Plateletactivationtriggersthereleaseofseveral
+proteinsthatbindGAGs,includinghistidine-richglycoprotein(HRG),fibrinogen,andfibronectin.
+Zn2+ionsarealsoreleasedandhavebeenshowntoenhancethebindingofHRGtoheparinsofahigh
+molecularweight(HMWH)butnottothoseoflowmolecularweight(LMWH).TheeffectofZn2+on
+fibrinogenandfibronectinbindingtoGAGsisunknown. Here,chromogenicassayswereusedto
+measuretheanti-factorXaandanti-thrombinactivitiesofheparinsofdifferentmolecularweightsand
+toassesstheeffectsofHRG,fibrinogen,fibronectin,andZn2+.Surfaceplasmonresonancewasalso
+usedtoexaminetheinfluenceofZn2+onthebindingoffibrinogentoheparinsofdifferentmolecular
+weights.Zn2+hadnoeffectontheneutralisationofanti-factorXa(FXa)oranti-thrombinactivities
+ofheparinbyfibronectin,whereasitenhancedtheneutralisationofunfractionatedheparin(UFH)
+andHMWHbybothfibrinogenandHRG.Zn2+alsoincreasedneutralisationoftheanti-FXaactivity
+ofLMWHbyfibrinogenbutnotHRG.SPRshowedthatZn2+increasedfibrinogenbindingtoboth
+UFHandLMWHinaconcentration-dependentmanner.Thepresentedresultsrevealthatanincrease
+inZn2+concentrationhasdifferentialeffectsuponanticoagulantGAGneutralisationbyHRGand
+fibrinogen,withimplicationsformodulatinganti-coagulantactivityinplasma.
+Keywords:coagulationfactors;factorXa;fibrinogen/fibrin;thrombin;zinc
+Citation:Sobczak,A.I.S.;Ajjan,R.A.;
+Stewart,A.J.Zn2+Differentially
+InfluencestheNeutralisationof
+1. Introduction
+HeparinsbyHRG,Fibrinogen,and
+Fibronectin.Int.J.Mol.Sci.2023,24, Neutralisationofanticoagulantglycosaminoglycans(GAGs)occurspriortocoagu-
+16667. https://doi.org/10.3390/ lationsuchthatthrombin,factorXa(FXa),andtheothercomponentsofthecoagulation
+ijms242316667 cascade can be activated to facilitate fibrinogenesis [1,2]. Platelets, once active, aid this
+process through the release of various proteins that include histidine-rich glycoprotein
+AcademicEditor:NobuakiHigashi
+(HRG),fibrinogen,andfibronectin. TheseproteinsbindtoanticoagulantGAGstoprevent
+Received:8November2023 theirinteractionwithantithrombin(AT)[2]. Suchbindingandneutralisationeventscan
+Revised:19November2023 dependuponthechainlengthoftheGAGs. Thisisimportant,aslow-molecular-weight
+Accepted:22November2023 heparins(LMWHs;≤10,000Da)arewidelyusedasanti-thromboticdrugs[1–3].
+Published:23November2023 InadditiontoreleasingGAG-neutralisingproteins, activatedplateletsalsorelease
+metalionsthatmodulatethecoagulationcascade.TheseincludeZn2+,whichbothenhances
+and suppresses coagulation (as has been reviewed by others [4,5]) and acts to enhance
+GAG–proteininteractions[3]. Inhumans,approximately75%ofthetotal15–20µMplasma
+Copyright: © 2023 by the authors.
+zincisboundtohumanserumalbumin(HSA)[6], constituting>99%ofthelabileZn2+
+Licensee MDPI, Basel, Switzerland.
+pool[7].Mostoftheremaining(labile)Zn2+isboundtosmallmolecules,andastudyinrats
+This article is an open access article
+suggestedthataround~1–3nMZn2+maybe“free”underrestingconditions[8]. However,
+distributed under the terms and
+theavailableconcentrationofzincatthesurfaceofaplateletimmediatelyfollowingrelease
+conditionsoftheCreativeCommons
+Attribution(CCBY)license(https:// islikelytobemuchhigher.
+creativecommons.org/licenses/by/ IntheabsenceofZn2+,HRGbindsunfractionatedheparin(UFH)withaK d of32.9nM,
+4.0/). forminga1:1complex;thisbindingisunaffectedbyheparinchainlength[9]. Ontheother
+Int.J.Mol.Sci.2023,24,16667.https://doi.org/10.3390/ijms242316667 https://www.mdpi.com/journal/ijms
+--- Page 2 ---
+Int.J.Mol.Sci.2023,24,16667 2of11
+hand,inthepresenceof1µMZn2+,HRGbindshigh-molecular-weightheparinmolecules
+(HMWH;≥10,000Da)withaK of5.1nMandformsa1:2complex[9,10]. Interestingly,the
+d
+presenceofZn2+doesnotappeartoaffectthebindingofLMWHtoHRG[9].AnotherGAG-
+bindingproteinisfibrinogen,whichbindsUFHwithK of228nM[11],whichdecreases
+d
+to 60 nM in the presence of 12.5 µM Zn2+ [12]. In the cases of HRG and fibrinogen, it
+is not known if the Zn2+-mediated enhancement of GAG binding affinity results in an
+increaseinGAGneutralisation,whichmayhaveclinicalimplications. Theinfluenceof
+GAGchainlengthonbindingtofibrinogenandwhethertherearedifferentialeffectson
+affinity(dependentonchainlength)mediatedbyZn2+arealsounknown.Fibronectinbinds
+a6-saccharideheparin(1950kDa)withaK of18µMandto18-to20-saccharideheparins
+d
+(6000Da)withaK of0.9µM[13]. Thenucleationoffibronectinfibrilassemblyrequires
+d
+heparinbinding[14]. Interestingly,aheparin-bindingfragmentoftheproteinwasrecently
+demonstratedtoaidtheintegrationoftitanium-baseddentalimplants[15]. However,the
+bindingaffinitiesoffibronectintolonger-chainheparinsarenotyetknown. Giventhat
+fibronectincanalsobindZn2+[16–18],thereisapossibilityforitsinteractionwithGAGsto
+alsobeinfluencedbythismetalion,butthisisyettobeexaminedexperimentally.
+Inthisstudy,weinvestigatedtheeffectsofHRG,fibrinogen,andfibronectinonthe
+heparin-mediatedneutralisationoffactorXaandthrombinactivities. Morespecifically,we
+exploredtheeffectsoftheseproteinsonheparinsofdifferentchainlengthsandexamined
+thepotentialforZn2+ toplayaroleintheseprocesses. Moreover,wealsoexaminedthe
+influenceofZn2+ onfibrinogen–GAGinteractionsusingsurfaceplasminresonance(SPR)
+spectroscopy.UnderstandingtheeffectsofZn2+ontheseinteractionsmayaidinoptimising
+futureantithrombotictherapieswiththedifferentformsofheparin.
+2. ResultsandDiscussion
+2.1. Zn2+ModulatesNeutralisationofHeparinsbyHRGandFibrinogenbutNotFibronectin
+TheinhibitionofFXabyheparinsofdifferentmolecularweights(anti-FXaactivity)
+was measured in the presence of either HRG, fibrinogen, or fibronectin with and with-
+out Zn2+. Firstly, the anti-FXa activity of different heparin preparations (with average
+molecular weights ranging from 4650 Da to 22,210 Da) at different concentrations was
+measured(Figure1A).Foragivenheparinmassconcentration(reflectingboththenumber
+ofsaccharidesandthemolarconcentration),increasinginhibitionofFXawasobserved
+asthechainlengthoftheheparinsincreased(Figure1B).UFH,amixtureofheparinsof
+wide-ranging chain length with an average molecular weight of 15,700 Da, behaved in
+asimilarmannertothepurifiedheparinfractionclosestinaveragemolecularweight(the
+14,580Daheparin). Toprepareforthenextexperiments,linearregressionwasperformed
+tocalculatetheconcentrationsneededforeachheparintocorrespondtoanabsorbance
+of 0.3AU. The resultant concentrations obtained were 5.0 nM for UFH, 2.5 nM for the
+22,210Da heparin fraction, 5.1 nM for the 14,580 Da heparin fraction, 19.0 nM for the
+10,980Daheparinfraction,and76.0nMforthe4650Daheparinfraction.
+NeutralisationofUFHbyHRG,fibrinogen,andfibronectinandtheinfluenceofthis
+process on inhibition of FXa was examined in the presence or absence of 10 µM Zn2+
+(Figure2). AnincreaseinabsorbancetranslatedtoanincreaseinFXaactivityandthus
+an increased neutralisation of heparin. It was found that all three proteins neutralised
+anti-FXaactivityofUFH,withHRGhavingthegreatesteffect,followedbyfibronectinand
+thenfibrinogen. Additionof10µMZn2+ didnotaffecttheanti-FXaactivityofUFHin
+theabsenceofprotein(soZn2+didnothaveanybackgroundeffect)orinthepresenceof
+fibronectin. However,10µMZn2+increasedneutralisationofUFHbyHRGandfibrinogen,
+havingagreatereffectonfibrinogenthanonHRG.
+--- Page 3 ---
+Int. J. Mol. Sci. 2023, 24, x FOR PEER REVIEW 3 of 11
+In t.J.Mol.Sci.2023,24,16667 3of11
+B
+A
+UFH UFH
+22,210 Da 22,210 Da
+14,580 Da 14,580 Da
+10,980 Da 10,980 Da
+4650 Da 4650 Da
+Figure 1. Anti-FXa activity of heparin fractions of different average molecular weights (4650–22,210
+Da). (A) Standard curve showing effects of heparins at different concentrations on FXa activity. (B)
+Inhibition of FXa (measured as a change in absorbance) as a function of heparin concentration (MW
+4650–22,210 Da). The experiments were performed in triplicate.
+Neutralisation of UFH by HRG, fibrinogen, and fibronectin and the influence of this
+process on inhibition of FXa was examined in the presence or absence of 10 µM Zn2+ (Fig-
+ure 2). An increase in absorbance translated to an increase in FXa activity and thus an
+increased neutralisation of heparin. It was found that all three proteins neutralised anti-
+FXa activity of UFH, with HRG having the greatest effect, followed by fibronectin and
+then fibrinogen. Addition of 10 µM Zn2+ did not affect the anti-FXa activity of UFH in the
+absence of protein (so Zn2+ did not have any background effect) or in the presence of fi-
+bronectin. However, 10 µM Zn2+ increased neutralisation of UFH by HRG and fibrinogen,
+having a greater effect on fibrinogen than on HRG.
+Figure 2. Comparison of the neutralisation of the anti-FXa activity of UFH by 0.4 µM HRG, fibrino-
+gen, or fibronectin in the presence and absence of 10 µM Zn2+. The experiments were performed
+three times in duplicate. Addition of Zn2+ increased UFH neutralisation by HRG and fibrinogen but
+not by fibronectin. Data are represented as mean ± standard error of the mean. Statistical significance
+is indicated by ns (not significant) for p > 0.05, * for p < 0.05, ** for p < 0.01, and *** for p < 0.001.
+ecnabrosbA
+Int. J. Mol. Sci. 2023, 24, x FOR PEER REVIEW 3 of 11
+A B
+UFH UFH
+22,210 Da 22,210 Da
+14,580 Da 14,580 Da
+10,980 Da 10,980 Da
+4650 Da 4650 Da
+Figure 1. Anti-FXa activity of heparin fractions of different average molecular weights (4650–22,210
+Da). (A) Standard curve showing effects of heparins at different concentrations on FXa activity. (B)
+Inhibition of FXa (measured as a change in absorbance) as a function of heparin concentration (MW
+4650–22,210 Da). The experiments were performed in triplicate.
+Neutralisation of UFH by HRG, fibrinogen, and fibronectin and the influence of this
+process on inhibition of FXa was examined in the presence or absence of 10 µM Zn2+ (Fig-
+ure 2). An increase in absorbance translated to an increase in FXa activity and thus an
+increased neutralisation of heparin. It was found that all three proteins neutralised anti-
+FXa activity of UFH, with HRG having the greatest effect, followed by fibronectin and
+thFeing ufirberi1n.ogeAnn. Ati-dFdXitaioanc otifv 1i0ty µMof Zhne2+p dairdin nofrt aacffteiocnt tsheo fandtii-fFfeXrae nacttiavviteyr aogf eUFmHo ilnec tuhlea r weights
+ab(4s6e5n0c–e2 o2f,2 p1r0oDteain). ((sAo )ZSnt2a+ nddidar dnoctu hravvees ahnoyw binagckegfrfoecutnsdo feffheecpta) roirn sina tthdei fpfereresenntcceo nofc efin-trations on
+bronectin. However, 10 µM Zn2+ increased neutralisation of UFH by HRG and fibrinogen,
+FXaactivity. (B)InhibitionofFXa(measuredasachangeinabsorbance)asafunctionofheparin
+having a greater effect on fibrinogen than on HRG.
+concentration(MW4650–22,210Da).Theexperimentswereperformedintriplicate.
+0 μM zinc
+Figure 2. Compa1r0is μoMn zoinfc the neutralisation of the anti-FXa activity of UFH by 0.4 µM HRG, fibrino-
+gen, or fibronectin in the presence and absence of 10 µM Zn2+. The experiments were performed
+three times in duplicate. Addition of Zn2+ increased UFH neutralisation by HRG and fibrinogen but
+not by fibronectin. Data are represented as mean ± standard error of the mean. Statistical significance
+is indicated by ns (not significant) for p > 0.05, * for p < 0.05, ** for p < 0.01, and *** for p < 0.001.
+ecnabrosbA
+0 μM zinc
+10 μM zinc
+Figure2.Comparisonoftheneutralisationoftheanti-FXaactivityofUFHby0.4µMHRG,fibrinogen,
+orfibronectininthepresenceandabsenceof10µMZn2+.Theexperimentswereperformedthree
+timesinduplicate.AdditionofZn2+increasedUFHneutralisationbyHRGandfibrinogenbutnotby
+fibronectin. Dataarerepresentedasmean±standarderrorofthemean. Statisticalsignificanceis
+indicatedbyns(notsignificant)forp>0.05,*forp<0.05,**forp<0.01,and***forp<0.001.
+2.2. HRGandFibrinogenHaveDifferentialEffectsonNeutralisationofDifferentHeparins
+TheabilityofHRGandfibrinogentoneutraliseheparinsofdifferentmolecularweights
+(andthustheirimpactonitsanti-FXaactivity)inthepresenceandabsenceofZn2+wasthen
+assessed(Figure3). Partialneutralisationof22,210Da,14,580Da. and10,980Daheparin
+fractionsby0.4µMHRGand0.4µMfibrinogenwasobserved,withHRGhavingagreater
+effect(Figure3A–C).ToexaminewhetherahigherconcentrationofHRGandfibrinogen
+could exert an effect on this LMWH, the assay was repeated with the concentration of
+eachproteinincreasedto1µMandtheheparinconcentrationreducedbyhalf(downto
+38.0nM,Figure3D).Undertheseconditions,somedegreeofneutralisationwasseenwith
+HRGandfibrinogensufficienttoseeasignificantchangeinanti-FXaactivity. Thesmaller
+degreeofLMWHneutralisation, occasionedbythepresenceofeitherprotein, wasdue
+inparttothedifferentheparinconcentrationsthathadtobeusedintheassaytoobtain

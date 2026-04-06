@@ -1,0 +1,538 @@
+
+--- Page 1 ---
+PLOS ONE
+RESEARCHARTICLE
+Consistently low levels of histidine-rich
+glycoprotein as a new prognostic biomarker
+for sepsis: A multicenter prospective
+observational study
+NaoyaKawanoueID 1*,KosukeKuroda1,HirokoYasuda1,MasahikoOiwa1,
+SatoshiSuzuki1,HidenoriWake2¤a,HirokiHosoi3,MasahiroNishibori2¤b,
+HiroshiMorimatsuID 1,onbehalfoftheOkayamaResearchInvestigationOrganizing
+a1111111111 Network(ORION)¶
+a1111111111
+1 DepartmentofAnesthesiologyandResuscitology,OkayamaUniversityGraduateSchoolofMedicine,
+a1111111111
+DentistryandPharmaceuticalSciences,Okayama,Japan,2 DepartmentofPharmacology,Okayama
+a1111111111
+UniversityGraduateSchoolofMedicine,DentistryandPharmaceuticalSciences,Okayama,Japan,3 Data
+a1111111111
+ScienceDivision,CenterforInnovativeClinicalMedicine,OkayamaUniversityHospital,Okayama,Japan
+¤a Currentaddress:DepartmentofPharmacology,FacultyofMedicine,KindaiUniversity,Osaka,Japan
+¤b Currentaddress:DepartmentofTranslationalResearchandDrugDevelopment,OkayamaUniversity
+GraduateSchoolofMedicine,DentistryandPharmaceuticalSciences,Okayama,Japan
+¶MembershipoftheORIONisprovidedintheAcknowledgments.
+OPENACCESS
+*nao.kawa@s.okayama-u.ac.jp
+Citation:KawanoueN,KurodaK,YasudaH,Oiwa
+M,SuzukiS,WakeH,etal.(2023)Consistentlylow
+levelsofhistidine-richglycoproteinasanew Abstract
+prognosticbiomarkerforsepsis:Amulticenter
+prospectiveobservationalstudy.PLoSONE18(3):
+e0283426.https://doi.org/10.1371/journal.
+Background
+pone.0283426
+Fewsepsisbiomarkersaccuratelypredictseverityandmortality.Previously,wehad
+Editor:SamiullahKhan,TheUniversityofLahore,
+PAKISTAN reportedthatfirst-dayhistidine-richglycoprotein(HRG)levelsweresignificantlylowerin
+patientswithsepsisandwereassociatedwithmortality.SincethetimetrendsofHRGare
+Received:January6,2023
+unknown,thisstudyfocusedonthetimecourseofHRGinpatientswithsepsisandevalu-
+Accepted:March8,2023
+atedthedifferencesbetweensurvivorsandnon-survivors.
+Published:March29,2023
+Copyright:©2023Kawanoueetal.Thisisanopen Methods
+accessarticledistributedunderthetermsofthe
+Amulticenterprospectiveobservationalstudywasconductedinvolving200patientswith
+CreativeCommonsAttributionLicense,which
+permitsunrestricteduse,distribution,and sepsisin16Japanesehospitals.Bloodsampleswerecollectedondays1,3,5,and7,and
+reproductioninanymedium,providedtheoriginal 28-daymortalitywasusedforsurvivalanalysis.PlasmaHRGlevelsweredeterminedusing
+authorandsourcearecredited.
+amodifiedquantitativesandwichenzyme-linkedimmunosorbentassay.
+DataAvailabilityStatement:Allrelevantdataare
+withinthepaperanditsSupportingInformation
+Results
+files.
+First-dayHRGlevelsinnon-survivorsweresignificantlylowerthanthoseinsurvivors
+Funding:Thisworkwassupportedbygrantsfrom
+theJapanAgencyforMedicalResearchand (mean,15.7[95%confidenceinterval(CI),13.4–18.1]vs20.7[19.5–21.9]μg/mL;P=
+Development(AMED):AMEDJP19im0210109to 0.006).Althoughtherewasnotime×survivors/non-survivorsinteractioninthetimecourses
+MNandAMEDJP22lk0201085toHM.Thefunders
+ofHRG(P=0.34),themaineffectofgeneralizedlinearmixedmodelswassignificant(P<
+hadnoroleinstudydesign,datacollectionand
+0.001).InaunivariateCoxproportionalhazardsmodelwitheachvariableasatime-depen-
+analysis,decisiontopublish,orpreparationofthe
+manuscript. dentcovariate,higherHRGlevelsweresignificantlyassociatedwithalowerriskofmortality
+PLOSONE|https://doi.org/10.1371/journal.pone.0283426 March29,2023 1/13
+--- Page 2 ---
+PLOS ONE Potentialofhistidine-richglycoproteinasanovelprognosticbiomarkerforsepsis
+Competinginterests:Ihavereadthejournal’s (hazardratio,0.85[95%CI,0.78–0.92];P<0.001).Furthermore,presepsinlevels(P=
+policyandtheauthorsofthismanuscripthavethe 0.02)andSequentialOrganFunctionAssessmentscores(P<0.001)weresignificantly
+followingcompetinginterests:wedeclaredsupport
+associatedwithmortality.Harrell’sC-indexvaluesforthe28-daymortalityeffectofHRG,
+fromtheJapanAgencyforMedicalResearchand
+Developmentforthesubmittedwork.Outsideof presepsin,procalcitonin,andC-reactiveproteinwere0.72,0.70,0.63,and0.59,
+thesubmittedwork,MNandHMhavereceived respectively.
+researchgrantfundingfromSHIONOGI&Co.,Ltd.
+Allotherauthorsreportnofinancialrelationships
+Conclusions
+withanyorganizationsthatmighthaveaninterest
+inthesubmittedworkinthepreviousthreeyears. HRGlevelsinnon-survivorswereconsistentlylowerthanthoseinsurvivorsduringthefirst
+Allauthorsreportnootherrelationshipsor
+sevendaysofsepsis.RepeatedlymeasuredHRGlevelsweresignificantlyassociatedwith
+activitiesthatcouldappeartoinfluencethe
+mortality.Furthermore,thepredictivepowerofHRGformortalitymaybesuperiortothatof
+submittedwork.Thisdoesnotalterouradherence
+toPLOSONEpoliciesonsharingdataand othersingularbiomarkers,includingpresepsin,procalcitonin,andC-reactiveprotein.
+materials.
+Introduction
+Sepsisisalife-threateningorgandysfunctioncausedbyadysregulatedhostresponsetoinfec-
+tion[1].Globally,approximately48.9millionpatientssufferfromsepsisannually,and11.0
+million(19.7%)ofalldeathsaresepsis-related[2].Althoughthesepsismortalityratehasbeen
+decreasingeveryyearowingtoeffortsinearlydiagnosisandtreatment[2–4],sepsisremainsa
+leadingcauseofdeathandamajorpublichealthconcern[2,3].Theclinicalcourseofsepsisis
+unpredictable,andthecurrentsituationhascausedseriousproblemsinpredictingwhethera
+patientwilldeteriorateorrecoversoon.Toovercomethisissue,betterindicatorsofseverityin
+patientswithsepsisareneeded.Thefirst-dayvalueandtime-dependentchangesinthe
+SequentialOrganFunctionAssessment(SOFA)scoreareusefulprognosticmarkers[1,5–8],
+however,theusefulnessofpresepsin(P-SEP),procalcitonin(PCT),andC-reactiveprotein
+(CRP)levelsiscontroversial[7–10].
+Histidine-richglycoprotein(HRG)isa75kDaplasmaglycoproteinthatismainlyproduced
+intheliver[11];itispresentataconcentrationofapproximately60–150μg/mLinhealthy
+individuals[12,13].HRGbindstoabroadrangeofligandsandisimplicatedinregulating
+coagulation,fibrinolysis,andimmuneresponse[13–15].WechoseHRGasapossiblebio-
+markerforsepsisbecauseweassumedthatdecreasedplasmaHRGlevelsinsepsiswouldcause
+thedysregulationofcoagulation,fibrinolysis,andimmuneresponse,resultingindisseminated
+intravascularcoagulationandmultipleorgandysfunctionsyndrome[14,16–18].Previously,
+usingacecalligationandpuncturemodel,weshowedthatHRGlevelsdecreasedinseptic
+miceandthatreplenishmentofHRGimprovedtheirsurvivalrate[18].Inourclinicalstudy,
+wereportedthatfirst-dayHRGlevelswerelowerinpatientswithsepsisthaninthosewithout
+sepsis[12];moreover,lowerHRGlevelswereassociatedwithanincreasedriskofsepticmor-
+tality[19],suggestingthatfirst-dayHRGlevelsmightbeabiomarkerforsepsis[12,16,17,19].
+However,owingtoalimitedsamplesizeandlackofknowledgeonhowHRGlevelschange,
+theprognosticvalueofHRGinsepsiswasnotfullyevaluated.Herein,forthefirsttime,we
+aimedtodeterminethetrendsofplasmaHRGlevelsinpatientswithsepsisandevaluatethe
+differencesbetweensurvivorsandnon-survivors.
+Materialsandmethods
+Studydesign
+AmulticenterprospectiveobservationalstudywasconductedwiththeInstitutionalReview
+Boardapprovalofallrelevantinstitutions:theOkayamaUniversityGraduateSchoolof
+PLOSONE|https://doi.org/10.1371/journal.pone.0283426 March29,2023 2/13
+--- Page 3 ---
+PLOS ONE Potentialofhistidine-richglycoproteinasanovelprognosticbiomarkerforsepsis
+Medicine,Dentistry,andPharmaceuticalSciences(EthicalNumber:1801–020),JapaneseRed
+CrossOkayamaHospital(R1-33),OkayamasaiseikaiGeneralHospital(180201),Onomichi
+MunicipalHospital(19–11),KagawaPrefecturalCentralHospital(786),NationalHospital
+OrganizationFukuyamaMedicalCenter(H29-40),TsuyamaChuoHospital(421),Shimane
+UniversityHospital(3999),JapaneseRedCrossSocietyHimejiHospital(2019–30),Kagawa
+UniversityHospital(H30-006),TottoriUniversityHospital(18A014),FukuyamaCityHospital
+(365),KawasakiMedicalSchoolGeneralMedicalCenter(3006–2),JapaneseRedCrossKobe
+Hospital(154),OkayamaCityHospital(1–116),andKawasakiMedicalSchoolHospital
+(3265).ThisstudywasregisteredwiththeUMINClinicalTrialsRegistryonFebruary1,2018
+(UMIN000030037;theleadprincipalinvestigatorisHiroshiMorimatsu).Thisstudywasper-
+formedinaccordancewiththeWorldMedicalAssociationDeclarationofHelsinki:ethical
+principlesformedicalresearchinvolvinghumansubjects.Thisobservationalstudywasbased
+ontheStrengtheningtheReportingofObservationalStudiesinEpidemiologyguidelines[20].
+Patientsanddatacollection
+PatientsnewlydiagnosedwithsepsisbasedontheSepsis-3definition[1]wereprospectively
+enrolledinthestudy.SOFAscoreswerecalculatedfromPaO /FO ratio,useofmechanical
+2 I 2
+ventilation,plateletcount,totalbilirubin,bloodpressure,usedinotropesandvasopressors,
+GlasgowComaScale,creatinine,andurineoutput[6].Theinclusioncriteriaincludedadmis-
+siontotheintensivecareunit(ICU)withanincreaseintheSOFAscoreby2pointsormore
+causedbyadysregulatedhostresponsetoinfection.Theexclusioncriteriawereasfollows:age
+lessthan20years,pregnancy,andfailuretoprovidewrittenconsent.Afterobtainingwritten
+consentfrompatientsortheirrelatives,bloodsampleswerecollectedtobeanalyzedlaterfor
+HRG,P-SEP,andPCTlevelsondays1(within24hofdiagnosisofsepsis),3,5,and7,while
+thepatientsstayedintheICU.Dailyclinicalandbloodsamplingdatawerealsorecordedusing
+theResearchElectronicDataCapturesystemineachhospital,andtheAcutePhysiologyand
+ChronicHealthEvaluation(APACHE)IIscoreonday1[21]andSOFAscoresondays1,3,5,
+and7werecalculated.Thepatientswerethenobservedfor90daysthroughmedicalrecords
+andtelephonefollow-upineachhospital,andthe28-daymortalityvalueswereusedforsur-
+vivalanalysis.
+Measurementmethods
+Bloodsampleswerecollectedintubescontainingdipotassium-ethylenediaminetetraaceticacid
+(EDTA)andprocessedwithin60minofsampling.Sampleswerecentrifugedat3,000rpmfor
+10min,andtheplasmawascollectedinpolypropylenetubes.Thesampleswereimmediately
+frozenateachhospital.Thereafter,thesamplesweretransportedfromeachhospitaltoOka-
+yamaUniversity,andaproteaseinhibitorcocktail(cOmplete,Mini,EDTA-free;RocheDiag-
+nostics,Basel,Switzerland)wasaddedtothesamplesaccordingtothemanufacturer’s
+instructionspriortotheirstorageat–80˚C.
+PlasmaHRGlevelsweredeterminedusingapreviouslyreportedin-housemodifiedquanti-
+tativesandwichenzyme-linkedimmunosorbentassayinS3Fig[12].Briefly,aratmonoclonal
+antibodyagainsthumanHRG(in-house,#75–14)wasusedasthecaptureantibody,anda
+nitrilotriacetatenickel(Ni2+)-activatedderivativeofhorseradishperoxidase(HisProbe-HRP
+Conjugate;ThermoFisherScientific,Waltham,MA)dilutedby1000-foldwasusedfordetec-
+tion.Plasmasamplesweredilutedby200-and400-foldwithphosphate-bufferedsalinecon-
+taining1%bovineserumalbumin.A96-wellplate(ClearFlat-BottomImmunoNonsterile
+96-WellPlates;ThermoFisherScientific)andamicroplatewasher(ImmunoWash1575
+MicroplateWasher;Bio-RadLaboratories,Hercules,CA)wereused.O-phenylenediamine
+PLOSONE|https://doi.org/10.1371/journal.pone.0283426 March29,2023 3/13
+--- Page 4 ---
+PLOS ONE Potentialofhistidine-richglycoproteinasanovelprognosticbiomarkerforsepsis
+(SIGMAFASTOPDtablet;Sigma-Aldrich,St.Louis,MO)andstopsolutions(3MH SO )
+2 4
+wereusedtodevelopthereaction.Theabsorbancewasmeasuredat492nmusinga96-well
+platereader(Nivo5SMultimodePlateReader;PerkinElmer,Waltham,MA),andastandard
+curvewasgeneratedusingserialdilutionsofaknownamountofpurifiedHRG(manufactured
+in-house).Plasmasamplesweremeasuredinduplicate,andHRGlevelsweredeterminedby
+averagingtwoindependentassays.P-SEPandPCTlevelsweredeterminedusingachemilumi-
+nescentenzymeimmunoassay(SRL,Tokyo,Japan).
+Outcomes
+Theprimaryoutcomeofthisstudywasall-causemortalitywithin28daysoftheinitialsam-
+pling.ThedifferencesinthetimecoursesofHRGlevelsbetweensurvivorsandnon-survivors
+wereevaluated.Thesecondaryoutcomewastheassociationbetweeneachvariable(HRG,
+P-SEP,PCT,CRP,SOFAscore,andAPACHEIIscore)andmortality.
+Statisticalanalysis
+Allthestatisticalmethodsweredesignedapriori,exceptforthestatisticalanalysisshowninS1
+Fig.Thissubgroupanalysiswasdesignedasapost-hocanalysisbecauseitwasconductedwhile
+exploringthedata.
+Continuousvariablesarepresentedasthemedian(interquartilerange[IQR],25thto75th
+percentiles)orthemean(95%confidenceinterval[CI]),anddifferencesbetweensurvivors
+andnon-survivorswereanalyzedusingtheMann–WhitneyUtest.Categoricalvariablesare
+presentedasproportions,anddifferencesbetweensurvivorsandnon-survivorswereanalyzed
+usingFisher’sexacttest.Thetime-dependentchangesineachvariableinsurvivorsandnon-
+survivorswerecomparedusinggeneralizedlinearmixedmodels(GLMMs)forrepeatedmea-
+sures.TheCoxproportionalhazardsmodelandKaplan–Meiermethodwereusedforsurvival
+analysis.Theabilityofeachvariabletopredict28-daymortalitywasevaluatedusingtheCox
+proportionalhazardsmodelwitheachvariableasatime-dependentcovariateandthen
+adjustedfortheAPACHEIIscoretocorrectfortheseverityofdisease.Thehazardratios
+(HRs)and95%CIswereestimated.Inaddition,patientswithsepsiswerestratifiedaccording
+tobackgroundfactorstoevaluatetheassociationbetweenHRGlevelsand28-daymortality.
+Afterdividingpatientswithsepsisintotwogroupsaccordingtothecutoffvalue,whichwas
+derivedfromreceiveroperatingcharacteristicanalysisinlogisticregressionanddetermined
+usingtheYoudenindexmethod,cumulativesurvivalrateswereestimatedusingtheKaplan–
+Meiermethodandtestedusingthelog-ranktest.Thesignificanceleveloftestingwassetat
+0.05(two-sidedpvalue).IBMSPSSStatistics(version25.0;InternationalBusinessMachines
+Corporation,Armonk,NY)wasusedtoanalyzetheGLMM,Stata17.0(StataCorpLLC,Col-
+legeStation,TX)wasusedtoanalyzetheCoxproportionalhazardsmodelwithtime-depen-
+dentcovariates,andJMPPro14.0.0(SASInstituteInc.,Cary,NC)wasusedfortheother
+analyses.
+Results
+Patientcharacteristics
+PatientswereregisteredfromAugust2018toSeptember2019in16Japanesehospitals:5uni-
+versityand11generalhospitals.Duringthestudy,11,511patientswereadmittedtotheICU
+and502patients(4.4%)werediagnosedwithsepsis.Writteninformedconsentwasobtained
+from201patients,andonepatientwhofailedtofollow-upwasexcluded.Finally,200patients
+wereanalyzedinthisstudy(Fig1).PatientcharacteristicsareshowninTable1andS1Table.
+PLOSONE|https://doi.org/10.1371/journal.pone.0283426 March29,2023 4/13
+--- Page 5 ---
+PLOS ONE Potentialofhistidine-richglycoproteinasanovelprognosticbiomarkerforsepsis
+Fig1.Patientflowchart.
+https://doi.org/10.1371/journal.pone.0283426.g001
+Themedianfirst-dayAPACHEIIandSOFAscoreswere25(IQR,20–31)and10(IQR,7–12),
+respectively,and132patients(66.0%)werediagnosedwithsepticshock.The28-and90-day
+mortalityrateswere11.5%(23patients)and19.0%(38patients),respectively.Themaincauses
+of28-daymortalityweremultipleorgandysfunctionsyndromeassociatedwithexacerbation
+oftheprimarydisease(18cases),fatalarrhythmia(twocases),andothers(threecases).
+TimecourseofplasmaHRGlevelsandothermarkers
+S2TableshowsmeanHRGlevelsondays1,3,5,7,andlastobservationtillday7carriedfor-
+ward(LOCF)insurvivorsandnon-survivors.HRGlevelinnon-survivorswassignificantly
+lowerthanthatinsurvivorsoneachday(P=0.006,0.001,0.004,0.02,and<0.001,
+respectively).
+Fig2showsthecomparativetimecoursesofHRGinsurvivorsandnon-survivorsobtained
+usingGLMMs.AlthoughtheHRGwasunchangedatlowlevelsupto7daysinnon-survivors
+andrecoveredfromday5insurvivors,therewasnotime×survivors/non-survivorsinterac-
+tionintheirtime-dependentchanges(P=0.34).However,themaineffectofGLMMswas
+PLOSONE|https://doi.org/10.1371/journal.pone.0283426 March29,2023 5/13
+--- Page 6 ---
+PLOS ONE Potentialofhistidine-richglycoproteinasanovelprognosticbiomarkerforsepsis
+Table1. Patientcharacteristicsinsurvivorsandnon-survivors.
+Variables Total(n=200) Survivors(n=177) Non-survivors(n=23) Pvalue
+Age,median(IQR),years 75(67–83) 75(67–83) 75(67–86) 0.73
+Sex,male 110(55.0%) 94(53.1%) 16(69.6%) 0.18
+Height,median(IQR),cm 160(150–165) 160(150–166) 158(150–164) 0.74
+Weight,median(IQR),kg 55(46–65) 55(47–65) 49(46–59) 0.13
+Surgicaladmission 61(30.5%) 57(32.2%) 4(17.4%) 0.23
+APACHEIIscore*,median(IQR) 25(20–31) 25(19–30) 35(24–41) <0.001
+SOFAscore*,median(IQR) 10(7–12) 10(7–12) 13(11–16) <0.001
+Septicshock 132(66.0%) 112(63.3%) 20(87.0%) 0.03
+Inotropes/vasopressors 160(80.0%) 139(78.5%) 21(91.3%) 0.18
+Acutekidneyinjury 109(54.5%) 93(52.5%) 16(69.6%) 0.18
+Renalreplacementtherapy 33(16.5%) 24(13.6%) 9(39.1%) 0.005
+Mechanicalventilation 99(49.5%) 83(46.9%) 16(69.6%) 0.047
+Sourceofinfection 0.10
+Lung 51(25.5%) 39(22.0%) 12(52.2%)
+Urinarytract 38(19.0%) 36(20.3%) 2(8.7%)
+Gastrointestinaltract 36(18.0%) 33(18.6%) 3(13.0%)
+Hepatobiliarytract 26(13.0%) 25(14.1%) 1(4.3%)
+Boneandsofttissue 20(10.0%) 18(10.2%) 2(8.7%)
+Others 29(14.5%) 26(14.7%) 3(13.0%)
+*Onday1
+https://doi.org/10.1371/journal.pone.0283426.t001
+significant(P<0.001),andHRGlevelsinnon-survivorsremainedconsistentlylowerthan
+thoseinsurvivors.
+Fig3showsdifferencesintimecoursesofP-SEP,PCT,CRP,andSOFAscoresbetweensur-
+vivorsandnon-survivorsusingGLMMs.Therewasasignificanttime×survivors/non-survi-
+vorsinteractioninthetime-dependentchangesinP-SEP(P<0.001),withanincreaseinnon-
+survivorsandadecreaseinsurvivorsuptosevendays;themaineffectofGLMMswasalsosig-
+nificant(P=0.02).Therewasnosignificanttime×survivors/non-survivorsinteractioninthe
+time-dependentchangesinPCT(P=0.23),andthemaineffectofGLMMswasnotsignificant
+(P=0.14).Therewasasignificanttime×survivors/non-survivorsinteractioninthetime-
+dependentchangesinCRP(P=0.01),butthemaineffectofGLMMswasnotsignificant
+(P=0.08).Therewasasignificanttime×survivors/non-survivorsinteractioninthetime-
+dependentchangesinSOFAscores(P<0.001),whichremainedunchangedinnon-survivors
+anddecreasedinsurvivorsovertime.ThemaineffectofGLMMswasalsosignificant
+(P<0.001),andSOFAscoresinnon-survivorsremainedconsistentlyhigherthanthosein
+survivors.
+Associationbetweenmarkersandmortality
+Table2showstheassociationbetweeneachvariableandthe28-daymortality.Intheunivariate
+Coxproportionalhazardsmodelwitheachvariableasatime-dependentcovariate,higher
+HRGlevelsweresignificantlyassociatedwithalowerriskofmortality(HR,0.85[95%CI,
+0.78–0.92];P<0.001).TheHarrell’sC-indexvalueofHRGformortalitywas0.72.P-SEP
+(HR,1.01[95%CI,1.002–1.02];P=0.02)andSOFAscores(HR,1.34[95%CI,1.24–1.45];
+P<0.001)werealsosignificantlyassociatedwithariskofmortality.However,PCTandCRP
+werenotassociatedwithmortality(P=0.20and0.34,respectively).Afteradjustingforthe
+PLOSONE|https://doi.org/10.1371/journal.pone.0283426 March29,2023 6/13
+--- Page 7 ---
+PLOS ONE Potentialofhistidine-richglycoproteinasanovelprognosticbiomarkerforsepsis
+Fig2.ComparativetimecoursesofplasmaHRGlevelsinsurvivorsandnon-survivors.GLMMswereusedto
+comparethetime-dependentchangesinplasmaHRGlevelsbetweensurvivors(n=177)andnon-survivors(n=23)
+amongpatientswithsepsis.Therewasnotime×survivors/non-survivorsinteractioninthetime-dependentchanges
+inHRG(P=0.34).However,themaineffectofGLMMswassignificant(P<0.001),andHRGlevelsinnon-survivors
+remainedconsistentlylowerthanthoseinsurvivors.ContrasttestinGLMMs;*P=0.004,***P<0.001.
+https://doi.org/10.1371/journal.pone.0283426.g002
+first-dayAPACHEIIscore,HRGlevels(adjustedHR,0.88[95%CI,0.81–0.96];P=0.003)and
+SOFAscores(adjustedHR,1.34[95%CI,1.19–1.51];P<0.001)remainedsignificantprog-
+nosticfactors.
+Thesensitivity,specificity,andpositiveandnegativepredictivevaluesofthefirst-dayHRGlev-
+elsassociatedwithmortalityatthecutofflevelof14.03μg/mLwere0.48,0.83,0.27,and0.92,
+respectively.Whenpatientswithsepsisweredividedintohigh-andlow-HRGgroupsaccording
+tothiscutofflevel,theKaplan–Meiersurvivalcurves(S2Fig)showedthatmortalityinthelow-
+HRGgroupwassignificantlyhigherthanthatinthehigh-HRGgroup(log-ranktest,P<0.001).
+Subgroupanalysis
+S1FigshowstheassociationbetweenHRGlevelsand28-daymortalityinsubgroupsstratified
+bythefollowingbackgroundfactors:APACHEIIscore,septicshock,creatinine,bilirubin,and
+lunginfection.IntheunivariateCoxproportionalhazardsmodelwithtime-dependentcovari-
+ates,higherHRGlevelsweresignificantlyassociatedwithalowerriskofmortalityinallsub-
+groups,exceptinthegroupwithbilirubinlevelsof2mg/dLorhigher.
+Discussion
+Wedemonstratedthatfirst-dayHRGlevelsinnon-survivorpatientswithsepsisweresignifi-
+cantlylowerthanthoseinsurvivorsandremainedconsistentlylowerduringthefirstseven
+PLOSONE|https://doi.org/10.1371/journal.pone.0283426 March29,2023 7/13
+--- Page 8 ---
+PLOS ONE Potentialofhistidine-richglycoproteinasanovelprognosticbiomarkerforsepsis
+Fig3.Comparativetimecoursesofeachvariableinsurvivorsandnon-survivors.GLMMswereusedtocomparethetime-
+dependentchangesineachvariable,including(A)P-SEP,(B)PCT,and(C)CRPlevels,aswellas(D)SOFAscores,between
+survivors(n=177)andnon-survivors(n=23)amongpatientswithsepsis.(A)Therewasasignificanttime×survivors/non-
+survivorsinteractioninthetime-dependentchangesinP-SEP(P<0.001).ThemaineffectofGLMMswassignificant(P=0.02),
+andP-SEPlevelsinnon-survivorswerehigherthanthoseinsurvivors.(B)Therewasnosignificanttime×survivors/non-survivors
+interactioninthetime-dependentchangesinPCT(P=0.23).ThemaineffectofGLMMswasnotsignificant(P=0.14),andPCT
+levelsinsurvivorsandnon-survivorswerenotdifferent.(C)Therewasasignificanttime×survivors/non-survivorsinteractionin
+thetime-dependentchangesinCRP(P=0.01).However,themaineffectofGLMMswasnotsignificant(P=0.08),andCRPlevels
+insurvivorsandnon-survivorswerenotdifferent.(D)Therewasasignificanttime×survivors/non-survivorsinteractioninthe
+time-dependentchangesinSOFAscores(P<0.001).ThemaineffectofGLMMswassignificant(P<0.001),andSOFAscoresin
+non-survivorsremainedconsistentlyhigherthanthoseinsurvivors.
+https://doi.org/10.1371/journal.pone.0283426.g003
+daysintheICU.RepeatedlymeasuredHRGlevelsweresignificantlyassociatedwithmortality
+intheacutephaseofsepsis.ThesecharacteristicsofHRGwereconfirmedinpatientswith
+varyingseverity,organdamage,andsourceofinfection.
+Previously,werevealedthatplasmaHRGlevelsweremarkedlydecreasedduetoarapid
+reductioninHRGmRNAexpressionintheliver,depositionofHRGonimmunothrombi,and
+degradationofHRGbythrombininasepsisstate[18].Andwereportedthatfirst-dayHRG
+levelsinpatientswithsepsis(n=20)weresignificantlylowerthanthoseinpatientswithnon-
+infectivesystemicinflammatoryresponsesyndrome(n=50)inasingle-center[12];HRGlev-
+elsinnon-survivors(n=16)weresignificantlylowerthanthoseinsurvivors(n=83)among
+patientswithsepsisin11Japanesehospitals[19].Consistentwithourpreviousstudies,first-
+dayHRGlevelsinnon-survivorsweresignificantlylowerthanthoseinsurvivorsinthisstudy.
+Regardingthetime-dependentchangeinHRG,survivorsshowedrecoveryfromday5,and
+PLOSONE|https://doi.org/10.1371/journal.pone.0283426 March29,2023 8/13
+--- Page 9 ---
+PLOS ONE Potentialofhistidine-richglycoproteinasanovelprognosticbiomarkerforsepsis
+Table2. Associationbetweeneachvariableand28-daymortality.
+Univariateanalysis AdjustedforAPACHEIIscore*
+Variables HR(95%CI) Pvalue Harrell’sC-Index AdjustedHR(95%CI) Pvalue
+HRG 0.85(0.78–0.92) <0.001 0.72 0.88(0.81–0.96) 0.003
+P-SEP(/100) 1.01(1.002–1.02) 0.02 0.70 1.00(0.99–1.02) 0.58
+PCT 1.01(0.99–1.03) 0.20 0.63 1.00(0.99–1.02) 0.74
+CRP 1.02(0.98–1.07) 0.34 0.59 1.03(0.99–1.08) 0.13
+SOFAscore 1.34(1.24–1.45) <0.001 0.87 1.34(1.19–1.51) <0.001
+APACHEIIscore* 1.12(1.07–1.17) <0.001 0.74
+Lactate* 1.15(1.06–1.25) 0.001 0.71
+*Onday1
+TheCoxproportionalhazardsmodelwitheachvariableasatime-dependentcovariatewasusedtoevaluateassociationsbetweeneachvariableand28-daymortality.
+APACHEIIscoreandlactatewereonlyusedforfirst-dayvalues.AdjustedHRdenotestheHRadjustedforfirst-dayAPACHEIIscore.
+https://doi.org/10.1371/journal.pone.0283426.t002
+HRGlevelsondays5and7weresignificantlyhigherthanthoseonday1.Incontrast,HRG
+levelsinnon-survivorsremainedlowandunchanged.HRGlevelsinnon-survivorswere
+consistentlylowerthanthoseinsurvivorsduringtheobservationalperiod.Thesecharacter-
+isticsweresimilartothoseobservedintheSOFAscores.Regardingothermarkers,first-day
+P-SEPlevelsweresimilarbetweensurvivorsandnon-survivors,buttherewasasignificant
+differenceinitstime-dependentchanges,consistentwithpreviousreports[8].Inthepres-
+entstudy,PCTandCRPlevelsdecreasedsimilarlyovertimeinbothsurvivorsandnon-sur-
+vivorsasinpreviousstudies[8,9].WeshowedthattherepeatedlymeasuredHRG,P-SEP,
+andSOFAscores,andnotPCTandCRP,weresignificantlyassociatedwithmortalityinthe
+acutephaseofsepsis.AlthoughseveralstudieshavereportedtheusefulnessofP-SEPasa
+prognosticbiomarkerforsepsis,similartothepresentstudy,itisdifficulttopredictthe
+prognosisofsepsisbasedonPCTandCRPlevels[7–9].SOFAandAPACHEIIscores
+requirethecalculationofmultipleitems;thesescoresarewell-establishedprognosticindi-
+catorsforcriticallyillpatientsintheICU,especiallypatientswithseveresepsis[1,5,6].The
+abilityofHRGtopredictmortalitywasinferiortothatoftheSOFAscorebutsuperiorto
+thatofothersinglebiomarkers,includingP-SEP,PCT,andCRP.Toconfirmthereliability
+ofHRGasaprognosticbiomarker,weperformedadditionalanalyses,suchasAPACHEII-
+adjustedandsubgroupanalyses,whichdemonstratedthatHRGlevelswereefficientprog-
+nosticbiomarkersintheacutephaseofsepsis.
+WedemonstratedthatHRGlevelsinnon-survivorpatientswithsepsiswerealwaysdiffer-
+entfromthoseinsurvivorsthroughoutthefirst7daysintheICU.Thistrendwassignificant
+onlyforHRGlevelsandSOFAscores.Theinitiallevelsofthesetwomarkersweredifferentin
+survivorsandnon-survivors;theyimprovedinsurvivorsbutnotinnon-survivors.Thesefind-
+ingsareimportantforassessingpatientresponsestotreatmentinclinicalsettings.Levelsof
+otherbiomarkers,includingP-SEP,PCT,andCRP,showedalittledifferencebetweensurvi-
+vorsandnon-survivorsonday1,followedbyagradualincreaseindifferencesbetweenthe
+groups.Moreover,inarecentproteomestudyonpatientswithseverecoronavirusdisease
+2019,theinitialHRGlevelwasoneofthemostusefulprognosticfactors,andHRGlevelsin
+non-survivorswereconsistentlylowerthanthoseinsurvivorsatmultiplesubsequentmeasure-
+ments[22].Theseresultsindicatethat,inadditiontothemarkersusedclinically,HRGpro-
+videsmorereliableinformationabouttheclinicalcourseintheacutephaseofsepsisand
+wouldenableustodiscriminatemoreseverelypatientswhotrulyneedmultidisciplinarytreat-
+ment.Furthermore,inourpreviousanimalstudy,wereportedthatreplenishmentofHRGin
+PLOSONE|https://doi.org/10.1371/journal.pone.0283426 March29,2023 9/13
+--- Page 10 ---
+PLOS ONE Potentialofhistidine-richglycoproteinasanovelprognosticbiomarkerforsepsis
+septicmicewithreducedHRGlevelsimprovedtheirsurvivalrate[18],whichmightalsopro-
+videanoveltherapeuticstrategyforsupplementationofHRGinthefuturetreatmentofsepsis.
+Thisstudyhassomelimitations.First,weenrolled200patientswithsepsisfrom16hospitals,
+andthe28-daymortality,medianfirst-dayAPACHEIIscore,andSOFAscorewere11.5%,25,
+and10,respectively.Themortalityratewaslowerthanexpected.InJapan,inseveresepsisand
+septicshockbasedontheSepsis-2definition[23],the28-daymortality,medianAPACHEII
+score,andSOFAscorewerereportedtobe18.9%,21–25,and8–9,respectively,in59ICUs[24],
+and18.0%,24–28,and9–13,respectively,in11ICUs[19].However,webelievethatourpatient
+groupwasappropriate,consideringtheseverityofthediseasebasedontheAPACHEIIand
+SOFAscores.ToconfirmthecapabilityofHRGasaprognosticbiomarkerforsepsis,itisadvis-
+abletoconductalargerstudy.Second,wecollectedlimiteddataafterICUdischargeand,there-
+fore,lackdataontherecoveryperiodforsurvivorswhoweredischargedearlyanddataonnon-
+survivorswhodiedearly.Tocompensateformissingdata,wecomparedthetime-dependent
+trendsbetweensurvivorsandnon-survivorsusingGLMMsforrepeatedmeasures.Thedata
+reportedinthisstudymayhavemissedhigherHRGlevelsinrecoveredsurvivorsandlower
+HRGlevelsinnon-survivors;hence,thepremiseof“missingatrandom”inGLMMsisunsatis-
+factoryandthemeanHRGdifferencebetweensurvivorsandnon-survivorsmightbebiased.
+Becauseitwasconsideredthatthemissingdatamighthaveledtoanunderestimationofthedif-
+ferenceinHRGbetweensurvivorsandnon-survivorsinGLMMs,LOCFanalysiswasper-
+formedtoverifythisissue.Itwasobservedthatthedatawerenotunderestimatedbecausethe
+meanday7HRGdifferenceinGLMMsandLOCFwas8.18and7.47μg/mL,respectively.
+Third,wedidnothavedetaileddataonconfoundingfactorsthataffectHRGlevels,suchasage,
+liverfunction,malignancystatus,andsteroiduse[25–28].Therefore,weperformedadditional
+subgroupanalysestoconfirmthereliabilityoftheHRGtrendsasaprognosticbiomarker.How-
+ever,theinfluenceofthesefactorscannotbecompletelyexcludedandhencemighthave
+affectedourdata.Fourth,werevealedthatHRGlevelsinnon-survivorpatientswithsepsiswere
+consistentlylowerthanthoseinsurvivors.However,themechanismoftimetrendsinHRG
+aftertreatmentofsepsisisnotclear,therefore,furtherstudiesonHRGwouldbeneeded.
+Conclusions
+HRGlevelsinnon-survivorpatientswithsepsisweresignificantlylowerthanthoseinsurvi-
+vorsonday1andremainedconsistentlylowerthanthoseinsurvivorsduringthefirst7days
+intheICU.RepeatedlymeasuredHRGwassignificantlyassociatedwithmortality.Wesuggest
+thatHRGisausefuldiagnosticandprognosticbiomarkerintheacutephaseofsepsis.How-
+ever,largevalidationstudiesareneededtoconfirmourfindings.
+Supportinginformation
+S1Table.Patientcharacteristicsinsurvivorsandnon-survivors.
+(PDF)
+S2Table.PlasmaHRGlevelsondays1,3,5,7,andLOCFinsurvivorsandnon-survivors.
+(PDF)
+S1Fig.AssociationbetweenplasmaHRGlevelsandmortalityinsubgroups.TheCoxpro-
+portionalhazardsmodelwithtime-dependentcovariateswasusedtoevaluateassociations
+betweenHRGlevelsand28-daymortality.HigherHRGlevelsweresignificantlyassociated
+withalowerriskofmortalityinallsubgroups,exceptinthegroupwithbilirubinlevels�2
+mg/dL.
+(PDF)
+PLOSONE|https://doi.org/10.1371/journal.pone.0283426 March29,2023 10/13
+--- Page 11 ---
+PLOS ONE Potentialofhistidine-richglycoproteinasanovelprognosticbiomarkerforsepsis
+S2Fig.Kaplan–Meiersurvivalcurves.Patientswithsepsisweredividedintohigh-andlow-
+HRGgroupsaccordingtothecutofflevelof14.04μg/mL.Thesensitivityandspecificityof
+first-dayHRGlevelsassociatedwithmortalitywere0.48and0.83,respectively,atthiscutoff
+level.
+(PDF)
+S3Fig.Schematicdiagramofenzyme-linkedimmunosorbentassay.
+(PDF)
+S1Data.
+(DOCX)
+Acknowledgments
+WewouldliketothankEditage(www.editage.com)forEnglishlanguageediting.Wethank
+theOkayamaResearchInvestigationOrganizingNetwork(ORION;theleadingauthorisHir-
+oshiMorimatsumorima-h@md.okayama-u.ac.jp)Investigatorsfortheirvaluablecontribu-
+tionstothisstudy.Wearegratefultothefollowinghospitalsandprincipalinvestigators
+affiliatedwithORIONfortheirparticipationinthestudy:JapaneseRedCrossOkayamaHos-
+pital(SatoruOku,EtsuIwasaki),OkayamasaiseikaiGeneralHospital(ShunichiMizukawa),
+OnomichiMunicipalHospital(MitsunoriTsukioki),KagawaPrefecturalCentralHospital
+(AkihitoHirasaki),NationalHospitalOrganizationFukuyamaMedicalCenter(NaotoTomot-
+suka,YoheiTakano),TsuyamaChuoHospital(NaokiMorimoto,SusumuKawanishi),Shi-
+maneUniversityHospital(YojiSaito,TetsuroNikai,HideakiMori),JapaneseRedCross
+SocietyHimejiHospital(ToshiakiKurasako,MasakazuYamaoka),KagawaUniversityHospi-
+tal(GotaroShirakami,TakehikoAsaga,TomonoriSugawara),TottoriUniversityHospital
+(YukariMinami,KazumiFunaki),FukuyamaCityHospital(HidekuniHidaka,KenzoIshii),
+KawasakiMedicalSchoolGeneralMedicalCenter(HiroshiKatayama,HajimeHinenoya),
+JapaneseRedCrossKobeHospital(RyoichiMizoue,YutaKumada),OkayamaCityHospital
+(MasakazuKimura),andKawasakiMedicalSchoolHospital(HidekiNakatsuka,Kyoichiro
+Maeshima).WearegratefultotheOkayamaUniversityHospitalBiobank(OkadaiBiobank)
+fortheirassistanceinsamplestorage.
+AuthorContributions
+Conceptualization:NaoyaKawanoue,KosukeKuroda,HidenoriWake,MasahiroNishibori,
+HiroshiMorimatsu.
+Datacuration:NaoyaKawanoue.
+Formalanalysis:NaoyaKawanoue,KosukeKuroda,SatoshiSuzuki,HirokiHosoi,Hiroshi
+Morimatsu.
+Fundingacquisition:MasahiroNishibori,HiroshiMorimatsu.
+Investigation:NaoyaKawanoue,KosukeKuroda,HirokoYasuda,MasahikoOiwa,Satoshi
+Suzuki,HidenoriWake,MasahiroNishibori,HiroshiMorimatsu.
+Methodology:NaoyaKawanoue,KosukeKuroda,HidenoriWake,MasahiroNishibori,
+HiroshiMorimatsu.
+Projectadministration:NaoyaKawanoue,HiroshiMorimatsu.
+Resources:HidenoriWake,MasahiroNishibori.
+PLOSONE|https://doi.org/10.1371/journal.pone.0283426 March29,2023 11/13
+--- Page 12 ---
+PLOS ONE Potentialofhistidine-richglycoproteinasanovelprognosticbiomarkerforsepsis
+Supervision:MasahiroNishibori,HiroshiMorimatsu.
+Validation:NaoyaKawanoue,HirokoYasuda,MasahikoOiwa,SatoshiSuzuki,HirokiHosoi.
+Visualization:NaoyaKawanoue.
+Writing–originaldraft:NaoyaKawanoue.
+Writing–review&editing:KosukeKuroda,HirokoYasuda,MasahikoOiwa,SatoshiSuzuki,
+HidenoriWake,HirokiHosoi,MasahiroNishibori,HiroshiMorimatsu.
+References
+1. SingerM,DeutschmanCS,SeymourCW,Shankar-HariM,AnnaneD,BauerM,etal.Thethirdinterna-
+tionalconsensusdefinitionsforsepsisandsepticshock(Sepsis-3).JAMA.2016;315(8):801–10.
+https://doi.org/10.1001/jama.2016.0287PMID:26903338
+2. RuddKE,JohnsonSC,AgesaKM,ShackelfordKA,TsoiD,KievlanDR,etal.Global,regional,and
+nationalsepsisincidenceandmortality,1990–2017:analysisfortheGlobalBurdenofDiseaseStudy.
+Lancet.2020;395(10219):200–11.https://doi.org/10.1016/S0140-6736(19)32989-7PMID:31954465
+3. RheeC,DantesR,EpsteinL,MurphyDJ,SeymourCW,IwashynaTJ,etal.Incidenceandtrendsof
+sepsisinUShospitalsusingclinicalvsclaimsdata,2009–2014.JAMA.2017;318(13):1241–9.https://
+doi.org/10.1001/jama.2017.13836PMID:28903154
+4. KaukonenKM,BaileyM,SuzukiS,PilcherD,BellomoR.Mortalityrelatedtoseveresepsisandseptic
+shockamongcriticallyillpatientsinAustraliaandNewZealand,2000–2012.JAMA.2014;311
+(13):1308–16.https://doi.org/10.1001/jama.2014.2637PMID:24638143
+5. JonesAE,TrzeciakS,KlineJA.TheSequentialOrganFailureAssessmentscoreforpredictingout-
+comeinpatientswithseveresepsisandevidenceofhypoperfusionatthetimeofemergencydepart-
+mentpresentation.CritCareMed.2009;37(5):1649–54.https://doi.org/10.1097/CCM.
+0b013e31819def97PMID:19325482
+6. VincentJL,deMendonc¸aA,CantraineF,MorenoR,TakalaJ,SuterPM,etal.UseoftheSOFAscore
+toassesstheincidenceoforgandysfunction/failureinintensivecareunits:resultsofamulticenter,pro-
+spectivestudy.Workinggroupon“sepsis-relatedproblems”oftheEuropeanSocietyofIntensiveCare
+Medicine.CritCareMed.1998;26(11):1793–800.https://doi.org/10.1097/00003246-199811000-00016
+PMID:9824069
+7. WenMY,HuangLQ,YangF,YeJK,CaiGX,LiXS,etal.Presepsinlevelinpredictingpatients’in-hospi-
+talmortalityfromsepsisundersepsis-3criteria.TherClinRiskManag.2019;15:733–9.https://doi.org/
+10.2147/TCRM.S209710PMID:31354281
+8. MassonS,CaironiP,SpanuthE,ThomaeR,PanigadaM,SangiorgiG,etal.Presepsin(solubleCD14
+subtype)andprocalcitoninlevelsformortalitypredictioninsepsis:datafromthealbuminItalianOut-
+comeSepsistrial.CritCare.2014;18(1):R6.https://doi.org/10.1186/cc13183PMID:24393424
+9. GibotS,CravoisyA,Kolopp-SardaMN,Be´ne´MC,FaureG,BollaertPE,etal.Time-courseofsTREM
+(solubletriggeringreceptorexpressedonmyeloidcells)-1,procalcitonin,andC-reactiveproteinplasma
+concentrationsduringsepsis.CritCareMed.2005;33(4):792–6.https://doi.org/10.1097/01.ccm.
+0000159089.16462.4aPMID:15818107
+10. PierrakosC,VelissarisD,BisdorffM,MarshallJC,VincentJL.Biomarkersofsepsis:timeforareap-
+praisal.CritCare.2020;24(1):287.https://doi.org/10.1186/s13054-020-02993-5PMID:32503670
+11. KoideT,FosterD,YoshitakeS,DavieEW.Aminoacidsequenceofhumanhistidine-richglycoprotein
+derivedfromthenucleotidesequenceofitscDNA.Biochemistry.1986;25(8):2220–5.https://doi.org/
+10.1021/bi00356a055PMID:3011081
+12. KurodaK,WakeH,MoriS,HinotsuS,NishiboriM,MorimatsuH.Decreaseinhistidine-richglycoprotein
+asanovelbiomarkertopredictsepsisamongsystemicinflammatoryresponsesyndrome.CritCare
+Med.2018;46(4):570–6.https://doi.org/10.1097/CCM.0000000000002947PMID:29303798
+13. PoonIK,PatelKK,DavisDS,ParishCR,HulettMD.Histidine-richglycoprotein:theSwissArmyknifeof
+mammalianplasma.Blood.2011;117(7):2093–101.https://doi.org/10.1182/blood-2010-09-303842
+PMID:20971949
+14. WakeH.Histidine-richglycoproteinmodulatestheblood-vascularsysteminsepticcondition.ActaMed
+Okayama.2019;73(5):379–82.https://doi.org/10.18926/AMO/57366PMID:31649362
+15. BlankM,ShoenfeldY.Histidine-richglycoproteinmodulationofimmune/autoimmune,vascular,and
+coagulationsystems.ClinRevAllergyImmunol.2008;34(3):307–12.https://doi.org/10.1007/s12016-
+007-8058-6PMID:18219588
+PLOSONE|https://doi.org/10.1371/journal.pone.0283426 March29,2023 12/13

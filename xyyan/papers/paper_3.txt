@@ -1,0 +1,971 @@
+
+--- Page 1 ---
+Article https://doi.org/10.1038/s41467-024-47493-0
+fi
+Protein disul de isomerase cleaves allosteric
+fi
+disul des in histidine-rich glycoprotein to
+regulate thrombosis
+Received:2November2023 KeyuLv1,17,ShuaiChen1,2,17,XulinXu 1,3,4,17,JoyceChiu 5,HaoqingJ.Wang6,7,
+YunyunHan 8,XiaodanYang8,SherylR.Bowley9,HaoWang1,ZhaomingTang10,
+Accepted:27March2024
+NingTang11,AizhenYang12,ShuofeiYang13,JinyuWang14,SiJin15,YiWu12,
+AlvinH.Schmaier16,LiningA.Ju 6,7,PhilipJ.Hogg 5&ChaoFang 1,3,4
+Checkforupdates
+Theessenceofdifferencebetweenhemostasisandthrombosisisthatthe
+clottingreactionisahighlyfine-tunedprocess.Vascularproteindisulfide
+isomerase(PDI)representsacriticalmechanismregulatingthefunctionsof
+hemostaticproteins.Hereinweshowthathistidine-richglycoprotein(HRG)is
+asubstrateofPDI.ReductionofHRGbyPDIenhancestheprocoagulantand
+anticoagulantactivitiesofHRGbyneutralizationofendothelialheparansul-
+fate(HS)andinhibitionoffactorXII(FXIIa)activity,respectively.MurineHRG
+deficiency(Hrg−/−)leadstodelayedonsetbutenhancedformationofthrombus
+comparedtoWT.However,inthecombinedFXIIdeficiency(F12−/−)andHRG
+deficiency(bysiRNAorHrg−/−),thereisfurtherthrombosisreductioncom-
+paredtoF12−/−alone,confirmingHRG’sprocoagulantactivityindependentof
+FXIIa.MutationoftargetdisulfidesofPDIleadstoagain-of-functionmutantof
+HRGthatpromotesitsactivitiesduringcoagulation.Thus,PDI-HRGpathway
+fine-tunesthrombosisbypromotingitsrapidinitiationvianeutralizationofHS
+andpreventingexcessivepropagationviainhibitionofFXIIa.
+Mostantithromboticdrugsareassociatedwithbleedingrisks,albeitto maintain the clotting system in a quiescent state. For instance, the
+differentextent1.Theessenceisthathemostaticresponseisahighly initiationphaseissuppressedbyTFpathwayinhibitor(TFPI)6,while
+dynamicprocessthatisfine-tunedbymultiplepositiveandnegative thepropagationphasemediatedbyactivatedFXII(FXIIa)isinhibited
+regulatorymechanisms.Aspartofthenormaldefenseprocesses,the byC1inhibitor7andhistidine-richglycoprotein(HRG)8.Additionally,
+clottingsystemisrapidlyinitiatedduringhemostasisfollowingvessel procoagulantresponsesalsoaresuppressedbyvascularcomponents
+damagetosealthebreachandsustaintheintegrityofaclosed,high- such as heparan sulfate (HS) and other glycosaminoglycans which
+pressure circulatory system2. Concomitant with activated platelets inhibit coagulation by binding antithrombin on the endothelial
+thatarerecruitedtotheinjurysiteasamajorcomponentofadevel- surface9–11etc.Theinitiationofthrombosisunderpathologiccondition
+opingthrombus,bloodcoagulation,triggeredbytissuefactor(TF)of requires the rapid overwhelming of the regulatory anticoagulant
+theextrinsicpathway,isactivatedtoproducethrombinresultingin mechanisms. However, the biology underlying these events remain
+fibrin generation. The clot formation is further propagated by the largelyunknown.Understandingthemolecularmechanismswhereby
+intrinsicpathwaythroughactivationoffactorXII(FXII)onnegatively thrombusformationisfine-tunedisimportantforthedesignofmore
+charged surface such as polyphosphate released by activated precisetherapeuticstrategies.
+platelets3–5 and perhaps other entities such as microvesicles, exo- Thesecretionofproteindisulfideisomerase(PDI)followingvessel
+somes, DNA, and RNA, ultimately leading to thrombus formation. injuryhas beenrecentlyrecognized ascriticalinitiationsignalsthat
+Under physiological conditions there exist multiple mechanisms to inducethrombusformation2,12.PDIistheprototypicmemberofthiol
+Afulllistofaffiliationsappearsattheendofthepaper. e-mail:fangc@hust.edu.cn
+NatureCommunications|( 2024)1 5:3129 1
+;,:)(0987654321 ;,:)(0987654321
+--- Page 2 ---
+Article https://doi.org/10.1038/s41467-024-47493-0
+isomerase family responsible for the catalysis of disulfide bond formedstabledisulfidecomplexeswiththeirsubstrateswhichmigrated
+rearrangement13. Originally identified in the endoplasmic reticulum withadistinctpatternfromthatofthePDItrappingvariants(Fig.1b,left
+(ER), PDI is secreted by activated vascular cells and proposed as a panel),indicating that PDIand ERp57 exhibit differentspectrums of
+“masterswitch”13tomodifyallostericdisulfidebondswhichcontrolthe substrates.Additionally,HRGwas notdetectedinanyofthe ERp57-
+functionsofthrombosis-relatedproteinswheretheyreside12.Thishas substratecomplexes(Fig.1b,centralandrightpanels).Together,these
+beenrecognizedasanimportantmechanismthatregulatesplatelet resultsdemonstratedthatHRGwasasubstrateofPDIbutnotERp57.
+activation and fibrin generation13–17. In addition, a clinical trial in
+advancedcancerpatientsshowedthattargetingextracellularPDIby PDIcleavesthreedisulfidebondsinHRG
+isoquercetin reduced coagulation markers without causing major HumanHRGcontains16Cyspredictedtoform6disulfidebonds25.To
+bleedingevents18,19.However,theprecisepathwaysthroughwhichPDI identifywhichdisulfideswerethetargetsofPDI,weemployeddiffer-
+modulatesthekineticsofthrombosisremainunknown.Weperformed entialCysalkylationandmassspectrometry26(Fig.1c)toquantifythe
+mechanism-basedkinetictrappingusingPDIvariantswhichhavethe redoxstateofCysinHRGpurifiedfromhumanplasma.Wedetected42
+C-terminalcysteineinthecatalyticCGHCmotifreplacedbyAlatoform Cys-containingpeptidesthatcoveredall16CysinHRG(Supplemen-
+stabledisulfide-linkedcomplexeswithsubstratestoallowtheiriden- taryTableS1)withhighconfidenceoftandemmassspectra(Supple-
+tificationbymassspectrometry20.HRGwasidentifiedtobeasubstrate mentaryFig.S2).BasedontheredoxstateoftheseCys,8ratherthan6
+ofPDIredoxactivityusingplatelet-richplasma. disulfidebondswerepredictedinhumanHRG.Inthepresenceof2-or
+HRGexhibitstwopotentialfunctionsduringcoagulation:onone 10-foldmolarexcessofPDI,6Cysweresignificantlymorereduced:
+hand,HRGinhibitstheintrinsicpathwayofcoagulationbybindingto C306,C309,C390,C434,C409andC410.TheseCysform3disulfide
+FXIIa21,22;ontheotherhand,HRGattenuatestheanticoagulantactivity bonds: C306–C309, C390–C434 and C409–C410 (Fig. 1d). The dis-
+ofantithrombinbycompetingforbindingtoendothelialHS11,23,24.In ulfidepairingofCyswereconfirmedindependentlyusingadisulfide-
+thisstudy,wedeterminedtheeffectsofPDI-mediatedmodificationof linkedpeptidemethod27.Sixofthe8disulfidebondsweremapped
+disulfidesonthefunctionsofHRGandtheirinfluenceonthrombus (SupplementaryTableS2)andtheirrelativeabundancetoC6–C486
+formation.OurresultsshowthatcleavageofallostericdisulfidesbyPDI disulfidewascalculated(Fig.1e).C60–C71andC87–C108werecross-
+enhances the binding of HRG to HS and FXIIa, which differentially linkedtoformatripeptideproductthatcouldnotberesolvedbyMS/
+regulatesthrombosis:attheearlyphase,PDIpromotesHRGbindingto MS.Notably,all3disulfidebondsreducedbyPDIresideinproximityto
+endotheliumtodisplaceantithrombinallowingforrapidinitiationof the histidine-rich region (HRR) (Fig. 1f). Cleavage of these disulfide
+coagulation;atthelaterstage,PDIcleavageofHRGdisulfidesenhances bondssuggestsaroleforPDIincontrollinginteractionsofHRRwithits
+theinhibitionofFXIIatopreventexcessiveclotformation.Mutationof bindingpartnerssuchasheparin,HS,cationZn2+andFXIIa28,29.
+thesetargetdisulfidebondsledtoagain-of-functionmutantofHRG
+which enabled its activities. Thus, PDI modulation of allosteric dis- PDIincreasesbindingaffinityofHRGwithheparinandFXIIa
+ulfides in HRG represents a novel regulatory mechanism that fine- To characterize the consequence of PDI cleavage of HRG disulfide
+tunesthekineticsofarterialthrombusformation.Thisstudyprovides bonds30,wefirstquantitativelymeasuredtheinteractionsofHRGwith
+mechanistic insights for the clinical effects of PDI inhibitors which itsligandsincludingheparin,ananalogofendothelialHS,andFXIIa,
+reducethrombosiswithoutpromotingbleeding18,19. using the ultra-sensitive biomembrane force probe (BFP)31 (Fig. 2a).
+The molecular adhesion was detected based on the force trace
+Results between the Target bead (coated with heparin or FXIIa) and Probe
+PlasmaHRGisasubstrateforPDI bead(coatedwithHRG)duringrepetitiveBFPcycleswitheachcon-
+We identified plasma HRGas a redox substrate of extracellular PDI sistingofthreeconsecutivesteps:approach,contactandretraction,
+using mechanism-based kinetic trapping in combination with 2D drivenbyapiezoactuator32(SupplementaryFigs.S3aandS3b).The
+electrophoresisandmassspectrometry20.Basedonthemechanismsof frequencyofHRGadhesionwas<2%whenthetargetligands(heparin
+PDI-catalyzeddisulfidereduction,weprepared5differentvariantsof or FXIIa) were absent on the beads (Supplementary Fig. S3c), con-
+recombinant PDI (Supplementary Fig. S1). To validate the disulfide firming the binding specificity. Enumeration of the adhesion fre-
+reactionbetweenHRGandPDIvariants,weanalyzedthePDI-substrate quenciesunderdifferentcontacttimeshowedthattheinteractionsof
+complexes isolated from platelet-rich plasma by immunoblotting. HRGwithheparin(Fig.2b)andFXIIa(Fig.2c)werebothsignificantly
+Whenprobedwithanti-FLAG,whichrecognizesrecombinantPDI,the increased in the presence of Zn2+(5 µM), consistent with previous
+threetrappingvariantswithoneorbothC-terminalCysintheCGHC reports21,24,andtheseinteractionswerefurtherenhancedwhenPDI-
+motifs replaced by Ala (CACC, CCCA and CACA) formed stable CCCCwasaddedintothesolutioncomparedtoPDI-AAAA.Inaddition,
+disulfide-linked complexes with their substrates. These complexes measurements of the binding kinetics showed that PDI-CCCC
+migratedathighermolecularweightonnon-reducinggel(Fig.1a,left increasedthecellularaffinity33ofHRGforheparin(0.26±0.03s−1vs
+panel), compared to the unbound monomeric PDI migrating atthe 1.87±0.19s−1, P=0.0024) (Fig. 2d) and FXIIa (0.36±0.06s−1 vs
+bottom.Whenprobedwithananti-HRGantibody,HRGwasdetected 1.81±0.30s−1,P=0.0215)(Fig.2e)by7-and5-folds,respectively,while
+betweenthe117kDand171kDmarkersinthesamplesincubatedwith PDI-AAAA exhibited limited effects in the presence of Zn2+. Taken
+PDI trapping variants (Fig. 1a, central panel). The molecular weight together, these results showed that PDI cleavage of HRG disulfide
+correspondedtostablecovalentcomplexesbetweenHRGandPDIat bondssignificantlyenhancedthemolecularinteractionsofHRGwith
+1:1 stoichiometry. Simultaneous visualization with secondary anti- heparinandFXIIa.
+bodieswithdifferentfluorochromeconjugatesshowedthecolocali-
+zationofHRG(Red)withthePDI-substratecomplexes(Green)(Fig.1a, PDIenhancesHRGneutralizationofHSbyantithrombin
+rightpanel).Incontrasttothetrappingvariants,neitherwt-PDI(CCCC) displacement
+norinert-PDI(AAAA),whereallcatalyticCyswerereplacedwithAla, WenextdeterminedtheeffectofPDIonthebindingofpurifiedhuman
+reactedwithHRG. plasmaHRGtoheparinusingthesolid-phasebindingassay.Compared
+Endoplasmicreticulumprotein57(ERp57)isamemberinthethiol to vehicle, treatment with PDI-CCCC, but not PDI-AAAA, markedly
+isomerasefamilywhichsharesasimilardomainstructureasPDIwith increased the binding of HRG to heparin-coated surface in a dose-
+twocatalyticCGHCmotifsindomainsaandaʼ13,15.Wedeterminedif dependentmannerinthepresenceofZn2+(1μM)(Fig.3a).However,
+ERp57alsoreactedwithHRGusingthesamestrategy.Immunoblotting thisbindingwascompletelyabolishedintheabsenceofZn2+,whichis
+showed that trapping variants of ERp57 (CACC, CCCA and CACA) consistentwithpreviousreport24.Incontrast,additionofCa2+didnot
+NatureCommunications|( 2024)1 5:3129 2
+--- Page 3 ---
+150
+100
+50
+0
+6 1 8 9 3 9 4 0
+8 7 0 9 2 0 3 1
+4 C 1 3 2 3 4 4
+6-
+C
+6
+0-
+7-
+C
+5-
+C
+0-
+C
+6-
+C
+0-
+C
+9-
+C
+C C 8 8 0 0 9 0
+C 1 2 3 3 4
+C C C C C
+Disulfide pair
+Disulfide pair
+increasethebindingofHRGonheparin(SupplementaryFig.S4).HRG (Fig.3d)toHUVECsinthepresenceofZn2+.Thesecombinedresults
+competeswithantithrombinforthebindingtovascularHSandneu- showed that PDI cleavage of allosteric disulfides in HRG led to
+tralizestheanticoagulantactivityofHSinaZn2+-dependentmanner enhancedHRGinteractionswithHSanddisplacementofantithrombin
+during vascular injury11,23,24. We evaluated the effect of PDI on HRG onendothelium.
+bindingtoendothelialHSincellculture.Humanplasmapre-treated
+with PDI-CCCC had significantly increased binding of HRG con- PDIenhancesHRGinhibitionofFXIIaproteaseactivity
+comitantwithattenuatedbindingofantithrombin(Fig.3b)onHUVECs HRGalsobindstoFXIIawithhighaffinitythroughtheHRRdomainand
+as compared to PDI-AAAA-treated group. When HUVECs were pre- inhibitstheintrinsicpathway21,22.WedeterminedtheeffectofPDIon
+treatedwithheparanase,HRGbindingwasabolished(Supplementary theinteractionofHRGwithFXIIa.PurifiedhumanplasmaHRGpre-
+Fig. S5), suggesting the interactions were glycosaminoglycans- treated with PDI-CCCC exhibited increased binding on FXIIa-coated
+dependent.TofurtherquantitatetheeffectofPDI,weperformeda surface in the presence of Zn2+ compared to PDI-AAAA- or vehicle-
+cell-based ELISA assay. Similarly, addition of PDI-CCCC to plasma treatedgroup(Fig.3e).Additionally,increasedHRGbindingtoFXIIaby
+increasedHRGbinding(Fig.3c)butdecreasedantithrombinbinding PDI-CCCCledtoenhancedinhibitionofFXIIaactivityalsodependent
+syC
+decudeR
+%
+a b
+c d
+Nil
+2x PDI
+10x PDI
+(4) (2) (2)
+(4) (3) (2) (5) (6)
+e
+10
+8
+6
+4
+2
+0
+C6- C4 C 8 6 6 0- C C 8 7 7 1 - C C 1 1 8 0 5 8 - C C 2 3 0 9 0 9 - C C 3 2 0 2 6 3 - C C 3 3 9 0 0 9 - C C 4 4 0 3 9 4 - C410
+ecnadnuba
+evitaleR
+684C-6C
+ot
+f
+n.d.n.d.
+CCCC CCAC ACCC ACAC AAAA CCCC CCAC ACCC ACAC AAAA CCCC CCAC ACCC ACAC AAAA
+kD
+460-
+238-
+171-
+117-
+71-
+55-
+ERp57 HRG Composite
+CCCC CCAC ACCC ACAC AAAA CCCC CCAC ACCC ACAC AAAA CCCC CCAC ACCC ACAC AAAA
+Article https://doi.org/10.1038/s41467-024-47493-0
+kD
+460-
+238-
+171-
+117-
+71-
+55-
+PDI HRG Composite
+Fig.1|PDIcleavesallostericdisulfidebondsinHRG.Disulfide-linkedcomplexes disulfidebondswereexperimentallymappedusingamethodwithdisulfide-linked
+isolatedfromhumanplatelet-richplasmafollowingmechanism-basedkinetic peptidesandtheirrelativeabundancetotheC6–C486disulfidecalculated.The
+trappingusingvariantsofPDI(a)orERp57(b)weresubjectedtoimmunoblotting cysteinepairingoftheidentifieddisulfidebondsinHRGwasconfirmedusinglabel-
+usinganti-FLAG(Green)andanti-HRGantibody(Red)undernon-reducingcondi- freedisulfide-linkedpeptidesbymassspectrometryanalysis.ExceptforC60–C71
+tion.Therepresentativeblotsfrom3independentexperimentswithsimilarresults andC87–C108whichcrosslinkedintoatripeptidewithamolecularmassexceeding
+wereshown.cTheredoxstateofCyswasmeasuredviadifferentialalkylationusing thelimitofdetectionbythemassspectrometer,alldisulfidebondsweremapped
+12C-IPAand13C-IPA(2-iodo-N-phenylacetamide)followedbychymotrypsindiges- withrelativeabundanceataratioof0.3~8ascomparedtothepeptidecontaining
+tionandmassspectrometryanalysisthroughaprocedureasillustrated.dRedox C6–C486bond.Thedataconfirmedtheidentityof3disulfidebondstargetedby
+stateofCyspairswasmeasuredinpurifiedhumanHRGincubatedwithout(Nil)or PDI.n.d.,nopeptidedetected.fThedisulfidepairswerelocatedandmappedonthe
+withrecombinanthumanPDI(2-or10-foldmolarexcess).Thenumberofpeptides domainstructureofhumanHRGwithredcolorindicatingthetargetsofPDI.Data
+(nvalue)analyzedineachgroupwasindicatedabovethebars.eThepredicted arepresentedasmeanvalues±SEM.SourcedataareprovidedasaSourceDatafile.
+NatureCommunications|( 2024)1 5:3129 3
+--- Page 4 ---
+a
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+0 2 4 6
+Contact time, t (s)
+c
+onZn2+,asdeterminedbycleavageofchromogenicsubstrateS2302 anti-HRG,respectively(Fig.4a;SupplementaryMovie1).Nosignificant
+(Fig. 3f). To validate this observation in a physiological system, HRG signal was detected on the unperturbed cremaster arterioles
+thrombin generation assay (TGA) was performed. Clotting reaction priortovesselinjury(Fig.4a).However,uponlaser-inducedinjuryand
+wasinitiatedbytheadditionofFXIIaalongwithHRGpre-treatedwith secretion ofextracellular PDI13,34,therewas a rapidaccumulation of
+vehicle,PDI-CCCCorPDI-AAAAintomouseplasmadoubledeficientin fluorescenceattheinjurysiteinanti-HRG-infusedmicecomparedto
+FXII and HRG (DKO). There was no significant difference between non-specificfluorescenceinIgG-infusedcontrolmice(Fig.4a).Analy-
+vehicle- and PDI-AAAA-treated groups (Fig. 3g). Compared to PDI- sis of the median fluorescent intensity over time demonstrated the
+AAAA, PDI-CCCC-treated HRG led to enhanced inhibition of FXIIa- rapid integration of HRG into a growing thrombus (Fig. 4b), which
+inducedTGA(Fig.3g).Boththelagtimeandpeaktimewereprolonged occurredpriortothemajorplateletpeak(at~80saftervesselinjury)
+(Fig.3h).Thepeakheightandareaunderthecurve(AUC)werealso (Fig.4c).ThisfindingindicatedaroleofHRGaccumulationduringthe
+decreased(Fig.3i).Alternatively,whenTGAwasinitiatedbyactivated earlyphaseofthrombosis.
+partialthromboplastintime(aPTT)reagentusingmouseplasmadefi- ActivatedplateletsreleaseZn2+,acofactorforHRGbindingonHS,
+cient inHRG (Hrg−/−) (Fig. 3j),supplement with recombinant mouse into the area of a growing thrombus35,36. We determined the con-
+HRGsignificantlyinhibitedthrombingeneration,whichisconsistent tributionofplateletstoHRGaccumulationduringthrombusforma-
+withpreviousreport21.Therewasnodifferencebetweenvehicle-and tion. When mice were treated with eptifibatide, an integrin α β3
+IIb
+PDI-AAAA-treated HRG, whereas PDI-CCCC significantly augmented antagonist that eliminated platelet deposition (Fig. 4d) and thus
+theinhibitoryeffectofHRG(Fig.3k,l).Toruleoutthepossibilitythat platelet-derivedZn2+,HRGaccumulationatthesiteofvesselinjurywas
+HRG interferes with other coagulation proteases, the activities of significantly reduced by 58.3% (P=0.0001) (Fig. 4e). These results
+nonbindingenzymessuchasthrombinandFXawereevaluatedinthe suggestedthatHRGincorporatedintogrowingthrombusuponvessel
+presenceofdifferentconcentrationsofpurifiedHRGusingrespective injuryinaprocessrequiringZn2+secretedbyactivatedplatelets.Since
+substrates and no significant effect was detected (Supplementary HRGmaybindtoplateletsinitself37,toclearlydeterminethespatial
+Fig. S6).Taken together, these results showed thatPDI, through its distributionofHRGduringthrombusformation,weperformedinvivo
+catalytic motifs, enhanced the inhibition of FXIIa activity and the two-photon imaging of the cremaster arterioles (Fig. 4f, marked as
+intrinsiccoagulationpathwaybyHRG. ROI1).Analysisofthe focal planes showed thatHRG (green) largely
+accumulated on vascularendothelium as labeled by CD31 (red) fol-
+HRGincorporatesintogrowingthrombirequiringplatelet- lowinglaser-inducedinjury(Fig.4f,markedasROI2).Thedistribution
+derivedZn2+ of the respective intensity of green and red fluorescence along the
+We evaluated the in vivo incorporation of HRG into a growing indicatedlinethatcrossedtheinjuryareaexhibitedasimilarpattern
+thrombus by intravital microscopy. Using the laser injury-induced that matched well spatially at the location of thrombus formation
+thrombosismodel,wevisualizedtheassemblyofplateletsandHRG (Fig.4g).ThePearson’scorrelationcoefficientsofthepixelintensity
+using Dylight-649-conjugated anti-CD42c and Alexa-488-conjugated forHRGandCD31wasmuchhigherinthethrombus(ROI2)thanthe
+noisehda
+nirapeH
+P
+,ycneuqerf
+a
+WithoutZn2+
+WithZn2+
+AAAA
+CCCC
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+0 2 4 6
+Contact time, t (s)
+c
+noisehda
+aIIXF
+P
+,ycneuqerf
+a 3
+WithoutZn2+
+WithZn2+ 2
+AAAA
+CCCC 1
+0
+ralullec
+aIIXF
+)1-s(
+Ke
+,ytiniffa
+a
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+0.0478 0.1045 0.0215
+Zn2+ - + + +
+AAAA - - + -
+CCCC - - - +
+ralullec
+nirapeH
+)1-s(
+Ke
+,ytiniffa
+a
+Article https://doi.org/10.1038/s41467-024-47493-0
+b d
+0.0176 0.06050.0024
+Zn2+ - + + +
+AAAA - - + -
+CCCC - - - +
+c e
+Fig.2|PDIincreasesthebindingofHRGwithheparinandFXIIa.HRGinterac- adhesion’+#‘Adhesion’))betweenHRGandheparin(b)orFXIIa(c)wasmeasured
+tionswithheparinandFXIIaweremeasuredbyaBiomembraneForceProbe(BFP). atdifferentcontacttime(tc)underindicatedconditions:withoutZn2+,withZn2+,
+aThesystemusedamicropipettetoaspirateanengineeredRBCwithanHRG- withinert-PDI(AAAA),orwithwt-PDI(CCCC)inthepresenceofZn2+(5µM)(n=4
+coatedProbebeadattachedtoitsapextoformanultrasensitiveforcesensor probe-targetpairs).Thecellularaffinity(eK)ofHRGforheparin(d)andFXIIa(e)
+a
+(middle).TheTargetbeadcoatedwithheparin(top)orFXIIa(bottom)wasaspi- wasderived(cid:1)by(cid:3) fittingtheadhesionfrequency(Pa)versuscontacttime(tc)intothe
+ratedbyanopposingmicropipettetoundergoatouchcycleconsistingof equationP t =1(cid:1)expf(cid:1)eK ½1(cid:1)expð(cid:1)k t Þ(cid:3)g(n=4probe-targetpairs).The
+a c a off c
+approach,contactandretractstepswiththeProbebead.The‘Noadhesion’vs dataarepresentedasmeanvalues±SEMandanalyzedbyWelch’sANOVAtest
+‘Adhesion’eventswerejudgedfromtheRBC’sdeflectionandsubsequentlyderived (dande).SourcedataareprovidedasaSourceDatafile.
+forcespectroscopytraces.Theadhesionfrequency(Pa=#‘Adhesion’/(#‘No
+NatureCommunications|( 2024)1 5:3129 4
+--- Page 5 ---
+a b c
+Antithrombin
+5
+4
+3
+2
+1
+0
+0 0.1 0.3 1 3 10 0.1 0.3 1 3 10
+d e f
+g h i
+GRH
+evitaleR
+)stinu
+.bra(
+gnidniB
+With Zn2+
+Without Zn2+
+AAAA ((cid:2)M) CCCC ((cid:2)M)
+2.0
+1.5
+1.0
+0.5
+0.0
+A C A C A C A C A C A C A C A C
+nibmorhtitnA
+evitaleR
+)stinu
+.bra(
+gnidniB
+20
+15
+10
+5
+0
+A C A C
+A C A C A C A C
+A C A C
+0.9331 0.0134
+0.0299
++Zn2+
+GRH
+evitaleR
+)stinu
+.bra(
+gnidniB
+0.0089
+0.3416
++Zn2+
+80
+60
+40
+20
+0
+0 5 10 15 20
+Time (min)
+AGT
+amsalP
+)stinu
+.bra(
+epolS
+Veh 10
+AAAA 8
+CCCC 6
+4
+2
+0
+Lag Time Peak Time
+)nim(
+AGT
+amsalP
+Veh
+AAAA 0.69040.0001 700
+600
+CCCC 500
+400 0.99990.0001 300
+70
+60
+50
+40
+30
+Peak Height AUC
+AGT
+amsalP
+)stinu
+.bra(
+4
+3
+2
+1
+0
+h A C h A C V e A A C C V e A A C C A C A C
+Veh
+0.06180.0001 AAAA
+CCCC
+0.10140.0001
+GRH
+evitaleR
+)stinu
+.bra(
+gnidniB
+0.0001 0.26270.0001
+0.1185
++ Zn2+
+50 40 30 20
+10
+0
+0 5 10 15 20
+Time (min)
+AGT amsalP )stinu .bra(
+epolS
+Veh
+Veh + HRG AAAA + HRG 20 CCCC + HRG 15 10
+5
+0
+Lag Time Peak Time
+)nim( AGT
+amsalP
+Veh
+Veh + HRG 600 AAAA + HRG 0.00830.14050.0194 500 400 CCCC + HRG 300 200 0.00250.14540.0196 100 50
+40
+30
+20
+10
+Peak Height AUC
+AGT amsalP )stinu .bra(
+1.5
+1.0
+0.5
+0.0
+h A C h A C V e A A C C V e A A C C A C A C
+j k l
+Veh 0.0019 0.25520.0048 Veh + HRG AAAA + HRG CCCC + HRG 0.0031 0.38880.0054
+aIIXF
+evitaleR
+)stinu
+.bra(
+ytivitcA
+0.0001 0.0001
+0.2671 0.0001
++ Zn2+
+AAAA
+CCCC
+Article https://doi.org/10.1038/s41467-024-47493-0
+HRG
+Fig.3|PDIenhancestheneutralizationofheparansulfateandinhibitionof vehicleorrecombinanthumanPDIvariants,andmixedwithFXIIa(10nM)withor
+FXIIabyHRG.aPurifiedhumanHRGwaspre-treatedwithvehicleorrecombinant withoutZn2+(1μM).TheactivityofFXIIawasdeterminedusingchromogenic
+humanPDIvariantsatindicatedconcentrationsandincubatedonheparin-coated substrateS2302(n=6independentsamples).gPurifiedhumanHRGwaspre-
+surfacewithorwithoutZn2+(1μM).ThebindingofHRGwasdeterminedbyELISA treatedwithvehicleorrecombinanthumanPDIvariants,mixedwithFXIIa,andthen
+(n=3independentsamples).bHumanplasmapre-treatedwithrecombinant addedintoDKOmouseplasmatoinitiatethrombingeneration(TGA).Thelagtime
+humanPDIvariantswasincubatedonHUVECswithZn2+(10μM).Thebindingof andpeaktime(h),andthepeakheightandareaunderthecurve(AUC)(i)from
+HRGandantithrombinonthecellsurfaceweredeterminedbyimmuno- individualTGAcurvewerecalculated(n=6independentsamples).jRecombinant
+fluorescence(scalebar:20μm).Humanplasmapre-treatedwithrecombinant mouseHRGwaspre-treatedwithvehicleorrecombinantmousePDIvariants,and
+humanPDIvariantswasincubatedonHUVECswithorwithoutZn2+(10μM).The thenaddedintoHrg−/−mouseplasma.TGAwasinitiatedbyadditionofaPTT
+bindingofHRG(c)andantithrombin(d)onthecellsurfaceweredeterminedby reagent.Thelagtimeandpeaktime(k),andthepeakheightandAUC(l)from
+cell-basedELISA(n=6independentsamples).ePurifiedhumanHRGwaspre- individualTGAcurvewerecalculated(n=6independentsamples).Vehvehicle.
+treatedwithvehicleorrecombinanthumanPDIvariantsandincubatedonFXIIa- Dataarepresentedasmeanvalues±SEMandanalyzedbyWelch’sANOVAtest
+coatedsurfacewithorwithoutZn2+(1μM).ThebindingofHRGwasdeterminedby (c–f,h,I,kandl).SourcedataareprovidedasaSourceDatafile.
+ELISA(n=6independentsamples).fPurifiedhumanHRGwaspre-treatedwith
+NatureCommunications|( 2024)1 5:3129 5
+--- Page 6 ---
+b
+c
+1.5×108
+1×108
+5×107
+d e
+0 0 50 100 150 200 Time (s)
+rest of the arteriole (ROI1-ROI2) (Fig. 4h), indicating HRG largely accumulation during thrombosis in mice. First, since human and
+localized at the interfacebetween platelets and endothelium in the murineHRGdifferintheirdisulfidebondpositionsandpatterns38,we
+newlyformedthrombus. validatedtheeffectsofPDIonHRGusingmurinesamples.Compared
+to PDI-AAAA, mouse plasma pre-treated with murine PDI-CCCC
+ExtracellularPDIregulatesHRGaccumulationduringthrombus exhibited increased HRG binding on mouse endothelial cells
+formation (bEnd.3) as determined by immunofluorescence staining (Fig. 5a),
+BasedontheinvitroeffectofPDIonHRGbindingonendothelialcells, confirmingtheinteractionsbetweenPDIandHRGinmice.Second,in
+we determined the in vivo role of extracellular PDI in HRG theFeCl -inducedcarotidthrombosismodelwhenmiceweretreated
+3
+steletalP
+)stinu
+.bra(
+2.5×107
+2×107
+1.5×107
+1×107
+5×106
+0
+0 50 100 150 200
+Time (s)
+488-IgG
+488-anti-HRG+Veh
+488-anti-HRG+Epti
+GRH
+)stinu
+.bra(
+488-IgG
+488-anti-HRG+Veh
+488-anti-HRG+Epti
+1012 1011
+1010
+109
+108
+107
+8-I g
+G
+V e
+h
+E
+pti
+8
+4
+CUAsteletalP )stinu
+.bra(
+0.9999 0.0001
+(33) (36) 1011 (35)
+1010
+109
+108
+107
+8-I g G V e h E pti
+488-anti-HRG 4 8
+CUAGRH )stinu
+.bra(
+a
+0.0001 0.0001 (33) (36) (35)
+488-anti-HRG
+6×104
+5×104
+4×104
+3×104
+0 50 100 150
+Distance ((cid:2)m)
+ecnecseroulF
+)stinu
+.bra(
+HRG
+0s 30s 60s 120s 30s 60s
+f
+ROI1
+g h
+Red
+Green
+ROI2
+GgI-884
+heV
+itpE
+Platelets
+c24DC-itna-946
+GRH-itna-884
+Article https://doi.org/10.1038/s41467-024-47493-0
+120s
+Fig.4|HRGaccumulatesonthevesselwallduringthrombusformation.aThe approximately5minafterlaser-inducedvesselinjury,wasextractedfrominvivo
+accumulationofplateletsandHRGduringlaserinjury-inducedthrombusformation two-photonscanningofthecremasterarterioles.Theareasofthecremaster
+inmurinecremasterarterioleswerevisualizedusingDylight-649-congugatedanti- arteriole(ROI1,cyan)andthethrombus(ROI2,magenta)weremanuallydefined
+CD42c(Red)andAlexa-488-conjugatedanti-HRG(Green),respectively,withirre- (scalebar:20μm).gTheintensitiesofgreen(HRG)andred(CD31)fluorescence
+levantIgGasbackgroundcontrol(488-IgG)(scalebar:30μm)(Supplementary wereplottedspatiallyalongthewhitesolidlineasindicatedinf.hThescatterplot
+Movie1).ThemedianfluorescenceintensityofHRG(b)andplatelets(c)were ofpixelintensitiesofgreen(HRG)andred(CD31)fluorescenceinROI1andROI2as
+calculatedandplottedovertimefrommicetreatedoruntreatedwitheptifibatide indicatedinfwerepresented.ThePearson’scorrelationcoefficients(r)forpixels
+(10μg/gbodyweight,repeatedevery15~20min).Theareaunderthecurve(AUC) withintensityabovethethreshold(indicatedbythedashedlines)inthethrombus
+forplatelets(d)andHRG(e)wereanalyzedfromeachindividualthrombusin (ROI2)andintheareawithoutthethrombus(ROI1-ROI2)wereinserted.Vehvehi-
+differenttreatmentgroupsasindicated.Thenumberofthrombi(nvalue)analyzed cle,Eptieptifibatide.Dataarepresentedasmeanvalues±SEMandanalyzedby
+ineachgroupwasindicatedabovethebars.fArepresentativefocalplaneofHRG Kruskal–WallistestwithDunn’smultiplecomparisons(dande).Sourcedataare
+accumulationandvascularendothelium,asdetectedbyAlexa-488-conjugatedanti- providedasaSourceDatafile.
+HRG(Green)andAlexa-647-conjugatedanti-CD31(Red),respectively,
+NatureCommunications|( 2024)1 5:3129 6
+--- Page 7 ---
+Article https://doi.org/10.1038/s41467-024-47493-0
+withquercetin-3-rutinoside(Rutin),aninhibitorthattargetsPDIbut exhibitedfurtherdelayinarterialocclusioncomparedtoF12−/−alone
+not other thiol isomerases including ERp57, ERp72 or ERp518, HRG (Fig.7e).Thesemicewereadditionallyexaminedinthelaser-induced
+accumulationatthesiteofvesselinjurywasblockedasdeterminedby injury model of thrombosis (Fig. 7f; Supplementary Movie5). Com-
+immunohistochemistryofthrombuscrosssections(Fig.5b).Third,in paredtoWT,plateletdeposition(Fig.7g)andfibringeneration(Fig.7h)
+the laser injury-induced model of cremaster thrombosis (Fig. 5c; wereenhancedinHrg−/−micebutdecreasedinF12−/−miceconsistent
+SupplementaryMovie2)inhibitionofextracellularPDIbyintravenous withpreviousstudies22,44.However,DKOshowedfurtherinhibitionof
+infusionofRutinalsosuppressedtheaccumulationofHRG(Fig.5d)by thrombus formation. Platelets and fibrin were decreased by 85.6%
+decreasingthefluorescentsignalby57.3%(P=0.0001)basedonana- (P=0.0024)(Fig.7i)and62.1%(P=0.0492)(Fig.7j)inDKO,respec-
+lysisoftheAUCofindividualthrombus(Fig.5e).Thisresultwasfurther tively,comparedtoF12−/−.Notably,analysisofthekineticsofthrombus
+confirmed using a synthetic small-molecule PDI inhibitor Bepristat formationshowedthatHRGdeficiencyledtodelayedonsetoffibrin
+2a39,whichinhibitedHRGaccumulationtoasimilarextentasRutin generation(Fig.7h)inHrg−/−andDKOmicecomparedtoWTandF12−/−
+(SupplementaryFig.S7). animalsasshownintheearlyphaseofthrombusformation(e.g.15sec
+Inasetofparallelexperiments,weexaminedtheincorporationof postvesselinjury)intherepresentativeimages(Fig.7f).Thesecom-
+antithrombinduringthrombusformation.Invitrotreatmentofmouse binedresultsdemonstrateboththeprothromboticandantithrombo-
+plasmawithPDI-CCCCledtodecreasedbindingofantithrombinon tic functions of HRG during thrombosis, with the antithrombotic
+bEnd.3cells(Fig.5f).InvivoinhibitionofextracellularPDIbyRutinin influencetakingprecedence.
+the FeCl -induced carotid thrombosis model resulted in increased
+3
+antithrombindepositionattheinjurysitecomparedtovehicle-treated Again-of-function(gof)mutantofHRGinhibitsthrombosis
+animalswheremarginalantithrombinbindingonthevesselwallwas MurineHRGhasequalnumberoftotalaminoacidsandCysresiduesas
+observed during normal thrombosis (Fig. 5g). Further, in the laser- in human with conserved domain arrangement across different
+induced cremaster thrombosis model (Fig. 5h; Supplementary species25,38.Particularly,theCysresiduesforthedisulfidebondswithin
+Movie 3) treatment with Rutin preserved the antithrombin signal the N-terminal domains (C60–C71, C85–C106 and C198–C221),
+(Fig.5i)basedonanalysisoftheAUCofindividualthrombus(Fig.5j). betweentheN-terminalandtheC-terminaldomains(C6–C486),and
+ThesecombinedresultsdemonstratedthatextracellularPDIenables between the N-terminal and PRR2 domains (C183–C396), are con-
+HRG binding to endothelium and concurrently displacing antith- servedinmouseHRG38.Basedonthelocationofdisulfidebondsthat
+rombinduringthrombusformation. are targeted by PDI in human HRG (Fig. 1f), we predicted that PDI
+cleaves3disulfidebondsonmurineHRG:C246–C251,C270–C467and
+HRGhasdualfunctionsinmodulationofthekineticsof C315–C320 corresponding to C306–C309, C390–C434 and
+thrombusformation C409–C410inhuman.Thesebondswerealsolocatedinproximityto
+OurdataindicatedthatHRGexertedaprothromboticeffectbydis- theHRRdomain(Fig.8a).Mutationofthe6CystoAlapreventedthe
+placementofantithrombinonHS.WedeterminedtheeffectofHRGon formationofthepotentialdisulfidebondsandlockedmurineHRGina
+antithrombinactivity.PlasmafromHrg−/−miceexhibitedsignificantly formequivalenttoPDIreduction,leadingtogainoffunctions(gof-
+increasedantithrombinactivityonendothelialcellsurfaceslikeinthe HRG) that are regulated by PDI. These murine HRG variants were
+presence of added heparin, which served as a positive control. In expressed in HEK293 cells and evaluated both in vitro and in vivo.
+contrast,nosignificantantithrombinactivitywasdetectedinplasma Comparedtowt-HRG,gof-HRGexhibitedincreasedbindingbothon
+perse(Fig.6a).HRGalsoexertsantithromboticeffectthroughFXIIa. heparin(Fig.8b)andFXIIa(Fig.8c).Accordingly,whenlabeledwith
+Notably,intheFeCl -inducedthrombosismodel,whichismediatedin fluorophoreandinfusedintoHrg−/−mice,gof-HRGshowedincreased
+3
+partbyFXIIa22,theantithromboticactivityofFXIIa-boundHRG22may accumulation(Fig.8d,e)atthesiteofvesselinjuryinthelaser-induced
+counter-balancetheprothromboticactivityofendothelial-boundHRG thrombosismodel.Further,comparedtowt-HRG,reconstitutionwith
+via its neutralization of HS11,24,40,41. To delineate the potential dual gof-HRGinHrg−/−miceledtoreducedplateletaccumulation(Fig.8f)
+functionsofHRGduringthrombosis,weemployedmicedeficientin andfibringeneration(Fig.8g)basedontheanalysisofAUCofindivi-
+FXII(F12−/−)andtreatedthemwithvivo-siRNAtoknockdownplasma dualthrombus(Fig.8h,i).Thesedataconfirmedthatthetargetdis-
+HRG(Fig.6b).Inthelaserinjury-inducedthrombosismodel(Fig.6c; ulfidebondsofPDIallostericallyregulatesthefunctionsofHRGduring
+SupplementaryMovie4)initiatedbyTF42,reductionofplasmaHRGby coagulation.
+siRNAattenuatedplateletdeposition (Fig.6d) andfibrin generation
+(Fig. 6e) in F12−/− mice. Platelets and fibrin were reduced by 37.8% Discussion
+(P=0.0366)(Fig.6f)and35.3%(P=0.0094)(Fig.6g),respectively. This investigation shows that extracellular PDI cleaves 3 allosteric
+These observations were further validated using HRG and FXII disulfide bondsC306–C309,C390–C434and C409–C410inhuman
+double-knockout(DKO)mice.Immunoblottingconfirmedtheabsence HRG.ReductionofthesedisulfidesenhancestheinteractionsofHRG
+ofbothFXIIandHRGantigensinplasmafromDKOmice(Fig.7a).To withitsbindingpartnersincludingHSandFXIIa.InthepresenceofZn2+
+determinetherolesofHRGincoagulationinthepresenceandabsence presumably released by the bound platelets following vessel injury,
+ofFXII,the 4groupsofmicewere evaluated using amodifiedTGA PDI reduces HRG to neutralize endothelial HS via displacement of
+(Fig.7b)43inducedbyTFonendothelialcells.ComparedtoWT,Hrg−/− antithrombinallowing for accelerated activation ofthe clotting sys-
+plasmahadenhancedbutF12−/−plasmahaddecreasedthrombingen- tem.Ontheotherhand,PDIalsoreducesHRGtoenhanceitsinhibition
+eration. Importantly, DKO plasma had further attenuated thrombin ofFXIIatopreventexcessiveclotformation(Fig.9).Thesepreviously
+generation(Fig.7b)withbothreducedpeakheight(Fig.7c)andAUC unappreciated regulatory pathways working simultaneously, but in
+(Fig. 7d) compared to F12−/−. These data suggest plasma HRG has a apparentoppositedirectionsrepresentanovelmechanismwhereby
+procoagulantroleintheabsenceofFXII. extracellularPDI fine-tunes thrombus formation bymodifying allos-
+WenextevaluatedHRGfunctionsduringthrombosisusingall4 teric disulfides of plasma HRG. These findings advance our under-
+strainsofmiceintheFeCl -inducedcarotidarterythrombosismodel. standingofthebiologyofclottingdisorders.
+3
+Consistentwithpreviousreports21,22,thetimetoarterialocclusionin AllostericdisulfidebondstargetedbyextracellularPDIhavebeen
+Hrg−/−(2.7±0.9min)wasshorterthanWT(7.5±0.8min,P=0.0010), identified in several proteins that are involved in thrombosis15,17,30,
+confirmingtheantithromboticroleofHRGinthismodel.Asexpected, including platelet surface receptors45,46, coagulation factors47 and
+the occlusion time in F12−/− (59.8±12.0min, P=0.0033) was sig- extracellularmatrixproteins20.Wepreviouslyshowedthatcleavageof
+nificantly prolonged. However, like the ex vivo experiments, DKO twodisulfidebondsinplasmavitronectin,C137-C161andC274-C453,
+NatureCommunications|( 2024)1 5:3129 7
+--- Page 8 ---
+3×107
+2×107
+1×107
+0
+0 50 100 150 200
+Time (s)
+GRH
+)stinu
+.bra(
+1011 Veh
+Rutin
+1010
+109
+108
+Veh Rutin
+CUA
+GRH
+)stinu
+.bra(
+0.0001
+(31) (36)
+heV
+d e
+i
+j
+0.0001
+1010
+109
+108
+107
+106
+105
+104
+Veh Rutin
+CUA
+nibmorhtitnA
+)stinu
+.bra(
+g
+(39) (38)
+nituR
+1.5×107 Veh
+Rutin
+1×107
+5×106
+0
+0 20 40 60 80
+Time (s)
+nibmorhtitnA
+)stinu
+.bra(
+c
+Antithrombin Antithrombin
+h
+heV
+b
+0 s 30 s 60 s 120 s
+heV
+nituR
+a
+HRG
+HRG HRG
+AAAA CCCC
+f Antithrombin
+AAAA CCCC
+GRH
+heV
+nituR
+10 s 30 s 60 s
+heV
+nituR
+0 s
+nibmorhtitnA
+Article https://doi.org/10.1038/s41467-024-47493-0
+Fig.5|PDIregulatestheincorporationofHRGandantithrombinduring PDI-AAAAwasincubatedonbEnd.3cellsinthepresenceofZn2+(100μM).The
+thrombusformation.aMouseplasmapre-treatedwithrecombinantmousePDI- bindingofantithrombinonthecellsurfaceweredeterminedbyimmuno-
+CCCCorPDI-AAAAwasincubatedonmousecerebralmicrovascularendothelial fluorescenceusingAlexa-488-conjugatedantibodies(scalebar:20μm).
+cells(bEnd.3)inthepresenceofZn2+(100μM).ThebindingofHRGonthecell gRepresentativeimagesofimmunohistochemistryofantithrombinfromcross
+surfaceweredeterminedbyimmunofluorescenceusingAlexa-488-conjugated sectionsofthrombusinducedbyFeCl3inthecarotidarteryinmicetreatedwith
+antibodies(scalebar:20μm).bRepresentativeimagesofimmunohistochemistry vehicleorRutin(scalebar:250μm).hRepresentativeimagesofantithrombin
+ofHRGfromcrosssectionsofthrombusinducedbyFeCl inthecarotidarteryin incorporation(Green),visualizedusingAlexa-488-conjugatedanti-antithrombin,at
+3
+micetreatedwithvehicleorRutin(scalebar:250μm).cRepresentativeimagesof indicatedtimepointsfollowinglaserinjuryinthecremasterarteriolesinmice
+HRGincorporation(Green),visualizedusingAlexa-488-conjugatedanti-HRG,at treatedwithvehicleorRutin(5μg/gbodyweight)(scalebar:30μm)(Supple-
+indicatedtimepointsfollowinglaserinjuryinthecremasterarteriolesinmice mentaryMovie3).Themedianfluorescenceintensity(i)andAUC(j)ofantith-
+treatedwithvehicleorRutin(5μg/gbodyweight)(scalebar:30μm)(Supple- rombinwereanalyzedfromeachindividualthrombusinthetwogroups.The
+mentaryMovie2).Themedianfluorescenceintensity(d)andtheareaunderthe numberofthrombi(nvalue)analyzedineachgroupwasindicatedabovethebars.
+curve(AUC)(e)ofHRGwereanalyzedfromeachindividualthrombusinthetwo Vehvehicle,Rutinquercetin-3-rutinoside.Dataarepresentedasmeanvalues±SEM
+groups.Thenumberofthrombi(nvalue)analyzedineachgroupwasindicated andanalyzedbytwo-tailedMann–WhitneyU-test(eandj).Sourcedataarepro-
+abovethebars.fMouseplasmapre-treatedwithrecombinantmousePDI-CCCCor videdasaSourceDatafile.
+NatureCommunications|( 2024)1 5:3129 8
+--- Page 9 ---
+a
+d
+1.5×108
+1×108
+5×107
+0
+0 50 100 150 200
+Time (s)
+e
+f g
+by vascular PDI enables the binding of vitronectin to β3 integrins mechanismwherebytheintravascularreleaseofPDIandotherthiol
+during thrombus formation20. Li et al. demonstrated that surface- isomerasesserveasa“masterswitch”toprimethrombusformation.
+bound PDI regulates the ligand-binding activity of glycoprotein Ibα We showed that PDI functions as a reductase on plasma HRG
+(GPIbα)byreducingtwoallostericdisulfidebondsC4-C17andC209- during thrombosis. Currently there are two proposed models that
+C248inthereceptor45.Inthecurrentstudy,wedeterminedthatthree wouldallowPDIreductaseactivityintheextracellularspace30.First,
+targetdisulfidesinplasmaHRGareproximaltotheHRRdomain.Itis PDImayactthrougharedoxchaininvolvingmembersofthevascular
+speculated that these disulfide bonds lock native plasma HRG in a thiolisomerasefamilywhichworkcooperativelybyshufflingelections
+cryptic form preventing certain interactions under physiologic cir- amongthemselvesandtosubstratedisulfides13.Thismodelisbasedon
+cumstances.However,uponvesselinjury,PDIissecretedtodeactivate theevidencethatthesethiolisomerasescanexchangeelectronswith
+the clamp by cleaving these allosteric bonds, which exposes the each other48. Second, PDI may function through a single-turnover
+functionalHRRdomainandenablesHRGinteractionswithitsbinding manner,i.e.,consumedasareductantsecretedintotheextracellular
+partnersincludingHSandFXIIa.Thiseventinfluencesthekineticsof milieutocleaveonesubstratewithoutfurtherreduction30.Thismodel
+thrombusformation.Thesecombinedstudiessuggestthatregulation issupportedbyextracellularburstofPDIbyactivatedplateletsand
+ofallostericdisulfidebondsbyextracellularPDIrepresentsageneral endothelialcellsduringthrombosis34,49.Althoughinbothscenariosthe
+steletalP
+)stinu
+.bra(
+Ctrl siRNA
+HRG siRNA
+1×108
+8×107
+6×107
+4×107
+2×107
+0
+0 50 100 150 200
+Time (s)
+nirbiF
+)stinu
+.bra(
+Ctrl siRNA
+HRG siRNA
+1011
+1010
+109
+108
+Ctrl HRG
+CUA
+steletalP
+)stinu
+.bra(
+0.0366
+1011 (26) (29)
+1010
+109
+108
+siRNA: Ctrl HRG
+CUA
+nirbiF
+)stinu
+.bra(
+200
+150 kD Ctrl siRNA HRG siRNA
+100-
+100 HRG
+70-
+100-
+50 Transferrin 70-
+0
+c
+0.0094
+(26) (29)
+siRNA:
+nibmorhtitnA
+evitaleR
+)stinu
+.bra(
+ytivitcA
+b
+0.0034 WT
+(6) Hrg-/-
+0.0009 (6)
+(6)
+0.2729
+(6)
+(4) (4)
+Heparin - + -
+HUVECs - - +
+Platelets Fibrin
+0 s 30 s 60 s 120 s 30 s 60 s 120 s
+ANRis
+lrtC
+ANRis
+GRH
+Article https://doi.org/10.1038/s41467-024-47493-0
+Fig.6|PlasmaHRGexhibitsprothromboticrolesintheabsenceofFXII.aThe injuryinthecremasterarteriolesinF12−/−micetreatedwithcontrolorvivo-siRNAto
+activityofantithrombinwasmeasuredinWTandHrg−/−plasmaonendothelialcell HRG(scalebar:30μm)(SupplementaryMovie4).Themedianfluorescence
+surface,orinthepresenceorabsenceofheparin.Thenumberofindependent intensityofplatelets(d)andfibrin(e)werecalculatedandplottedovertime.The
+samples(nvalue)analyzedineachgroupwasindicatedabovethebars. areaunderthecurve(AUC)forplatelets(f)andfibrin(g)wereanalyzedfromeach
+bImmunoblottingofHRGantigeninequalamountsofplasmafromF12−/−mice individualthrombusinthetwogroups.Thenumberofthrombi(nvalue)analyzed
+treatedwithcontrolorvivo-siRNAtoHRG,withtransferrinastheloadingcontrol. ineachgroupwasindicatedabovethebars.Ctrl,control.Dataarepresentedas
+cRepresentativeimagesofplateletaccumulation(Red)andfibringeneration meanvalues±SEMandanalyzedbytwo-tailedWelch’st-test(a)ortwo-tailed
+(Green),asvisualizedbyDylight-649-congugatedanti-CD42candAlexa-488- Mann–WhitneyU-test(fandg).SourcedataareprovidedasaSourceDatafile.
+conjugated59D8antibody,respectively,atindicatedtimepointsfollowinglaser
+NatureCommunications|( 2024)1 5:3129 9
+--- Page 10 ---
+100
+80
+60
+40 20
+0
+T-/- -/- O W g 2 K Hr
+F
+1D
+originalsourcesthatregenerateelectronstofuelthereactionsonthe arrangementofHRGareconservedamongspecies25,thediscrepancy
+cell surface are unknown, it is more likely that secreted PDI is pre- in disulfide bond number may be attributed to the relatively low
+reduced by thioredoxin and/or NADPHina segregated intracellular sequenceidentity(63%)ofHRGproteinbetweenthe2species,with2
+compartment17. moreCysresiduesinhumanproteinthanbovine.Notably,murineHRG
+Previous research predicted 6 disulfide bonds in human HRG has the same number of total amino acids and Cys residues as in
+basedonthestudyinbovineprotein25,50.However,ourresultsshowed human,andispredictedtocontainatotalof8disulfidebondsaswell.
+therewere8ratherthan6disulfidebondsinhumanHRG,whichwas Analysis of the sequence homology between mouse and human
+independently confirmed using a disulfide-linked peptide method showed that 5 out of the 8 disulfide bonds (i.e. those within the
+(Fig.1)27.Sincethedomainstructureandthepatternofdisulfidebond N-terminal domains, between the N-terminal and the C-terminal
+lairetra
+ot emiT
+)nim(
+noisulcco
+b c
+e 0.0033 0.0430 g
+(8) (8)
+2×108
+1.5×108
+0.0010 1×108 (8) (9) 5×107
+0 0 50 100 150 200 250 Time (s)
+steletalP
+)stinu
+.bra(
+WT 8×107 Hrg-/-
+F12-/- 6×107
+DKO 4×107
+2×107
+0 0 50 100 150 200 250
+Time (s)
+nirbiF
+)stinu
+.bra(
+WT
+Hrg-/-
+F12-/- DKO
+1011
+1010
+109
+108
+T -/- -/- O
+W g 2 K
+Hr F 1 D
+CUA
+nirbiF
+)stinu
+.bra(
+1012
+1011
+1010
+109
+108
+107
+T -/- -/- O
+W g 2 K
+Hr F 1 D
+0.0171
+0.0416 0.0492
+(27)
+(30)
+(32)
+(28)
+CUA
+steletalP
+)stinu
+.bra(
+a d
+800 600 400 200
+0 W T Hr g -/- F 1 2 -/- D K O
+h
+f i
+0.0921
+0.0095 0.0024
+(27)
+(30)
+(32)
+(28)
+j
+AGT amsalP )stinu .bra( CUA 0.0001 0.0237 0.0361 80 (5) 60 (6) 40 (7) (7) 20
+0 W T Hr g -/- F 1 2 -/- D K O
+kaeP AGT amsalP )stinu .bra( thgieH 0.0017 0.0268 60 0.0034 (5) 40 (6) 20 (7) (7)
+0 0 5 10 15 20 Time (min)
+epolS AGT amsalP )stinu .bra( WT kD Hrg-/- 100- F12-/- 70- FXII DKO 100- HRG 70- 100-
+Transferrin 70-
+Platelets Fibrin
+120 s
+TW
+-/-grH
+-/-21F
+OKD
+Article https://doi.org/10.1038/s41467-024-47493-0
+0 s 15 s 30 s 60 s 120 s 15 s 30 s 60 s
+Fig.7|PlasmaHRGdifferentiallyregulatesthrombusformation. generation(Green),visualizedbyDylight-649-congugatedanti-CD42candAlexa-
+aImmunoblottingofHRGandFXIIantigensinequalamountsofplasmafrom4 488-conjugated59D8antibody,respectively,atindicatedtimepointsfollowing
+groupsofmiceasindicated:WT,Hrg−/−,F12−/−andDKO,withtransferrinasthe laserinjuryinthecremasterarteriolesin4groupsofmiceasindicated(scalebar:
+loadingcontrol.bTissuefactor-inducedthrombingeneration(TGA)intheplasma 30μm)(SupplementaryMovie5).Themedianfluorescenceintensityofplatelets(g)
+from4groupsofmicewasevaluatedinthepresenceofendothelialcells.Thepeak andfibrin(h)werecalculatedandplottedovertime.TheAUCforplatelets(i)and
+height(c)andareaunderthecurve(AUC)(d)fromindividualTGAcurvewere fibrin(j)wereanalyzedfromeachindividualthrombusindifferentgroups.The
+calculatedinthesegroupsasindicated.Thenumberofanimals(nvalue)analyzed numberofthrombi(nvalue)analyzedineachgroupwasindicatedabovethebars.
+ineachgroupwasindicatedabovethebars.eThetimetocompletearterial Dataarepresentedasmeanvalues±SEMandanalyzedbyWelch’sANOVAtest
+occlusionfollowingFeCl3-inducedcarotidinjurywererecordedin4groupsofmice (c–e)orKruskal–WallistestwithDunn’smultiplecomparisons(iandj).Sourcedata
+asindicated.Thenumberofanimals(nvalue)analyzedineachgroupwasindicated areprovidedasaSourceDatafile.
+abovethebars.fRepresentativeimagesofplateletaccumulation(Red)andfibrin
+NatureCommunications|( 2024)1 5:3129 10

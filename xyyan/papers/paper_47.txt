@@ -1,0 +1,411 @@
+
+--- Page 1 ---
+Decrease in Histidine-Rich Glycoprotein as a Novel
+Biomarker to Predict Sepsis Among Systemic
+Inflammatory Response Syndrome
+Kosuke Kuroda, MD1,2; Hidenori Wake, PhD2; Shuji Mori, PhD3; Shiro Hinotsu, MD, PhD4;
+Masahiro Nishibori, MD, PhD2; Hiroshi Morimatsu, MD, PhD1
+Objectives: Many biomarkers for sepsis are used in clinical prac- Interventions: None.
+tice; however, few have become the standard. We measured Measurements and Main Results: We collected blood samples from
+plasma histidine-rich glycoprotein levels in patients with systemic patients within 24 hours of ICU admission. Histidine-rich glycoprotein
+inflammatory response syndrome. We compared histidine-rich levels were determined using enzyme-linked immunosorbent assay.
+glycoprotein, procalcitonin, and presepsin levels to assess their The median histidine-rich glycoprotein level in healthy volunteers
+significance as biomarkers. (n = 16) was 63.00 µg/mL (interquartile range, 51.53–66.21 µg/mL).
+Design: Single-center, prospective, observational cohort study. Histidine-rich glycoprotein levels in systemic inflammatory response
+Setting: ICU at an university-affiliated hospital. syndrome patients (n = 70; 28.72 µg/mL [15.74–41.46 µg/mL]) were
+Patients: Seventy-nine ICU patients (70 with systemic inflam- lower than those in nonsystemic inflammatory response syndrome
+matory response syndrome and 9 without systemic inflammatory patients (n = 9; 38.64 µg/mL [30.26–51.81 µg/mL]; p = 0.049).
+response syndrome) and 16 healthy volunteers. Of 70 patients with systemic inflammatory response syndrome, 20
+had sepsis. Histidine-rich glycoprotein levels were lower in septic
+1Department of Anesthesiology and Resuscitology, Okayama University
+patients than in noninfective systemic inflammatory response syn-
+Graduate School of Medicine, Dentistry and Pharmaceutical Sciences,
+Okayama, Japan. drome patients (8.71 µg/mL [6.72–15.74 µg/mL] vs 33.27 µg/mL
+2Department of Pharmacology, Okayama University Graduate School [26.57–44.99 µg/mL]; p < 0.001) and were lower in nonsurvivors
+of Medicine, Dentistry and Pharmaceutical Sciences, Okayama, (n = 8) than in survivors (n = 62) of systemic inflammatory response
+Japan.
+syndrome (9.06 µg/mL [4.49–15.70 µg/mL] vs 31.78 µg/mL [18.57–
+3Department of Pharmacology, School of Pharmacy, Shujitsu University,
+Okayama, Japan. 42.11 µg/mL]; p < 0.001). Histidine-rich glycoprotein showed a high
+4Center for Innovative Clinical Medicine, Okayama University Hospital, sensitivity and specificity for diagnosing sepsis. Receiver operating
+Okayama, Japan. characteristic curve analysis for detecting sepsis within systemic
+This study was conducted at Okayama University Graduate School of inflammatory response syndrome patients showed that the area under
+Medicine, Dentistry and Pharmaceutical Sciences, Okayama, Japan.
+the curve for histidine-rich glycoprotein, procalcitonin, and presepsin
+Drs. Kuroda and Wake contributed equally to this work.
+was 0.97, 0.82, and 0.77, respectively. In addition, survival analysis
+Supplemental digital content is available for this article. Direct URL cita-
+in systemic inflammatory response syndrome patients revealed that
+tions appear in the printed text and are provided in the HTML and PDF
+versions of this article on the journal’s website (http://journals.lww.com/ the Harrell C-index for histidine-rich glycoprotein, procalcitonin, and
+ccmjournal). presepsin was 0.85, 0.65, and 0.87, respectively.
+Supported, in part, by grants from Scientific Research from the Ministry Conclusions: Histidine-rich glycoprotein levels were low in patients
+of Health, Labour, and Welfare of Japan (WA2F2547, WA2F2601), the
+with sepsis and were significantly related to mortality in systemic
+Japan Agency for Medical Research and Development, (AMED) (AMED
+15lk0201014h0003), the Japan Society for the Promotion of Science inflammatory response syndrome population. Furthermore, as a
+(JSPS) (JSPS Number 2567046405, 15H0468617), and Secom Sci- biomarker, histidine-rich glycoprotein may be superior to procalci-
+ence and Technology Foundation (to Dr. Nishibori), and from the Hokuto
+tonin and presepsin. (Crit Care Med 2018; XX:00–00)
+Foundation for Bioscience (to Dr. Wake).
+Key Words: biomarker; histidine-rich glycoprotein; sepsis;
+Dr. Nishibori’s institution received funding from AMED in Japan and
+Secom Science and Technology Foundation, and he received support for systemic inflammatory response syndrome
+article research from AMED in Japan and Secom Science and Technology
+Foundation. The remaining authors have disclosed that they do not have
+any potential conflicts of interest.
+For information regarding this article, E-mail: morima-h@md.okayama-u.ac.jp
+S
+epsis is a systemic illness, one of the most severe dis-
+Copyright © 2018 by the Society of Critical Care Medicine and Wolters
+Kluwer Health, Inc. All Rights Reserved. eases of patients encountered in the ICU. Despite
+DOI: 10.1097/CCM.0000000000002947 recent medical progress, the mortality rate of patients
+Critical Care Medicine www.ccmjournal.org 1
+Copyright © 2018 by the Society of Critical Care Medicine and Wolters Kluwer Health, Inc. All Rights Reserved.
+--- Page 2 ---
+Kuroda et al
+with sepsis shows little sign of improvement (1, 2). There Clinical and laboratory data were collected daily while
+are many clinical biomarkers available for rapid diagnosis of patients were in the ICU. Initial Sequential Organ Failure
+sepsis; however, few have become standard (3). Procalcitonin, Assessment (SOFA) and Acute Physiology and Chronic
+the soluble triggering receptor expressed on myeloid cells-1, Evaluation (APACHE) II scores were calculated using clinical
+and presepsin are considered promising diagnostic and prog- variables and blood test results. SIRS, sepsis, severe sepsis, and
+nostic biomarkers, although they are limited in their ability septic shock were classified according to the guidelines of the
+to diagnose sepsis (3, 4). American College of Chest Physicians/Society of Critical Care
+The liver produces histidine-rich glycoprotein (HRG) pres- Medicine and the International Surviving Sepsis Campaign
+ent in plasma. HRG is a multidomain (structured) protein Guidelines Committee (Sepsis-2) (12, 13). Follow-up investi-
+that interacts with many ligands and is therefore thought to gations were conducted 28 and 90 days after enrollment and at
+be involved in many functions such as coagulation, immune ICU discharge to determine survivors and nonsurvivors.
+response, angiogenesis modulation, and others (5, 6). In par-
+ticular, some articles previously reported that HRG, both in Analytical Methods
+vitro and in vivo, was highly relevant to infections caused by Blood samples were collected in tubes containing KEDTA
+2
+bacteria (7) and fungi (8) and suggested that HRG plays a (BD 367840; Beckton-Dickinson, Franklin Lakes, NJ) within
+protective role in the host defense mechanism (7–9). Recently, 24 hours of ICU admission, processed within 30 minutes of
+our group demonstrated that HRG at normal physiologic sampling, and centrifuged at 3,500 rpm for 10 minutes. The
+concentrations maintains circulating neutrophils and vascu- supernatant was pipetted into polypropylene tubes, a pro-
+lar endothelial cells quiescent and that plasma HRG levels are tease inhibitor cocktail (Complete mini EDTA-free; Roche
+decreased rapidly in mice with sepsis, triggering a cascade of Diagnostics, Basel, Switzerland) was added, and samples were
+events in septic pathogenesis including immunothrombosis, stored at –80°C.
+acute respiratory distress syndrome (ARDS), and disseminated HRG levels were determined using the quantitative sand-
+intravascular coagulation (DIC) (10). Based on these findings, wich ELISA with a rat monoclonal antibody (mAb) against
+we suggested a supplementary therapy with HRG for the treat- human HRG (made in-house, number 75-14) as the capture
+ment of sepsis (10). antibody and horseradish peroxidase-conjugated nickel-nitri-
+In this study, we developed a new enzyme-linked immuno- lotriacetic acid (Ni-NTA HRP Conjugate; Qiagen, Venlo, the
+sorbent assay (ELISA) to measure HRG levels in plasma and Netherlands) for detection. To perform ELISA, 3 µg of mAb
+used it to perform a prospective observational study of patients per well was diluted in coating buffer (0.05M NaCo, pH 9.6)
+2 3
+with systemic inflammatory response syndrome (SIRS). We and immobilized on a 96-well plate (COSTAR 3590; Corning,
+aimed to determine whether there was a difference between Tewksbury, MA) overnight at 4°C. After three washing steps
+HRG levels of patients with and without infection as well as using phosphate-buffered saline (PBS) containing 0.05%
+survivors and nonsurvivors. Tween 20, the plate was incubated with blocking buffer con-
+taining 3% bovine serum albumin (BSA) in PBS for 1 hour
+at 37°C. After three further washing steps, plasma samples
+MATERIALS AND METHODS
+were diluted 1:50 in PBS containing 1% BSA and incubated
+Study Design for 2 hours at 37°C in the mAb-coated wells on the microplate
+We conducted a single-center, prospective, and observational shaker set at 500 rpm. After three washing steps, the plate was
+investigation that was approved by the Institutional Review incubated with the Ni-NTA HRP conjugate diluted 1:1,000 in
+Board of the Okayama University Graduate School of Medi- PBS containing 0.2% BSA for 1.5 hours at 37°C with shaking.
+cine, Dentistry, and Pharmaceutical Sciences. We followed After six extensive washing steps, o-phenylenediamine (Wako,
+guidelines as outlined in Strengthening the Reporting of Osaka, Japan) and stop solution (3M HSo) were added,
+2 4
+Observational Studies in Epidemiology (11). and absorbance at 492 nm was measured using a 96-well
+plate reader (Model 680; Bio-Rad, Hercules, CA). A standard
+Patients and Data Collection curve (Supplementary Fig. 1, Supplemental Digital Content
+Patients newly admitted to the ICU of Okayama University 1, http://links.lww.com/CCM/D212; legend, Supplemental
+Hospital were prospectively enrolled in the study if they ful- Digital Content 7, http://links.lww.com/CCM/D218) was
+filled at least two diagnostic criteria for SIRS. Inclusion criteria established using serial dilutions of known amounts of purified
+were patients who were expected to stay in the ICU for more HRG (made in-house) (Supplementary Fig. 2, Supplemental
+than 3 days (excluding less severe patients) and those with an Digital Content 2, http://links.lww.com/CCM/D213; legend,
+arterial blood collection catheter. Exclusion criteria were less Supplemental Digital Content 7, http://links.lww.com/CCM/
+than 20 years old, pregnancy, only overnight stay in the ICU, or D218). Intraassay reproducibility was determined by assaying
+failure to obtain consent. For comparison, we collected blood the sample six times, and interassay reproducibility was deter-
+samples from patients fulfilled all inclusion criteria except for mined by five independent assays. The intraassay and interassay
+SIRS criteria (non-SIRS ICU patients). In addition, plasma coefficients of variability were 4.19% and 15.5%, respectively.
+samples from healthy volunteers were collected and analyzed Duplicate plasma samples were tested, and independent assays
+to determine HRG levels. were repeated twice.
+2 www.ccmjournal.org XXX 2018 • Volume XX • Number XXX
+Copyright © 2018 by the Society of Critical Care Medicine and Wolters Kluwer Health, Inc. All Rights Reserved.
+--- Page 3 ---
+Clinical Investigation
+Procalcitonin levels were determined using an auto- volunteers. There were no differences in age among all groups
+mated electrochemiluminescence immunoanalyzer (Modular used in analyses, except for healthy volunteers.
+Analytics E-170; Roche Diagnostics, Mannheim, Germany)
+in the Clinical Chemistry Laboratory of Okayama University Plasma Levels of HRG and Other Markers
+Hospital. Presepsin levels were measured using PATHFAST The median HRG level in healthy volunteers (n = 16) was
+Presepsin (LSI Medience, Tokyo, Japan). 63.00 µg/mL (IQR, 51.53–66.21 µg/mL) (Supplementary Fig.
+3A, Supplemental Digital Content 4, http://links.lww.com/
+Outcomes CCM/D215; legend, Supplemental Digital Content 7, http://
+The primary outcome of this study was to assess the signifi- links.lww.com/CCM/D218). HRG levels in non-SIRS patients
+cance of the difference between HRG levels in healthy volun- (n = 9; 38.64 µg/mL [IQR, 30.26–51.81 µg/mL]) were signifi-
+teers, non-SIRS patients, and patients with SIRS. Secondary cantly lower than those in healthy volunteers (p = 0.0017). Fur-
+outcomes were to assess differences between each marker in thermore, HRG levels in SIRS patients (n = 70; 28.72 µg/mL
+patients with and without sepsis as well as survivors and non- [IQR, 15.74–41.46 µg/mL]) were lower than those in non-SIRS
+survivors of SIRS. patients (p = 0.049).
+Supplementary Fig. 3, B and C (Supplemental Digital
+Statistical Analysis Content 4, http://links.lww.com/CCM/D215; legend,
+Data were expressed as median and interquartile ranges (IQRs, Supplemental Digital Content 7, http://links.lww.com/CCM/
+25–75th percentiles), all analyses were two sided, and a p D218) show the results of secondary analyses. Comparison of
+value of less than 0.05 was considered statistically significant. patients with sepsis (n = 20) and patients with noninfective
+The Mann-Whitney U test or the Kruskal-Wallis test imple- SIRS (n = 50) showed that HRG levels in the former group
+mented following the Steel-Dwass method was used to com- were significantly lower than those in the latter group (8.71
+pare groups. The receiver operating characteristic (ROC) curve µg/mL [IQR, 6.72–15.74 µg/mL] vs 33.27 µg/mL[IQR, 26.57–
+analysis was used to determine the diagnostic accuracy. The 44.99 µg/mL]; p < 0.001). Furthermore, procalcitonin and pre-
+Cox proportional hazard model and Kaplan-Meier method sepsin levels of septic patients were significantly higher than
+were used to analyze survival. We performed survival analysis those of noninfective SIRS patients. In SIRS patients, HRG
+using the 90-day mortality. In addition, we made adjustment levels of nonsurvivors (n = 8; 9.06 µg/mL [IQR, 4.49–15.70
+with APACHE II score to correct for disease severity. When µg/mL]) were significantly lower (p < 0.001) than those of
+we performed Kaplan-Meier method, we divided patients into survivors (n = 62; 31.78 µg/mL [IQR, 18.57–42.11 µg/mL]).
+two groups according to the cutoff value which was calculated Although presepsin levels of nonsurvivors (1,276 pg/mL[IQR,
+in logistic regression model (sensitivity analysis); hazard ratio 802.7–5437 pg/mL]) were significantly higher (p < 0.001) than
+(HR) was calculated with Cox proportional hazard model. We those of survivors (449 pg/mL [IQR, 326.7–618.7 pg/mL]),
+calculated Spearman rank correlation coefficient to assess cor- their procalcitonin levels (0.520 ng/mL [IQR, 0.220–1.277 ng/
+relations between HRG and other variables. We used JMP Pro mL] vs 1.605 ng/mL [IQR, 0.555–3.330 ng/mL] ) were not sig-
+11 software (SAS Institute, Chicago, IL) for all analyses, except nificantly different (p = 0.73). Within septic patients, there
+for calculations of the Harrell C-index, which was determined were no differences in HRG level between survivors (n = 12)
+using STATA 12 software (SAS Institute). and nonsurvivors (n = 8) (data not shown).
+Diagnostic Accuracy of HRG Levels
+RESULTS
+We performed ROC curve analysis to detect patients with sep-
+Patient Characteristics sis within the group with SIRS. The ROC curve for HRG was
+SIRS patients were prospectively included from November highly sensitive and specific, with the following area under the
+2012 to November 2014. During this period, the ICUs of curve (AUC) values: HRG, 0.97; procalcitonin, 0.82; presepsin,
+Okayama University Hospital admitted 3,664 patients, includ- 0.77 (Fig. 1). AUC for HRG was higher than that of procalcito-
+ing 728 with SIRS. About three fourth of them were one night nin (p = 0.0018) and presepsin (p = 0.0012).
+stay in ICU. For lack of resource availability, we were granted
+written consent to collect blood from 70 patients, whose char- Associations Between Markers and Mortality
+acteristics are shown in Table 1 and Supplementary Table 1 Table 2 shows associations between the plasma level of each
+(Supplemental Digital Content 3, http://links.lww.com/CCM/ marker and mortality. HRG level on ICU day 1 was signifi-
+D214). The median age of patients was 67 years (IQR, 62–76 cantly associated with mortality (HR, 0.88; 95% CI, 0.80–0.98;
+yr), 52 (74%) were males, and all were treated in the ICU for 6 p < 0.001), and when adjusted according to APACHE II score,
+days (IQR, 4–9 d). The median patient APACHE II and SOFA this level remained an independent prognostic factor (adjusted
+scores were 15 (IQR, 12.7–18.2) and 3 (IQR, 2–5), respectively, HR, 0.89; 95% CI, 0.78–0.97; p = 0.0053). The presepsin level
+and 20 patients (29%) were diagnosed with sepsis. ICU mor- was significantly associated with mortality in univariate analy-
+tality and 90-day mortality were both 11% (eight patients), and sis (HR, 1.03; 95% CI, 1.01–1.05; p = 0.0040), although when
+28-day mortality was 7.1% (five patients). We were granted adjusted using the APACHE II score, there was no significant
+written consent from nine non-SIRS patients and 16 healthy association between presepsin level and mortality (adjusted
+Critical Care Medicine www.ccmjournal.org 3
+Copyright © 2018 by the Society of Critical Care Medicine and Wolters Kluwer Health, Inc. All Rights Reserved.
+--- Page 4 ---
+Kuroda et al
+TABLE 1. Patient Characteristics
+SIRS Patients
+Healthy Non-SIRS
+Variables Volunteers Patients Total Noninfective SIRS Sepsis
+n 16 9 70 50 20
+Age, yr, median (IQR) 31.5 (25.7–35.7) 68.0 (66.0–72.5) 67 (62–76) 66.5 (62.7–74.5) 68 (60.5–77)
+Male sex, n (%) 12 (75) 6 (66.7) 52 (74.2) 39 (78) 13 (65)
+ICU death, n (%) 0 8 (11) 0 8 (40)
+28-d death, n (%) 0 5 (7.1) 0 5 (25)
+90-d death, n (%) 0 8 (11) 0 8 (40)
+ICU stay, d, median (IQR) 5 (3.5–6.5) 6 (4–9) 6 (4–7.2) 14 (6.25–26.5)
+Severity of disease
+APACHE II score, median 13.0 (10.5–15.5) 15 (12.7–18.2) 14 (12–16) 19.5 (17.2–28.5)
+(IQR)
+SOFA score, median (IQR) 1 (0–2) 3 (2–5) 2 (2–4) 8 (5.2–12)
+Severe sepsis, n (%) 0 9 (13) 0 9 (45)
+Septic shock, n (%) 0 8 (11) 0 8 (40)
+Medical patients, n (%) 0 16 (23) 1 (2) 15 (75)
+Pneumonia 0 6 0 6
+Renal failure 0 3 0 3
+Hepatic failure 0 1 0 1
+Pancreatitis 0 1 0 1
+Brain infarction 0 1 1 0
+Ileus 0 1 0 1
+Others 0 3 0 3
+Surgical patients, n (%) 9 54 (77) 49 (98) 5 (25)
+Abdominal 1 8 3 5
+Esophageal 4 21 21 0
+Laryngeal 3 18 18 0
+Hepatic 0 2 2 0
+Others 1 5 5 0
+Ventilation days, median (IQR) 1 (1) 1 (0–1) 1 (1) 0 (0–7.5)
+Vasopressors, n (%) 0 10 (14) 2 (4.0) 8 (40)
+Blood purification, n (%) 0 7 (10) 0 7 (35)
+Corticosteroids, n (%) 0 9 (13) 1 (2.0) 8 (40)
+IQR = interquartile range, SIRS = systemic inflammatory response syndrome.
+HR, 0.99; 95% CI, 0.99–1.00; p = 0.49). The procalcitonin and specificity of HRG levels associated with mortality at the
+level did not significantly associate with mortality. The Harrell cutoff level of 16.0 µg/mL were 0.87 and 0.79, respectively.
+C-index for mortality was as follows: HRG, 0.85; procalcitonin, Thus, when patients were divided into higher HRG and lower
+0.65; presepsin, 0.87; APACHE II score, 0.90; SOFA score, 0.88; HRG groups according to this cutoff level, Kaplan-Meier curves
+C-reactive protein (CRP), 0.61. (Fig. 2) showed that the mortality of the lower HRG group was
+Supplementary Table 2 (Supplemental Digital Content 5, significantly higher than that of the higher HRG group (HR,
+http://links.lww.com/CCM/D216) shows that the sensitivity 9.18; 95% CI, 1.85–45.5; p = 0.0028).
+4 www.ccmjournal.org XXX 2018 • Volume XX • Number XXX
+Copyright © 2018 by the Society of Critical Care Medicine and Wolters Kluwer Health, Inc. All Rights Reserved.
+--- Page 5 ---
+Clinical Investigation
+We evaluated HRG as a biomarker for sepsis by compar-
+ing HRG levels with levels of procalcitonin and presepsin,
+both clinical biomarkers for sepsis (3). When we divided SIRS
+patients into groups with and without infection, ROC curve
+analysis for diagnosing sepsis revealed that AUC for HRG, pro-
+calcitonin, and presepsin was 0.97, 0.82, and 0.77, respectively.
+These data indicate that HRG is the best marker for detect-
+ing sepsis within SIRS patients. The review article focused on
+the use of procalcitonin in septic patients in an ICU setting
+reported that the sensitivity to detect sepsis ranged from 65%
+to 96% and the specificity ranged from 70% to 89%, which was
+in agreement with current study (18).
+Furthermore, we demonstrated that HRG and presepsin
+levels, but not procalcitonin levels, were associated with mor-
+tality. The Harrell C-index (predictive power) for mortality was
+1 - Specificity
+0.85 and 0.87 for HRG and presepsin, respectively, consistent
+with the C-index for the APACHE II score (0.90). This score is
+an established clinical prognostic marker used worldwide but
+involves a complicated scoring system calculated according to
+dozens of variables. Thus, our present results strongly suggest
+that HRG will serve as a more effective prognostic biomarker
+DISCUSSION for SIRS patients.
+In this study, we found that HRG levels of SIRS patients were Using a mouse sepsis model, we clearly demonstrated that
+significantly lower than those of non-SIRS patients and that plasma HRG decreased markedly due to reduction of messen-
+HRG levels of septic patients were lower than those of non- ger RNA expression in the liver, degradation by thrombin, and
+infective SIRS patients. In addition, HRG was significantly deposition on intravascular thrombi (10). Under such condi-
+associated with mortality and provided sufficient diagnostic tion, a cascade of responses including intravascular neutrophil
+and prognostic accuracy as a biomarker for sepsis within SIRS extracellular traps formation, strong attachment of neutro-
+patients. phils to vascular endothelial cells, and immunothrombus for-
+HRG levels decreased in patients with SIRS who were treated mation proceed, leading to ARDS, DIC, and multiple organ
+in the ICU. To our knowledge, there are no reports describing failure (10). Thus, the marked decrease in plasma HRG may
+HRG levels in critically ill patients, although HRG levels have have a direct causal relation with septic lethality.
+been shown to decrease in patients with liver insufficiency (14) In this study, we also developed sandwich ELISA to mea-
+and in those receiving corticosteroids (15). HRG levels have sure HRG levels using one mAb to capture HRG, taking
+also been proposed to decrease during pregnancy and further advantage of the high-affinity binding of HRG to Ni–NTA
+decrease in patients with preeclampsia (16). In addition, HRG (19). This method does not rely on different HRG epitopes
+levels have been shown to decrease in outpatients with elevated and therefore does not require the use of multiple antibod-
+CRP values, leading to the conclusion that HRG acts as a nega- ies. Using this ELISA, we determined that the median HRG
+tive acute phase reactant (17). In this study, we demonstrated level in healthy volunteers was 63.00 µg/mL (IQR, 51.53–
+that HRG levels decreased in patients with SIRS and were 66.21 µg/mL), in agreement with published data showing
+negatively correlated with CRP levels (Supplementary Table 3, that HRG levels are approximately 100 µg/mL in human
+Supplemental Digital Content 6, http://links.lww.com/CCM/ plasma and that they vary widely (5, 6). We therefore con-
+D217). Our results support the conclusion that inflammation clude that HRG ELISA developed in this study is acceptable
+decreases HRG levels. for clinical practice.
+Critical Care Medicine www.ccmjournal.org 5
+Copyright © 2018 by the Society of Critical Care Medicine and Wolters Kluwer Health, Inc. All Rights Reserved.
+ytivitisneS
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+0.0 0.2 0.4 0.6 0.8 1.0
+Figure 1. Receiver operating characteristic (ROC) curve analysis for
+detecting sepsis. ROC curves of histidine-rich glycoprotein (HRG),
+procalcitonin (PCT), and presepsin. The area under the curve (AUC) in
+ROC curve analysis for HRG was 0.97. AUC for HRG was higher than that
+of PCT (0.82; p = 0.0018) and presepsin (0.77; p = 0.0012).
+TABLE 2. Associations Between Each Marker and Mortality
+Adjusted With Acute Physiology
+Variables Univariate Analysis and Chronic Evaluation II Score
+HR (95% CI) p Harrell C-index Adjusted HR (95% CI) p
+Histidine-rich glycoprotein 0.88 (0.80–0.98) < 0.001 0.85 0.89 (0.78–0.97) 0.0053
+Procalcitonin 0.97 (0.84–1.13) 0.76 0.65
+Presepsin 1.03 (1.01–1.05) 0.0040 0.87 0.99 (0.99–1.00) 0.49
+HR = hazard ratio.
+Adjusted HR denotes HR adjusted according to Acute Physiology and Chronic Evaluation II score.
+--- Page 6 ---
+Kuroda et al
+population. Therefore, HRG may be superior to procalci-
+tonin and presepsin for assessing severity of SIRS patients.
+Our results suggest that HRG serves as a novel biomarker
+for diagnosing sepsis, evaluating severity of patients, and
+predicting patient outcomes. To confirm our findings, larger
+validation studies are needed.
+Logrank test P < .001 ACKNOWLEDGEMENTS
+We thank Yuko Mihara (Department of Anesthesiology
+and Resuscitology, Okayama University Graduate School
+Higher HRG group
+Lower HRG group of Medicine, Dentistry and Pharmaceutical Sciences,
+Okayama, Japan) for her assistance as a study nurse, and
+Yuta Morioka (Department of Pharmacology, Okayama
+University Graduate School of Medicine, Dentistry and
+Days Pharmaceutical Sciences, Okayama, Japan) for his techni-
+cal guidance.
+REFERENCES
+1. Russell JA: Management of sepsis. N Engl J Med 2006; 355:1699–
+1713
+2. Lever A, Mackenzie I: Sepsis: Definition, epidemiology, and diagnosis.
+BMJ 2007; 335:879–883
+There are limitations to this study. First, our study was a
+3. Henriquez-Camacho C, Losa J: Biomarkers for sepsis. Biomed Res
+single-center study and included only 79 patients. However, Int 2014; 2014:547818
+to address this limitation, we initiated a multicenter pro- 4. Pierrakos C, Vincent JL: Sepsis biomarkers: A review. Crit Care
+spective study to validate the diagnostic and prognostic role 2010; 14:R15
+of HRG levels. Second, although we focused on sepsis, we 5. Poon IK, Patel KK, Davis DS, et al: Histidine-rich glycoprotein: The
+Swiss Army knife of mammalian plasma. Blood 2011; 117:2093–
+studied 70 patients with SIRS, including only 20 who had
+2101
+the disease. Thus, it is unclear whether HRG would work 6. Blank M, Shoenfeld Y: Histidine-rich glycoprotein modulation of
+to differentiate sepsis survival due to limited numbers of immune/autoimmune, vascular, and coagulation systems. Clin Rev
+Allergy Immunol 2008; 34:307–312
+individual analyzed here. Larger validation studies focused
+7. Shannon O, Rydengård V, Schmidtchen A, et al: Histidine-rich glyco-
+on sepsis should be performed. Third, in this study, we used
+protein promotes bacterial entrapment in clots and decreases mortal-
+old definition of sepsis (Sepsis-2) because we conducted ity in a mouse model of sepsis. Blood 2010; 116:2365–2372
+this study from November 2012 to November 2014. We 8. Rydengård V, Shannon O, Lundqvist K, et al: Histidine-rich glycopro-
+should initiate another study with new definition for sep- tein protects from systemic Candida infection. PLoS Pathog 2008;
+4:e1000116
+sis (Sepsis-3) (20). Fourth, we only assessed the initial HRG
+9. Priebatsch KM, Kvansakul M, Poon IK et al: Functional regulation of
+level, and we had no serial data. Time-dependent changes in the plasma protein histidine-rich glycoprotein by Zn2+ in settings of
+HRG levels would be more valuable and reflect treatments tissue injury. Biomolecules 2017; 7:E22
+such as steroids and renal replacement therapies. Further 10. Wake H, Mori S, Liu K, et al: Histidine-rich glycoprotein prevents sep-
+tic lethality through regulation of immunothrombosis and inflamma-
+investigations about serial values would be needed. Fifth,
+tion. EBioMedicine 2016; 9:180–194
+noninfective SIRS patients included many postoperative
+11. Centre C, Vandenbroucke JP: Strengthening the reporting of obser-
+patients. Postoperative condition is complicated because vational studies in epidemiology (STROBE) statement: Guidelines for
+of the effects of general anesthesia, surgical pain, or some- reporting observational studies. BMJ 2007; 335:806–808
+12. Levy MM, Fink MP, Marshall JC, et al: 2001 SCCM/ESICM/ACCP/
+thing associated with operation. These effects might con-
+ATS/SIS international sepsis definitions conference. Crit Care Med
+fuse a comparison between noninfective SIRS patients and 2003; 31:1250–1256
+septic patients. Sixth, noninfective SIRS patients included 13. Dellinger RP, Levy MM, Rhodes A, et al; Surviving Sepsis Cam-
+many patients with cancer. Because HRG levels may pre- paign Guidelines Committee including the Pediatric Subgroup:
+Surviving sepsis campaign: International guidelines for manage-
+vent tumor growth (5, 21, 22) and are significantly higher in
+ment of severe sepsis and septic shock: 2012. Crit Care Med
+patients with breast cancer (23), the characteristics of these 2013; 41:580–637
+populations may have influenced our data. 14. Lijnen HR, Jacobs G, Collen D: Histidine-rich glycoprotein in a normal
+and a clinical population. Thromb Res 1981; 22:519–523
+15. Morgan WT: Serum histidine-rich glycoprotein levels are decreased
+CONCLUSIONS in acquired immune deficiency syndrome and by steroid therapy. Bio-
+chem Med Metab Biol 1986; 36:210–213
+HRG levels of septic patients were significantly lower than
+16. Bolin M, Akerud P, Hansson A, et al: Histidine-rich glycoprotein
+those of noninfective SIRS patients, and HRG levels were
+as an early biomarker of preeclampsia. Am J Hypertens 2011;
+significantly associated with mortality within the SIRS 24:496–501
+6 www.ccmjournal.org XXX 2018 • Volume XX • Number XXX
+Copyright © 2018 by the Society of Critical Care Medicine and Wolters Kluwer Health, Inc. All Rights Reserved.
+etar
+lavivruS
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+0 20 40 60 80
+Figure 2. Kaplan-Meier survival curves. Patients were divided into higher
+histidine-rich glycoprotein (HRG) and lower HRG groups according to
+the cutoff level of 16.0 µg/mL. At the cutoff level of 16.0 µg/mL, the
+sensitivity and specificity of HRG levels associated with mortality were
+0.87 and 0.79, respectively.
+--- Page 7 ---
+Clinical Investigation
+17. Saigo K, Yoshida A, Ryo R, et al: Histidine-rich glycoprotein as a neg- 21. Johnson LD, Goubran HA, Kotb RR: Histidine rich glycoprotein and
+ative acute phase reactant. Am J Hematol 1990; 34:149–150 cancer: A multi-faceted relationship. Anticancer Res 2014; 34:593–
+18. Carr JA: Procalcitonin-guided antibiotic therapy for septic patients in 603
+the surgical intensive care unit. J Intensive Care 2015; 3:36 22. Cedervall J, Zhang Y, Ringvall M, et al: HRG regulates tumor pro-
+19. Mori S, Takahashi HK, Yamaoka K, et al: High affinity binding of gression, epithelial to mesenchymal transition and metastasis via
+serum histidine-rich glycoprotein to nickel-nitrilotriacetic acid: The platelet-induced signaling in the pre-tumorigenic microenvironment.
+application to microquantification. Life Sci 2003; 73:93–102 Angiogenesis 2013; 16:889–902
+20. Singer M, Deutschman CS, Seymour CW, et al: The third international 23. Matboli M, Eissa S, Said H: Evaluation of histidine-rich glycoprotein
+consensus definitions for sepsis and septic shock (Sepsis-3). JAMA tissue RNA and serum protein as novel markers for breast cancer.
+2016; 315:801–810 Med Oncol 2014; 31:897
+Critical Care Medicine www.ccmjournal.org 7
+Copyright © 2018 by the Society of Critical Care Medicine and Wolters Kluwer Health, Inc. All Rights Reserved.

@@ -1,0 +1,196 @@
+
+--- Page 1 ---
+Hindawi
+Disease Markers
+Volume 2020, Article ID 7190828, 11 pages
+https://doi.org/10.1155/2020/7190828
+Research Article
+Plasma Fibrin Clot Properties as Determinants of
+Bleeding Time in Human Subjects: Association with
+Histidine-Rich Glycoprotein
+Konstanty Szułdrzyński, 1,2 Miłosz Jankowski, 2,3 Daniel P. Potaczek , 4,5
+4,6
+and Anetta Undas
+1DepartmentofInterdisciplinaryIntensiveCare,JagiellonianUniversityMedicalCollege,Krakow,Poland
+2DepartmentofAnesthesiologyandIntensiveCare,UniversityHospital,Krakow,Poland
+3DepartmentofMedicine,JagiellonianUniversityMedicalCollege,Krakow,Poland
+4JohnPaulIIHospital,Kraków,Poland
+5InstituteofLaboratoryMedicine,MemberoftheGermanCenterforLungResearch(DZL)andUniversitiesofGiessenandMarburg
+LungCenter(UGMLC),Philipps-UniversityMarburg,Marburg,Germany
+6InstituteofCardiology,JagiellonianUniversityMedicalCollege,Krakow,Poland
+CorrespondenceshouldbeaddressedtoAnettaUndas;paulaburska@gmail.com
+KonstantySzułdrzyński,MiłoszJankowski,andDanielP.Potaczekcontributedequallytothiswork.
+Received 27 May 2019; Revised 5 August 2019; Accepted 24 December 2019; Published 29 January 2020
+AcademicEditor:PaolaGazzaniga
+Copyright©2020KonstantySzułdrzyńskietal.ThisisanopenaccessarticledistributedundertheCreativeCommonsAttribution
+License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is
+properlycited.
+Aims.Fibrinformationandhistidine-richglycoprotein(HRG)areinvolvedinprimaryhemostasisandwoundhealing.Littleis
+known regarding the relationship of clot characteristics, bleeding time, and wound healing. Methods and Results. We studied
+154patientswithcoronaryarterydisease(CAD)and154subjectsfreeofCADmatchedforage,obesity,andcurrentsmoking.
+Weevaluatedbleedingtime(BT)usingstandardizedskinincisionsonaforearm,alongwithplasmaclotpermeability(K ),clot
+s
+lysis time (CLT), and histidine-rich glycoprotein (HRG). Compared with controls, BT was 45% shorter in CAD cases. CAD
+patients had 32% lower K and 17% longer CLT as well as 50% lower HRG compared with controls (all p<0:001). After
+s
+adjusting for potential confounders, K and HRG levels were independent predictors of prolonged BT in CAD patients (OR
+s
+23.70, 95% CI 4.65-120.8 and OR 10.27, 95% CI 2.05-51.31, respectively) and controls (OR 10.89, 95% CI 2.31-51.11 and OR
+4.54,95%CI1.07-19.27,respectively).Scarformation(n=79,25.6%)wasindependentlypredictedbybothshortandprolonged
+BT inCAD cases (OR21.87, 95%CI 7.41-64.55 and OR 10.17, 95%CI 2.88-35.97) and controls (OR5.94, 95%CI 2.29-15.41
+and OR 14.76, 95% CI 4.29-50.77, respectively). Conclusions. The study shows that plasma fibrin clot density and HRG may
+influenceBTand thatappropriateskinwoundhealingis associatedwithmediumBT.TranslationalPerspective. Elucidationof
+thecomplexrelationshipsbetweenplasmafibrinclotphenotypeandwoundhealingmighthaveimportantpracticalimplications.
+1. Introduction pact networks that are less susceptible to lysis, the so-called
+“prothromboticclotphenotype,”canbeobservedinpatients
+Fibrin formation is the final step of blood coagulation with myocardial infarction (MI), ischemic stroke, and
+involved in hemostasis following vascular injury and the
+peripheralarterydisease[1,2].Unfavourablefibrinclotchar-
+maintenanceofvesselpatencyunderpathologicalconditions. acteristics were also found in patients with cardiovascular
+Thereisevidencethatplasmafibrinclotscomposedofcom- riskfactors,includingcigarettesmoking[3],diabetesmellitus
+--- Page 2 ---
+2 DiseaseMarkers
+[4], and arterial hypertension [5]. The impact of environ- 2. Materials and Methods
+mentalfactors isconsidered prevalent intheprothrombotic
+2.1. Patients. We assessed 154 consecutive patients (cases)
+plasmaclotphenotype[6,7].Somemedications,inparticular
+with stable CAD (Canadian Cardiovascular Society classes
+aspirin and statins, have been reported to increase clot per-
+IIorIII)and,ascontrols,154unrelatedsubjectsfreeofCAD,
+meability and susceptibility to lysis [8, 9]. Of importance,
+whowererecruitedfromthehospitalpersonnelorfamilymem-
+recentstudieshavesuggestedthatclotpropertiesmaypredict
+bers. All study participants were enrolled between 1999 and
+recurrentthrombosis[10].
+2007andwerepartlydescribedpreviously[9,22].Patientswere
+Fibrinisessentialforwoundhealingasitprovidesascaf-
+fold for macrophages and fibroblasts migrating into the excluded if they had any acute illness, known cancer, chronic
+inflammatory disease (C−reactiveprotein½CRP(cid:2)>10mg/L),
+wound [11]. Fibrin acts together with platelets producing
+liver injury (alaninetransaminase>1:5times above the
+growth factors necessary for recruitment and activation of
+fibroblasts [12]. Fibrin forms a network stabilizing aggre- upper limit of the reference range), glomerularfiltration
+rateðGFRÞ<30mL/min, prior venous thromboembolism
+gated platelets. Endothelial cells (ECs) invade the wound
+soonafterleukocytesandmonocytesandbindtofibrinwith or stroke, any acute coronary syndrome (ACS) within the
+6precedingmonths,andcurrentantithrombotictreatment
+integrins [12]. ECs are activated by vascular endothelial
+growth factor (VEGF), fibroblast growth factor-2 (FGF-2), otherthanacetylsalicylicacid(ASA).Thesubjectswithpoor
+fibronectin, and also fibrin while platelet factor-4 (PF4) is skin condition including scars, edema, atrophy (also all
+treatedwithcorticosteroids)wereineligible.
+oneofthemostimportantinhibitorsofangiogenesis.Fibrin-
+ogen bound to the integrins exposed on the surface of the Obesity was defined as bodymassindexðBMIÞ≥30kg/
+nucleated cells is necessary to trigger change of cell shape
+m2.Diabetes wasdefinedasahistoryofdiabetes,theuseof
+andpropercontractionofthewound[12].Theroleofabnor- hypoglycemicagents,orfasting plasmaglucose≥126mg/dL
+malfibrinclotfeaturesindefectivewoundhealinghasbeen (7mM) on two separate occasions. Arterial hypertension
+suggested by clinical phenotypes of some dysfibrinogenae- was defined as a systolic and/or adiastolicbloodpressure≥
+mias [13–15]. Application of a fibrin sealant to the wound 140mmHg or ≥90mmHg, respectively, or antihypertensive
+accelerates its healing, probably due to improved prolifera- therapy. Heart failure was defined according to the Euro-
+tion and migration of fibroblasts [12]. However, exact rela- pean guidelines [26]. Anemia was defined as hemoglobin
+tionships between fibrin clot properties assessed in plasma, levels<120g/L.
+bleeding time (BT), and the wound healing in human sub- ThestudywasperformedinaccordancewiththeDecla-
+jects remain unclear. Furthermore, we hypothesized that rationofHelsinkianditsprotocolwasapprovedbytheBio-
+histidine-rich glycoprotein (HRG) may play role in these ethicalCommitteeoftheJagiellonianUniversity.Allsubjects
+relationships.HRGisaliver-produced~75kDasinglepoly- enrolledprovidedwritteninformedconsent.
+peptidechainprotein[16]presentat~1.5μMconcentration
+in human plasma [17]. HRG binds to a diverse range of 2.2.LaboratoryInvestigations.Fastingbloodwasdrawnfrom
+ligands (fibrin, fibrinogen, plasminogen, heparin, heparan anantecubitalveinwithminimalstasisbetween8and11AM.
+sulfate, thrombospondin, complement C1q, immunoglobu-
+Lipidprofiles,bloodcellcounts,glucose,creatinine,D-dimer,
+linG,heme,zincions,phospholipids,etc.).Thismayimply international normalized ratio (INR), and activated partial
+itsregulatoryroleforimmune,vascular,andcoagulationsys- thromboplastintime(APTT)wereassayedbyroutinelabora-
+tems[17–19]. torytechniques.FactorVIIIactivity(FVIII)wasmeasuredby
+Standardized skin incisions performed with a single-use
+one-stageclottingassayusingfactor-deficientplasma(Siemens,
+device(e.g.,SimPlateorSurgicutt)havebeenlongemployed Marburg,Germany).Fibrinogenwasdeterminedusingthevon
+to measure BT in patients suspected of bleeding disorders Claussmethod.High-sensitivityCRPwasmeasuredbynephe-
+[20, 21]. Blood coagulation initiated by skin incisions lometry (Siemens, Marburg, Germany). Fasting plasma tHcy
+dependsonthetissuefactor-(TF-)mediatedextrinsicpath- levelsweremeasuredusingHPLC.Histidine-richglycoprotein
+waywithmassivethrombingenerationinbloodcollectedat (HRG) and VEGFlevels were measured using ELISAs (R&D
+thesiteofinjury[22].ProlongedBThasbeenshownin,i.e., Systems Inc., Abington, UK). The two parameters were
+hemophilia orafibrinogenemia[23,24].Interestingly, ithas assessedinoncethawedsamplesfrozenat-80degreesCelsius.
+been shown that fibrin formation occurs as early as 30-60 Theinterassayandintra-assaycoefficientsofvariationforthe
+seconds after the skin incision in healthy humans [25]. It is ELISAswere<8%.
+however unclear whether fibrin clot characteristics affect
+BTin subjects free of bleeding tendency. 2.3. Bleeding Time. BT assessment was performed by 2
+To our knowledge, there have been no studies explor- experienced investigators as described previously [27]. In
+ing plasma clot features in relation to BT and skin wound brief, after compressing the upper arm with a sphygmo-
+healing in healthy subjects and patients with coronary manometer cuff to 40mm Hg, two incisions were made
+artery disease (CAD) known to form denser fibrin clot on the apparently healthy skin of the lateral aspect of a
+structures [6, 7, 9]. We hypothesized that looser fibrin fibre forearm parallel to the antecubital crease using a Simplate
+networks prolong BT and impair skin wound healing. We II device (Organon Teknika, Durham, NC, USA). The
+sought to investigate whether plasma clot properties affect blood shed from incisions was collected at 30-second
+BT and scar formation at the site of standardized skin intervals and BT was recorded when blood flow ceased
+incisions in humans. in two wounds.
+--- Page 3 ---
+DiseaseMarkers 3
+2.4.FibrinClotProperties.Plasmasamples(9:1of3.2%triso- Uni- and multivariate logistic regression models were used
+dium citrate) for fibrin assays were centrifuged (20min, to determine predictors of scar formation. We determined
+2500g) within 30 minutes of collection to obtain platelet- predictors of long and short BT, defined as the upper and
+poor plasma, immediately frozen, and stored in aliquots at thelowerBTquartile,respectively,alongwithpredictorsofa
+-80°C. All measurements were performed by technicians verylongBTwithits90thpercentileasacutoffvalue.Multi-
+blinded to the sample status in the material stored at -80 variateanalysesadjustedforage,diabetes,ASAuse,andstatin
+degreesCelsiusandthawedpriortoanalysis. treatment. Models for BT prediction involved also current
+smoking,plateletcount,FVIII,CLT,K ,andHRG.Apvalue
+2.4.1. Clot Permeability. Permeation of plasma fibrin clots oflessthan0.05wasconsideredsignifica s nt.Statisticalanalyses
+was determined as described [9]. Briefly, 20mM calcium
+were conducted using the Statistica 64 v.13 (StatSoft/Dell,
+chloride and 1U/mL human thrombin (Sigma-Aldrich/- Tulsa, OK, USA) or MedCalc 64-bit v.13.1.2.0 (MedCalc
+Merck,Darmstadt,Germany)wereaddedtocitratedplasma. Software, Ostend, Belgium) program.
+Tubescontainingtheclotswereconnectedtoareservoirofa
+Tris-buffered saline (TBS) buffer (0.01M Tris, 0.1M NaCl, 3. Results
+pH 7.5), and its volume flowing through the gels was mea-
+suredwithin60minutes.Apermeationcoefficient(K ),indi- 3.1. Characteristics of the Studied Groups. The CAD group
+s
+cating the pore size, was calculated from the equation: had a lower proportion of females and a higher prevalence
+K =Q×L×η/t×A×Δp, where Qis the flow rate in time t, ofhypertension,diabetes,higherBMI,totalcholesterol,and
+s
+L is the length of a fibrin gel, η is the viscosity of liquid LDL cholesterol as well as a more frequent statin use, com-
+(in poise), t is percolating time, A is the cross-sectional area pared with controls (Table 1). Fibrinogen and FVIII levels
+(in cm2), and Δp is a differential pressure (in dyne/cm2). werehigherinCADpatientsthancontrols(Table1).
+The intraindividual variability of results was 8%.
+3.2.BleedingTime.BTwas45%shorterinCADpatientsthan
+2.4.2. Clot Lysis Time. CLT was measured as described [28, controls (Table 1). An inverse correlation between BT and
+29].Briefly,citratedplasmawasmixedwith15mMcalcium agewasobserved onlyincontrols(R=−0:54,p<0:001). As
+chloride, 10,000-diluted human TF (Innovin, Siemens, Mar- expected, BT was longer in CAD patients treated by ASA
+burg,Germany),12μMphospholipidvesicles(highlypurified (250[211-309]vs.229[199-275]sec,respectively,p=0:03),
+phosphatidylcholine, phosphatidylserine, and sphingomyelin while those on statins had shorter BT (210 [195-250] vs.
+from Rossix, Molndal, Sweden), and 60ng/ml recombinant 240[207-296]sec,respectively,p=0:01).
+t-PA(BoehringerIngelheim,Ingelheim,Germany).Themix- IntheCADandcontrolgroups,therewereinversecorre-
+ture was transferred to a microtiter plate and its turbidity lationsbetween BTand fibrinogen(R=−0:30,p<0:001 and
+was measured at 405nm at 37°C. Clot lysis time was R=−0:52,p<0:001, respectively) and platelet count
+defined as the time from the midpoint of the clear-to-max- (R=−0:51,p<0:001 and R=−0:45,p<0:001, respectively).
+imum-turbid transition, which represents clot formation, to TherewasaninverseweakcorrelationbetweenBTandFVIII
+the midpoint of the maximum-turbid-to-clear transition. (R=−0:21,p=0:01)incontrolswhoallhadFVIIIabove80%.
+The coefficients of intra- and interassay variations were 6%.
+3.3.HRGandVEGF.PlasmaHRGlevelswere50%lowerin
+2.5.ScarFormation.Formationofthescaratthesiteofprior CADpatientsthanincontrols(Table1).HRGinverselycor-
+BT test was assessed macroscopically by the independent related with age (R=−0:27,p<0:001) and fibrinogen
+investigators two weeks after BT measurement. The scar (R=−0:24,p=0:003) in controls. In both CAD patients
+wasdefinedasalinearmarkatthesiteofskinincisiondiffer- and controls, HRGcorrelated negatively withplatelet count
+ent in colour from the surrounding skin and >1mm wide. (R=−0:25,p=0:001 and R=−0:21,p=0:008, respectively)
+The interobserver variability was estimated at 10%, based and CRP (R=−0:16,p=0:04 and R=−0:26,p=0:001,
+on evaluation of 50 randomly selected patients performed respectively). Interestingly, there was a positive correlation
+independentlyby2investigators. ofHRGwithBT(R=0:39,p<0:001andR=0:43,p<0:001,
+Allmethodswereperformedinaccordancewiththerel- respectively) in both groups. There was no difference in
+evantguidelinesandregulations. HRGandVEGFbetweensubjectswhoseplasmasampleswere
+collectedwithinthefirst2yearsandthosefromtheremaining
+2.6.StatisticalAnalysis.Thestudywaspoweredtohavea90%
+years(datanotshown).
+chanceofdetectinga10%differenceinK usingapvalueof
+s VEGFlevelswere147%higherinCADpatientscompared
+0.05. To demonstrate such a difference or greater in K , at
+s with controls (Table 1). VEGF correlated positively with age
+least31patientswererequiredineachgroup[9]. (R=0:44,p<0:001) and fibrinogen (R=0:26,p<0:001)
+Categorical variables were compared using χ2 exact test.
+only in controls. We observed inverse correlation between
+Continuousvariablesweretestedforthenormalityofthedis- VEGF and BT (R=−0:25,p=0:002) in controls, but not
+tributionbytheShapiro-WilkWtest.Thosenormallydistrib-
+in CAD patients.
+utedaregivenasthemean±standarddeviationandotherwise
+asmedian(interquartilerange).Comparisonswereperformed 3.4. Fibrin Clot Properties. As expected, plasma fibrin clots
+using unpaired (Student’s) t-test or Mann–Whitney U test, were denser (32% lower K ) and more resistant to fibrino-
+s
+respectively.Associations between continuous variables were lysis (17% longer CLT) in CAD patients compared with
+calculated using Spearman’s rank correlation coefficient. controls (Table 1). Comorbidities showed no associations

@@ -1,0 +1,416 @@
+REPORT
+Common Variants of Large Effect
+in F12, KNG1, and HRG Are Associated
+with Activated Partial Thromboplastin Time
+Lorna M. Houlihan,1,7,* Gail Davies,1,7 Albert Tenesa,2,7 Sarah E. Harris,3 Michelle Luciano,1
+Alan J. Gow,1 Kevin A. McGhee,1 David C. Liewald,1 David J. Porteous,3 John M. Starr,4
+Gordon D. Lowe,5 Peter M. Visscher,6,8 and Ian J. Deary1,8,*
+Activatedpartialthromboplastintime(aPTT)isassociatedwithriskofthrombosisandcoagulationdisorders.Weconductedagenome-
+wideassociationstudyforaPTTandidentifiedsignificantassociationswithSNPsinthreecoagulationcascadegenes,F12(rs2731672,
+combinedp¼2.16310(cid:2)30),KNG1(rs710446,combinedp¼9.52310(cid:2)22),andHRG(rs9898,combinedp¼1.34310(cid:2)11).Thesethree
+SNPsexplain~18%ofphenotypicvarianceinaPTTintheLothianBirthCohorts.
+Thromboticdisordersareamongthemostcommoncauses age of 79.1 years (SD ¼ 0.6). A full description of partici-
+of morbidity and mortality in the western world.1 Epide- pant recruitment and testing can be found elsewhere.8
+miological studies show that shortening of the activated Ethics permission for the study was obtained from the
+partial thromboplastin time (aPTT) is not only associated Multi-Centre Research Ethics Committee for Scotland
+with several prothrombotic risk factors, including age, (MREC/01/0/56) and from Lothian Research Ethics Com-
+female sex, estrogen use, and obesity,2 but also increased mittee (LBC1936: LREC/2003/2/29 and LBC1921: LREC/
+riskofthrombosis.3ProlongedaPTTisanindicatorofcoag- 1998/4/183). The research was carried out in compliance
+ulation disorders in patients with deficiencies of factors with the Helsinki Declaration. All subjects gave written,
+in the intrinsic pathway of coagulation. As a result, aPTT informedconsent.
+is considered a global test of thrombotic tendency. There Blood samples were drawn from participants in both
+is high heritability for variation in aPTT4,5 and risk of cohorts via the same protocol. Blood samples were sent
+thrombosis,6 indicating the importance of genetic effects forprocessingimmediately,andtheclottingtestswereper-
+inthenormalquantitativevariationofaPTT. formed upon receipt. aPTT was measured in an ACL-Top
+Weaimedtoidentifypolymorphismscausingvariation Haemostasis testing system (Instrumentation Laboratory)
+in aPTT in the general older population via genome- withtheSynthASilkit(HemosIL,InstrumentationLabora-
+wide association methods in a total of 1477 adults from tory), the reliability of which is very high (coefficient of
+the Lothian Birth Cohorts of 1936 (LBC1936) and 1921 variation ¼ 1.6%). Here we report the aPTT ratio for
+(LBC1921). The LBC1936 consists of 1091 relatively bothcohorts.Thisistheratioofthepatient’saPTTtothe
+healthy individuals assessed on cognitive and medical aPTT reference value of the laboratory, herein referred
+traits at 70 years of age.7 They were born in 1936, most to as aPTT. We have aPTT measurements available for
+took part in the Scottish Mental Survey of 1947, and LBC1936, which correlates almost perfectly (R2 ¼ 0.95)
+almostalllivedindependentlyintheLothianregion(Edin- withtheaPTTratio.
+burghcityandsurroundingarea)ofScotland.Thesample Genotyping was performed with the Illumina
+of548menand543womenhadameanageof69.6years Human610-Quadv1 chip; 542,050 SNPs passed quality
+(standarddeviation[SD]¼0.8).Afulldescriptionofpartic- control.Ofthe1091individualsintheLBC1936,genomic
+ipant recruitment and testing can be found elsewhere.7,8 DNA was isolated from 1071 by standard procedure at
+The LBC1921 cohort consists of 550 relatively healthy the Wellcome Trust Clinical Research Facility (WTCRF)
+individuals,316femalesand234males,assessedoncogni- GeneticsCore.Twenty-ninesamplesfailedqualitycontrol
+tiveandmedicaltraitsat79yearsofage.Theywerebornin precedingthegenotypingprocedure.Theremaining1042
+1921, most took part in the Scottish Mental Survey of samples (all blood-extracted) were genotyped at the
+1932, and almost all lived independently in the Lothian WTCRF Genetics Core with the Illumina Human610-
+region in Scotland. When tested, the sample had a mean Quadv1 chip. These samples were then subjected to the
+1CentreforCognitiveAgeingandCognitiveEpidemiology,DepartmentofPsychology,TheUniversityofEdinburgh,7GeorgeSquare,EdinburghEH89JZ,
+UK;2MRCHumanGeneticsUnit,TheInstituteofGeneticsandMolecularMedicine,WesternGeneralHospital,EdinburghEH42XU,UK;3Centrefor
+CognitiveAgeingandCognitiveEpidemiology,MedicalGeneticsSection,TheUniversityofEdinburgh,EdinburghEH42XU,UK;4CentreforCognitive
+AgeingandCognitiveEpidemiology,GeriatricMedicineUnit,TheUniversityofEdinburgh,RoyalVictoria,CraigleithRoad,EdinburghEH42DN,UK;
+5DivisionofCardiovascularandMedicalSciences,UniversityofGlasgow,RoyalInfirmary,10AlexandraParade,GlasgowG312ER,UK;6QueenslandStatis-
+ticalGenetics,QueenslandInstituteofMedicalResearch,RoyalBrisbaneHospitalPostOffice,Brisbane4029,Queensland,Australia
+7Theseauthorscontributedequallytothiswork
+8Theseauthorscontributedequallytothiswork
+*Correspondence:lorna.houlihan@ed.ac.uk(L.M.H.),ian.deary@ed.ac.uk(I.J.D.)
+DOI10.1016/j.ajhg.2010.02.016.ª2010byTheAmericanSocietyofHumanGenetics.Allrightsreserved.
+626 TheAmericanJournalofHumanGenetics86,626–631,April9,2010
+qualitycontrolproceduresdescribedbelow,and1005sam- threeSNPswiththeadditivebyadditiveepistasismodelin
+ples remained. Of these 1005 samples, 989 had aPTT PLINK.TotestforgenderdifferenceintheSNPassociations
+measurements, and all further descriptions and analyses with aPTT, we carried out a quantitative trait interaction
+are based on these 989 samples. The mean age of these test with PLINK. To correct for multiple testing in our
+989 samples was 69.53 (SD ¼ 0.85, range ¼ 3.69 years). gene-based searchfor associationsbased onFigure S3,we
+Of the 550 individuals in the LBC1921, genomic DNA usedaset-basedpermutationapproachinPLINK.
+wasisolatedfromwholebloodfrom542samplesbystan- Prediction of LBC1921 aPTT phenotype was performed
+dard procedure at Medical Research Council Technology, with the beta weights from the best SNP in each of the
+Western General Hospital, Edinburgh. Sixteen samples genesassociatedwithaPTTintheLBC1936sample.They
+failedqualitycontrolprecedingthegenotypingprocedure. were entered as independent variables in a linear regres-
+Theremaining526samplesweregenotypedbytheWTCRF sionmodeltopredictaPTTvaluesinLBC1921.Theresult-
+GeneticsCorewiththeIlluminaHuman610-Quadv1chip. ingbetaweightsandconstantwereappliedtotheSNPsin
+These samples were then subjected to the quality-control LBC1921 to predict aPTT values. This analysis was per-
+procedures described below, and 517 samples remained. formedinPASWStatistics17.0.Pathwayanalysiswasper-
+Ofthese517samples,488participantshadaPTTdataavail- formedwithSTRING.12
+able.Themeanageoftheparticipantswithbothgenotype Bioinformatic analyses were performed to predict
+and phenotype information in LBC1921 was 79.05 whether the amino acid substitution affects protein
+(SD¼0.57,range¼2.86years). structureand function based on sequence homology and
+Quality control of the data was performed. Individuals the physical properties of amino acids with SIFT and
+withadisagreementbetweengeneticandreportedgender PolyPhen.13,14
+were removed (n ¼ 12 in LBC1936; n ¼ 1 in LBC1921). Weidentifiedhighlysignificantassociationsofrelatively
+Relatedness between subjects was investigated and, largeeffectsizebetweenaPTTandSNPsinthreegenes:F12
+for any related pair of individuals, one was removed (MIM *610619), KNG1 (MIM *612358) and HRG (MIM
+(PI_HAT[proportionofidentitybydescent]>0.25;n¼8 *142640) (Table 1; Figure 1A). The strongest association
+in LBC1936; n ¼ 1 in LBC1921). Samples with a call was rs2731672 (p ¼ 2.16 3 10(cid:2)30), an intergenic SNP
+rate %0.95(n¼16inLBC1936;n¼5inLBC1921)and ~5.8 kb upstream of the gene for coagulation factor XII
+thoseshowingevidenceofnon-Europeandescentbymulti- (F12),asillustratedinFigure1B.Theeffectsofrs2731672
+dimensionalscalingwerealsoremoved(n¼1inLBC1936; onaPTTwereadditive,witheachAalleleincreasingaPTT
+n¼2inLBC1921).SNPswereincludedintheanalysesif by 0.45 SD. The SNP explained 9.6% and 6.6% of the
+theymetthefollowingconditions:callrateR0.98,minor variationinaPTTinLBC1936andLBC1921,respectively.
+allelefrequencyR0.01,andHardy-Weinbergequilibrium The strongest KNG1 association was with rs710446
+testwithpR0.001.ThefinalnumberofSNPsincludedin (p ¼ 9.52 3 10(cid:2)22), a nonsynonymous coding SNP
+thegenome-wideassociationstudywas542,050. (1742T>C,Ile581Thr)inexon10ofkininogen1isoform1
+The quantitative trait aPTT showed a normal distribu- (high molecular weight kininogen, HMWK) (Table 1; Fig-
+tion and is described in Table S1, available online. aPTT ure 1C). The effects of rs710446 were additive, with each
+was adjusted for the effects of gender and age in days, G allele decreasing aPTT by 0.36 SD. The SNP explained
+becausethesearesignificantfactorsinaPTT.3–5InFigureS1, 5.2% and 8.1% of the variance in LBC1936 and
+the quantile-quantile plots for both the LBC1936 and LBC1921, respectively. An association was also revealed
+LBC1921 together and separately showed no evidence of withrs9898(p¼1.34310(cid:2)11),anonsynonymouscoding
+population stratification. The lambda values suggest no SNP(610C>T,Pro204Ser) inexon 5 of the geneHRG, for
+inflation of association signals in accordance with ran- histidine-richglycoprotein(HRGP).Theeffectswereaddi-
+dom expectation (joint l ¼ 0.9976; LBC1936 l ¼ 1.004; tive, with each T allele decreasing aPTT by 0.26 SD. The
+LBC1921l¼1.0092).Linearregressionanalysiscovarying SNP explained 1.8% and 0.77% of the variance in aPTT
+forcohorteffectunderanadditivegeneticmodelwasper- in LBC1936 and LBC1921, respectively (Table 1; Fig-
+formed with PLINK version 1.06.9 Analysis was also per- ure 1D). There was no evidence for pairwise interactions
+formed removing individuals with the following criteria: between the three significant SNPs: rs9898 and rs710446
+taking warfarin medication, abnormal lymphocyte count (p ¼ 0.044), rs9898 and rs2731672 (p ¼ 0.14), and
+(>103109/L),lowplatelets(<1503109/L),highplatelets rs710446andrs2731672(p¼0.40).
+(>450 3 109/L), hemophilia, leukemia, or chronic liver FigureS2showsthatthegeneticeffectsofthemostsig-
+disease (n ¼ 62 in LBC1936; n ¼ 45 in LBC1921). These nificantly associated SNPs in the three genes—rs2731672
+exclusions included aPTT outliers (Z > 5 3.4; n ¼ 3 in (F12),rs710446(KNG1),andrs9898(HRG)—wereadditive
+LBC1936; n ¼ 3 in LBC1921). The results were viewed in both LBC1936 and LBC1921. There was a marginally
+with WGAViewer.10 One SNP (rs1801020) was imputed significant effect of dominance deviation in rs2731672
+with high confidence (R2 ¼ 0.87 in LBC1936; R2 ¼ 0.85 (p¼0.021)andrs9898(p¼0.024).
+inLBC1921)withMACH.11Associationswerereportedas TherewasnoevidenceforSNPbygenderinteractionsfor
+genome-wide significant (p < 10(cid:2)8). Pairwise interaction thethreesignificantSNPs(allp>0.1).Thegeneticassoci-
+analysiswasperformedforthetop,significantly-associated ation results separated by gender are shown in Table S2.
+TheAmericanJournalofHumanGenetics86,626–631,April9,2010 627
+The results did not materially change after exclusion of
+individualswithpotentiallyabnormalaPTT(TableS3).
+Beyond association, we showed that, by using the best
+SNP in each of the three genes associated with aPTT in
+LBC1936—rs2731672 (F12), rs710446 (KNG1), and
+rs9898 (HRG)—and their estimated effect sizes, the aPTT
+phenotype in LBC1921 can be predicted (Figure 2). The
+Pearson correlation between the values predicted with
+only the information about the three SNPs and actual
+aPTTvalueswasr¼0.426(p¼1.29310(cid:2)22).Theregres-
+sion coefficient (slope) was 0.991 (standard error [SE] ¼
+0.096), indicating that the prediction was unbiased.
+Furthermore, we show that F12, KNG1, and HRG form
+part of the same signaling pathway (Figure S3). Of the
+tenpathwaymembers,F11(MIM*264900)showedassoci-
+ation with aPTT. Using a gene-based approach, we found
+significant evidence for three independently associated
+SNPs (empirical set-based p ¼ 0.0005) out of nine F11
+SNPs:anintronicSNPrs4253399(nominalp¼1.8310(cid:2)5),
+rs3822058 (nominal p ¼ 0.00010), and rs5971 (nominal
+p¼0.022).
+ForthetwononsynonymousSNPassociationsinKNG1
+and HRG, prediction analysis was undertaken to estimate
+theeffectofSNPvariabilityonproteinstructureandfunc-
+tion.ThenonsynonymouschangeinKininogen-1protein
+(HMWK) (1742T>C, Ile581Thr) was predicted to be
+damaging with PolyPhen analysis (score ¼ 1.557, where
+score > 1.3 indicates a hydrophobicity change) but toler-
+ated with SIFTanalysis (score ¼ 0.66). There was no pre-
+dicted effect of missense mutation in HRGP (610C>T,
+Pro204Ser)becausetheresiduewaspredictedtobebenign
+with Polyphen (score ¼ 0.102) and tolerated with SIFT
+(score ¼ 0.73). To extend beyond bioinformatical predic-
+tive analysis, experimental work to measure the effect of
+the nonsynonymous changes on the protein’s structure,
+stability,orfunctionisnecessary.
+We identified genome-wide significant associations of
+relatively large effect size between the quantitative trait
+of aPTT and variants in three genes, F12, KNG1, and
+HRG,thatallhaveimportantfunctionalrolesintheblood
+coagulation cascade. The F12 gene encodes the coagula-
+tion factor XII precursor. Factor XII is a plasma glycopro-
+teinthatparticipatesintheinitiationofbloodcoagulation,
+activationofthekallikrein-kininsystem,fibrinolysis,and
+the generation of bradykinin (encoded by KNG1) and
+angiotensin. Factor XII is a known determinant of aPTT.
+HerewereportassociationofSNPsinthisgenomicregion
+withaPTT,whichmayreflecttheinfluenceofF12onaPTT.
+OurstrongestassociatedSNP,rs2731672,correlateshighly
+withtheF1246C>Tpolymorphism(rs1801020,R2¼0.87
+CEU HapMap), which has been associated with FXII
+levels,15 risk of thrombosis including ischemic stroke16
+(MIM #601367), and venous thrombosis.17 Analysis of
+our imputed data also shows a highly significant associa-
+tion with rs1801020 in a joint analysis (R2 ¼ 0.077,
+p ¼ 1.24 3 10(cid:2)27) and separately in both cohorts,
+LBC1936 (R2 ¼ 0.088, p ¼ 2.3 3 10(cid:2)21) and LBC1921
+emiTnitsalpobmorhTlaitraPdetavitcAnostrohoChtriBnaihtoLehtnisPNStnacfiingiSediw-emoneG,tnednepednIfostceffEevitiddA
+.1elbaT
+1291CBL
+6391CBL
+tnioJ
+P
+2R
+ES
+ATEB
+FAM
+N
+P
+2R
+ES
+ATEB
+FAM
+N
+P
+2R
+ES
+ATEB
+FAM
+N
+AM
+PNS
+.rhC
+eneG
+8(cid:2)01386.1
+7700.0
+360.0
+63.0(cid:2)
+43.0
+184
+5(cid:2)01342.2
+810.0
+740.0
+02.0(cid:2)
+23.0
+789
+11(cid:2)01343.1
+130.0
+830.0
+62.0(cid:2)
+23.0
+8641
+T
+8989sr
+3
+GRH
+01(cid:2)0135.1
+180.0
+560.0
+34.0(cid:2)
+14.0
+884
+31(cid:2)01320.5
+250.0
+440.0
+33.0(cid:2)
+93.0
+989
+22(cid:2)01325.9
+060.0
+730.0
+63.0(cid:2)
+04.0
+7741
+G
+644017sr
+3
+1GNK
+9(cid:2)01352.9
+660.0
+760.0
+93.0
+92.0
+884
+32(cid:2)01395.1
+690.0
+740.0
+94.0
+62.0
+989
+03(cid:2)01361.2
+580.0
+930.0
+54.0
+72.0
+7741
+A
+2761372sr
+5
+21F
+elellaronim,FAM;tceffedetroperehtrofelellaronim,AM:desuerasnoitaiverbbagniwollofehT.)1291CBL(1291trohoChtriBnaihtoLdna)6391CBL(6391trohoChtriBnaihtoLehtrofyletarapesnwohsoslaerastluseR
+.denialpxeecnairavfonoitroporp,2R;rorredradnats,ES;selellaronimforebmunehtnoeulavtiartehtfotneicfifeocnoisserger,ATEB;ycneuqerf
+628 TheAmericanJournalofHumanGenetics86,626–631,April9,2010
+Figure1. GenomicOverviewoftheSignificantRegionsAssociatedwithActivatedPartialThromboplastinTime
+(A)Associationsweredeterminedfor542,050SNPsintwocohorts:theLothianBirthCohort1936(LBC1936;n¼989)andtheLothian
+BirthCohort1921(LBC1921;n¼488).Thexaxisrepresentsthepositionofeachchromosomefromthepterminustotheqterminus.
+Theyaxisdepictspvalues(-log (P)).Theyaxisistruncatedat14:pointsabovethislineareplacedatthetopofthegraphandareindi-
+10
+catedwitharrowsandtext.ReddotsindicateSNPsthatsurpassedthegenome-widesignificancethreshold(p<10(cid:2)8).
+(B–D)ThegenotypedSNPsintheregionofsignificance,thelocationofsurroundinggenes(HRG,KNG1,andF12,respectively),andthe
+linkagedisequilibriumintheregion(HapMapCEU)areshown.
+(R2¼0.060,p¼4.7310(cid:2)8)(FigureS2).TheAallele(cor- systolic and diastolic blood pressures with an Omron
+respondingtotheTalleleofthe46C>Tpolymorphism)is 705IT monitor (all p values > 0.05) (further details avail-
+associatedwithanincreaseinaPTT(prolongedaPTT).This ableuponrequest).
+is not the expected biological direction of effect, because The third major association with aPTT was with HRG,
+adecreaseinaPTT(andratio)isassociatedwiththrombotic whichencodesahistidine-richglycoproteinthatislocated
+diseases.3However,otherprothromboticphenotypesand inplasmaandplatelets.HRGcaninhibitrosetteformation
+coagulation deficiencies, such as lupus anticoagulants, and interacts with heparin, thrombospondin, and plas-
+are associated with prolongation (not shortening) of the minogen(asreviewedin21).HRG’seffectontheinhibition
+aPTTinvitro. offibrinolysisandthereductionofinhibitionofcoagula-
+ThesecondmajoraPTTassociationwaswithisoform1of tionindicatesapotentialprothromboticeffect.Mutations
+KNG1,whichencodesHMWK.HMWKplaysanimportant inthisgeneleadtothrombophilia,detectedbyprolonged
+role in blood coagulation by positioning prekallikrein aPTT(MIM*142640).
+andfactorXInearfactorXII.DefectsinKNG1arethecause AsuggestiveassociationofF11withaPTTwasalsofound.
+of HMWK deficiency (MIM #228960), which is an auto- F11 variants have been associated with deep vein throm-
+somal recessive coagulation defect. KNG1 gene variants bosis.22 Defects in coagulation factor XI (MIM #612416)
+areassociatedwithessentialhypertensionandbloodpres- lead to Rosenthal syndrome, a blood coagulation abnor-
+sure in the Chinese Han population in a gender-specific mality,23,24andhypertensioninducedbypregnancy.24
+manner18 and have a consistent effect on aldosterone We have identified single variants in three genes that
+responsetoantihypertensivedrugtherapy.19KNG1knock- account for ~18% of the variance of aPTT. These three
+outmicedemonstrateprolongedaPTTanddelayedarterial genesareimplicatedinthecoagulationcascade,buttheir
+thrombosis.20BecauseKNG1isalsoassociatedwithblood relative functional importance has yet to be established.
+pressureintheChineseHanpopulation,weattemptedto Heritabilityestimatessuggestthattherearefurthercontri-
+replicate the findings in the LBC1921 and LBC1936 butionstoaPTT’sgeneticvariabilitytobediscovered.The
+cohorts.GenotypedataforthesameSNPsreportedinMer- variants reported here account for a relatively substantial
+kulov et al.20 were available (rs1851665, rs2304456, proportion4,5 of normal variation in aPTT in two age-
+rs4686799, and rs5030062). We found no association at homogeneous, ethnically homogeneous, and geographi-
+the single SNP or haplotype level to sitting and standing cally homogeneous samples. The true effect sizes of the
+TheAmericanJournalofHumanGenetics86,626–631,April9,2010 629
+program grants from Help the Aged and Research into Ageing
+(Disconnected Mind). The LBC1921 data collection was funded
+by the BBSRC. The study was conducted within the University
+ofEdinburghCentreforCognitiveAgeingandCognitiveEpidemi-
+ology,supportedbytheBBSRC,EngineeringandPhysicalSciences
+Research Council, Economic and Social Research Council, and
+Medical Research Council, as part of the cross-council Lifelong
+HealthandWellbeingInitiative.M.L.isaRoyalSocietyofEdin-
+burghandLloydsTSBFoundationforScotlandPersonalResearch
+Fellow.P.M.V.acknowledgessupportfromtheAustralianNational
+HealthandMedicalResearchCouncil.
+Received:December1,2009
+Revised:February8,2010
+Accepted:February16,2010
+Publishedonline:March18,2010
+WebResources
+Figure2. PredictionoftheLothianBirthCohort1921Activated
+TheURLsfordatapresentedhereinareasfollows:
+PartialThromboplastinTimePhenotype
+TheestimatedeffectsizesfromthebestSNPineachofthethree MACH 1.0: MarkovChain Haplotyping, http://www.sph.umich.
+genes associated with aPTT in the LBC1936 sample—rs2731672
+edu/csg/abecasis/MACH/index.html
+(F12), rs710446 (KNG1), and rs9898 (HRG)—were used. They
+NCBI Sincle Nucleotide Polymorphism Database, http://www.
+wereenteredasindependentvariablesinalinearregressionmodel
+ncbi.nlm.nih.gov/SNP/
+topredictaPTTvaluesinLBC1921.Theresultingregressioncoef-
+ficientswereappliedtotheSNPsinLBC1921tocreateagenetic OnlineMendelianInheritanceinMan,http://www.ncbi.nlm.nih.
+predictor of aPTT for each person. Here, observed aPTT values gov/Omim/
+areplottedagainstthesepredictedvalues.Theobservedvaluesof PLINKWholeGenomeAssociationAnalysisToolset,http://pngu.
+aPTT correlate with their predictions (Pearson correlation ¼ mgh.harvard.edu/~purcell/plink
+0.426; R2 ¼ 0.181, p ¼ 1.3 3 10(cid:2)22). The regression coefficient
+PolyPhen: Prediction of Functional Effect of Human nsSNPs,
+(slope) was 0.991 (SE ¼ 0.096), indicating that the prediction
+http://genetics.bwh.harvard.edu/pph/
+was unbiased. The y axis was truncated at 3.5, removing three
+samples from the figure. aPTT values are standardized variables, SIFT:PredictingAminoAcidChangesthatAffectProteinFunction,
+havingbeenadjustedforageandsex. http://sift.jcvi.org/
+STRING: Functional Protein Association Networks, http://string.
+embl.de/
+realfunctionalvariantsmaybeevengreater.Furtherexper-
+WGAViewer,http://people.genome.duke.edu/~dg48/WGAViewer/
+imental studies are required to establish the mechanisms
+by which these three genes prolong the aPTT in vitro
+andinfluencethrombosisinvivo.
+References
+SupplementalData 1. Centers for Disease Control and Prevention (CDC). (2001).
+Mortalityfrom coronary heartdisease and acutemyocardial
+SupplementalDataincludethreefiguresandthreetablesandcan infarction—United States, 1998. MMWR Morb. Mortal.
+befoundwiththisarticleonlineathttp://www.ajhg.org. Wkly.Rep.50,90–93.
+2. Lowe,G.D.,Rumley,A.,Woodward,M.,Reid,E.,andRumley,
+J. (1999). Activated protein C resistance and the FV:R506Q
+Acknowledgments
+mutationinarandompopulationsample—associationswith
+WethanktheLBC1936andLBC1921participants.WethankJanie cardiovascularriskfactorsandcoagulationvariables.Thromb.
+Corley, Caroline Brett, Caroline Cameron, Michelle Taylor, and Haemost.81,918–924.
+Alison Pattie for data collection and data entry. We thank the 3. Lowe, G.D., Haverkate, F., Thompson, S.G., Turner, R.M.,
+study secretary Paula Davies. We thank the nurses and staff at Bertina,R.M.,Turpie,A.G.,andMannucci,P.M.(1999).Predic-
+the Wellcome Trust Clinical Research Facility, where subjects tion of deep vein thrombosis after elective hip replacement
+weretestedandthegenotypingwasperformed.WethankCaro- surgery by preoperative clinical and haemostatic variables:
+lineHaywardandVeroniqueVitartforadviceandPaulRedmond TheECATDVTStudy.EuropeanConcertedActiononThrom-
+fortechnicalassistance.WealsothankthestaffattheDepartment bosis.Thromb.Haemost.81,879–886.
+ofHaematology,WesternGeneralHospitalfortheaPTTmeasure- 4. Warren,D.M.,Soria,J.M.,Souto,J.C.,Comuzzie,A.,Fontcu-
+ments. We thank the staff at the Lothian HealthBoard and the berta,J.,Blangero,J.,MacCluer,J.W.,andAlmasy,L.(2005).
+staff at the Scottish Council for Research in Education Centre, Heritability of hemostasis phenotypes and their correlation
+UniversityofGlasgow.Thiswhole-genomeassociationstudywas with type 2 diabetes status in Mexican Americans. Hum.
+funded by the Biotechnology and Biological Sciences Research Biol.77,1–15.
+Council (BBSRC). The LBC1936 research was supported by 5. Souto, J.C., Almasy, L., Borrell, M., Gar´ı, M., Mart´ınez, E.,
+a program grant from Research into Ageing and continues with Mateo, J., Stone, W.H., Blangero, J., and Fontcuberta, J.
+630 TheAmericanJournalofHumanGenetics86,626–631,April9,2010
+(2000). Genetic determinants of hemostasis phenotypes in tivetraitnucleotidesthatinfluenceFXIIplasmalevels.Hum.
+Spanishfamilies.Circulation101,1546–1551. Mol.Genet.19,517–525.
+6. Souto,J.C.,Almasy,L.,Borrell,M.,Blanco-Vaca,F.,Mateo,J., 16. Santamar´ıa,A.,Mateo,J.,Tirado,I.,Oliver,A.,Belv´ıs,R.,Mart´ı-
+Soria,J.M.,Coll,I.,Felices,R.,Stone,W.,Fontcuberta,J.,and Fa´bregas, J., Felices, R., Soria, J.M., Souto, J.C., and Fontcu-
+Blangero,J.(2000).Geneticsusceptibilitytothrombosisand berta,J.(2004).HomozygosityoftheTalleleofthe46C>T
+itsrelationshiptophysiologicalriskfactors:TheGAITstudy. polymorphism in the F12 gene is a risk factor for ischemic
+Genetic Analysis of Idiopathic Thrombophilia. Am. J. Hum. strokeintheSpanishpopulation.Stroke35,1795–1799.
+Genet.67,1452–1459. 17. Tirado,I.,Soria,J.M.,Mateo,J.,Oliver,A.,Souto,J.C.,Santa-
+7. Deary,I.J.,Gow,A.J.,Taylor,M.D.,Corley,J.,Brett,C.,Wilson, maria,A.,Felices,R.,Borrell,M.,andFontcuberta,J.(2004).
+V.,Campbell,H.,Whalley,L.J.,Visscher,P.M.,Porteous,D.J., Associationafterlinkageanalysisindicatesthathomozygosity
+andStarr,J.M.(2007).TheLothianBirthCohort1936:Astudy forthe46C>TpolymorphismintheF12geneisageneticrisk
+toexamineinfluencesoncognitiveageingfromage11toage factorforvenousthrombosis.Thromb.Haemost.91,899–904.
+70andbeyond.BMCGeriatr.7,28. 18. Zhao,W.,Wang,Y.,Wang,L.,Lu,X.,Yang,W.,Huang,J.,Chen,
+8. Deary,I.J.,Whiteman,M.C.,Starr,J.M.,Whalley,L.J.,andFox, S.,andGu,D.(2009).Gender-specificassociationbetweenthe
+H.C.(2004).Theimpactofchildhoodintelligenceonlaterlife: kininogen 1 gene variants and essential hypertension in
+FollowinguptheScottishmentalsurveysof1932and1947. ChineseHanpopulation.J.Hypertens.27,484–490.
+J.Pers.Soc.Psychol.86,130–147. 19. Barbalic,M.,Schwartz,G.L.,Chapman,A.B.,Turner,S.T.,and
+9. Purcell, S., Neale, B., Todd-Brown, K., Thomas, L., Ferreira, Boerwinkle, E. (2009). Kininogen (KNG) gene variation has
+M.A., Bender, D., Maller, J., Sklar, P., de Bakker, P.I., Daly, aconsistenteffectonaldosteroneresponsetoantihyperten-
+M.J., and Sham, P.C. (2007). PLINK: A tool set for whole- sive drug therapy: The GERA study. Physiol Genomics. 39,
+genome association and population-based linkage analyses. 56–60.
+Am.J.Hum.Genet.81,559–575. 20. Merkulov, S., Zhang, W.M., Komar, A.A., Schmaier, A.H.,
+10. Ge,D.,Zhang,K.,Need,A.C.,Martin,O.,Fellay,J.,Urban,T.J., Barnes,E.,Zhou,Y.,Lu,X.,Iwaki,T.,Castellino,F.J.,Luo,G.,
+Telenti,A.,andGoldstein,D.B.(2008).WGAViewer:Software and McCrae, K.R. (2008). Deletion of murine kininogen
+forgenomicannotationofwholegenomeassociationstudies. gene1(mKng1)causeslossofplasmakininogenanddelays
+GenomeRes.18,640–643. thrombosis.Blood111,1274–1281.
+11. Li,Y.,andAbecasis,G.R.(2006).Mach1.0:Rapidhaplotype 21. Jones,A.L.,Hulett,M.D.,andParish,C.R.(2005).Histidine-
+reconstructionandmissinggenotypeinference.Am.J.Hum. rich glycoprotein: A novel adaptor protein in plasma that
+Genet.S79,2290. modulates the immune, vascular and coagulation systems.
+12. Jensen, L.J., Kuhn, M., Stark, M., Chaffron, S., Creevey, C., Immunol.CellBiol.83,106–118.
+Muller, J., Doerks, T., Julien, P., Roth, A., Simonovic, M., 22. Li, Y., Bezemer, I.D., Rowland, C.M., Tong, C.H., Arellano,
+etal.(2009).STRING8—aglobalviewonproteinsandtheir A.R.,Catanese,J.J.,Devlin,J.J.,Reitsma,P.H.,Bare,L.A.,and
+functionalinteractionsin630organisms.NucleicAcidsRes. Rosendaal,F.R.(2009).Geneticvariantsassociatedwithdeep
+37(Databaseissue),D412–D416. vein thrombosis: The F11 locus. J. Thromb. Haemost. 7,
+13. Kumar, P., Henikoff, S., and Ng, P.C. (2009). Predicting the 1802–1808.
+effectsofcodingnon-synonymousvariantsonproteinfunc- 23. Que´lin, F., Trossae¨rt, M., Sigaud, M., Mazancourt, P.D., and
+tionusingtheSIFTalgorithm.Nat.Protoc.4,1073–1081. Fressinaud,E.(2004).MolecularbasisofseverefactorXIdefi-
+14. Ramensky,V.,Bork,P.,andSunyaev,S.(2002).Humannon- ciencyinsevenfamiliesfromthewestofFrance.Sevennovel
+synonymousSNPs:Serverandsurvey.NucleicAcidsRes.30, mutations,includinganancientQ88Xmutation.J.Thromb.
+3894–3900. Haemost.2,71–76.
+15. Calafell,F.,Almasy,L.,Sabater-Lleal,M.,Buil,A.,Mordillo,C., 24. Mitchell,M.,Cutler,J.,Thompson,S.,Moore,G.,JenkinsAp
+Ram´ırez-Soriano,A.,Sikora,M.,Souto,J.C.,Blangero,J.,Font- Rees,E.,Smith,M.,Savidge,G.,andAlhaq,A.(1999).Hetero-
+cuberta, J., and Soria, J.M. (2010). Sequence variation and zygousfactorXIdeficiencyassociatedwiththreenovelmuta-
+geneticevolutionatthehumanF12locus:Mappingquantita- tions.Br.J.Haematol.107,763–765.
+TheAmericanJournalofHumanGenetics86,626–631,April9,2010 631

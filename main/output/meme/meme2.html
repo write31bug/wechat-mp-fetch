@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<style>
+* { margin: 0; padding: 0; }
+body {
+  width: 1080px;
+  height: 1440px;
+  background: url('bg.png') no-repeat center center;
+  background-size: cover;
+  font-family: "Microsoft YaHei", "PingFang SC", Arial, sans-serif;
+  position: relative;
+}
+.layer {
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(0,0,0,0.35);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 80px 60px 100px;
+}
+.top-section {
+  text-align: center;
+}
+.main-text {
+  font-size: 72px;
+  font-weight: 900;
+  color: #ffffff;
+  line-height: 1.4;
+  letter-spacing: 3px;
+  text-shadow: 0 4px 24px rgba(0,0,0,0.9), 0 2px 8px rgba(0,0,0,0.7);
+}
+.bottom-section {
+  text-align: center;
+}
+.brand {
+  font-size: 64px;
+  font-weight: 900;
+  color: #ff8c00;
+  letter-spacing: 8px;
+  text-shadow: 0 4px 24px rgba(255,140,0,0.7), 0 3px 10px rgba(0,0,0,0.9);
+  margin-bottom: 16px;
+}
+.divider {
+  width: 280px;
+  height: 3px;
+  background: linear-gradient(90deg, transparent, #ff8c00, transparent);
+  margin: 16px auto;
+}
+.conclusion {
+  font-size: 42px;
+  font-weight: 700;
+  color: #fff;
+  letter-spacing: 4px;
+  text-shadow: 0 3px 16px rgba(0,0,0,0.9);
+}
+</style>
+</head>
+<body>
+<div class="layer">
+  <div class="top-section">
+    <div class="main-text">一开始以为<br>只试一次不会怎样...</div>
+  </div>
+  <div class="bottom-section">
+    <div class="brand">OpenClaw</div>
+    <div class="divider"></div>
+    <div class="conclusion">结果停不下来了 🦞</div>
+  </div>
+</div>
+</body>
+</html>

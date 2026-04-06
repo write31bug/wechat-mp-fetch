@@ -1,0 +1,611 @@
+
+--- Page 1 ---
+THROMBOSISANDHEMOSTASIS
+Histidine-rich glycoprotein promotes bacterial entrapment in clots and decreases
+mortality in a mouse model of sepsis
+OonaghShannon,1VictoriaRydengård,2ArturSchmidtchen,2MatthiasMo¨rgelin,1PerAlm,3OleE.Sørensen,1and
+LarsBjo¨rck1
+Divisionsof1InfectionMedicine,2DermatologyandVenereology,and3Pathology,DepartmentofClinicalSciences,LundUniversity,Lund,Sweden
+Streptococcuspyogenesisasignificantbac- inglymoresusceptibletoSpyogenesinfec- HRG-deficientmicesupplementedwithpuri-
+terial pathogen in humans. In this study, tion. These animals failed to control the fiedHRGgavethesamephenotypeascon-
+histidine-richglycoprotein(HRG),anabun- infectionatthelocalsubcutaneoussite,and trolanimals,demonstratingthatthelackof
+dant plasma protein, was found to kill abscess formation and inflammation were HRGwasresponsiblefortheincreasedsus-
+Spyogenes.Furthermore,Spyogenesgrew diminishedcomparedwithcontrolanimals. ceptibility.Theresultsdemonstrateaprevi-
+more efficiently in HRG-deficient plasma, As a result, bacterial dissemination oc- ouslyunappreciatedroleforHRGasaregu-
+andclotsformedinthisplasmaweresignifi- curredmorerapidlyinHRG-deficientmice, latorofinflammationandinthedefenseat
+cantlylesseffectiveatbacterialentrapment andtheydiedearlierandwithasignificantly thelocalsiteofbacterialinfection.(Blood.
+andkilling.HRG-deficientmicewerestrik- highermortalityratethancontrolanimals. 2010;116(13):2365-2372)
+Introduction
+Histidine-rich glycoprotein (HRG) is an abundant plasma protein fibrinolysis:fibrinogen,13,14coagulationfactors,15plasminogen,16,17
+synthesized in the liver and also stored in the (cid:1)-granules of andplatelets.18TheroleofHRGinhemostasisincombinationwith
+platelets,fromwhichitisreleasedonactivation.1Theproteinhasa therecentlyreportedantibacterialeffectsofHRGinvitroprompted
+diversearrayofligands,includingheparin,plasminogen,immuno- us to investigate the importance of HRG during S pyogenes
+globulin, thrombospondin, and fibrinogen.2 The diversity of li- infection.Theresultsrevealanovelandimportantprotectiverole
+gands probably contributes to the fact that new activities are for HRG in the innate immune defense against S pyogenes
+regularlyattributedtoHRGinvitro,whereasadefinitivebiologic infection.
+function in vivo has been difficult to identify. Based on in vitro
+studies,HRGhasbeenreportedtomodulateangiogenesis,3phago-
+cytosis,4andcomplementfunction5andtobeantibacterial.6HRG Methods
+is negatively charged at physiologic pH but becomes positively
+chargedatlowpHorinthepresenceofzinc.Severalthereported Proteins,peptide,antiserum,andbacteria
+biologic effects have also been shown to be dependent on pH or
+Human and mouse HRG was purified from plasma as previously de-
+zinc,suggestingthatHRGmaybeasensitiveadaptormoleculeto scribed.6StreptococcalInhibitorofComplement(SIC)waspurifiedfrom
+changingenvironments.7 Escherichiacoliaspreviouslydescribed.19ThepeptideGHH20(GHHPH-
+The generation of HRG-knockout mice has facilitated the GHHPHGHHPHGHHPH) and rabbit antiserum against GHH20 were
+searchforthebiologicfunctionofHRG.Theseanimalswereviable purchasedfromInnovagen.TheAP1strainofSpyogenes(40/58strainfrom
+withnoapparentabnormalities,butexvivostudiesdemonstrateda theWHOCollaboratingCenterforreferencesandresearchonStreptococci,
+mild dysregulation of hemostasis with effects on plasma-clotting InstituteofHygieneandEpidemiology,Prague,CzechRepublic)wasused
+factors and platelets, and in vivo HRG seemed to have both throughoutthestudy.SICfromSpyogenesAP1waspurifiedaspreviously
+described.19
+anticoagulantandantifibrinolyticproperties.8Recently,ithasbeen
+shown that HRG-deficient animals have diminished antifungal
+Animals
+activityinvivo.9Inthepresentstudy,wehaveassessedtheroleof
+HRGinresponsetoapathologicsituation(ie,bacterialinfection). C57/BL6HRG(cid:2)/(cid:2)miceweresuppliedbyDrW.Jahnen-Dechent,Univer-
+Streptococcuspyogenesisasignificanthumanbacterialpathogen sityHospital,Aachen,Germany.8Theseanimalslackthetranslationstart
+responsibleforbothsuperficialandinvasiveinfection.Thepatho- point of exon 1 of the hrg gene. The original knockout mice 129/B6-
+genesisofSpyogenesinfectionisacomplexmultifactorialprocess, HRGtm1wja1 were crossed with C57/BL6 mice (Taconic Farms) for
+14generationstoobtainauniformgeneticbackground.Wild-typeC57/BL6
+anddiversehostsystemsareinvolved.10-12Forinstance,Spyogenes
+miceandHRG-deficientC57/BL6HRG(cid:2)/(cid:2)micewerebredintheanimal
+cancounteractphagocytosis,complementactivity,antibodyrecog-
+facility at Lund University. The animals were housed under standard
+nition, and antimicrobial peptides. S pyogenes infection also
+conditionsoflightandtemperatureandfedlaboratorychowandwaterad
+involves important interactions with the host hemostasis system, libitum.Experimentswerecarriedoutwhenthemicewere9to12weeks
+and the bacteria have been shown to bind to and modulate the old,andallprocedureswereapprovedbythelocalethicscommittee(Lund
+function of several important factors involved in coagulation and University,Lund,Sweden).
+SubmittedFebruary25,2010;acceptedJune4,2010.Prepublishedonlineas payment. Therefore, and solely to indicate this fact, this article is hereby
+BloodFirstEditionpaper,June29,2010;DOI10.1182/blood-2010-02-271858. marked‘‘advertisement’’inaccordancewith18USCsection1734.
+The publication costs of this article were defrayed in part by page charge ©2010byTheAmericanSocietyofHematology
+(cid:1)
+BLOOD,30SEPTEMBER2010 VOLUME116,NUMBER13 2365
+Downloaded
+from
+http://ashpublications.org/blood/article-pdf/116/13/2365/1329524/zh803910002365.pdf
+by
+guest
+on
+24
+March
+2026
+--- Page 2 ---
+(cid:1)
+2366 SHANNONetal BLOOD,30SEPTEMBER2010 VOLUME116,NUMBER13
+Antibacterialassays microscopeoperatedat80kVacceleratingvoltage.Imageswererecorded
+withaGatanMultiscan791CCD.
+SpyogeneswasgrownovernightinToddHewittbrothinthepresenceof
+5%CO at37°C.Analiquotofthesecellswasaddedtofreshmediaand
+grown u 2 p to the exponential phase of growth (OD620(cid:3)0.4). The cells AnimalmodelofSpyogenesinfection
+were washed twice with wash buffer (10mM Tris-HCl containing 5mM Wild-typeandHRG-deficientmiceweredividedintoage-andsex-matched
+glucose, pH 7.4, or 10mM 2-(N-morpholino)ethanesulfonic acid [MES] groupsandsubjectedtoasubcutaneousinfectionmodel.Spyogeneswas
+containing5mMglucose,pH5.5)anddilutedto2(cid:4)106/mLinwashbuffer.
+grownovernightinToddHewittbrothat37°Cinthepresenceof5%CO.
+2
+Bacterialcellswereincubatedwithwashbuffercontainingpurifiedhuman An aliquot of these cells was added to fresh media and grown up to
+HRG,mouseHRG,orGHH20peptidefor1hourat37°C,5%CO 2 .The OD 620 (cid:3)0.5.Bacteria(1(cid:4)107)wereadministeredbysubcutaneousinjec-
+reactionwasstoppedonadditionof450(cid:5)Lofice-coldwashbuffer.Serial
+tionintothescruffoftheneck.Theanimalswerecloselymonitoredfor
+titrationsofduplicatesampleswereinoculatedontoToddHewittagarplates signsandsymptomsofinfectionandweighedonadailybasis.
+andincubatedovernighttodeterminetheamountofviablebacteriainthe Todeterminebacterialdisseminationfromthelocalsiteofadministra-
+supernatant.Forinhibitionstudies,purifiedSIC(0-1.3(cid:5)M)wasaddedto
+tion,2groupsofanimalswerekilled48hoursafterinitiationofinfection.
+theantibacterialassayatthesametimeasHRGorGHH20. The spleen, kidney, and a citrated blood sample were removed, and the
+The antibacterial effect of plasma clots was determined ex vivo. bacterialloadwasdeterminedbyviablecountdeterminationonbloodagar
+Citrated blood samples were collected from wild-type or HRG-deficient plates incubated overnight. The plasma interleukin-6 (IL-6) and IL-10
+mice,andplasmawasprepared.Additionofthrombin(1U/mL)resultedin levels in plasma were determined using an ELISA kit (Invitrogen)
+stableclotformation.Theclotwaswashedoncewithwashbuffer(10mM accordingtothemanufacturer’sinstructions.
+MES,pH5.5,containing5mMglucose),and0.05gofclotwasincubated
+withSpyogenesfor2hoursat37°C,5%CO 2 .Thereactionwasstoppedon Histopathologyofmousetissuesamples
+addition of 450(cid:5)Lof ice-cold wash buffer. Serial titrations of duplicate
+samples were inoculated onto Todd Hewitt agar plates and incubated The local tissue sites of bacterial injection were excised and fixed in
+overnighttodeterminetheamountofviablebacteriainthesupernatant. formalin 2 days after infection. The tissue samples were embedded in
+Bacterialgrowthinplasmawasdeterminedinwild-type,HRG-deficient paraffin,sectioned,andstainedwithhematoxylinandeosinusingstandard
+plasma,orHRG-deficientplasmareconstitutedwithpurifiedHRG(200(cid:5)g/ methods.ImmunocytochemistrywasusedtolocalizeSpyogenesbacteria,
+mL).Atotalof10(cid:5)LofSpyogenesfromtheexponentialphaseofgrowth neutrophils, and macrophages using the following primary antisera in
+(dilutedin10mMMES,pH5.5,containing5mMglucose)wasaddedto respective optimal working dilutions: goat anti–streptococcus A for
+50(cid:5)Lofbuffercontaining1%to100%plasma(thepHofthemixturewas Spyogenes(code8435-0004,AbDSerotec,1:4000),ratanti–mouseLy6for
+6.5-7.0) and grown at 37°C, 5% CO. An aliquot of each sample was neutrophils (code 16-5931, eBioscience, 1:3000), and goat anti–mouse
+2
+removedafter0,2,4,and6hoursofgrowth,andthebacterialgrowthwas CD14formacrophages(codeGAY016071,R&DSystems,1:6000),goat
+determinedbyserialtitrationontobloodagarplates.Amultiplicationfactor anti–MIP-2(codeUR04,R&DSystems,1:6000),andgoatanti-KC(code
+wascalculatedforeachtimepointbydividingthebacterialcountafter2,4, VF04, R&D Systems, 1:200). Paraffin sections were deparaffinized and
+and6hoursbythebacterialcountattime0. dehydratedandfurtherprocessedforvisualizationoftheimmunoreactive
+products. Vectastain ABC-kits (Vector, ImmunKemi) were used for rat
+anti–mouseLy6andgoatanti–mouseCD14,KC,andMIP-2antisera,and
+Negativestainingandtransmissionelectronmicroscopyof
+EnVisionKit(Dako)wasusedforgoatanti–streptococcusAantiserum.In
+bacteria
+control experiments, no specific immunoreactivities were obtained when
+S pyogenes cells were washed twice with wash buffer (10mM Tris-HCl the respective primary antiserum was used. Slides were viewed with a
+containing5mMglucose,pH7.4,or10mMMEScontaining5mMglucose,
+NikonECLIPSE80microscopeusingaPlanAPO10(cid:4)/0.75DICN2lens.
+pH 5.5) and diluted to 2(cid:4)109/mL in wash buffer.Atotal of 10(cid:5)L of ImageswereacquiredusingNISElementsBRimagingsoftwareVersion
+bacterial cells was incubated with wash buffer or purified human HRG 2.33(Nikon).
+(5(cid:5)M) for 1 hour at 37°C, 5% CO. Samples were absorbed onto
+2
+carbon-coatedcoppergrids,negativelystainedwith0.75%uranylformate, Exvivochemotaxisassay
+andanalyzedinaJeolJEM1230electronmicroscopeoperatedat80kV
+A dorsal portion of mouse skin was removed from wild-type or HRG-
+accelerating voltage. Images were recorded with a Gatan Multiscan 791
+deficientanimalsandcutintosmallpiecestoinduceaninjuryresponse.
+charge-coupleddevice(CCD)camera(GatanInc).
+These epidermal keratinocytes were cultured for 4 days as previously
+described.20Thereleaseofchemotacticfactorsfromtheculturedepidermal
+Electronmicroscopyofplasmaclots keratinocytes was assessed in a neutrophil chemotaxis assay.20 Purified
+neutrophils were placed in a microchemotaxis chamber at 37°C, and
+Plasma clot morphology in the absence or presence of S pyogenes was
+determinedusingscanningelectronmicroscopy.Atotalof50(cid:5)Lofplasma directedmigrationtowardthekeratinocytemediawasmeasured.Allassays
+wereperformedinduplicateforatotalof3animalspergroup.
+fromwild-type,HRG-deficient,HRG-deficientpluspurifiedhumanHRG
+(200(cid:5)g/mL),orwild-typeplusSIC(3.3(cid:5)M)wasincubatedfor1minute
+withSpyogenesAP1(4(cid:4)109/mL)in13mMsodiumcitrate,pH7.4,or Statisticalanalyses
+bufferalone.Clotformationwasinitiatedonadditionof50(cid:5)LThrombo-
+All statistical analyses were performed using GraphPad Prism 4 for
+max reagent (Trinity Biotech). The final clot was immersed in 1mL of
+Macintosh,Version4.0Csoftware.
+fixationfluid(2.5%glutaraldehydein0.15Msodiumcacodylate,pH7.4)
+andincubatedovernight.Thesampleswerewashedwithcacodylatebuffer,
+dehydrated,criticalpointdried,sputteredwith30-nmgold,andanalyzed
+usingaJeolJ-330scanningelectronmicroscopeoperatedatanaccelerating Results
+voltageof5kV,workingdistanceof10minutes,andamagnificationof
+300(cid:4)to2500(cid:4).ImageswereacquiredusingaGatanMultiscan791CCD HRGandHRG-containingclotsexhibitapH-dependent
+camera. antibacterialeffectonSpyogenes
+Theclotformedbywild-typeplasmainthepresenceofSpyogenesAP1
+(4(cid:4)109/mL) was thin sectioned, placed on grids, and incubated with TheantibacterialeffectofHRGonSpyogenes(theAP1strainof
+primaryantibodiesagainstHRG,followedbysecondaryantibodiesagainst theM1serotypewasusedthroughoutthisstudy)wasdeterminedin
+rabbitIgGlabeledwith5-nmgoldbeads.Sampleswerestainedwithuranyl afluidphaseassay.ThepurityoftheisolatedHRGwasconfirmed
+acetate and lead citrate and analyzed using a Jeol JEM 1230 electron by silver staining, which generated a dominant band at 70kDa
+Downloaded
+from
+http://ashpublications.org/blood/article-pdf/116/13/2365/1329524/zh803910002365.pdf
+by
+guest
+on
+24
+March
+2026
+--- Page 3 ---
+(cid:1)
+BLOOD,30SEPTEMBER2010 VOLUME116,NUMBER13 AROLEFORHRGININNATEIMMUNITY 2367
+Figure1.HRGkillsSpyogenesandkillingoccursinHRG-containingplasmaandHRG-containingclots.(A)SpyogenesinTrisbuffer,pH7.4(blackbars)orMESbuffer,
+pH5.5(whitebars),wasincubatedwithpurifiedhumanHRG(Hu.HRG),mouseHRG(Mo.HRG),theHRG-derivedpeptideGHH20,oralbumin,andthepercentagekillingwas
+calculated.Dataaremean(cid:6)SEM;n(cid:3)3.(B)SpyogenesinMESbuffer,pH5.5,wasincubatedwith5(cid:5)MhumanHRG(squares)orGHH20(circles)inthepresenceofan
+increasingconcentrationofpurifiedSIC.Dataaremean(cid:6)SEM;n(cid:3)3.(C)SpyogenesinMESbuffer,pH5.5,wasaddedtowild-typeorHRG-deficientplasma(finalpH
+6.5-7.0),andgrowthwasdeterminedovertime.Thedatashownarerepresentativeof5experiments,whichallgavethesameprofileofresults.(D)SpyogenesinMESbuffer,
+pH5.5,wasaddedtoincreasingconcentrationsofplasmadilutedinMESbuffer:wild-typeplasma(blackbars),HRG-deficientplasma(whitebars),orHRG-deficientplasma
+reconstitutedwithpurifiedHRG(graybars).Growthwasdeterminedafter6hours.Dataarerepresentativeof3experiments,whichallgavethesameprofileofresults.
+(E)Thrombin(1U/mL)wasusedtoinitiateclotformationinwild-typeandHRG-deficientplasma.ThewashedclotswereincubatedwithSpyogenesbacteriainMESbuffer,pH
+5.5,andthepercentagekillingwascalculated.Dataaremean(cid:6)SEM;n(cid:3)8.***P(cid:7).001(Studentttest).(F-I)SpyogenesinMESbuffer,pH5.5(F-G)orTrisbuffer,pH7.4
+(H-I)wasincubatedwithpurifiedhumanHRG(5(cid:5)M)andsubjectedtonegativestainingandtransmissionelectronmicroscopy.
+corresponding to the predicted molecular mass of HRG (data not TheantibacterialeffectofHRGinaplasmaenvironmentwas
+shown). S pyogenes was not affected by human or mouse HRG demonstratedbytheabilityofSpyogenestogrowmoreefficiently
+whentheassaywasperformedatpH7.4(Figure1A).WhenthepH in HRG-deficient plasma (Figure 1C).At an acute inflammatory
+was lowered to pH 5.5, S pyogenes was rapidly and effectively site,plasmaleakageoccursandplasmawillbepresentatvarious
+killedbypurifiedhumanormouseHRG(Figure1A).Incubations concentrations;therefore,adose-responseexperimentwascarried
+atpH5.5alonedidnotaffectbacterialviability.Thehistidine-rich outatplasmaconcentrationsfrom1%to40%.Increasingconcen-
+regionofHRGcontainstandemrepeatsofthesequenceGHHPH, trationsofplasma-enhancedbacterialgrowthinbuffer,andthisis
+andtheantibacterialeffectofHRGhaspreviouslybeenmappedto not surprising because plasma is rich in nutrients.At low plasma
+this region.6 The GHH20 peptide, containing 5 GHHPH repeats, concentrations, S pyogenes grew equally well in wild-type and
+was found to have an equally potent antibacterial effect on HRG-deficient plasma (Figure 1D). When plasma was present at
+SpyogenesasthewholenativeproteinatlowpH(Figure1A).The levelsof10%to40%,bacteriagrewmorerapidlyinHRG-deficient
+dominant plasma protein, albumin (10mg/mL), did not affect plasma (Figure 1D). The contribution of HRG to this growth
+bacterial survival (Figure 1A). S pyogenes produces an array of advantage was confirmed by the finding that reconstitution of
+virulence factors, including SIC, which has previously been purified HRG to HRG-deficient plasma, significantly inhibited
+reported to bind to plasma HRG19 and to neutralize killing of bacterialgrowth(Figure1D).
+S pyogenes by several human antimicrobial peptides and pro- At a site of acute inflammation and bacterial infection, the
+teins.21,22 We demonstrate here that SIC also inhibits killing of coagulation system will be activated and clot formation will
+S pyogenes by HRG and GHH20 in a dose-dependent manner occur.23 HRG has previously been reported to be accumulated at
+(Figure1B). thesurfaceofplasmaclots,24andtheantibacterialeffectofHRGin
+Downloaded
+from
+http://ashpublications.org/blood/article-pdf/116/13/2365/1329524/zh803910002365.pdf
+by
+guest
+on
+24
+March
+2026
+--- Page 4 ---
+(cid:1)
+2368 SHANNONetal BLOOD,30SEPTEMBER2010 VOLUME116,NUMBER13
+plasma clots was therefore investigated. Washed, thrombin-
+induced clots derived from HRG-deficient plasma were signifi-
+cantlylesseffectiveatkillingSpyogenescomparedwithclotsfrom
+normalplasma(Figure1E).
+To confirm that HRG mediates bacterial killing, bacterial
+morphologywasanalyzedusingnegativestainingandtransmission
+electronmicroscopy.SpyogenesAP1appearasintactcocciinwash
+bufferatpH7.4(Figure1H),andadditionofpurifiedhumanHRG
+(5(cid:5)M)hasnoeffectatthispH(Figure1I).Inthepresenceofwash
+bufferatpH5.5,thebacteriamaintainanormalappearance(Figure
+1F). However, on addition of purified human HRG (5(cid:5)M) at pH
+5.5,thebacterialmorphologyissignificantlycompromised(Figure
+1G).Themembraneisnolongerintact,thecellsappearshrunken,
+andcytoplasmiccontenthasleakedoutofthecells.
+ClotarchitectureinnormalorHRG-deficientplasmainthe
+presenceofSpyogenes
+Plasma samples from wild-type or HRG-deficient animals were
+clotted with thrombin in either the presence or absence of
+Spyogenes,andscanningelectronmicroscopywasusedtostudy
+the clot morphology. A normal fibrin network was formed in
+plasma derived from both wild-type and HRG-deficient animals
+(Figure 2A), and there was no obvious difference in the fibrin
+network in the HRG-deficient plasma with or without HRG
+reconstitution (Figure 2B and Figure 2C, respectively), or in
+normalplasmaonadditionoftheHRG-bindingSICprotein(Figure
+2D).IthaspreviouslybeenreportedthatSpyogenesinfiltratesthe
+clotanddysregulatesthefibrinnetwork,15andthiswasconfirmed
+here (Figure 2E). There is substantial bacterial infiltration of the
+clot,andthefibrinnetworkismassivelydisrupted.Thisisinsharp
+contrasttothebacterialinteractionwithplasmaclotsfromHRG-
+deficientanimalsorclotsfromnormalplasmatreatedwithSIC.In
+both cases, there is dramatically less bacterial infiltration (Figure
+2F and Figure 2H, respectively). Importantly, reconstitution of
+HRG-deficient plasma with purified HRG restored the wild-type
+phenotype (Figure 2G). In this reconstituted plasma, the bacteria
+haveonceagaininfiltratedtheclotandarehighlyassociatedwith
+theclotsurface.Weconcludethatthebacteriafailtointeractwith
+HRG-deficientclots.Toconfirmtheabsenceofbacteriafromthe
+clots,weperformedviablecountassaysfromthesupernatantofthe
+clotted samples. The supernatant from HRG-deficient clots and
+SIC-treated wild-type clots contains significantly more viable
+bacteria than wild-type clots (Figure 2I, P(cid:3).002 and P(cid:3).001,
+respectively).The relative importance of HRG for entrapment of
+bacteria in the clot was assessed in wild-type plasma in the
+presenceofSpyogenes.Theclotformedwascutintothinsections
+andprobedwithantibodiesagainstHRG,followedbygold-labeled
+secondaryantibodiesandanalysisbytransmissionelectronmicros-
+copy.Typical electron dense fibrin threads and fibrin clusters are
+evident,andtheblackdotsrepresentsiteswhereHRGislocalized
+(Figure2J).OnelargefibrinfibrilisshowninFigure2J,andHRG
+iscloselyassociatedwiththisfibrinthread.HRGisalsoassociated
+Figure2.ClotsformedinHRG-deficientorSIC-treatedplasmafailtocontain
+with the electron-dense fibrin clusters that surround the fibrin
+S pyogenes bacteria. Washed S pyogenes (E-H) or phosphate-buffered saline
+thread.InFigure2K,thecellwallofabacteriumisshowninthetop (A-D) was added to plasma, and clot formation was initiated by addition of
+of the picture. Fibrin threads and HRG are colocalized at the Thrombomaxreagenttowild-type(A,E),HRG-deficient(B,F),HRG-deficientplus
+bacterialsurface(Figure2K).Importantly,HRGispresentonthe purifiedHRG(C,G),orSIC-treatedwild-typeplasma(D,H).Thefibrinnetworkformed
+in the absence or presence of bacteria was analyzed using scanning electron
+bacterial surface and at the interface between bacteria and fibrin. microscopy.Scalebarrepresents5(cid:5)m.Representativeimagesof4independent
+It is noteworthy that HRG is only identified in association with experimentsareshown.(I)Theamountofbacteriapresentinthesupernatantof
+fibrinorbacteria.TheseresultsdemonstratethatHRGisanchored
+clotsAtoHwasquantified.Dataaremean(cid:6)SEM;n(cid:3)4.**P(cid:3).001;*P(cid:3).02
+(Mann-Whitneytest).(J-K)Theclotformedinwild-typeplasmainthepresenceof
+on the fibrin network and mediates entrapment of bacteria in the
+Spyogeneswasthin-sectioned,immunolabeledwithanti-HRG,gold-labeledsecond-
+fibrinclot. aryantibodies(blackdots),andsubjectedtotransmissionelectronmicroscopy.
+Downloaded
+from
+http://ashpublications.org/blood/article-pdf/116/13/2365/1329524/zh803910002365.pdf
+by
+guest
+on
+24
+March
+2026
+--- Page 5 ---
+(cid:1)
+BLOOD,30SEPTEMBER2010 VOLUME116,NUMBER13 AROLEFORHRGININNATEIMMUNITY 2369
+Figure 4. Bacterial dissemination and plasma IL-6 levels are significantly
+increasedinHRG-deficientanimalsearlyduringSpyogenesinfection.Wild-
+type (F) or HRG-deficient animals (E) were infected with S pyogenes AP1
+Figure 3. HRG-deficient animals have significantly increased mortality in
+(1(cid:4)107CFU)bysubcutaneousinjection.(A)Twodaysafterinfection,surviving
+responsetoSpyogenesinfection.Spyogenes(1(cid:4)107CFU)wasadministered animalswerekilled,andthebacterialloadinthespleen,kidney,andbloodwas
+bysubcutaneousinjectiontowild-type(fulllines)orHRG-deficientanimals(dashed determined.DataareexpressedasCFU/mLoforganfromeachanimalwithlines
+lines)(n(cid:3)15pergroup).(A)Thesurvivinganimalswereweighedonadailybasis, drawn at the median for each group (n(cid:3)8). (B-C) IL-6 and IL-10 levels were
+and the percentage weight loss was calculated for each animal. Data are determinedinplasmasamplesfromwild-type(graybars)orHRG-deficientanimals
+mean(cid:6)SEM;n(cid:3)14:*(Left)P(cid:3).01and*(Right)P(cid:3).03,respectively.(B)The (whitebars)takenoneand2daysafterinfection.Animalsaliveatthesetimepoints
+percentagesurvivalpergroupwasdeterminedonadailybasisandisrepresentedin
+wereincludedfrombothgroups.Dataaremean(cid:6)SEM;n(cid:3)7.
+aKaplan-Meiersurvivalcurve.
+kineIL-6andtheanti-inflammatorycytokineIL-10.Onday2,the
+HRG-deficientmicearemoresusceptibletoSpyogenes
+HRG-deficient animals had a massive proinflammatory response
+infection
+(IL-6) and a low anti-inflammatory response (IL-10) (Figure
+Wild-type and HRG-deficient mice (age- and sex-matched) were 4B-C).Thiswasinstarkcontrasttothewild-typeanimals,which
+inoculated with S pyogenes by subcutaneous injection. Four hadrelativelylowIL-6andslightlyelevatedIL-10comparedwith
+individualexperimentswereperformed,andthedatawerepooled. HRG-deficient animals. The massive proinflammatory response
+Thesurvivalofthemiceinthe2groups(n(cid:3)15pergroup)over seeninHRG-deficientanimalsreflectsthehighbacterialoadseen
+time is illustrated in Figure 3B. The HRG-deficient animals atthesametimepointintheseanimals(Figure4A).Samplestaken
+exhibited significantly increased mortality in response to S pyo- from wild-type animals, which died of infection, also exhibited
+genes infection (Figure 3B; P(cid:7).001). The median survival time elevated IL-6 and diminished IL-10 (data not shown). We can
+for wild-type animals was 5 days, whereas the HRG-deficient therefore conclude that both groups of animals mount a systemic
+animals had a median survival time of 3 days. On day 2 after immune response to the bacteria; however, this response occurs
+infection, 67% of wild-type animals had survived, whereas only morerapidlyinHRG-deficientanimals.
+13%ofHRG-deficientanimalshadsurvivedatthistimepoint.On Toinvestigatethelocalsiteofinfectionfurther,tissuesamples
+day 1 and 2 after infection, the HRG-deficient animals exhibited were harvested from this area 2 days after administration of
+significantly increased weight loss compared with wild-type ani- bacteria.Atthistimepoint,thewild-typeanimalsshowedalarge
+mals(P(cid:3).015andP(cid:3).03,respectively;Figure3A).Onday3, abscess at the local site of infection. Microscopically, these
+thedifferenceinweightlossbetweenthe2groupsofanimalsdid abscesses contained a central area of necrosis clearly walled off
+notachievestatisticalsignificance,explainedbythefactthatonly fromtheremainingtissue(Figure5A).HRG-deficientanimalsdid
+3 HRG-deficient animals survived to this time point. Moreover, not develop a visible abscess, and no abscess formation was
+27% (4 of 15) of the wild-type animals survived infection and observedintheinfectedareawhenanalyzedbylightmicroscopy
+recovered,whereasnoneoftheHRG-deficientanimalssurvivedinfec- (Figure5H).Bothgroupsofmiceshowedsignsofaproinflamma-
+tion.WeconcludethattheinabilitytoproduceHRGresultedinamore tory response with leukocyte infiltration. However, this was
+rapidbacterialdisseminationandincreasedoverallmortality. significantly less pronounced and more diffuse in HRG-deficient
+Todeterminethecauseofdeathintheseanimals,dissemination animals (Figure 5I). The size of the inflammatory foci was
+ofinfectionwasdetermined2daysafterinitiationofinfection.Two measuredusingNISElementsBRVersion2.33(Nikon)software
+individualexperimentswereperformed,andthedatawerepooled. for a total of 4 animals in each group. The average size of the
+Mice alive at this time point formed the 2 groups, and the inflammatory foci was 1125 plus or minus 240(cid:5)m in wild-type
+HRG-deficient animals had significantly higher bacterial load in animals and 218 plus or minus 39(cid:5)m in HRG-deficient animals
+the spleen, kidneys, and blood, compared with the wild-type (P(cid:3).009). S pyogenes could be demonstrated in the infected
+animals(Figure4A;P(cid:3).01,.005,and.05,respectively),demon- tissue using a specific antibody for the bacteria. In wild-type
+strating that bacteria spread more rapidly from the local site in animals, bacteria were localized to the center and the wall of the
+HRG-deficientmice.Thesystemicimmuneresponsewasinvesti- abscessandwerecontainedinthisarea(Figure5E).Fewerbacteria
+gated by determining plasma levels of the proinflammatory cyto- werepresentintheHRG-deficientanimals,andthesebacteriawere
+Downloaded
+from
+http://ashpublications.org/blood/article-pdf/116/13/2365/1329524/zh803910002365.pdf
+by
+guest
+on
+24
+March
+2026
+--- Page 6 ---
+(cid:1)
+2370 SHANNONetal BLOOD,30SEPTEMBER2010 VOLUME116,NUMBER13
+Figure 6. Reconstitution of plasma HRG improves survival after bacterial
+challengeofHRG-deficientanimals.Wild-type(n(cid:3)11)orHRG-deficientanimals
+(n(cid:3)9) were infected with S pyogenes (1(cid:4)107CFU/animal) by subcutaneous
+injection.OnegroupofHRG-deficientanimals(n(cid:3)10)receivedanintraperitoneal
+injectionofpurifiedHRG(500(cid:5)g/animal)atthesametimepointasbacteriaand
+againat24hoursafterinfection.Thepercentagesurvivalpergroupisrepresentedin
+aKaplan-Meiersurvivalcurve.
+(500(cid:5)gperanimal).Alloftheuntreated,HRG-deficientanimals
+(n(cid:3)9)diedofinfection,andthisgrouphadamediansurvivalof
+2 days. The HRG-deficient animals that received HRG survived
+longerandhadamediansurvivalof3days.Thewild-typeanimals
+(n(cid:3)11)hadamediansurvivalof4days(Figure6).Thedifference
+in mortality was highly significant between HRG treated and
+untreatedmice(P(cid:7).001).Twenty-sevenpercentofthewild-type
+and20%oftheHRG-treatedmicesurvivedtheinfection,whereas
+noneoftheuntreatedanimalssurvivedtheinfection.
+TheincreasedsusceptibilityofHRG-deficientanimalstoS
+pyogenesinfectionisdeterminedatthelocalsiteofinfection
+Histopathologicexaminationofthelocalsiteofinfectionrevealed
+Figure5.HRG-deficientanimalsfailtocontainSpyogenesatthelocalsiteof decreasedinflammation,chemokinelevels,andneutrophilrecruit-
+infection.Tissuesamplesfromthelocalsiteofinfectionfromwild-typeanimals(A-G) ment in the HRG-deficient animals (Figure 5), which could be
+andHRG-deficientanimals(H-N)werehemotoxylinandeosin-stainedandimmuno-
+stainedforinflammatorymarkers.Representativeimagesareshownat2(cid:4)magnifi- explained by defective chemotaxis.We therefore investigated the
+cation(A,H),andtheblackbarsdefinethesizeoftheinflammatoryfocusthatwas presence of a global chemotaxis defect in the HRG-deficient
+quantifiedas1375(cid:5)minthewild-typeanimaland217(cid:5)mintheHRG-deficient animals. S pyogenes (1(cid:4)107colony-forming units (CFU)/mL)
+animal.(A,H)Theblackboxrepresentsthesectionoftheinflammatoryfocusthatis
+was administered by intraperitoneal injection, and after 18 hours
+shownat10(cid:4)magnificationinallsubsequentimagesstainedforhemotoxylinand
+eosin (B,I), neutrophils (C,J), macrophages (D,K), S pyogenes (E,L), and the the peritoneum was washed and the leukocyte population was
+chemokinesKC(F,M)andMIP-2(G,N). counted.Therewasamassiveabdominalinfluxofleukocytes,and
+nodifferencewasobservedbetweenwild-typeandHRG-deficient
+animals (Figure 7A), indicating functional chemotaxis in both
+dispersedthroughouttheinflamedtissue(Figure5L).Theinfiltrat-
+groups. We further assessed the local chemotaxis response in
+ing leukocytes were differentiated using immunostaining. The
+HRG-deficient animals by culturing keratinocytes from mice and
+dominatingcelltypewasneutrophils,andamassiveinfluxofthese
+performingachemotaxisassaywiththemediafromthesecells.On
+cellsoccurredinwild-typeanimals,togetherwithasmallernumber
+injury,keratinocytesfrombothgroupsofanimalsproducedequiva-
+of macrophages (Figure 5C-D). The HRG-deficient animals had
+lentlevelsofchemoattractantsforneutrophils(Figure7B,P(cid:3).25).
+significantly diminished neutrophil infiltration (Figure 5J), and
+Toinvestigatetheimportanceofthesubcutaneouslocalsitefor
+macrophageswerealsodiminished(Figure5K).Thelocalchemo-
+HRG function, we performed a systemic infection model. After
+taxisresponsewasassessedbyimmunostainingforthechemokines
+intraperitonealinfectionwithSpyogenes,thebacteriausetherich
+KCandMIP-2.Bothchemokineswerepresentatthesiteofacute
+vascularbedtorapidlyenterthebloodstream;andincontrasttothe
+inflammation in wild-type (Figure 5F-G) and HRG-deficient ani-
+subcutaneous model, a local infection focus is not formed. We
+mals (Figure 5M-N). HRG-deficient animals have a diminished
+monitoredsusceptibilitytoinfectionintheseanimals,andnodifference
+chemokine response, correlated to the lower overall size of the
+in survival (Figure 7C) or bacterial dissemination (Figure 7D) was
+inflammatoryfoci.
+recordedbetweenwild-typeandHRG-deficientanimals.
+TreatmentofHRG-deficientanimalswithpurifiedHRGrestores
+thewild-typephenotype
+Discussion
+To confirm that the increased susceptibility of the HRG-deficient
+animals to S pyogenes infection was because of the absence of ThedefinitiveroleofHRGinhumanoranimalbiologyhasyetto
+HRG, we reconstituted plasma HRG during infection. Two indi- be clearly defined. In the present study, we identify an important
+vidualexperimentswereperformedandthedatawerepooled.One functionforHRGinthehostdefenseagainstSpyogenesinfection.
+groupofHRG-deficientanimals(n(cid:3)10)receivedpurifiedhuman HRG-deficientanimalsfailedtocontrolstreptococcalinfectionat
+HRG(500(cid:5)gperanimal)byintraperitonealinjectionfollowedby thelocalsiteanddiedmorerapidlyofanoverwhelmingsystemic
+asubcutaneousinjectionofSpyogenes.At24hoursafterinfection, infection.OurinvitrostudiesdemonstratethatSpyogenesbacteria
+the mice received a second intraperitoneal injection of HRG aresusceptibletokillingbyHRG.KillingwasoptimalatlowpH,
+Downloaded
+from
+http://ashpublications.org/blood/article-pdf/116/13/2365/1329524/zh803910002365.pdf
+by
+guest
+on
+24
+March
+2026
+--- Page 7 ---
+(cid:1)
+BLOOD,30SEPTEMBER2010 VOLUME116,NUMBER13 AROLEFORHRGININNATEIMMUNITY 2371
+anti-inflammatoryeffects.Onday1afterinfection,bothgroupsof
+animals had low levels of IL-10 and IL-6, indicating that no
+significant immune response was initiated. This is not surprising
+becausethebacteriadonotemergeinthebloodstreamuntilday2.
+On day 2, the HRG-deficient animals exhibit massively elevated
+IL-6anddiminishedIL-10.Thewild-typeanimalsdiemoreslowly
+ofinfection,butatthetimeofdeaththeseanimalshavethesame
+cytokine imbalance. Taken together, the data suggest that a
+systemic immune response is elicited in both groups of animals,
+and it is the kinetics of this response that differentiates the HRG-
+deficientanimals.Weconcludethattheimmunomodulatoryeffects
+ofHRGareconfinedtotheinflamedsubcutaneouswoundsite.
+HRG-deficient animals exhibit increased plasminogen activa-
+tion and subsequent fibrinolysis.8 Therefore, the clots formed in
+these animals are subject to more rapid lysis than in wild-type
+Figure7.HRG-deficientanimalsdonothaveasystemicchemotaxisdefectand animals. The importance of clot formation for defense against
+arenotmoresusceptibletosystemicSpyogenesinfection.(A)Wild-typeor
+HRG-deficientanimals(n(cid:3)9pergroup)receivedanintraperitonealinjectionwith bacteriaissupportedbyourexvivostudies,whereHRG-deficient
+S pyogenes (1(cid:4)107CFU/animal). The animals were killed 18 hours later and animals failed to contain S pyogenes at the clot surface and the
+leucocyteswerecountedintheperitonealfluid.(B)Epidermalkeratinocyteswere bacteria escaped into the supernatant (Figure 2). Furthermore,
+isolatedandculturedfromwild-typeandHRG-deficientanimals.Themediafrom
+HRGbindstothefibrinthreadsintheclotandtothesurfaceofthe
+thesecellswastestedinaneutrophilchemotaxisassay,andthemigrationwas
+calculated.Dataarerepresentativeof3experiments,whichallgavethesameprofile bacteria, thus directly trapping the bacteria (Figure 2J-K). Those
+ofresults.(C)Wild-type(unbrokenlines)orHRG-deficient(brokenlines)animals bacteria that are not associated with the clot at the local site will
+(n(cid:3)11pergroup)receivedanintraperitonealinjectionwithSpyogenes(1(cid:4)107CFU/
+also fail to be killed by HRG and will disseminate. Fibrin clot
+animal). Health status and survival were monitored and are represented in a
+Kaplan-Meiersurvivalcurve.(D)Atthetimeofdeaththespleenwasharvested,and formationhaspreviouslybeenshowntoplayacriticalroleduring
+bacterialloadwasdeterminedforallanimals. S pyogenes infection in the same mouse model of subcutaneous
+infection used in this study.32,33 Significantly, Sun et al32 also
+showedthatfibrinclotformationdidnotprovideprotectionwhen
+which is in concordance with previously published results on the
+thebacteriawereadministereddirectlyintothebloodstream.This
+antibacterial effect of human HRG on Enterococcus spp.6 The
+is analogous to the results observed in our intraperitoneal model.
+inflammatoryphaseofwoundhealingisassociatedwithischemia
+Whenweadministeredbacteriaintraperitoneally,allowingarapid
+andacidosis,25andinfectedwoundshavebeenshowntobeeven
+vascularinvasion,therewasnodifferenceinsusceptibilitybetween
+moreacidicthannoninfectedwounds.26LowpHandZnenhance
+wild-type and HRG-deficient animals (Figure 7). This further
+theantibacterialeffectofHRG,whichisrelevantinrelationtothe
+emphasizesthattheprotectiveroleofHRGisrestrictedtothelocal
+presentstudy.Themicrocirculationisseverelydisturbedintissues
+andconfinedsubcutaneoussiteofinfection.
+invadedbySpyogenesresultingfromthrombiformedbyactivated
+It is well appreciated that S pyogenes uses a large number of
+platelets.18 This will further lower the pH, and the activated
+platelets will release their zinc-containing (cid:1)-granules27 together molecularmechanismstomanipulatehumanhostdefenses,andwe
+were surprised that the removal of a single plasma protein could
+withHRG.Finally,wehavepreviouslyshownthatHRGispresent
+have such striking consequences for pathogenesis. An important
+in wound exudates at concentrations comparable with plasma.9
+roleforHRGinhostdefenseagainstSpyogenesinfectionisalso
+Thesedifferentdataunderlinethattheconditionsatthelocalsiteof
+impliedbythefactthatSpyogeneshasdevelopedavirulencefactor
+infectionwillfavorHRG-mediatedbacterialkilling.
+thatbindsandneutralizesHRG.SICefficientlyinhibitedtheeffects
+InresponsetoasubcutaneousinjectionofSpyogenes,alocal
+ofHRGinvitro.TheimportanceofSICforbacterialvirulenceis
+inflammatoryreactionwillbeinitiatedandabscessformationwill
+underlinedbythefindingthataSIC-negativestrainofSpyogenes
+contain the bacteria and protect against systemic infection.28The
+hasreducedvirulenceinamousemodelofinfection22andthatthe
+HRG-deficientanimalsrapidlydieofsystemicinfection(Figure3)
+SICgeneisfoundinallSpyogenesisolatesoftheM1serotype,a
+and reconstitution of HRG decreases the mortality in this group
+prominentserotypeininvasiveinfection.34
+(Figure 6), therefore identifying HRG as a host defense factor.
+HRGhaspreviouslybeenshowntohaveantibacterialactivity
+HistopathologyrevealedthattheHRG-deficientanimalsinitiatea
+invitroagainstseveraldifferentbacterialpathogens,includingboth
+diminished local inflammatory response with reduced neutrophil
+Gram-positiveandGram-negativespecies.6Herewefindthatalso
+recruitment and local chemokine production. Significantly fewer
+SpyogenesissusceptibletoHRG,bothinvitroandinvivo,inapH
+bacteriaremainatthelocalsite,andtheremainingbacteriaescape
+environmenthighlyrelevanttodeepskininfectionscausedbythis
+thelocalsitetodisseminatetothebloodandorgans.Notably,these
+importanthumanpathogen.Inaddition,thepresentdatademonstrate
+findings were specific to the subcutaneous infection model, and
+thatclotformationiscrucialforbacterialentrapmentandkillingandthat
+there was no effect for HRG when bacteria were administered
+HRGplaysanessentialroleinthisdefensemechanism.
+intraperitoneally.Thisisnotsurprisingbecauseintheintraperito-
+nealmodelthebacteriausetherichvascularbedtorapidlyenterthe
+bloodstream and local abscess formation does not occur. The
+importanceofthelocalsubcutaneoussitefortheimmunomodula- Acknowledgments
+toryeffectsofHRGwasfurtherconfirmedwhenweinvestigated
+the systemic immune response after subcutaneous injection of TheauthorsthankIngbrittGustafssonandMariaBaumgartenfor
+Spyogenes.IL-6isanimportantproinflammatorycytokinethathas excellenttechnicalassistance.
+previouslybeenreportedtobeelevatedinmurine29andhuman30,31 ThisworkwassupportedinpartbythefoundationsofRagnar
+invasive S pyogenes infection, whereas IL-10 has pleiotropic and Torsten So¨derberg, Crafoord, Greta and Johan Kock,Alfred
+Downloaded
+from
+http://ashpublications.org/blood/article-pdf/116/13/2365/1329524/zh803910002365.pdf
+by
+guest
+on
+24
+March
+2026
+--- Page 8 ---
+(cid:1)
+2372 SHANNONetal BLOOD,30SEPTEMBER2010 VOLUME116,NUMBER13
+O¨sterlund,andThelmaZoe´ga,theRoyalPhysiographicSocietyin O.E.S. designed and performed experiments and analyzed the
+Lund, Hansa Medical AB, and the Swedish Research Council data;A.S.andP.A.designedexperimentsandanalyzedthedata;
+(projects7480,12610,and21112). andL.B.designedexperiments,analyzedthedata,andwrotethe
+manuscript.
+Conflict-of-interestdisclosure:Theauthorsdeclarenocompet-
+Authorship ingfinancialinterests.
+Correspondence: Oonagh Shannon, Department of Clinical
+Contribution: O.S. designed and performed experiments, ana- Sciences, Biomedical Centre, B14, Lund University, SE-22184
+lyzed the data, and wrote the manuscript; V.R., M.M., and Lund,Sweden;e-mail:oonagh.shannon@med.lu.se.
+References
+1. LeungLL,HarpelPC,NachmanRL, 13. KantorFS.Fibrinogenprecipitationbystrepto- 24. LeungLL.Interactionofhistidine-richglycopro-
+RabellinoEM.Histidine-richglycoproteinis coccalMprotein.JExpMed.1965;1:121:849- teinwithfibrinogenandfibrin.JClinInvest.1986;
+presentinhumanplateletsandisreleasedfollow- 859. 77(4):1305-1311.
+ingthrombinstimulation.Blood.1983;62(5):1016- 14. HerwaldH,CramerH,Mo¨rgelinM,etal.Mpro- 25. SchneiderLA,KorberA,GrabbeS,Dissemond
+1021. tein,aclassicalbacterialvirulencedeterminant, J.InfluenceofpHonwound-healing:anewper-
+2. JonesAL,HulettMD,ParishCR.Histidine-rich formscomplexeswithfibrinogenthatinducevas- spectiveforwound-therapy?ArchDermatolRes.
+glycoprotein:anoveladaptorproteininplasma cularleakage.Cell.2004;116(3):367-379. 2007;298(9):413-420.
+thatmodulatestheimmune,vascularandcoagu- 15. HerwaldH,Mo¨rgelinM,DahlbackB,Bjo¨rckL.
+lationsystems.ImmunolCellBiol.2005;83(2): InteractionsbetweensurfaceproteinsofStrepto- 26. RajuR,WeinerM,EnquistIF.Quantitationoflo-
+106-118. coccuspyogenesandcoagulationfactorsmodu- calacidosisandhypoxiaproducedbyinfection.
+3. JuarezJC,GuanX,ShipulinaNV,etal.Histidine- lateclottingofhumanplasma.JThrombHae- AmJSurg.1976;132(1):64-66.
+proline-richglycoproteinhaspotentantiangio- most.2003;1(2):284-291. 27. GorodetskyR,MouX,BlankenfeldA,MarxG.
+genicactivitymediatedthroughthehistidine-pro- 16. BergeA,Sjo¨bringU.PAM,anovelplasminogen- Plateletmultielementalcomposition,lability,and
+line-richdomain.CancerRes.2002;62(18):5344- bindingproteinfromStreptococcuspyogenes. subcellularlocalization.AmJHematol.1993;42(3):
+5350. JBiolChem.1993;268(34):25417-25424. 278-283.
+4. ChangNS,LeuRW,RummageJA,AndersonJK, 17. Sanderson-SmithML,DinklaK,ColeJN,etal.M 28. AshbaughCD,WarrenHB,CareyVJ,
+MoleJE.RegulationofmacrophageFcreceptor protein-mediatedplasminogenbindingisessen- WesselsMR.Molecularanalysisoftheroleofthe
+expressionandphagocytosisbyhistidine-rich tialforthevirulenceofaninvasiveStreptococcus groupAstreptococcalcysteineprotease,hyal-
+glycoprotein.Immunology.1992;77(4):532-538. pyogenesisolate.FASEBJ.2008;22(8):2715- uronicacidcapsule,andMproteininamurine
+5. ChangNS,LeuRW,RummageJA,AndersonJK, 2722. modelofhumaninvasivesoft-tissueinfection.
+MoleJE.Regulationofcomplementfunctional 18. ShannonO,HertzenE,Norrby-TeglundA, JClinInvest.1998;102(3):550-560.
+efficiencybyhistidine-richglycoprotein.Blood. Mo¨rgelinM,Sjo¨bringU,Bjo¨rckL.Severestrepto-
+1992;79(11):2973-2980. coccalinfectionisassociatedwithMprotein-in- 29. GoldmannO,ChhatwalGS,MedinaE.Contribu-
+tionofnaturalkillercellstothepathogenesisof
+6. RydengårdV,OlssonAK,Mo¨rgelinM, ducedplateletactivationandthrombusformation.
+septicshockinducedbyStreptococcuspyogenes
+SchmidtchenA.Histidine-richglycoproteinexerts MolMicrobiol.2007;65(5):1147-1157.
+antibacterialactivity.FEBSJ.2007;274(2):377- 19. ÅkessonP,SjoholmAG,Bjo¨rckL.ProteinSIC,a inmice.JInfectDis.2005;191(8):1280-1286.
+389. novelextracellularproteinofStreptococcuspyo- 30. Norrby-TeglundA,PauksensK,NorgrenM,
+7. BorzaDB,MorganWT.Histidine-proline-richgly- genesinterferingwithcomplementfunction.JBiol HolmSE.CorrelationbetweenserumTNFalpha
+coproteinasaplasmapHsensor:modulationof Chem.1996;271(2):1081-1088. andIL-6levelsandseverityofgroupAstrepto-
+itsinteractionwithglycosaminoglycansbypHand coccalinfections.ScandJInfectDis.1995;27(2):
+20. Roupe´KM,NyboM,Sjo¨bringU,AlberiusP,
+metals.JBiolChem.1998;273(10):5493-5499. 125-130.
+SchmidtchenA,SørensenOE.Injuryisamajor
+8. Tsuchida-StraetenN,EnsslenS,SchaferC,etal. inducerofepidermalinnateimmuneresponses 31. Norrby-TeglundA,ChatellierS,LowDE,
+Enhancedbloodcoagulationandfibrinolysisin duringwoundhealing.JInvestDermatol.2010; McGeerA,GreenK,KotbM.Hostvariationin
+micelackinghistidine-richglycoprotein(HRG). 130(4):1167-1177. cytokineresponsestosuperantigensdetermine
+JThrombHaemost.2005;3(5):865-872. 21. Fernie-KingBA,SeillyDJ,DaviesA,Lachmann theseverityofinvasivegroupAstreptococcalin-
+9. RydengårdV,ShannonO,LundqvistK,etal.His- PJ.Streptococcalinhibitorofcomplementinhibits fection.EurJImmunol.2000;30(11):3247-3255.
+tidine-richglycoproteinprotectsfromsystemic twoadditionalcomponentsofthemucosalinnate 32. SunH,RingdahlU,HomeisterJW,etal.Plasmin-
+Candidainfection.PLoSPathogens.2008;4(8): immunesystem:secretoryleucocyteproteinase ogenisacriticalhostpathogenicityfactorfor
+e1000116. inhibitorandlysozyme.InfectImmun.2002;70(9):
+groupAstreptococcalinfection.Science.2004;
+10. CunninghamMW.PathogenesisofgroupAstrep- 4908-4916.
+305(5688):1283-1286.
+tococcalinfections.ClinMicrobiolRev.2000;13(3): 22. FrickIM,ÅkessonP,RasmussenM,
+470-511. SchmidtchenA,Bjo¨rckL.SIC,asecretedprotein 33. SunH,WangX,DegenJL,GinsburgD.Reduced
+11. TartAH,WalkerMJ,MusserJM.Newunder- ofStreptococcuspyogenesthatinactivatesanti- thrombingenerationincreaseshostsusceptibility
+standingofthegroupAStreptococcuspathogen- bacterialpeptides.JBiolChem.2003;278(19): togroupAstreptococcalinfection.Blood.2009;
+esiscycle.TrendsMicrobiol.2007;15(7):318-325. 16561-16566. 113(6):1358-1364.
+12. KwinnLA,NizetV.HowgroupAStreptococcus 23. LeviM,KellerTT,vanGorpE,tenCateH.Infec- 34. ColeJN,McArthurJD,McKayFC,etal.Trigger
+circumventshostphagocytedefenses.Future tionandinflammationandthecoagulationsys- forgroupAstreptococcalM1T1invasivedisease.
+Microbiol.2007;2(1):75. tem.CardiovascRes.2003;60(1):26-39. FASEBJ.2006;20(10):1745-1747.
+Downloaded
+from
+http://ashpublications.org/blood/article-pdf/116/13/2365/1329524/zh803910002365.pdf
+by
+guest
+on
+24
+March
+2026

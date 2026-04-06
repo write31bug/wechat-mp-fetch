@@ -1,0 +1,287 @@
+
+--- Page 1 ---
+THEJOURNALOFBIOLOGICALCHEMISTRY VOL.280,NO.42,pp.35733–35741,October21,2005
+©2005byTheAmericanSocietyforBiochemistryandMolecularBiology,Inc. PrintedintheU.S.A.
+Histidine-rich Glycoprotein Specifically Binds to Necrotic
+Cells via Its Amino-terminal Domain and Facilitates
+Necrotic Cell Phagocytosis*
+Receivedforpublication,April21,2005,andinrevisedform,July22,2005 Published,JBCPapersinPress,August17,2005,DOI10.1074/jbc.M504384200
+AllisonL.Jones‡§,IvanK.H.Poon‡,MarkD.Hulett‡1,andChristopherR.Parish‡2
+Fromthe‡CancerandVascularBiologyGroup,DivisionofImmunologyandGenetics,JohnCurtinSchoolofMedicalResearch,
+AustralianNationalUniversity,Canberra,AustralianCapitalTerritory,0200,Australiaandthe§DepartmentofMedical
+BiochemistryandMicrobiology,BiomedicalCentre,UppsalaUniversity,Box582,S-75123Uppsala,Sweden
+Cellsthatbecomenecroticorapoptoticthroughtissuedamageor including chromatin condensation that precedes the loss of cellular
+duringnormalcellularturnoverareusuallyrapidlyclearedfromthe integrity(6).Apoptoticcellsalsodisplayphosphatidylserineandaltered
+circulationandtissuesbyphagocyticcells.Anumberofsolublepro- membranecarbohydratesontheirsurface.Multipleligandsandrecep-
+teinshavebeenidentifiedthatfacilitatethephagocytosisofapo- torshavebeenimplicatedintherecognitionanduptakeofapoptotic
+ptotic cells, but few proteins have been defined that selectively cellsbyphagocytespriortomembranelysis,thuspreventingreleaseof
+opsonizenecroticcells.Previousstudieshaveshownthathistidine- potentiallytoxicandimmunogenicintracellularsubstancesintotissues.
+rich glycoprotein (HRG), an abundant ((cid:1)100 (cid:1)g/ml) 75-kDa Inaddition,thebindingand/oruptakeofapoptoticcellsinhibitsproin-
+plasmaglycoprotein,bindstocellsurfaceheparansulfateonviable flammatorycytokineproduction(7).Whentherearedisturbancesin
+cellsandcross-linksotherligands,suchasplasminogen,tothecell either apoptosis or the phagocytosis of apoptotic cells, antibodies
+surface.InthisstudywehavedemonstratedthatHRGalsobinds againstsubsequentlyexposednucleosomesmaybeformed,leadingto
+very strongly, in a heparan sulfate-independent manner, to cyto- thedevelopmentofautoimmunediseasessuchassystemiclupusery-
+plasmicligand(s)exposedinnecroticcells.Thisinteractionismedi- thematosusandrheumatoidarthritis.Incontrasttoapoptosis,necrotic
+atedbytheamino-terminaldomainofHRGandresultsinenhanced celldeathhasusuallybeendefinedasadisorderedmodeofcelldeath,
+phagocytosisofthenecroticcellsbyamonocyticcellline.Incon- occurringeitherincasesofsevereandacuteinjuriessuchassudden
+trast,itwasfoundthatHRGbindspoorlytoanddoesnotopsonize shortageofnutrientsandabruptanoxiaorinextremeinjuriessuchas
+earlystageapoptoticcells.Thus,HRGhastheuniquepropertyof exposuretoheat,detergents,strongbases,andirradiation(8,9).More
+selectively recognizing necrotic cells and may play an important recently,theexistenceofanecrotic-likecelldeathpathwayregulatedby
+physiologicalroleinvivobyfacilitatingtheuptakeandclearanceof an intrinsic death program distinct from that of apoptosis has also
+necrotic,butnotapoptotic,cellsbyphagocytes. become apparent (9, 10). Necrotic cell death is characterized by the
+rapidanddisorganizedswellingandruptureofacell(11).Aswithapo-
+ptoticcells,necroticcellsareusuallyrapidlyclearedfromthecirculation
+Cell death is vital for the morphological shaping of tissues during by phagocytic cells. A large number of soluble extracellular proteins
+developmentandforthesculptingoffunctionallyappropriatecellular havebeendescribed(12)thatbindtoapoptoticcellsandfacilitatetheir
+repertoiresaswellasforprotectinganindividualfromviralinfections uptakebymacrophages.Incontrast,fewproteinshavebeenidentified
+andpathogenicmicroorganisms(1,2).Selectivecelldeathcontinuesto thatcanspecificallyopsonizenecroticcells.
+playaroleinthehomeostasisofmaturetissues,suchasthedeletionof Histidine-richglycoprotein(HRG)3(13)isa75-kDaplasmaglyco-
+immune cells in the attenuation of an immune response (3) and the
+protein((cid:1)100(cid:1)g/ml)thatbindstonumerousligands,includinghepa-
+elimination of cells that have become functionally inappropriate, ran sulfate on the cell surface and in extracellular matrices (14–16),
+including virally infected and transformed cells (4). Apoptosis and plasminogen(17–20),thrombospondin(21–23),tropomyosin(24,25),
+necrosisrepresenttwodifferentformsofcelldeathandarecharacter- IgG(26,27),C1q(26),andFcreceptor(28,29).HRGisamultidomain
+izedbydistinctmorphologies.Rapidandefficientphagocyticremovalof molecule consisting of an amino-terminal domain composed of two
+dyingcellsisakeyfeatureofapoptosis,whereastheroleandextentof cystatin-likemodules(N1N2),acentralhistidine-richregion,andacar-
+phagocytosisintheclearanceofnecroticcellsisnotwelldocumented.It boxyl-terminaldomain(30,31).Suchamolecularstructureallowsthemol-
+is thought, however, that by engulfing necrotic and apoptotic cells eculetoactasanadaptorproteinthatcross-linksdifferentligandsinsolu-
+phagocytesoftheinnateimmunesystemnotonlyprovideafirstlineof tionoroncellsurfaces(13).Furthermore,thehistidine-richregionofHRG
+defenseagainstmicrobialpathogensbutalsodisposeofself-antigens hasrecentlybeenshowntomediateanti-angiogeniceffects(32,33),with
+thatarereleasedfromdyingcells(5). HRGalsobeingimplicatedinplasminogenactivation(20,34),particularly
+Apoptosisischaracterizedbyanorderlysequenceofinternalevents, oncellsurfaces(19,34),andinimmunecomplexclearance(28,35).A
+recentstudybyGorganietal.(29)alsosuggestedthatHRGcanpotentiate
+theingestionoflatestageapoptoticcellsbymacrophages.
+*ThisworkwassupportedinpartbyaNationalHealthandMedicalResearchCouncil WhileinvestigatingtheinteractionofHRGwithdifferentcellpopu-
+programgrant.Thecostsofpublicationofthisarticleweredefrayedinpartbythe
+paymentofpagecharges.Thisarticlemustthereforebeherebymarked“advertise-
+ment”inaccordancewith18U.S.C.Section1734solelytoindicatethisfact.
+1RecipientofaViertelSeniorMedicalResearchfellowship. 3Theabbreviationsusedare:HRG,histidine-richglycoprotein;OVA,ovalbumin;N1N2,
+2Towhomcorrespondenceshouldbeaddressed:DivisionofImmunologyandGenetics, amino-terminaldomainofhistidine-richglycoprotein;CHO,Chinese-hamsterovary;
+JohnCurtinSchoolofMedicalResearch,Bldg.54,MillsRd.,AustralianNationalUni- GAG,glycosaminoglycan;FCS,fetalcalfserume;PBS,phosphate-bufferedsaline;BSA,
+versity,Canberra,AustralianCapitalTerritory,0200,Australia.Tel.:61-2-61252604; bovineserumalbumin;mAb,monoclonalantibody;SNARF,carboxy-seminaphthor-
+Fax:61-2-61252595;E-mail:christopher.parish@anu.edu.au. hodafluor;CFSE,carboxy-fluoresceindiacetatesuccinimidylester.
+OCTOBER21,2005•VOLUME280•NUMBER42 JOURNALOFBIOLOGICALCHEMISTRY 35733
+Downloaded
+from
+http://www.jbc.org/
+at
+GEORGETOWN
+UNIVERSITY
+on
+March
+6,
+2015
+--- Page 2 ---
+HRGOpsonizesNecroticCells
+lations,itbecameapparentthatthemoleculeboundstronglytodead Induction and Detection of Apoptotic Cells—Jurkat T-cells were
+cells;thusweundertookadetailedstudyoftheinteractionofHRGwith resuspendedto5(cid:4)105cell/mlandincubatedwith1(cid:1) Mcamptothecin
+necrotic,apoptotic,andviablecells.ItwasfoundthatHRGbindsavidly (Sigma)at37°Cinahumidifiedatmosphereof5%CO for6h.Detec-
+2
+to necrotic cells, but not to early stage apoptotic cells, and aids the tionofapoptoticcellswasachievedbyAnnexin-V-PEcellsurfacestain-
+uptakeofnecroticcellsbyaphagocyticcellline.AlthoughHRGinter- ing(BDBiosciences)and7-AADnuclearuptake(0.3(cid:1)g/ml)(Molecular
+actswithcellsurfaceheparansulfateonviablecells,additionalexperi- Probes)usingflowcytometryasdescribed.Earlystageapoptoticcells
+mentsrevealedthatHRGbindsviaitsN1N2domaintoacytoplasmic weredefinedasAnnexin-V-positive,7-AAD-negativecells.
+ligandwithinnecroticcellsthatisnotheparansulfate.Thesedatadem- Dye Labeling—THP-1 cells were labeled with carboxy-seminaph-
+onstrate,forthefirsttime,thatHRGrepresentsanovelplasmaprotein thorhodafluor(SNARF-1)(MolecularProbes)orPKH26(Sigma),and
+thatspecificallyfacilitatestheingestionofnecroticcellsbyphagocytes Jurkatcellswerelabeledwithcarboxy-fluoresceindiacetatesuccinimi-
+andthusmayplayakeyroleinmaintainingtheefficientclearanceof dylester(CFSE)(MolecularProbes).ForSNARF-1labeling,THP-1cells
+necroticcellsandnecroticcelldebrisfromthecirculation.
+(5(cid:4)107cell/ml)dilutedinRPMI1640wereincubatedwithSNARF-1
+(25(cid:1) M)for15minina37°Cwaterbath.Cellswerethenwashedfour
+EXPERIMENTALPROCEDURES times in RPMI 1640/10% FCS to remove unbound SNARF-1. For
+PKH26labeling,THP-1cells((cid:2)5(cid:4)107cell)werewashedinPBS,pel-
+Cell Lines—THP-1 and Jurkat cells were cultured in RPMI 1640
+leted,andresuspendedin250(cid:1)lofPBS.PKH26waspre-dilutedin19.5
+medium (Invitrogen) supplemented with 10% fetal calf serum (FCS).
+(cid:1)lofdiluentC(Sigma)andimmediatelyaddedtocellsatafinalcon-
+pgsA-745cellsareamutantformoftheCHO-KIparentcelllineandare
+centrationof20nMfor5min.Thereactionwasstoppedbyadding275
+unabletoexpressanycellsurfaceheparansulfateduetoadeficiencyin
+(cid:1)lofFCSfor1min.CellswerewashedfourtimesinRPMI1640/10%
+xylosyltransferase.BothCHO-KI(GAG(cid:2)ve)andpgsA-745(GAG(cid:3)ve)
+FCStoremoveunboundPKH26.ForCFSElabeling,JurkatT-cells(5(cid:4)
+c
+su
+el
+p
+ls
+pl
+w
+em
+ere
+en
+c
+t
+u
+e
+l
+d
+tu
+w
+re
+it
+d
+h
+in
+21
+D
+(cid:1)
+ul
+g
+b
+/
+e
+m
+cc
+l
+o
+L-
+’s
+p
+m
+ro
+o
+li
+d
+n
+i
+e
+fie
+a
+d
+nd
+Ea
+1
+g
+0
+l
+%
+e’s
+F
+m
+C
+e
+S
+d
+.
+i
+M
+um
+am
+(I
+m
+nv
+a
+i
+l
+t
+i
+r
+a
+o
+n
+g
+c
+e
+e
+n
+l
+)
+l
+107cell/ml)dilutedinRPMI1640wereincubatedwithCFSE(2(cid:1) M)for
+15minina37°Cwaterbath.CellswerewashedfourtimesinRPMI
+lineswereincubatedat37°Cinahumidifiedatmospherecontaining5%
+1640/10%FCStoremoveunboundCFSE.SomeoftheJurkatT-cells
+CO .TheSpodopterafrugiperda-derivedinsectcellline(Sf-9)wascul-
+2 weretheninducedintonecrosisorapoptosisasdescribed.
+turedinSf-900IIserum-freemedium(Invitrogen)at27°C.
+Confocal Microscopy—Viable and necrotic CHO-KI and pgsA-745
+PurificationofHRG—HRGwaspurifiedfromhumanplasmabased
+cellswereincubatedwithHRGasdescribedaboveforimmunofluores-
+onapreviouslydescribedmethod(16,36).Briefly,humanplasmawas
+cence flow cytometry and examined by confocal microscopy for HRG
+passed through a phosphocellulose column equilibrated with 0.5 M localization.Inthecaseofthephagocytosisassay,PKH26-labeledTHP-1
+NaCl,10mMsodiumphosphate,1mMEDTA,pH6.8.BoundHRGwas
+cellswereincubatedwithCFSE-labelednecroticJurkatcellsfor80minat
+elutedwith2.0MNaCl,10mMsodiumphosphate,1mMEDTA,pH6.8.
+37°C. Cell suspensions were mounted onto glass slides, and confocal
+Recombinant full-length HRG (507 amino acids) (30) and the N1N2
+imageswerevisualizedonaNikonEclipseTE300confocalmicroscope
+amino-terminaldomain(aminoacids1–112)consistingoftwocystatin-
+with a Nikon super high pressure mercury lamp power supply (Nikon
+like modules, were produced in insect Sf9 cells using a baculovirus
+Corp.,Tokyo,Japan)andaRadiance2000laserscanningsystem(Bio-Rad).
+expressionsystemaspreviouslydescribed(16).
+PhagocytosisAssay—EqualvolumesofSNARF-1-labeledTHP-1cells
+Immunofluorescence Flow Cytometry—Cell lines were analyzed for (1 (cid:4) 106 cell/ml) and CFSE-labeled Jurkat cells (1 (cid:4) 107 cell/ml) in
+HRGbindingbyimmunofluorescenceflowcytometry.Typically,plas-
+RPMI1640/10%FCSweremixedandincubated(37°C,5%CO ,0–80
+2
+ma-purifiedorrecombinantHRGandrecombinantN1N2domain(100 min) with either ovalbumin (OVA) (100 (cid:1)g/ml; Sigma) or different
+(cid:1)g/ml)wereaddedto5(cid:4)105cellsinPBS/0.1%BSA(cid:5)20(cid:1) MZn2(cid:2)for
+concentrationsofHRGinthepresenceorabsenceof12.5-kDabovine
+60minat4°CandwashedthreetimeswithPBS/0.1%BSA.Cell-bound lung heparin (100 (cid:1)g/ml), porcine muscle tropomyosin (200 (cid:1)g/ml;
+HRG or N1N2 domain was detected using the HRG-specific mAb Sigma),aCD32(Fc(cid:3)RII)mAb(clone8.26)(37),andaCD64(Fc(cid:3)RI)
+HRG-4 (AGEN, Brisbane, Australia). Cell surface heparan sulfate mAb(clone10.1)(BDBiosciences)inapre-warmed96-wellplate.Cells
+expressionwasdetectedbytheheparansulfate-specificmAbF58–10E4 werethenimmediatelyplacedoniceandanalyzedbyflowcytometry.Rate
+(SeikagkuCorp.,Tokyo,Japan),followedbysecondarydetectionwith ofphagocytosiswascalculatedasthepercentageofSNARF(cid:2)THP-1that
+sheepanti-mouseIgfluoresceinisothiocyanate(AmradBiotech,Mel- wereCFSE(cid:2).Properinter-andintralasercompensationsweredetermined
+bourne, Australia). Cells were analyzed by immunofluorescence flow usingsinglecolorcontrolsbeforeeachexperimentalrun.
+cytometryusinganLSRFlowCytometer(BDBiosciences).Flowcytom- Binding of HRG and OVA to Intracellular Ligands—Recombinant
+etrydatawereanalyzedusingCellQuestProsoftware(BDBiosciences). full-lengthHRGortheN1N2domainofHRG(20(cid:1)l,100(cid:1)g/ml)or
+Eachtreatmentconditionwastypicallyrepeatedintriplicate,andeach OVA(20(cid:1)l,100(cid:1)g/ml)dilutedinPBSwasincubatedwithfixedmono-
+experiment was repeated two to three times. In some experiments layersofHEp-2humanepithelialcells(HEp-2slides;INOVADiagnos-
+humanHRG(100(cid:1)g/ml)wasco-incubatedwith100(cid:1)g/mlof12.5-kDa
+tics,SanDiego,CA)for30min.Theslideswereextensivelywashedwith
+bovinelungheparin(Sigma). PBSbeforedetectionofboundHRGusingaHRG-specificmAb,HRG-4
+Induction and Detection of Necrotic Cells—Jurkat T-cells were (AGEN), or OVA using an OVA-specific mAb (Sigma) followed by
+induced into necrosis by exposure to hyperthermic conditions. Cells secondarydetectionwithsheepanti-mouseIgfluoresceinisothiocya-
+wereresuspendedtoacellconcentrationof1(cid:4)107cells/mlinRPMI nate(AmradBiotech).Slidesweremountedwithcoverslipsandfluo-
+1640/10%FCSandplacedintoa56°Cwaterbathfor45min.Necrotic rescentmountingmedium(DakoCytomation,Carpinteria,CA)before
+cellsweredetectedbyincubatingcellswiththeDNAintercalatingdye viewing immediately using an Olympus fluorescence microscope
+7-AAD(0.3(cid:1)g/ml)(MolecularProbesInc.,Eugene,OR)inPBS/0.1% (OlympusOpticalCo.Ltd,Tokyo,Japan).InsomeexperimentsHRG
+BSA(pH7.2)for15minat4°Cinthedark.Cellswerethenanalyzedby (100(cid:1)g/ml)wasco-incubatedwith12.5-kDabovinelungheparin(100
+flowcytometryasdescribed.Necroticcellsweredetectedbygatingon (cid:1)g/ml)(Sigma)orporcinemuscletropomyosin(200(cid:1)g/ml)(Sigma).In
+7-AAD-positivecells. other experiments, slides were treated with Escherichiacoli-derived
+35734 JOURNALOFBIOLOGICALCHEMISTRY VOLUME280•NUMBER42•OCTOBER21,2005
+Downloaded
+from
+http://www.jbc.org/
+at
+GEORGETOWN
+UNIVERSITY
+on
+March
+6,
+2015
+--- Page 3 ---
+HRGOpsonizesNecroticCells
+FIGURE1.AbilityofHRGtobindspecificallytoviableandnecroticCHOcells.A,CHO-KIcellswereinducedintoanecroticstatebyexposureofthecellstohyperthermicconditions
+(56°C)for45min.CellswereanalyzedbyimmunofluorescenceflowcytometryfornecrosisusingtheDNAintercalatingdye7-AAD.Filledhistogramrepresents7-AADuptakebyviable
+cells;openhistogramdepicts7-AADuptakebynecroticcells.B,bindingofplasma-derivedHRG(100(cid:1)g/ml)inPBS/0.1%BSA/20(cid:1) MZn2(cid:2)(pH7.2)toviable(toppanels)orhyperther-
+mia-inducednecrotic(bottompanels)GAG(cid:2)veorGAG(cid:3)veCHOcellsinthepresenceorabsenceof100(cid:1)g/mlof12.5-kDabovinelungheparin.HRGbindingwasdetectedusingthe
+HRG-specificmAbHRG-4.Representativeflowcytometryhistogramsareshown,withfilledhistogramsrepresentingbackgroundbindingoftheHRG-specificmAbtocellsinthe
+absenceofHRGandopenhistogramsrepresentingHRGbindinginthepresence(bluehistogram)andabsence(redhistogram)ofheparin.C,quantitativecomparisonofthebinding
+ofHRGtoviableandnecroticcellsinthepresenceorabsenceofheparin,withdatabeingexpressedasfoldincreaseinHRGbinding(medianfluorescence)relativetobackground.
+ErrorbarsrepresentS.E.(n(cid:6)3).D,confocalmicroscopyofHRGbindingtoviableCHOGAG(cid:2)vecellsandnecroticCHOGAG(cid:3)vecells.BindingofHRG(100(cid:1)g/ml)wasdetectedusing
+theHRG-specificmAbHRG-4.CellswerealsoincubatedwiththeDNAintercalatingdye7-AADtoindicatecellviability.
+RNaseI(100(cid:1)g/ml;PromegaCorp.,Madison,WI)orbovinepancreas- itsN1N2domainandthatthisbindingisalmostentirelyabolishedby
+derivedRQ1DNaseI(100units/ml,Promega)for30minat37°Cprior highconcentrationsofheparin(16).Whileinvestigatingthebindingof
+toHRGbindinganddetection. HRG to transfected cell lines exposed to selective antibiotics, it was
+notedthatthelatestageapoptoticcellsproducedbyantibioticselection
+RESULTS
+exhibitedenhancedbindingofHRGthatwasnotinhibitedbyheparin
+BindingofHRGtoNecroticCellsIsHeparanSulfate-independentand (datanotshown).ApreviousreportsuggestedthatHRGinteractswith
+Is Mediated by Its N1N2 Domain—Our laboratory recently demon- latestageapoptoticcells(29),butwewishedtofurtherinvestigatethe
+stratedthatHRGbindstocellsurfaceheparansulfateonviablecellsvia molecularbasisofthisphenomenonanddeterminewhetherHRGcan
+OCTOBER21,2005•VOLUME280•NUMBER42 JOURNALOFBIOLOGICALCHEMISTRY 35735
+Downloaded
+from
+http://www.jbc.org/
+at
+GEORGETOWN
+UNIVERSITY
+on
+March
+6,
+2015

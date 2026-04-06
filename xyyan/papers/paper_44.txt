@@ -1,0 +1,210 @@
+
+--- Page 1 ---
+Immunology 199277 532-538
+Regulation of macrophage Fc receptor expression and phagocytosis by
+histidine-rich glycoprotein
+N.-S. CHANG, R. W. LEU,* J. A. RUMMAGE,* J. K. ANDERSONt & J. E. MOLEt Guthrie Research Institute,
+Laboratory ofMolecular Immunology, Guthrie Medical Center, Sayre, Pennsylvania, *The Samuel Roberts Noble Foundation,
+Ardmore, Oklahoma andtUniversity Massachusetts Medical Center, Department ofBiochemistry, Worcester,
+of
+Massachusetts, U.S.A.
+Acceptedforpublication 31 July 1992
+SUMMARY
+Regulation of macrophage Fc receptor (FcyR)-mediated phagocytic function by histidine-rich
+glycoprotein (HRG) was investigated. Pretreatment ofoil-elicited inflammatory mouse peritoneal
+macrophageswithHRGfor 1-3hrincreasedtheirFcyR-mediatedbindingandphagocytosisofIgG-
+opsonized sheep erythrocyte conjugates (EA). A significant reduction of FcyR-dependent EA
+bindingandphagocytosisoccurredafterpretreatmentofmacrophageswithHRGformorethan8hr.
+These results indicate that HRG is capable ofmodulating FcyR expression in a biphasic fashion,
+which directly affects the overall efficiency of phagocytosis. HRG differentially regulated the
+functions ofFcyR subclasses. For example, HRG reduced the efficiency of FcyRII (Fcy2b/ylR)-
+dependent phagocytosis oferythrocytes conjugated with monoclonal IgG2b or IgGI by macro-
+phages pretreated with HRG for 24 hr. However, when similar studies were performed using
+erythrocytes coatedwithmonoclonal IgG2a, HRGwaslesseffectiveininhibiting FcyRI (Fcy2aR)-
+dependent phagocytosis. As an HRG-binding glycosaminoglycan, heparin failed to block the
+regulatory function ofHRG on macrophages. Similarly, interferon-y (IFN-y) was not capable of
+blocking the functional activity ofHRG. These studies suggest that HRG regulates macrophage
+function via a novel pathway different from that ofheparin or IFN-y.
+INTRODUCTION phageFcyreceptor(FcyR)expressionandphagocytosis. Mech-
+anisms bywhich HRGregulates FcyRexpression and function
+Histidine-rich glycoprotein (HRG) is a plasma glycoprotein
+are discussed.
+that consists of unusually high contents of histidine and
+proline.'12 Althoughanumberofbiologicalproperties ofHRG
+has been reported, its physiological function has not been well MATERIALS AND METHODS
+established. HRG is known to bind divalent cations3 and
+Purification ofplasma HRG
+heparin,4'5 and interact with plasma thrombospondin6 and
+Thepurification strategy was initially designed to isolate novel
+plasminogen.2 HRG iscapable ofinhibitingcontact activation
+plasma protein(s) that would modulate macrophage Fc ex-
+of blood coagulation.7 Recently it was reported that HRG
+pressionandphagocyticfunction. Plasmamannose-type glyco-
+complexes with serum S-protein/vitronectin and modulates
+proteinswhicharespecificforbindingtothelectin,concanava-
+complement functional efficiency of both classical and
+lin A (Con A), were found to possessthe activityofregulating
+alternative pathways.8
+macrophage phagocytic functions. A furtherchromatographic
+HRGisinvolvedinregulationofimmunecellularfunctions,
+inthatitinhibitsautorosetteformationbetweenTlymphocytes
+steputilizingaheparincolumn revealedthatamajorglycopro-
+tein which bound strongly to heparin modulated macrophage
+and autologous erythrocytes.9-" Saigo et al.12 determined that
+function. This glycoprotein was further purified by ionic-
+HRG binds to a 56,000 MW receptor on T cells. The binding
+exchange chromatography. Subsequent gas-phase micro-
+appears to provide a signal for suppression ofT-cell prolifera-
+sequencing for determining N-terminal sequence revealed that
+tion in response to stimulation by interleukin-2 (IL-2) and
+this glycoprotein was identical to plasma HRG. Overall, the
+antibodies against antigen receptor (CD3).'3 In this study, it is
+purification ofplasma HRG was performed as follows: mouse
+shown that HRG iscapable ofbiphasic modulation ofmacro-
+bloodwascollected bycardiacpuncturefrom male 8-12-week-
+old C3HeB/FeJ mice (Jackson Laboratory, Bar Harbor, ME),
+Correspondence: DrN.-S.Chang,TheGuthrie Research Institute, and mixed with an equal volume of 5 mm barbital-buffered
+GuthrieSquare, Sayre, PA 18840, U.S.A. saline containing 10 mm EDTA.'4 Firstly, affinity chromato-
+532
+--- Page 2 ---
+Regulation by histidine-rich glycoprotein 533
+graphy was performed to isolate plasma mannose-type glyco- EA cells (100 il ofthe 05% cell stocks) by macrophages was
+proteins. One hundred millilitre EDTA-treated mouse plasma carried out at 370 for 1 hr. Unless otherwise specified, all the
+was applied to a 2 5x 13 cm Con A-Sepharose 4B column experiments were performed under serum-free conditions to
+(SigmaChemicalCo.,StLouis, MO;50mlbedvolume),which preventpossibleinteractionsbetweenHRGandserumproteins
+was pre-equilibrated with a 50 mm Tris-HCl buffer, pH 80, or other factors.2-8 After 1 hr incubation, the macrophage
+containing 100 mm NaCl, followed by washing with 10-bed monolayerswerewashedwithRPMI-1640toremoveunbound
+volumesoftheequilibrationbuffer.Thecolumn-boundproteins EA, followed by methanol fixation, air drying and quantifica-
+were eluted using 2% a-D-mannopyranoside (Sigma), concen- tion of the total index, which included EA binding and
+trated by ultrafiltration using an Amicon PM 10 membrane internalization (phagocytosis) bymacrophagesusingaMR580
+(MWexclusionof10,000;AmiconCorporation, Danvers,MA) reader (Dynatech, Alexandria, VA) at 405 nm for the absor-
+and then dialysed against 0-03 sodiumphosphate buffer, pH bance of haemoglobin. For determination of the phagocytic
+M
+7-0, containing 0-2% sodium azide. Secondly, the pooled index, the washed monolayers were treated with hypotonic
+fractions were chromatographed on a 2-5x 13 cm heparin- saline(0-09%)tolyseextracellularboundEApriortomethanol
+agaroseaffinitycolumn(Sigma;50mlbedvolume)equilibrated fixation, air drying and quantification of internalized EA.
+with the 003 sodium phosphate buffer. The HRG protein Where indicated, FcyR-dependent binding of EA was also
+M
+fractions were eluted from the column using a linear salt carriedoutbyexposureofmacrophagesto EAfor 1-2hrat4°.
+gradient of0 5-1 M NaCl. The pooled fractions were dialysed Both phagocytic and total indiceswere calculated as:
+against the 003 phosphate buffer and finally chromato-
+M
+graphedonaDEAE-Sephacelcolumn(2-5x 15cm;Sigma). By 1-[E405/EA (IgG)405]x 100=Index.
+applyingalineargradientof0-0-0 5
+M
+NaCltothecolumn, the
+purified HRG was obtained at the conductivity ranges of Murinemonoclonalantibodies,IgG2aandIgG2bagainstsheep
+approximately 5-0-10-0 mmho. Protein purity was analysed in erythrocytes produced from hybridoma cell lines SS.1 and
+both 7 and 10% SDS-PAGE, and quantified by the BioRad NS8.1, respectively [American Type Culture Collection
+protein assay (BioRad Laboratories, Richmond, CA). Con- (ATCC), Rockville, MD], were also used for preparing opso-
+tamination with bacterial lipopolysaccharides was assessed nized erythrocyte conjugates for phagocytic studies. Mono-
+usinga chromogenic limulus amoebocyte lysate microassay of clonal IgGl against sheep erythrocytes was obtained from
+Whittaker, M.A. Bioproducts(Walkersville, MO).Thepurified AccurateChemical(Westbury,NY.)Todeterminetheviability
+HRG preparations were exhaustively dialysed against RPMI- of macrophages during 1-48 hr under serum-free culture
+1640 medium prior to applying for experiments. Isolation of conditions,5'Cr-releaseassayswereperformedwithcontroland
+human HRG from EDTA-treated or citrated normal human HRG-treated cells.'9
+plasmas was performed identically to the above procedures.
+RESULTS
+Macrophage FcyR-mediated phagocytosis
+Photometric measurement of mouse inflammatory peritoneal
+HRG isolation and characterization
+macrophage FcR-mediated phagocytosis of antibody-conju-
+gated sheep erythrocytes (EA) was performed as previously
+described.'5'8 Briefly,maleC3HeB/FeJmicewereinjectedwith Figure 1 depictsthesequentialchromatographicprofilesforthe
+2mlsterileparaffinoil(FisherScientificCo., Pittsburgh, PA) 3 isolationofHRGfromhumancitratedplasma.Similarchroma-
+days prior to harvest of the inflammatory peritoneal macro- tographic patterns were obtained when using mouse plasma
+phages. Peritoneal non-inflammatory resident macrophages (data not shown). Approximately 30% of the total plasma
+were also harvested from control mice. Macrophages (2x 106/ proteins applied to the Con A-Sepharose 4B column was
+ml), suspended in RPMI-1640 supplemented with 200 mM L- recovered initially (Fig. la). Thesecond heparin-agarose (Fig.
+glutamine, 25 mm HEPES, and 50 ug/ml gentamycin (Gibco, lb) and the final DEAE-Sephacel (Fig. lc) steps yielded 0-015
+Grand Island, NY), were seeded in 100-pl volumes into and00045%,respectively, ofthetotalplasmaproteinsapplied.
+individual wells of96-well flat-bottom microtitre plates (Corn- Purified HRGwasobtained fromtheDEAE-Sephacelcolumn
+ingGlass Works, Corning, NY). Followingadherence for 1 hr at the conductivity ranges of approximately 5-0-100 mmho
+at 37°, the non-adherent cells were removed by washing with (Fig. ic, fraction 1). However, there still remained a minor
+RPMI-1640 medium. EA was prepared by conjugation of quantityofHRGalongwithseveralmajorcontaminantsbound
+varioussubagglutinatingdilutionsofrabbitanti-sheeperythro- to the DEAE-Sephacel column (Fig. ic, fractions 2 and 3).
+cytepolyclonal IgG(CordisLaboratories, Miami, FL)withan The overall purification scheme was similar to those
+equal volume of 5% erythrocytes (Colorado Serum Co., reported procedures for HRG purification, which involved
+Denver,CO)at370 for30min. EAcellswerewashedtwiceand DEAEionic-exchangeandheparin-affinitychromatography.3'20
+further diluted to 0-5% prior to use. Sheep erythrocytes (E) ThepurifiedhumanHRGwassubjectedtoamino-terminalgas-
+without antibody conjugation were used as controls. Macro- phase microsequencing and the determined partial N-terminal
+phages were pretreated with or without HRG at 40 or 370 for sequence (20 amino acid residues)was foundto beidentical to
+various indicated times. HRG was then decanted from the the sequence derived from cDNA.' In Western blot analysis,
+microtitre plates, and the cell layers were washed twice with rabbit antisera against human serum HRGcross-reacted with
+RPMI-1640 medium prior to adding EA cells. Alternatively, mouse-purified serum HRG (data not shown). The purified
+HRGwasallowed toremain inthemedium forcontinuousco- HRGwasnotcontaminatedwithbacteriallipopolysaccharides
+incubation with EAcells. Binding and/orphagocytosis ofEor (<0-01 ng/ml) asconfirmed by the limulus amoebocyteassay.
+--- Page 3 ---
+534 N.-S. Chang et al.
+901(a) 47-*
+70
+7 x 02 60- **
+50-
+-S
+a 40-
+30-
+20-
+10-
+_0
+1/2000 1/3000 1/4000 1/5000
+E
+0co (b) 601(b)
+CQl
+1i 008
+50
+. 0 X0~ 0 0 0 0 0 0 2 4 6 I.Ik,- m aCI \5M a~ 1 NaCI - X x a S 40 I *
+-0 0*00
+5 10 15 20 25 t30-
+Fractionnumber
+*M 20
+10
+--
+-1
+E
+E 1/2000 1/3000 1/4000 1/5000
+EAconjugates(Abdilutions)
+.5
+0 Figure 2. Effect of mouse HRG on macrophage phagocytosis. Oil-
+elicited mouse peritoneal inflammatory macrophages were pretreated
+0
+0 with(U)orwithout(-)HRG(125ng/ml)for1hrpriortoexposurefor1
+hrat37°toerythrocytesconjugatedwithvariousdilutionsofpolyclonal
+IgG(EA; IgG 1/2000, 1/3000, 1/4000, and 1/5000dilutions). Eachbar
+Fractionnumber represents the mean+standard deviation obtained from four experi-
+Figure1.IsolationofHRGfromhumancitratedplasma.Onehundred ments (experimental number, n= 4). Indices were derived from the
+millilitresofplasmawasappliedtoaConA-Sepharose4Bcolumnand absolutevalues(ODat405nm)(seeMaterialsandMethods).(a) 0/i total
+theboundproteinswereelutedusing20X% 7-methyl-mannopyranoside(a, index (binding and phagocytosis); (b) % phagocytic index. Absolute
+see arrow). The collected fractions were pooled and loaded onto a values for the control groups (without HRG treatment) in: (a) EIgG
+heparin-agarose column, which was then washed with 05 M NaCl 1/2000, 0256+0005; EIgG 1/3000, 0-164+0004; EIgG 1/4000,
+beforeHRGwaselutedusing
+1 M
+NaCl(b,seearrow).Subsequently,the 0 114+0003; EIgG 1/5000, 0-101+±0004; E, 0061+0-002; (b) EIgG
+HRG protein pool was chromatographed on a DEAE-Sephacel 1/2000, 0-088+0-006; EIgG 1/3000, 0-069+0-002; EIgG 1/4000,
+column, and a 00-05 M NaCl linear gradiant was used for eluting 0-061+00001; EIgG 1/5000, 0-060+0-001; E, 0053+0002. P-values:
+boundproteins(c). PurifiedHRGwasobtainedatanionicstrengthof experiments versus controls with Student's t-tests: *P>005;
+approximately5-0-10-0mmho[seefractionno. l(c)].Minoramountsof **0-01<P<0.05; ***0-001<P<0-01; **** P<0-001.
+HRG together with other proteins bound to the column were eluted
+usingrelativehigh salt[see fractionnos. 2and3(c)].
+rophages for longer than 8 hr. Figure 3a shows a significant
+reduction (P<0001) of macrophage FcyR-mediated phago-
+Regulation of macrophage FcyR-mediated binding and phago- cytosis of EA conjugates prepared with various antibody
+cytosis dilutions when macrophages were treated with HRG (125 ng/
+When the freshly harvested inflammatory peritoneal macro- ml) for20 hrat 37°. In addition, by treatingmacrophages with
+phageswerepretreatedwithmouseHRG(125ng/ml)for hrat 62 5-1000ng/mlHRGfor24hr, macrophageslosttheirability
+370 prior to co-incubation with EA, there were increases in tophagocytose EAinadose-related manner(Fig. 3b). Binding
+FcyR-mediated binding and phagocytosis (Fig. 2). Using Stu- ofEAconjugates tothe24-hrHRG-treatedmacrophagesat40
+dent's t-tests, the increases in EA binding and phagocytosis for 1 hralsorevealedadose-dependentreductionofEAbinding
+differed significantly from the controls (Fig. 2), except with E compared to the untreated control macrophages (Fig. 3b).
+that hadbeenconjugatedwithlowsaturatingdilutionsofIgG. Similar results were obtained when testing the EA binding at
+Further enhancement ofphagocytosis by HRG was observed 370. Pretreatment ofmacrophages for 1 or 24 hr at 37° with
+after 2 hr pretreatment (data not shown). Removal of HRG HRG, followed by removing HRG and continued culture in
+from theculture after 1-2 hrpretreatment prior to adding EA serum-freeconditionsforanadditional 24hr, also resultedina
+also resulted in phagocytic enhancement. However, pretreat- reduction ofFcyR-mediated phagocytosis.
+mentofmacrophageswthHRGat40 for 1-2hrfollowedbyco- Although the experimental conditions were performed
+incubationwithEAfor
+1
+hrat37°didnotresultinincreasesof under serum-free conditions, macrophages did not appear to
+EA binding and phagocytosis. lose viabilityduring 24-48 hrinculture asdetermined by5'Cr-
+The HRG-mediated enhancement of EA binding and releaseassays(datanotshown).Notably,inthepresenceof10%
+phagocytosis was only a transient phenomenon. Reduction of foetal bovine serum (FBS), exogenousHRGwasalso found to
+FcyR-mediated phagocytosis was observed after treating mac- reduce macrophage phagocytic functions after 18-24 hr treat-

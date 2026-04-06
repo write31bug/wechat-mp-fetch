@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<style>
+* { margin: 0; padding: 0; }
+body {
+  width: 1536px;
+  height: 1536px;
+  background: url('p02_bg.png') no-repeat center center;
+  background-size: cover;
+  font-family: "Microsoft YaHei", "PingFang SC", Arial, sans-serif;
+  position: relative;
+}
+.overlay {
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(0,0,0,0.35);
+}
+.content {
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 50px 50px;
+}
+/* 4 panel timeline */
+.timeline {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 16px;
+  flex: 1;
+}
+.panel {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+.time-label {
+  font-size: 22px;
+  font-weight: 900;
+  color: #fff;
+  background: rgba(255,107,0,0.85);
+  padding: 6px 20px;
+  border-radius: 20px;
+  margin-bottom: 12px;
+  letter-spacing: 2px;
+}
+.scene-desc {
+  font-size: 18px;
+  color: rgba(255,255,255,0.9);
+  text-align: center;
+  background: rgba(0,0,0,0.5);
+  padding: 8px 16px;
+  border-radius: 10px;
+  letter-spacing: 1px;
+  text-shadow: 0 1px 4px rgba(0,0,0,0.8);
+}
+.coffee-dots {
+  font-size: 16px;
+  color: #ff8c00;
+  margin-top: 6px;
+}
+/* Bottom title */
+.bottom-title {
+  text-align: center;
+}
+.chapter-title {
+  font-size: 52px;
+  font-weight: 900;
+  color: #ff6b00;
+  letter-spacing: 6px;
+  text-shadow: 0 4px 20px rgba(255,107,0,0.6), 0 2px 8px rgba(0,0,0,0.8);
+}
+.chapter-sub {
+  font-size: 28px;
+  font-weight: 700;
+  color: #fff;
+  letter-spacing: 4px;
+  margin-top: 6px;
+  text-shadow: 0 3px 12px rgba(0,0,0,0.9);
+}
+</style>
+</head>
+<body>
+<div class="overlay"></div>
+<div class="content">
+  <div class="timeline">
+    <div class="panel">
+      <div class="time-label">早上</div>
+      <div class="scene-desc">问了一个问题</div>
+      <div class="coffee-dots">☕</div>
+    </div>
+    <div class="panel">
+      <div class="time-label">下午</div>
+      <div class="scene-desc">又问了三个问题</div>
+      <div class="coffee-dots">☕☕</div>
+    </div>
+    <div class="panel">
+      <div class="time-label">晚上</div>
+      <div class="scene-desc">问了一个接一个</div>
+      <div class="coffee-dots">☕☕☕</div>
+    </div>
+    <div class="panel">
+      <div class="time-label">凌晨2点</div>
+      <div class="scene-desc">还在问，停不下来</div>
+      <div class="coffee-dots">☕☕☕☕☕</div>
+    </div>
+  </div>
+  <div class="bottom-title">
+    <div class="chapter-title">第二幕</div>
+    <div class="chapter-sub">上 钩</div>
+  </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,493 @@
+
+--- Page 1 ---
+Article
+Histidine-rich glycoprotein modulates
+neutrophils and thrombolysis-associated
+hemorrhagic transformation
+Wei Jiang 1,6, Yuexin Zhao 1,6, Rongrong Liu 1,6, Bohao Zhang2, Yuhan Xie3, Bin Gao4, Kaibin Shi4,
+Ming Zou1, Dongmei Jia1, Jiayue Ding1, Xiaowei Hu1, Yanli Duan1, Ranran Han1, DeRen Huang1,
+✉
+Luc Van Kaer 5 & Fu-Dong Shi 1,4
+Abstract Introduction
+Intravenous thrombolysis using recombinant tissue plasminogen Stroke is the second leading cause of death worldwide. Acute
+activator (tPA) remains the primary treatment for patients with ischemic stroke (AIS) constitutes ~70% of all strokes and is
+acute ischemic stroke (AIS). However, the mechanism of tPA- characterized by high disability and mortality rates and, conse-
+related hemorrhagic transformation (HT) remains poorly under- quently, a substantial economic burden (2021, Wang et al, 2017).
+stood. Elevation of histidine-rich glycoprotein (HRG) expression Intravenous thrombolysis is the primary approach for the
+was detected by nano-liquid chromatography tandem mass spec- treatment of AIS, and recombinant tissue plasminogen activator
+trometryat1hfollowingtPAinfusionascomparedtobaselineprior (tPA),whichiscommerciallyavailableasalteplase,iscurrentlythe
+totPAinfusion(discoverycohort,n=10),whichwassubsequently only FDA-approved thrombolytic agent (Powers et al, 2019).
+confirmedinavalidationcohort(n=157)byELISA.Surprisingly,no Althoughnew treatmentstrategies aimedatimprovingrecanaliza-
+elevation of HRG was detected in individuals who subsequently tion are under development, tPA administration within 4.5h of
+developed HT. During in vitro experiments, HRG reduced neu- symptomonsetremainstheprimaryapproachforearlyreperfusion
+trophil NETosis, inflammatory cytokine production, and migration therapy (Powers et al, 2019; Tsivgoulis et al, 2023). Despite its
+across the blood–brain barrier induced by tPA. In a photo- efficacy, the therapeutic time window of tPA is limited to 4.5h,
+thromboticmurineAISmodel,HRGadministrationamelioratedHT after which tPA administration causes heightened frequency of
+with delayed thrombolysis, by inhibiting neutrophil immune infil- hemorrhagic transformation (HT). Delayed tPA treatment is
+tration and downregulating pro-inflammatory signaling pathways. associated not only with poor functional recovery but also with
+Neutrophil depletion or NETosis inhibition also alleviated HT, high rates of HT, so that only a small portion of AIS patients are
+whereas HRG siRNA treatment exacerbated HT. In conclusion, eligibleforandbenefitfromearlythrombolysis(Hackeetal,1995).
+fluctuations in HRG levels may reflect tPA therapy and its asso- Currently, less than 5% of patients with AIS benefit from early
+ciated HT. The inhibitory effect ofHRG on neutrophils may coun- thrombolysis in clinical practice (Thiebaut et al, 2018).
+teract tPA-induced immune abnormalities and HT in patients The pathophysiology of tPA-related HT remains to be defined,
+withAIS. which might involve ischemic injury, consumptive coagulopathy,
+reperfusion injury, and disruption of the blood–brain barrier (BBB)
+Keywords tPA;Histidine-richGlycoprotein;HemorrhagicTransformation; (Yaghi et al, 2014). Our previous study revealed that immune cell
+IschemicStroke;Neutrophil mobilization contributes to the exacerbation of HT and edema
+SubjectCategoriesImmunology;Neuroscience followingthrombolysis(Shietal,2021).Neutrophilmobilizationcan
+https://doi.org/10.1038/s44321-024-00117-y be observed as early as 1h after completion of tPA infusion, likely
+Received7January2024;Revised18July2024; throughthetPAreceptorsexpressedbythesecells(Shietal,2021).
+Accepted29July2024 The immune and coagulation systems interact and respond to
+Published online: 15August 2024 each other through several linked components (Delvaeye and
+Conway, 2009). Administration of tPA induces a coagulative/
+fibrinolytic cascade with potential long-lasting effects on the
+immunesystemratherthantransient,directtPA-mediatedimmune
+cellinteractions,whichinturnaffectsthethrombolyticoutcomein
+1DepartmentofNeurology,TianjinNeurologicalInstitute,TianjinMedicalUniversityGeneralHospital,Tianjin300052,China.2DepartmentofRadiology,TheThirdAffiliated
+HospitalofZhengzhouUniversity,Zhengzhou450052Henan,China.3DepartmentofNeurology,TianjinNanKaiHospital,Tianjin300102,China.4CenterforNeurological
+Diseases,ChinaNationalClinicalResearchCenterforNeurologicalDiseases,BeijingTiantanHospital,CapitalMedicalUniversity,Beijing100070,China.5Departmentof
+Pathology,MicrobiologyandImmunology,VanderbiltUniversitySchoolofMedicine,Nashville,TN37232,USA.6Theseauthorscontributedequally:WeiJiang,YuexinZhao,
+RongrongLiu. ✉E-mail:fshi@tmu.edu.cn
+:,;)(0987654321
+2146 EMBOMolecularMedicineVolume16|September2024|2146–2169 ©TheAuthor(s)
+--- Page 2 ---
+WeiJiangetal EMBOMolecularMedicine
+afeedbackloop.Thehalf-lifeoftPAis4min,whichindicates>80% widely reported to increase after ischemic stroke and are produced
+clearance within 10min (Gillis et al, 1995; Matosevic et al, 2013). afterthrombolysis(Leeetal,2020;TsurupaandMedved,2001).CPB2
+Despiteitsshorthalf-lifeinthe bloodstream,effectsoftPAonthe participates in the downregulation of fibrinolysis by removing the
+coagulation system persist for more than 24h after infusion C-terminallysineresiduesfromfibrin,whichispartiallydegradedby
+(Matosevic et al, 2013). Thus, we speculated that the coagulative/ plasmin(Maoetal,1999).
+fibrinolytic cascade induced by tPA administration might have Next,we performed PPInetwork analysisoftheaboveidentified
+sustaining effects on immune modulation. However, the role of DEPs usingthe STRING database. After removingproteins with no
+fibrinolysis/coagulation-related products induced by tPA in identifiedsymbolname,49nodesand196edgeswereinvolvedinthe
+immune modulation and HT remains unknown. PPInetwork(Fig.EV1A1).Thetop20hubDEPsidentifiedusingthe
+In this study, high-throughput proteomic technology was CytoHubba plugin included ACTB, FN1, CFL1, ACTA2, RHOA,
+employed for protein screening to determine tPA-induced protein TAGLN,YWHAZ,THBS1,HSP90AB1,TUBA1C,TUBA1B,TUBB,
+variations in the plasma of patients with AIS, which revealed KNG1,ITIH4,TAGLN,MYL6,FGA,FGG,HRG,TPM4,andF5(Fig.
+inductionofhistidine-richglycoprotein(HRG).AlthoughHRGcan EV1B).TheMCODEplugindistinguishedtwoclusternetworks,one
+play multifaceted functions in coagulation/fibrinolysis processes of which was mainly related to fibrinolysis and inflammatory
+and infectious diseases (MacQuarrie et al, 2011; Malik et al, 2023; responses.Sevenofthetop20hubgenes,namelyHRG,FGG,FGA,
+Nishiborietal,2018;Shigekiyoetal,1998;Vuetal,2015),itseffect F5, KNG1, THBS1, and ITIH4 were included in the cluster (Fig.
+during thrombolysis is unclear. We sought to explore the role of EV1C,D).HRGappearedasacentralnodeintheinteractionnetwork
+HRG in the innate immune system and HT following intravenous connectingproteinsrelatedtofibrinolyticandinflammatoryprocesses.
+thrombolysis with tPA. Therefore, we sought to elucidate the role of HRG increments
+followingtPAtreatmentinpatientswithAIS.
+Results HRG production following tPA treatment is not elevated
+in individuals with HT
+Proteomic analysis of differentially expressed proteins
+(DEPs) reveals a significant elevation of HRG after Elevated HRG levels in plasma were detected at 1h after
+tPA treatment thrombolysis by LC-MS in our discovery cohort. We sought
+confirmation in another cohort of patients with AIS. In addition,
+Ten patients (4 women, 6 men; average age of 64.4 years) with AIS whether the increased levels of HRG were induced by tPA
+who underwent tPA treatment were included in the proteomic treatment or by the progression of AIS remained unclear. To
+profiling analysis. All patients received tPA treatment within the further clarify this issue, patients with AIS, with or without tPA
+thrombolytic time window of 4.5h. Subsequently, two patients treatment, and healthy controls (HC) were included in this study.
+developed HT with no symptomaticexacerbation. The basicclinical Paired blood samples were collected prior to the initiation and at
+dataofthesepatientsarepresentedinTableEV1.Bloodsampleswere 1hafterthecompletionof tPA infusion. Patientswhodeclinedor
+collectedfromeachpatientpriortotheinitiationoftPAinfusionand were not eligible for thrombolysis were recruited into a (AIS w/o
+at 1h after completion of tPA treatment. We performed high- tPA) group, andblood samples from these patients were drawn at
+throughput MS-based proteomics using a DIA strategy for plasma 3.5±0.5h and 6.5±0.5h post stroke symptom onset. The clinical
+proteomeprofiling.Atotalof22,274peptidesand4602proteinswere features of the patients are presented in Table 1. Detailed
+identifiedandquantifiedinthesamples.Sincesampleswerecollected information on these individuals from the validation cohort is
+before and after treatment from every patient, paired comparisons presented in Tables EV2–5. Again, HRG levels were significantly
+were made based on proteomic quantification. The DEPs were elevated in the tPA-treated group at 1h post-tPA infusion;
+identifiedanddefinedasafoldchange>1.5andQ-value<0.05.Atotal however, no significant changes in HRG levels were observed in
+of 119 DEPs were identified, including 84 upregulated and 35 theAISgroupwhoreceivednotPAtreatment,andinsteadreceived
+downregulated proteins, as shown in Fig. 1A. DEPs were analyzed antiplatelet treatment (Fig. 2A). This implies that the increase in
+usingKEGGclassificationandwerefoundtoparticipatemainlyinthe plasmaHRGcanbespecificallyattributedtotPAtreatment,rather
+immunesystem(Fig.1B).KEGGpathwayanalysisfurthershowedthat than to the progression of stroke. To further investigate the
+DEPsweresignificantlyenrichedinpathogenicinfection,gapjunction, potential role of HRG elevation following thrombolysis, we
+plateletactivation,complementandcoagulationcascade,andTGF-β examined the relationship between the increase in HRG levels at
+signaling(Fig.1C).GOenrichmentanalysisindicatedthattheDEPs 1h post-tPA infusion and subsequent occurrence of HT or post-
+were significantly enriched in proteins involved in certain biological strokeinfection.Wefoundacorrelationbetweenlackofincreasein
+processes, including the mitotic cell cycle, microtubule-based HRG levels at 1h following tPA infusion and HT within 24h of
+processes, negative regulation ofendothelial cell chemotaxis, platelet tPA treatment (Fig. 2B). Lower levels of HRG at 1h after tPA
+activation,andfibrinolysis(Fig.1D).Thus,KEGGandGOenrichment treatmentpredictincreasedrisksofHT(Fig.2C).Nodifferencesin
+analysesofDEPsindicatedthattPAinducescoagulative,fibrinolytic, HRG levels were observed between patients who did or did not
+immune, and vascular/endothelial responses following tPA infusion. developpost-strokeinfections(Fig.2D).ElevationofplasmaHRG
+The top 20 most significantly upregulated proteins were identified levelimmediatelyfollowingintravenoustPAtreatmentwasfurther
+based on −log10-transformed Q-values (Fig. 1E). The fold-change observed in a murine model of AIS (Appendix Fig. S1). Together
+rankingsoftheproteinsarepresentedinFig.1F.HRG,plasminogen withourfindingsinLS-MSanalyses,theseresultssuggestthatHRG
+(PLG), Fibrinogen alpha chain (FGA) and CPB2 were among the production following tPA infusion may exert a protective role by
+proteinsthatwereincreaseddrastically.PLGandFGAlevelshavebeen reducing the risk of tPA-associated HT.
+©TheAuthor(s) EMBOMolecularMedicineVolume16|September2024|2146–2169 2147
+--- Page 3 ---
+EMBOMolecularMedicine WeiJiangetal
+Figure1. Identificationofdifferentiallyexpressedproteinsinplasmaofpatientsfollowingrecombinanttissueplasminogenactivator(tPA)treatment.
+(A)Proteinprofilesfromthepairedplasmasamplesatbaselineand1haftertPAtreatmentweredetectedbythedata-independentacquisition(DIA)mode(n=10).A
+totalof119DEPswereidentified(foldchange>1.5andQ-value<0.05),including84significantlyupregulatedproteinsand35significantlydownregulatedproteins.
+Volcanoplotshowingthesignificancevs.foldchangebeforeandaftertPAtreatment.TheX-axisrepresentsproteindifference(log2-transformedfoldchanges),andthe
+Y-axisrepresentsthe−log10-transformedQ-values(adjustedp-values).Reddotsindicatesignificantlyupregulatedproteins,greendotsindicatesignificantly
+downregulatedproteins,andgraydotssymbolizeproteinswithnosignificantchange.(B)TheDEPswereanalyzedbyKEGGclassificationinindividualsaftervs.beforetPA
+treatment.(C)BubbleplotofKEGGpathwayanalysisofDEPs.Richratiorepresentstheratioofthenumberoftargetproteinsvs.allproteinsincludedineachpathway.Dot
+sizerepresentsthenumberofenrichedproteins.ThecolorofthedotrepresentsthesizeoftheQ-value.(D)BubbleplotofGOenrichmentanalysisofDEPs.Dotsize
+representsthenumberofenrichedproteins.ThecolorofthedotrepresentsthesizeoftheQ-value.(E)Thetop20mostsignificantlyincreasedDEPsareshownbasedon
+the−log10-transformedQ-values.(F)ThefoldchangeoftheDEPsinindividualsaftervs.beforetPAtreatment,rankedaccordingtothelog2-transformedfoldchange.
+2148 EMBOMolecularMedicineVolume16|September2024|2146–2169 ©TheAuthor(s)
+--- Page 4 ---
+WeiJiangetal EMBOMolecularMedicine
+HRG maintains neutrophil viability after tPA Table1. DemographiccharacteristicsofAISpatientsinthevalidation
+stimulation in vitro cohort.
+Strokepatients Strokepatients
+To investigate the role and mechanism of HRG in immune Healthy withouttPA withtPA
+modulation, we focused on peripheral blood cells and cytokines in control treatment treatment
+(n=53) (n=42) (n=62) P
+thepresenceoftPA.Mononuclearcellsandneutrophilswereisolated
+fromhumanperipheralbloodandtreatedwithvariousconcentrations Age(years) 66.0±9.4 68.3±11.7 65.5±9.6 ns
+of tPA. After an 18-h incubation period, the cells were stained with Sex,female(%) 30.2 33.3 27.4 ns
+calcein-AMandHoechst33342,andcellviabilitywasexaminedand
+Riskfactors
+quantified by fluorescence microscopy (Fig. 3A). The results
+Cardiovascular 22.6 14.3 19.4 ns
+demonstratedthattherateofneutrophilviabilitydecreasedfollowing
+disease(%)
+tPAstimulation,withahigherconcentrationoftPAcorrespondingto
+Hepertension 66.0 59.5 59.7 ns
+a greater decrease in cell viability (Fig. 3B). In addition, the overall
+(%)
+neutrophil viability decreased gradually with prolonged incubation
+time (Appendix Fig. S2). However, the viability rate of the mono- Diabetes(%) 35.8 33.3 27.4 ns
+nuclearcellsdidnotchangeinresponsetotPAtreatment(Appendix Atrialfibrillation 11.3 16.7 17.7 ns
+Fig. S3). Different concentrations of HRG were added to the (%)
+neutrophil cultures treated with 10μg/ml tPA (Fig. 3C,D). Interest- Smoking(%) 47.2 50.0 53.2 ns
+ingly, co-treatment with HRG resulted in reversal of tPA-related
+Drinking(%) 47.2 52.4 43.5 ns
+neutrophil viability in a dose-dependent pattern, with higher
+NIHSSscore / 5.5±4.8 7.0±5.7 ns
+concentrationsofHRGexhibitingamorepronouncedimprovement
+in cell viability (Fig. 3D,E). In addition, the decreased neutrophil Timeofonset(h) / 3.0±0.8 3.2±0.8 ns
+viabilityduringprolongedincubationtimeswasalsoreversedbyHRG Hemorrhagictransformation
+treatment(AppendixFig.S2).TheseresultssuggestthatinAIS,tPA
+No(%) / 97.6 88.7 ns
+mayhaveapronouncedimpactonneutrophilfunctionandsurvivalas
+Yes(%) / 2.4 11.3 ns
+comparedtomononuclearcells,whereasHRGmayhaveaprotective
+effectonmaintainingneutrophilsurvivalinthepresenceoftPA.
+stimulated neutrophils (Fig. EV2B). Furthermore, NET formation
+HRG reduces tPA-related NETosis through CLEC1B and wasevaluatedintheanti-CLEC1Aandanti-CLEC1BAbtreatment
+inhibiting excessive inflammatory responses groups (Fig. EV2C). We found that the decreased NET formation
+in neutrophils inresponsetoHRGtreatmentwasreversedintheanti-CLEC1BAb
+treatment group, but not the anti-CLEC1A Ab treatment group
+Neutrophil cell death is primarily induced by exogenous stimuli (Fig.EV2D–F).Therefore,theaboveresultsindicatedthatCLEC1B
+thatresultininflammatoryexhaustion,referredtoasNETosis.To might play an essential role in mediating the protective effect of
+furtherinvestigatetheeffectsofHRGandtPAonneutrophils,cells HRG towards neutrophil NETosis.
+were stimulated with tPA for 2.5h in vitro, and followed by
+immunofluorescence co-staining with anti-H3Cit, anti-MPO, and HRG inhibits neutrophil F-actin polymerization and
+DAPI.NETformationbyneutrophilswasobservedandquantified migration across the BBB in vitro
+usingfluorescencemicroscopy,withLPSaddedasapositivecontrol
+(Fig. 4A). Our findings revealed a significant increase in NETosis Neutrophilinfiltrationintothecentralnervoussystemiscrucialfor
+following tPA stimulation. Addition of HRG resulted in a sharp the progression of AIS following thrombolysis. Thus, we investi-
+decrease in NETosis (Fig. 4A–D). Supernatants from the culture gated the effects of tPA and HRG on neutrophil migration.
+system were collectedto measure the concentrations of inflamma- Neutrophils isolated from human peripheral blood were co-
+torycytokines.HRG inhibitedtheproductionofTNF-α,IL-8,and cultured with tPA for 2.5h, and F-actin polymerization was
+ROS levels induced by tPA treatment (Fig. 4E–G). These results determinedbyphalloidinstainingunderafluorescencemicroscope
+demonstrated that tPA treatment activates neutrophil inflamma- (Fig. 5A). A significant increase in F-actin polymerization was
+toryresponses,whereasHRGadministrationreducestheexcessive observed with tPA treatment. However, polymerization was
+activation of neutrophils and NETosis after tPA treatment and significantly reversed in the presence of HRG (Fig. 5B). These
+inhibits the release of ROS and inflammatory cytokines. findings suggest that tPA induces cytoskeletal deformation in
+HRG has been reported to bind to various components and neutrophils, rendering them more susceptible to migration, and
+receptorsincludingtheC-typelectinreceptorsCLEC1A(Gaoetal, that this deformation can be inhibited by HRG. Furthermore, we
+2020;Takahashietal,2021)andCLEC1B(Nishimuraetal,2019). simulated the BBB in vitro by coating Transwell chambers with
+Thus, to identify the specific receptors on neutrophils engaged by hCMEC/D3brainendotheliacellsandsubjectingthemto oxygen-
+HRG, blocking antibodies against CLEC1A and CLEC1B were glucosedeprivationfor4htomimicischemichypoxiainischemic
+added into the tPA-treated neutrophil cultures, with HRG added stroke.Neutrophilspretreatedunderdifferentexperimentalcondi-
+subsequently (Fig. EV2). The decreased mortality rate induced by tions (control, tPA, tPA + 0.1μM HRG, tPA + 0.5μM HRG, or
+HRG was reversed in the anti-CLEC1B Ab but not the anti- tPA + 1μM HRG) for 2.5h were added into the upper chamber.
+CLEC1A Ab treatment group, indicating that CLEC1B might be The percentageofneutrophilmigrationacrossvarioustimepoints
+involved in mediating the protective effects of HRG towards tPA- was assessed (Fig. 5C). HRG significantly inhibited the percentage
+©TheAuthor(s) EMBOMolecularMedicineVolume16|September2024|2146–2169 2149
+--- Page 5 ---
+EMBOMolecularMedicine WeiJiangetal
+Figure2. Validationofincreasedlevelsofhistidine-richglycoprotein(HRG)inplasmafollowingtPAanditsrelevancetoclinicalprognosis.
+(A)53healthyvolunteerswereincludedascontrols.InthetPAuntreatedgroup,plasmasampleswerecollectedat3.5hand6.5hafterstrokeonsetforHRGdetermination
+(n=42).InthetPA-treatedgroup,HRGlevelsweredetectedatbaselineand1haftertPAtreatmentforpairedcomparison(n=62).(B)PatientswithtPAtreatmentwere
+furtherdividedintotwogroupsbasedonthecomplicationofhemorrhagictransformation(HT):HT(n=7),non-HT(n=55).ThelevelsofHRGelevationafter
+thrombolysiswerecomparedbetweenthetwogroups.(C)TheReceiveroperatingcurve(ROC)analysisofHRGforpredictionofHTinpatientsfollowingtPAtreatment
+wasshown.Theareaunderthecurve(AUC)inROCcurveanalysiswas0.7506.(D)PatientswithtPAtreatmentwerefurtherdividedintotwogroupsbasedonthe
+complicationofpost-strokeinfection:infection(n=9),andnon-infection(n=53).ThelevelsofHRGelevationafterthrombolysiswerecomparedbetweenthetwo
+groups.Datainformation:Dataarepresentedasmean±SEM;two-tailedpairedStudent’sttest(3.5hand6.5h;beforeandafter)andTwoIndependent-Samplesttest
+(HCandStroke;HCandtPA;StrokeandtPA)areusedin(A).Two-tailedMann–WhitneyU-testisusedin(B,D).
+of migrated neutrophils at 2h, 4h, and 8h after loading Compared with the early tPA treatment group, the delayed tPA
+(Fig. 5D–F). In addition, the speed of neutrophil migration treatment group displayed worse HT. A marked reduction in
+(percentage of migrated cells within a specific time window) was hemorrhagic volume was observed with the addition of HRG
+highest within the first 2h in the transwell assay, and decreased (Fig. 6E). The hemoglobin concentration in the HRG treatment
+gradually at 2–4h and even more profoundly at 4–8h. The group was much lower than that in the group without HRG
+inhibitory effect of HRG on the neutrophil migration rate was treatment at 5h post stroke onset (Fig. 6F). Finally, the extent of
+obvious within the first 2h of culture, a time frame likely optimal neutrophil infiltration in the lesions of each group was assessed
+for evaluating the migration of viable and motile neutrophils using immunofluorescence staining, which revealed a significant
+(Fig. 5G,H). These results indicated that HRG reduces the increase in neutrophil infiltration after tPA treatment that was
+migratory capacity of neutrophils to cross the BBB in vitro. reversedbytheadditionofHRG(Fig.6G,H).Therefore,HRGmay
+reduce tPA-associated HT by inhibiting neutrophil infiltration.
+HRGreducestPA-relatedHTbyinhibitingtheinfiltration
+We used siRNA for depletion of endogenous HRG and
+of neutrophils in a murine acute ischemic stroke model investigated its effect on HT. HRG siRNA treatment efficiently
+reducedHRGmRNAexpressioninAML12hepatocytecellsinvitro
+To further investigate the role of HRG in vivo, we designed an (Appendix Fig. S4A). In addition, HRG siRNA treatment reduced
+experiment using a murine AIS model as in Fig. 6A. Briefly, a the expression of HRG mRNA in liver (Appendix Fig. S4B) and
+model of photothrombotic middle cerebral artery occlusion rapidly reduced plasma HRG levels in vivo (Appendix Fig. S4C).
+(MCAO)wasestablishedinC57BL/6mice,withtPAadministered Next, we treated mice with HRG siRNA, induced MCAO, and
+separately at 1h and 5h, corresponding to early and delayed performed delayed tPA treatment. We found that neutrophil
+thrombolysis. The HRG levels in MCAO, MCAO + tPA(1h) and infiltration, HT and neurological deficits were exacerbated in the
+MCAO + tPA(5h) were determined, which showed a significant siRNA treatment group. However, neutrophil depletion (anti-
+increase at 1h after tPA treatment that were maintained at high Ly6G) or NETosis inhibition (DNase I) rescued HRG’s protective
+levelsuntil5hpost-strokeonsetfollowedbyagradualdecreaseto effectinvivo,withreducedneurologicaldeficitsandHT(Fig.EV3).
+normal levels at 24h. Delayed initiation of HRG induction was These findings suggested that the protective effect of HRG on HT
+found in the MCAO + tPA(5h) group, which reached high HRG was mediated by inhibiting neutrophils and NETosis.
+levels at 2h after tPA treatment (Fig. EV2). Thus, HRG
+supplementation was administered in combination with delayed HRG inhibits neutrophil activation by downregulating
+thrombolysistoevaluateitseffectsinvivo.Twenty-fourhoursafter pro-inflammatory signaling pathways
+stroke onset, the Bederson neurological score, rotarod test, and
+corner test were performed to evaluate sensorimotor functions of To elucidate the potential mechanism of action of HRG on
+the mice, which revealed that early tPA treatment (at 1h) neutrophilactivity,wefurtheranalyzedthegeneexpressionprofiles
+effectively improved the neurological function of mice 24h after of tPA- and tPA + HRG-treated neutrophils using RNA
+stroke.However,nobenefitswereobservedinthemicetreatedwith sequencing and proteomic profiling. Neutrophils were isolated for
+tPAat 5hafterthe onsetofstroke.Interestingly,supplementation cultureandsubsequentsequencing,with>95%purityasidentified
+withHRGincombinationwithdelayedtPAtreatmentsignificantly byFACSanalysis(Fig.EV4A).Intotal,25,403genesweredetected
+improved neurological function (Fig. 6B–D). Mouse brains were inthetPA-treatedvs.controlgroupcomparison.Accordingtothe
+harvested 24h post-stroke after intracardial perfusion with PBS. adjusted p-value (padj) <0.05 and fold change >2, 90 DEGs were
+2150 EMBOMolecularMedicineVolume16|September2024|2146–2169 ©TheAuthor(s)
+--- Page 6 ---
+WeiJiangetal EMBOMolecularMedicine
+Figure3. HRGincreasesthecellviabilityofpurifiedhumanneutrophilsaftertPAtreatment.
+(A)Theneutrophilswerelabeledwithcalcein-AM(livingcell,green)andHoechst33342(nuclei,blue).GradedconcentrationsoftPAwereaddedtotheculturesystem
+withLPS(10μg/ml)addedasthepositivecontrol.After18hofculture,theviabilityofneutrophilswasobservedandcalculatedunderafluorescentmicroscope.Typical
+resultsfromfiveindependentexperimentsareshown.Scalebar=20µm.(B)Statisticalanalysisofthecellviabilityisshown(n=12–15).(C)Schematicdiagram
+illustratingtheexperimentaldesign.(D)Theculturesystemwastreatedwith10μg/mltPAanddifferentconcentrationsofHRG(0.05μM,0.1μM,0.25μM,0.5μM,
+1μM),andtheviabilityofneutrophilswasobservedbycalcein-AMstaining.Scalebar=20µm.(E)Theconcentration-responsecurvesoftheeffectsofHRGonneutrophil
+mortalityrate(0μM,n=12;0.05μM,n=13;0.1μM,n=15;0.25μM,n=12;0.5μM,n=14;1μM,n=13).Datainformation:Dataarepresentedasmean±SEM.Two-
+tailedKruskal–WallisHtestisusedin(B,E).Sourcedataareavailableonlineforthisfigure.
+identified, including 83 upregulated and 7 downregulated genes In the tPA + HRG vs. tPA groups, the DEGs primarily
+(Fig.7A).Similarly,25,510genesweredetectedinthetPA+HRG downregulated under HRG treatment were significantly enriched
+vs.tPAgroupcomparison,including80DEGs,with2upregulated in the NF-κB signaling pathway, cytokine–cytokine receptor
+and78downregulatedgenes(Fig.7B).Heatmapclusteringanalysis interaction, and IL-17 signaling pathway (Fig. 7F). In addition,
+wasemployedtoidentifythetop20DEGsbetweenthetwogroups. proteinprofilingofneutrophilsidentifiedatotalof183DEPs(Fig.
+TheresultsshowedsignificantupregulationofIL-1A,CCL3,CCL4, EV4A).KEGGclassificationrevealedthatthedownregulatedDEPs
+andotherpro-inflammatoryfactorsinthetPAgroupcomparedto fromtheHRG treatmentgroupwereenrichedforimmunesystem
+thecontrolgroup(Fig.7C).Conversely,inthetPA+HRGvs.tPA pathways (Fig. EV4B). Furthermore, the KEGG pathway analysis
+groups, there was a notable downregulation of CCL3, CCL4, IL-6, indicated that the downregulated DEPs were enriched in pro-
+and other pro-inflammatory factors (Fig. 7D). Pro-inflammatory inflammatory signaling pathways, which include the NOD
+cytokine expression in neutrophils was mainly upregulated after (nucleotide-binding oligomerization domain)-like receptor signal-
+tPA treatment, whereas it was mostly downregulated after the ing pathway, the transcription factor nuclear factor kappa B (NF-
+addition of HRG. Furthermore, KEGG and GO analyses were κB) signaling pathway, and the interleukin-17 (IL-17) signaling
+employed for functional enrichment and pathway analyses of pathway(Fig.EV4C).Anintegratedanalysisoftranscriptomicand
+DEGs. The DEGs that were mostly upregulated by tPA treatment proteomic data provided a comprehensive overview for the
+were significantly enriched in the NF-κB signaling pathway, along downregulation of neutrophil signaling pathways following HRG
+with the TNF signaling pathway, cytokine–cytokine receptor treatment. The combined analysis indicated that the correlated
+interaction, and other inflammation-related pathways (Fig. 7E). (Cor)-DEGs-DEPs were significantly enriched in the NOD-like
+©TheAuthor(s) EMBOMolecularMedicineVolume16|September2024|2146–2169 2151
+--- Page 7 ---
+EMBOMolecularMedicine WeiJiangetal
+Figure4. HRGreducesNETosisandcytokineproductionofneutrophilsaftertPAstimulation.
+(A)RepresentativeimagesofisolatedperipheralbloodneutrophilstreatedwithtPA(10μg/ml),tPA+HRG(1μM),andLPS(10μg/ml).Neutrophilswereincubatedfor
+2.5handco-stainedwithH3Cit(green),MPO(red),andDAPI(blue).WhitearrowsindicateNETformation.Scalebar=20µm.(B–D)Statisticalanalysisandcomparison
+ofH3Cit,MPO,andNETformationratesindifferentgroups(n=5–8).Theresultsshownarethemean±SEM.(E–G)TheconcentrationofTNF-α(n=10),IL-8(n=11),
+andROS(n=9)inthesupernatantoftheculturesystemwasquantifiedbyELISA.Datainformation:Dataarepresentedasmean±SEM;two-tailedKruskal–WallisHtest
+isusedin(B–G).Sourcedataareavailableonlineforthisfigure.
+Discussion
+receptorsignalingpathway,atbothmRNAandproteinlevels(Fig.
+EV4D). In addition, GO analysis of the DEGs indicated that the
+biological processes enriched in the upregulated genes of tPA vs. In the present study, proteomic analyses identified upregulation of
+control group were related to cellular inflammatory responses, HRGplasmalevelsfollowingintravenoustPAinfusioninpatientswith
+positive regulation of cell migration, and positive regulation of AIS. Elevated HRG levels were further verified using ELISA in a
+leukocyte migration. Meanwhile, the inflammatory response, cell validationcohortofAISpatientswithorwithouttPAtreatment.AIS
+migration, and cell motility were downregulated in the HRG persedidnotinducesignificantchangesinplasmaHRGlevels,and
+treatmentgroup(Fig.EV5A,B).GOanalysisoftheproteomicdata neither did AIS disease progression during the first 6.5h after
+also supported downregulation of chemotaxis and immune symptom onset. To our surprise, insufficient HRG increases at 1h
+responses following HRG treatment (Fig. EV5C). These findings post-tPA infusion correlated with increased risk of developing HT
+indicate that HRG exerts an anti-inflammatory effect on tPA- within 24h of tPA treatment, which appears unexpected based on
+induced neutrophil activation, affecting the inflammatory previousreportsregardingitsphysio-pathologicalroleinthrombosis
+responses and cell migration, most likely by regulating NOD-like (Malik et al, 2021; Shigekiyo et al, 1998; Vu et al, 2015). In vitro
+receptor signaling and downstream NF-κB activation. experimentsdemonstratedthatHRGcaneffectivelyreduceneutrophil
+2152 EMBOMolecularMedicineVolume16|September2024|2146–2169 ©TheAuthor(s)
+--- Page 8 ---
+WeiJiangetal EMBOMolecularMedicine
+Figure5. HRGinhibitsneutrophilpolymerizationofF-actinandmigrationacrosstheBBBinvitro.
+(A)ThepolymerizationofF-actininneutrophilswasobservedunderafluorescentmicroscopebystainingwithphalloidin(cytoskeleton,green)andHoechst33342(nuclei,
+blue).Thecellswereobservedat2.5hafterstimulationwithtPA(10μg/ml),tPA(10μg/ml)+HRG(0.5μM),andLPS(10μg/ml).Scalebar=20µm.(B)Quantitative
+analysisofF-actinimmunofluorescenceintensityunderdifferentconditions(n=6–8).(C)Schematicdiagramillustratingtheexperimentaldesign.Transwellmembrane
+insertswerecoatedwithcollagenIVandfibronectin,andhCMEC/D3cellswereseededontothemfollowedby4hofhypoxia-glucosedeprivation.Neutrophilspretreated
+withdifferentfactors(tPA:10μg/ml,HRG:0.1μM,HRG:0.5μM,andHRG:1μM)for2hwereaddedtotheupperchamber.After2h(D)(n=8),4h(E)(n=7–8),and
+8h(F)(n=7–8)ofculture,thenumberofneutrophilsinthelowerchamberwascounted.Migrationpercentage=thenumberofneutrophilsinthelowerchamber/the
+totalnumberofneutrophilsaddedtotheupperchamber.(G)Thelinegraphsummarizesthemigratedpercentageofneutrophilsat2h,4h,and8h(n=6–8).(H)The
+averagemigrationrateofneutrophilsduringthe0–2h,2–4h,and4–8hofthetranswellassay.Datainformation:Dataarepresentedasmean±SEM;two-tailed
+Kruskal–WallisHtestisusedin(B,D–F).Sourcedataareavailableonlineforthisfigure.
+mortalityrate,inhibittheirabilitytocrosstheBBB,suppressNETosis andpromotestheconversionofplasminogenintoplasmin(Collenand
+and ROS, and decrease the release of inflammatory factors such as Lijnen, 1991). Accordingly, tPA achieves fibrinolysis by converting
+TNF-α and IL-8. Administration of HRG ameliorated delayed inactivefibrin-boundplasminogenintoplasmin,whichinturnbreaks
+thrombolysis induced HT in MCAO mice treated with tPA at 5h downfibrinintosplitproducts.Anearlyincreaseinfibrindegradation
+post stroke onset, suggesting that HRG can reduce the risk of tPA- products has been reported to be associated with a substantially
+relatedHTandmayextendthetimewindowfortPAadministrationin increasedriskofHTandhematomaexpansion(Trouillasetal,2004).
+AIS.TheseresultsindicatethatplasmaHRGlevelsplayakeyrolein In addition, the administration of tPA further enhances neuroin-
+fine-tuningimmuneandthrombolytichomeostasis. flammationfollowingischemicstroke,resultinginBBBdisruptionand
+The mechanism of tPA-associated HT is complex. Tissue allowing infiltration of peripheral immune cells into the brain (Liu
+plasminogen activator is secreted endogenously by endothelial cells et al, 2023; Ma et al, 2021; Shi et al, 2021; Zubair and Sheth, 2023).
+©TheAuthor(s) EMBOMolecularMedicineVolume16|September2024|2146–2169 2153
+--- Page 9 ---
+EMBOMolecularMedicine WeiJiangetal
+Figure6. HRGalleviateshemorrhagictransformationandneutrophilinfiltrationintPA-treatedMCAOmice.
+(A)Flowchartillustratingtheexperimentaldesign.AnanimalmodelofphotothromboticMCAOwasperformed,withbloodcollectedat1hand5hforHRGdetermination.
+Inaddition,tPAwasadministeredseparatelyat1hand5h,indicatingearlyanddelayedthrombolysis.HRGincombinationwithtPAwasalsoadministeredat5hafter
+MCAO.Neurologicaldeficit,HT,andneutrophilinfiltrationwereevaluated.(B)NeurologicaldeficitsweremeasuredbyassessingtheBedersonscoreat24hafterstroke
+(n=8).Sensorimotorfunctionwasmeasuredusingtheadhesiveremovaltest(C)(n=8)andcornertest(n=8)(D).(E)Representativeimagesofthedorsalsurfaceand
+acoronalsectionshowingcerebralhemorrhage24hafterstrokeinmicetreatedwithvehicle,tPA(1hafterstroke),tPA(5hafterstroke),ortPA+HRG(5hafterstroke).
+(F)Quantificationofcerebralhemorrhagebyspectrophotometrichemoglobinassay(n=6).(G)Representativeimagesofimmunofluorescencestainingofinfiltrating
+neutrophils(Ly6G,green)inbrainlesions.Scalebar=20µm.(H)ThegraphdepictstheproportionofLy6G-positivecells(n=5–7).Thesamedataarealsopartiallyused
+inFig.EV3B.Datainformation:Theresultsareshownasmean±SEM.Two-tailedKruskal–WallisHtestisusedin(B–D,F,H).Sourcedataareavailableonlineforthis
+figure.
+2154 EMBOMolecularMedicineVolume16|September2024|2146–2169 ©TheAuthor(s)
+--- Page 10 ---
+WeiJiangetal EMBOMolecularMedicine
+Figure7. RNAsequencingandKEGGanalysisforneutrophilgeneexpressionunderHRGtreatmentwithtPA.
+(A,B)Thegeneexpressionprofilesofneutrophilsundervehicle,tPA,andtPA+HRGtreatmentswereanalyzedbyRNAsequencing.Weperformedahypergeometrictest
+andusedBenjamini-Hochberg(BH)correctionforpadj.DEGsbetweeneachgroupwereidentifiedasthepadj<0.05andfoldchange>2.ThevolcanoplotsforgrouptPA
+vs.control(A)andgrouptPA+HRGvs.tPA(B)areshown.(C)Clusteranalysischartofthetop20identifiedDEGsforthetPAvs.controlgroup.(D)Clusteranalysis
+chartofthetop20identifiedDEGsforthetPA+HRGvs.tPAgroup.Upregulatedgenesareshowninred.Downregulatedgenesareshowninblue.Thedendrogram
+depictsthehierarchicalrelationshipamonggenes.(E)KEGGpathwayanalysisforDEGsinthetPAvs.controlgroup.(F)KEGGpathwayanalysisforDEGsinthetPA+
+HRGvs.tPAgroup(n=5).WeperformedKEGGfunctionalenrichmentforDEGsbyclusterProfilerRpackage(3.8.1).Forstatisticalmethods,weusedhypergeometrictest
+andBHcorrectionforpadj.
+©TheAuthor(s) EMBOMolecularMedicineVolume16|September2024|2146–2169 2155
+--- Page 11 ---
+EMBOMolecularMedicine WeiJiangetal
+Thesefast-reactingimmunecells,knownasneutrophils,playacrucial may reduce contact activation and thrombosis without affecting
+role in HT, with increased matrix metalloproteinase-9 (MMP-9), hemostasis (Malik et al, 2023; Schmaier, 2023). HRG was first shown
+neutrophilelastase,andMPO(Carboneetal,2015;Wangetal,2021; to bind strongly to plasminogen via its lysine-binding site, thereby
+Zhang et al, 2021). Therefore, high-throughput quantitative char- affectingplasminogenactivation(Lijnenetal,1980).Inaddition,ithas
+acterization of circulating proteins in patients with or without tPA beensuggestedthatHRGcannotonlybindtofibrinogenwithahigh
+treatmentmayprovidepathophysiologicalinsightsintounderstanding affinity to prolong thrombin time (Leung, 1986) but also inhibit
+the effective response to tPA treatment, predicting potential fibrinogen-dependentplasminogenactivation(Borzaetal,2004).These
+biomarkers for HT, and identifying therapeutic targets for relieving studiesprovidedevidencethatHRGdisplaysbothanti-coagulativeand
+sideeffects.ElevationofHRGwasidentifiedandemergedasplayinga anti-fibrinolytic effects, which led to the notion that the dynamic
+centralroleinbridgingimmunityandfibrinolysis. variationinHRGlevelsinplasmamayserveasabidirectionalvalvein
+ElevationofHRGinplasmamayoriginatefromincreasedsynthesis regulating coagulative and fibrinolytic homeostasis, especially in
+intheliver,thereleasefromplateletα-granules,orimpaireddegradation. complex cascades following thrombolysis. Early elevated HRG levels
+HRG is synthesized in the liver and is present in plasma with high- (within1–3haftertPAadministration)intheplasmaofpatientswith
+affinitybindingtoanumberofligands(Koideetal,1986;Leung,1986; AISfollowingtPAtreatmentmaycontributetotheantithromboticeffect
+Lijnenetal,1980;Poonetal,2010),whichcouldbeincreasedbyaltered observed during thrombolysis. However, with the gradual increase in
+plasmacomponentsuponthrombolysis.HRGisalsostoredinhuman fibrinolytic products and neutrophil mobilization following infusion,
+plateletsandreleasedfollowingstimulation(Leungetal,1983).Declined sustainedhigherlevelsofHRG(5–24haftertPAtreatment)contribute
+deposition of HRG on immunothrombi and impaired degradation of toanti-fibrinolyticandanti-inflammatoryprocessestocounterbalance
+HRGbythrombincouldalsocontributetothechangesinHRGlevelsin thehemorrhagic-pronestate,resultinginreducedbleedingrisk.
+plasma(Wakeetal,2016).TofurtherclarifytheoriginofHRGfollowing MultiplestudieshaveexploredpossiblebiomarkersofHTinischemic
+tPAtreatment,cellsfromliver,peripheralblood,andvarioustissuesof stroke. However, differences in the timing of blood sampling limits
+micewerecollectedforHRGdetermination.HRGmRNAexpressionin comparisonsacrossstudiesandourresults.Studieswithonlypre-tPA
+the liver increased as early as 1h post-tPA treatment, and slightly samplesrevealedthathigherlevelsofMMP-9(Montaneretal,2003),
+decreasedat4hpost-tPAtreatment(AppendixFig.S5A).However,we serum cellular-fibronectin (c-Fn) (Castellanos et al, 2004) and S100B
+were unable to detect HRG mRNA in immune tissues including the (Foerchetal,2007)atbaselineareassociatedwithHTinpatientstreated
+spleen, thymus, lymph node, bone marrow, and peripheral blood withtPA(Castellanosetal,2007).Biomarkerstudiesfrompre-vs.post-
+leukocytesinC57BL/6mice,whichisconsistentwithapreviousreport tPAcomparisonsweremostlycollectedatbaselineandat24hpost-tPA
+(HulettandParish,2000)(AppendixFig.S5B).Inaddition,ithasbeen treatment,amongwhichMMP-9(Inzitarietal,2013),C-reactiveprotein
+shown that HRG is present in platelets and released upon thrombin (CRP)(Karlinskietal,2014)andIL-10(Gorietal,2017)wererelatedto
+stimulationinhumanblood(Leungetal,1983).Todetermineifplatelet- HTprediction.Onlyonestudycomparedsamplescollectedatbaseline
+derivedHRGcontributedtoincreasesinplasmaHRGlevelsfollowing andwithin3hpost-tPAtreatment,whichshowedthepresenceofthe
+tPA treatment, platelet-rich plasma (PRP) was collected from human HRG protein precursor among degraded protein fragments post-tPA
+peripheral blood and stimulated with tPA in vitro. After 40min of administration (Ning et al, 2010). Ning et al reported differences in
+incubation,PRP,platelet-poorplasma(PPP)andplateletwerecollected protein expression before and 3h after thrombolysis in patients with
+forHRGdeterminationbyWesternblotanalysis(AppendixFig.S5C). stroke.Thisstudydemonstratedthatt-PAtreatmentchangedtheplasma
+However,noalterationsinHRGweredetectedinPRP,PPP,andplatelet degradomicprofilesinpatientswithacutestroke,andHRGprecursor
+aftertPAstimulation(AppendixFig.S5D).Therefore,itindicatedthat proteinwasfoundamongthedegradedproteinfragmentsindegradomic
+liver primarily contributed to the origin of HRG in plasma after tPA fractions post-tPA administration. However, no information on
+stimulation. The significance and mechanism of HRG elevation in quantitative protein variations were reported due to limitations in
+affectingHTwasfurtheraddressedinourstudy. proteomicquantification(Ningetal,2010).
+Data from the current study uncovered that HRG possesses an Somelimitationsofthisstudyshouldbeconsidered.Thenumberof
+immunemodulatoryroleregulatingneutrophilfunctioninAIS.Ofnote, AIS patients with symptomatic HT in the validation cohort is low,
+HRGhasbeenreportedtosuppresssepsisandtumormetastasis,inhibit whichraisesconcernsaboutthetranslationalpredictivevalueofHRG
+hyperinflammation in acute pancreatitis, and relieve liver ischemia/ levels in clinical practice. The impaired HRG elevation observed in
+reperfusioninjury(Guoetal,2021;Kurodaetal,2021;Teraoetal,2018; patientswithHTfollowingthrombolysisrequiresfurthervalidationin
+Tomonobuetal,2022;Yinetal,2023).OurstudyrevealedthatHRG alargeprospectivecohortstudy.Hepaticfunctionandplateletcounts
+effectively suppresses neutrophil infiltration and immune activation ofAISpatientsinourdiscoveryandvalidationcohortwerewithinthe
+followingthrombolysis.Inthisstudy,RNAsequencingandproteomic normalrange,andnoneoftheindividualparametersinliverfunction
+analysiswasusedtoexplorethepossiblesignalingpathwaysbehindthe test were associated with impaired elevation of HRG upon tPA
+effects of HRG on neutrophils. HRG significantly suppressed the infusion. The underlying mechanisms for the lack of sufficient
+activation of the NOD-like receptor signaling pathway and NF-κB- increases in plasma HRG levels following intravenous tPA infusion
+dominant inflammatory pathways in neutrophils following tPA remaintobefullydefined.Moreover,withtheincreasedapplicationof
+treatment, which is consistent with previous findings in endothelial tenecteplase, which possesses a longer plasma half-life and achieves
+cells(Gaoetal,2019).Theseresultscontributetoamorecomprehensive thrombolysis as a single bolus injection, variations in HRG levels
+understandingoftheimmunomodulatoryfunctionsofHRG. shouldbedeterminedinatenecteplase-treatedpatientcohort.
+In addition to its effect on neutrophil modulation, HRG has been Insummary,thisstudydemonstratedthatincreasedHRGlevels
+shown to interact with components of both the coagulation and after tPA treatment can regulate neutrophil immune activity and
+fibrinolytic systems, playing an important role in homeostasis (Poon inhibit neutrophil infiltration and excessive immune activation,
+etal,2011).RecentstudiesindicatedthatahighconcentrationofHRG thereby reducing the risk of tPA-related HT and extending the
+2156 EMBOMolecularMedicineVolume16|September2024|2146–2169 ©TheAuthor(s)
+--- Page 12 ---
+WeiJiangetal EMBOMolecularMedicine
+thrombolytictimewindow.HRGmayserveasapotentialtargetfor Identifieror
+Catalog
+predicting and managing HT, although further investigation is
+Reagent/Resource ReferenceorSource Number
+required to elucidate its underlying mechanism.
+tPA BoehringerIngelheim N/A
+Methods Recombinanthistidine- SinoBiological 10836-H08H
+richglycoprotein
+DNaseI Sigma-Aldrich D5025
+Reagentsandtoolstable
+Identifieror Redbloodcelllysate Solarbio R1010
+Catalog EntransterTMinvivo EngreenBiosystemCo,Ltd 18668-11-1
+Reagent/Resource ReferenceorSource Number
+TRIzolreagent Invitrogen 15596026CN
+ExperimentalModels PerfectStartSYBRGreen Transgen AQ601
+qPCRsupermix
+Plasma Thisstudy N/A
+Software
+Neutrophils Thisstudy N/A
+MaxQuantsoftware https://www.maxquant.org
+C57BL6/J(M.musculus) VitalRiverCorporation N/A
+MSstatssoftware https://bioconductor.org
+AML12cells ProcellLifeScience&Technology CL-0602
+Co,Ltd DAVIDsoftware https://david.ncifcrf.gov
+hCMECs ZhongqiaoXinzhouBiotechnology ZQ0961 STRINGdatabase http://string-db.org
+RecombinantDNA Hisat2softwarev2.0.5 http://daehwankimlab.github.io/
+hisat2
+N/A N/A N/A
+FeatureCountsv1.5.0-p3 https://sourceforge.net
+Antibodies
+DESeq2Rpackage https://bioconductor.org/
+Rabbitanti-HistoneH3 Abcam ab219407
+v1.20.0 packages/release/bioc/html/
+Mouseanti- Invitrogen MA1-80878 DESeq2.html
+Myeloperoxidase
+ClusterProfilerv3.8.1 https://www.bioconductor.org/
+Rabbitanti-CLEC1A Proteintech 13394-1-AP packages/release/bioc/html/
+clusterProfiler.
+Rabbitanti-CLEC1B Proteintech 12814-1-AP
+GraphPadPrismv8.3.0 https://www.graphpad.com
+Alexa-Fluor488donkey Invitrogen A-21206
+anti-rabbitsecondary ImageJ https://imagej.nih.gov/ij/
+antibody index.html
+Alexa-Fluor594donkey Invitrogen A-32744 FlowJov10.8.1 https://www.flowjo.com
+anti-mousesecondary
+SPSS22.0 https://www.ibm.com/spss
+antibody
+Other
+Alexa-Fluor488- Invitrogen A12379
+conjugatedphalloidin Bradfordassaykit Bio-Rad
+Anti-mouseLy6G BioXCell BE0075-1 UltiMate3000UHPLC ThermoFisherScientific
+liquidchromatograph
+Ratanti-Ly6G Biolegend 127605
+Q-ExactiveHFX ThermoFisherScientific
+Alexa-Fluor488- Invitrogen A-21208
+conjugatedsecondary Humanneutrophils Solarbio
+antibody densitygradient
+separationkit
+Rabbitanti-HRG Proteintech 26252-1-AP
+BiotekCytation5 Biotek
+Oligonucleotidesandothersequence-basedreagents
+HRGELISAkit SinoBiological
+HRGsiRNA Thisstudy TableEV6
+IL-8ELISAkit MEIMIAN
+PCRprimer(GAPDH) Thisstudy TableEV6
+TNF-αELISAkit MEIMIAN
+PCRprimer(HRG) Thisstudy TableEV6
+ROSkit KeyGENBioTECH
+Chemicals,Enzymes,andotherreagents
+Transwellmembrane CorningLifeScience
+RPMI-1640medium Procell PM150110
+inserts
+Hoechst33342 Solarbio C0031
+Hemoglobincontent Solarbio
+Calcein-AM Glpbio GC34061 assaykit
+EGM-2MVmedium Lonza Cc-3162 Bio-RadCFX96real-time Bio-Rad
+system
+LPS Solarbio L8880
+Rosebengal Sigma-Aldrich 330000
+D-Glucose Sigma-Aldrich 158968
+©TheAuthor(s) EMBOMolecularMedicineVolume16|September2024|2146–2169 2157

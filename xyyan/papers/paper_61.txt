@@ -1,0 +1,127 @@
+
+--- Page 1 ---
+RESEARCH
+Proteogenomic Features of the Highly Polymorphic
+Histidine-rich Glycoprotein Arose Late in Evolution
+Authors
+Yang Zou, Bas van Breukelen, Matti Pronker, Karli Reiding, and Albert J. R. Heck
+Correspondence Graphical Abstract
+A.J.R.Heck@uu.nl
+In Brief
+Histidine-rich glycoprotein (HRG)
+is a liver-produced protein found
+abundantly in human blood,
+exhibiting at least five minor
+allele frequencies (MAFs).
+Proteogenomics analysis on
+individual donors reveals that
+certain mutations are mutually
+exclusive, while others
+preferentially co-occur. These
+HRG mutations appeared late in
+evolution and led to partial loss
+of N-glycosylation. HRG
+mutations may affect the
+protein's abundance, structure,
+posttranslational modifications,
+and thus function. Therefore,
+when studying HRG, accounting
+for allelic variants is crucial.
+Highlights
+•
+The histidine-rich glycoprotein (HRG) contains five minor allele frequencies (MAFs).
+•
+Proteogenomics probes correlations between MAFs in the human population.
+•
+Some mutations are mutually exclusive, others preferentially co-occur.
+•
+When studying HRG, accounting for allelic variants is crucial.
+•
+HRG mutations appeared late in evolution and led to partial loss of N-glycosylation.
+2023, Mol Cell Proteomics 22(7), 100585
+© 2023 THE AUTHORS. Published by Elsevier Inc on behalf of American Society for Biochemistry and
+MolecularBiology.ThisisanopenaccessarticleundertheCCBYlicense(http://creativecommons.org/
+licenses/by/4.0/).
+https://doi.org/10.1016/j.mcpro.2023.100585
+--- Page 2 ---
+RESEARCH
+Proteogenomic Features of the Highly
+Polymorphic Histidine-rich Glycoprotein Arose
+Late in Evolution
+Yang Zou1,2, Bas van Breukelen1,2, Matti Pronker1,2 , Karli Reiding1,2 , and
+Albert J. R. Heck1,2,*
+Histidine-rich glycoprotein (HRG) is a liver-produced pro- HRG is a glycoprotein mostly produced in the liver that cir-
+teincirculatinginhumanserumathighconcentrations of culates in human serum at concentrations of approximately
+around 125 μg/ml. HRG belongs to the family of type-3 100 to 150 μg/ml. Structurally, the HRG protein consists of
+cystatins and has been implicated in a plethora of bio-
+525 amino acids spanning six annotated domains: two N-
+logicalprocesses,albeitthatitsprecisefunctionisstillnot
+terminal domains (N1 and N2 domain), two proline-rich re-
+well understood. Human HRG is a highly polymorphic
+gions(PRR1andPRR2domain),ahistidine-richdomain(HRR
+protein, with at least five variants with minor allele fre-
+domain), and a C-terminal domain (C domain) (1) (Fig. 1A).
+quencies of more than 10%, variable in populations from
+different parts of the world. Considering these five muta- HRG belongs to the family of type-3 cystatins together with
+tionswecantheoreticallyexpect35=243possiblegenetic other fairly abundant serum proteins such as α2-Heremans
+HRG variants in the population. Here, we purified HRG Schmid-glycoprotein, fetuin-B, and kininogen (2). These four
+from serum of 44 individual donors and investigated by proteins are structurally and functionally related, and their
+proteomics the occurrence of different allotypes, each genesarealsolocatedcloselytoeachotheronchromosome
+being either homozygote or heterozygote for each of the 3. They all share sequence and structural homology, and all
+five mutation sites. We observed that some mutational
+containtwotothreecystatindomains.Fetuin-Bisevenavery
+combinations in HRG were highly favored, while others
+close paralog of HRG; alignment of these two genes reveals
+were apparently missing, although they ought to be pre-
+around35%identity,andalsostructurallythesetwoproteins
+sent based on the independent assembly of these five
+areveryalike(Fig.1B)(2,3).UniqueforHRGareitshistidine-
+mutation sites. To further explore this behavior, we
+and proline-rich regions. This unique histidine-rich domain
+extracted data from the 1000 genome project (n ~ 2500
+genomes) and assessed the frequency of different HRG enables efficient HRG purification from serum using Ni2+ or
+mutants in this larger dataset, observing a prevailing
+Co2+ metal-affinitychromatography (4–9).
+agreement with our proteomics data. From all the pro- Although HRG belongs to some of the most abundant
+teogenomic data we conclude that the five different mu- proteins in serum and is fairly well studied, the precise func-
+tation sites in HRG are not occurring independently, but tionofHRGinserumisstillnotwelldefined.Thisismostlikely
+several mutations at different sites are fully mutually duetoHRG’scomplexmultilayermolecularcharacteristics.To
+exclusive, whereas others are highly intwined. Specific
+illustratethis,HRGhasbeenreportedtointeractwithavariety
+mutations do also affect HRG glycosylation. As the levels
+of ligands, including heparin (10), phospholipids (11), plas-
+of HRG have been suggested as a protein biomarker in a
+minogen (12), fibrinogen (13), heme (14), Zn2+ (15), and even
+variety of biological processes (e.g., aging, COVID-19
+moreproteinsandcofactors.ThissuggestsHRGfunctionsas
+severity, severity of bacterial infections), we here
+an adaptor molecule that plays a role in numerous important
+concludethatthehighlypolymorphicnatureoftheprotein
+needstobeconsideredinsuchproteomicsevaluations,as biological processes, suchas antiangiogenic activity (16–18),
+these mutations may affect HRG’s abundance, structure, immune complex clearance (19), pathogen clearance (11,
+posttranslational modifications,andfunction. 20–23),coagulation(24),andfibrinolysis (25).
+Inhumans,HRGisahighlypolymorphicprotein.Amongthe
+Next to the extremely abundant albumin and immunoglob- humanpopulationquiteafewmutationsinHRGareknown,of
+ulinproteinspresentinserumseveralotherproteinsarefairly which some are highly frequent. These allele frequencies are
+abundant, among them the histidine-rich glycoprotein (HRG). somewhat different in the populations from different parts of
+Fromthe1BiomolecularMassSpectrometryandProteomics,BijvoetCenterforBiomolecularResearchandUtrechtInstituteforPharmaceutical
+Sciences,UniversityofUtrecht,Utrecht,theNetherlands;2NetherlandsProteomicsCenter,Utrecht,theNetherlands
+*Forcorrespondence:AlbertJ.R.Heck,A.J.R.Heck@uu.nl.
+MolCellProteomics (2023)22(7)100585 1
+©2023THEAUTHORS.PublishedbyElsevierInconbehalfofAmericanSocietyforBiochemistryandMolecularBiology.
+ThisisanopenaccessarticleundertheCCBYlicense(http://creativecommons.org/licenses/by/4.0/). https://doi.org/10.1016/j.mcpro.2023.100585
+--- Page 3 ---
+Histidine-rich Glycoprotein Proteogenomics
+FIG.1. Schematicstructureofhistidine-richglycoprotein(HRG)anditsgenevariantswithminorallelefrequencies(MAFs)ofmore
+than10%.A,schematicrepresentationofproteindomainsofhumanserumHRG.HRGconsistsofsixdomains:twoN-terminaldomains(N1
+andN2),twoproline-richregions(PRR1andPRR2),ahistidine-richregion(HRR),andaC-terminaldomain(C).Thedisulfidebridgesaredepicted
+indashedlines.B,partialstructureandN-glycosylationsitesonHRG.ThestructureofHRGisobtainedbySwiss-modelhomologymodeling
+basedonFetuin-B(6hpv.1.A)(3,40–43).Thehistidine-richdomain,whichdoesnottendtocrystallize,isrepresentedwithanoval.Theresidues
+oftheN-glycosylationsitesareshownasdarkblue.AglycosylationsiteatAsn202isinducedbyrs9898(30).C,thefrequenciesoffiveabundant
+genevariantsofHRGindifferentsubpopulations.Thesubpopulationsarenamedasfollows:EUR,European;SAS,SouthAsian;AFR,African;
+AMR,American;EAS,EastAsian.D,genevariantsofHRGwithMAFofmorethan0.1(i.e.,10%ofthepopulation)andtheircorresponding
+primatealleles(38).
+the world (Fig. 1C). Therefore, here, unless stated otherwise, (Fig.1D).Asinglemutationsitecanleadtothreevariants,with
+weusethereportedaverage(26).Therearefivemutationsites individuals being either homozygote for AA or aa, or hetero-
+inHRGwithminorallelefrequencies(MAFs)ofmorethan10% zygote Aa/aA. With HRG harboring five frequently mutated
+2 MolCellProteomics (2023)22(7)100585

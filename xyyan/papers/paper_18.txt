@@ -1,0 +1,794 @@
+
+--- Page 1 ---
+REGULAR ARTICLE
+Histidine-rich glycoprotein attenuates catheter thrombosis
+RidaA.Malik,1,2PengLiao,1,3 JiZhou,1,3RawaaHussain,1,3JamesC.Fredenburgh,1,3 LisaHettrick,4 AlexeyS.Revenko,4 and
+Jeffrey I.Weitz1-3,5
+1ThrombosisandAtherosclerosisResearchInstitute,Hamilton,ON,Canada;2DepartmentofMedicalSciencesand3DepartmentofMedicine,McMasterUniversity,Hamilton,
+ON,Canada;4DepartmentofPulmonaryandOncologyDrugDiscovery,IonisPharmaceuticalsInc,Carlsbad,CA;and5DepartmentofBiochemistryandBiomedicalSciences,
+McMasterUniversity,Hamilton,ON,Canada
+FactorXII(FXII)knockdownattenuatescatheter thrombosisinrabbits. Becausehistidine-
+Key Points
+richglycoprotein(HRG) modulatesFXIIaactivity,we hypothesizedthatHRGdepletion
+(cid:129) HRG attenuates
+wouldpromote catheterthrombosis. Totestthis,rabbitsweregiveneitherantisense
+catheter-induced
+oligonucleotides(ASOs)againstHRGorFXII,acontrolASO,orsaline.Theactivatedpartial
+clotting in human and
+thromboplastin time(aPTT),prothrombintime(PT),andcatheter-induced thrombin
+rabbit plasma.
+generationweredeterminedinbloodcollectedbeforeandaftertreatment.Comparedwith
+(cid:129) HRG depletion with an
+thecontrols,theHRG-andFXII-directedASOsreducedhepaticmessengerRNAandplasma
+ASO enhances
+levelsof HRGandFXII,respectively, by>90%.AlthoughHRGknockdownshortenedthe
+catheter thrombosis in
+aPTTby2.5fold,FXIIknockdownprolongeditbyfourfold;neitheroftheASOsaffectedthe
+rabbits, whereas FXII
+PT.Cathetersegmentsshortenedthe lagtimeandincreasedpeakthrombinin theplasma
+depletion attenuates it.
+fromcontrolrabbits;effectsweresignificantlyenhancedandattenuatedintheplasmafrom
+rabbitsgiventheHRG-andFXII-directed ASOs, respectively.Catheterswere theninserted
+intotherightexternal jugularveinof therabbits,and thetimefor catheterocclusion was
+determined.Thecatheterocclusion timeswiththecontrolASO orsalinewere62±
+8minutesand60±11minutes,respectively.Theocclusiontimewassignificantlyreducedto
+34±9minutes,withHRGknockdownandsignificantlyprolongedto128±19minuteswith
+FXIIknockdown. HRGlevelsare decreasedwithsepsis orcancer,andsuchpatientsare
+pronetocatheterthrombosis. Because HRGmodulatescatheter thrombosis, ourfindings
+suggestthatHRGsupplementation maypreventthisproblem.
+Introduction
+Central venous catheters (CVCs) are often used for venous access and to deliver chemotherapy,
+antibiotics,bloodproducts,andparenteralnutrition.1-3CVCsoftencausethrombosis,whichcanleadto
+infection,devicefailure,upperextremitydeepveinthrombosis,andriskofpulmonaryembolism,which
+canbefatal.1-3Thereportedincidenceofsymptomaticcatheter–relateddeepveinthrombosisranges
+from1%to5%andishigherinpatientsadmittedtotheintensivecareunitorinthosewithcancer.4-6
+CVCthrombosis isassociatedwith significantmorbiditybecauseitcandelaytreatments, necessitate
+CVC removal, and lead to postthrombotic syndrome.4,5,7 Consequently, there is a need for effective
+treatments toprevent CVCthrombosis.
+Submitted26October2022;accepted1April2023;prepublishedonlineonBlood Thefull-textversionofthisarticlecontainsadatasupplement.
+AdvancesFirstEdition12April2023;finalversionpublishedonline26September ©2023byTheAmericanSocietyofHematology.LicensedunderCreativeCommons
+2023.https://doi.org/10.1182/bloodadvances.2022009236. Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0),
+Dataareavailableonrequestfromthecorrespondingauthor,JeffreyI.Weitz(weitzj@ permitting only noncommercial, nonderivative use with attribution. All other rights
+taari.ca). reserved.
+26SEPTEMBER2023•VOLUME7,NUMBER18 5651
+--- Page 2 ---
+Catheters trigger clotting via the intrinsic pathway of coagula- ASO dosing
+tion.2,8,9 Factor XII (FXII) binds to negatively charged surfaces,
+A preliminary study was performed to identify the doses of the
+including catheters, after which it undergoes autoactivation.10-13
+HRG- and FXII-directed ASOs that produced maximum knock-
+The resultant FXIIa propagates coagulation by activating FXI,
+down. As controls, rabbits were given either a control ASO, con-
+thereby inducing thrombin generation and fibrin formation.2,10,11
+sisting of a scrambled sequence of oligonucleotides or an
+The importance of FXII in this process is highlighted by the
+equivalent volume of saline. The ASOs were given by subcutane-
+observationsthat(1)catheter-inducedclottinginvitroisattenuated
+ousinjectiontwiceweeklyfor4weeksatadoseof8or16mg/kg.
+inplasmadepletedofFXIIorFXIbutnotFVII9;(2)theadditionof
+Rabbits were monitored daily for evidence of toxicity, and body
+corntrypsininhibitor(CTI),apotentandspecificinhibitorofFXIIa,
+weight wasdetermined twice weekly. Both ASOdosesproduced
+attenuates catheter clotting in vitro14; (3) in a rabbit catheter
+maximum knockdown; thus, the lower 8 mg/kg dose of the HRG,
+thrombosis model, the time to occlusion is longer with catheters
+FXII, and control ASO was selected for this study (supplemental
+coated with CTI than that with uncoated catheters14; and (4)
+Figures 1and2).
+knockdown of FXII or FXI with target-specific antisense oligonu-
+cleotides(ASOs)prolongsthetimetocatheterocclusioninrabbits,
+whereas the knockdown of FVII does not.9 Therefore catheter- Preparation of platelet-poor plasma
+inducedclottingoccursviatheintrinsicpathwayofcoagulation. Bloodsamples(5mL)werecollectedfromamarginalearveininto
+3.8% sodium citrate (9:1, vol/vol) at baseline and 4 weeks while
+Histidine-rich glycoprotein (HRG) is a 75 kDa glycoprotein that is
+rabbitswereunderanesthesiawithamixtureof1L/minofoxygen,
+synthesizedintheliverandcirculatesinplasmaataconcentration
+of ranging between 1 and 3 μM.15,16 HRG plays a key role in
+andbetween1%and4%isofluranewasdeliveredviafacemasks.
+Samples were immediately mixed and kepton ice before centrifu-
+variousbiologicalprocesses,includingimmunity,angiogenesis,and
+coagulation.17-19WehavepreviouslyshownthatHRGinhibitsthe
+gationat2000gfor20minutesat23◦C.Plasmawassubjectedto
+contact system by binding FXIIa with high affinity, thereby attenu- a second centrifugation step under the same conditions and was
+thenfrozeninaliquotsat−80◦C.Tocreatepoolsofcontrolrabbit
+ating FXII autoactivation and subsequent FXIIa-mediated FXI acti-
+vation.20 Furthermore, FeCl - and polyphosphate-induced orhumanplatelet-poorplasma,bloodfrom4healthyrabbitsor10
+3
+thromboses are enhanced in HRG-deficient mice compared with healthy human volunteers was collected into 3.8% sodium citrate
+those in wild-type mice.21,22 These results suggest that HRG (9:1, vol/vol) and processed as described, and the plasma was
+thenpooledandfrozen inaliquots.
+servesasamolecular brakeforthecontactsystem.
+Because catheter thrombosis is triggered by FXII activation and
+Hepatic HRG and FXII mRNA expression
+HRG modulates FXIIa activity,2,20,23 we hypothesized that HRG
+depletion would promote catheter thrombosis in vitro and in rab-
+ToassessmessengerRNA(mRNA)expression,1cm3sectionsof
+bits.Totestthishypothesis,weknockeddownthelevelsofHRGin liver collected from each rabbit post mortem was submerged in
+rabbits with a specific HRG-directed ASO and assessed the RNALater solution (Life Technologies, Burlington, ON), stored
+impact on ex vivo and in vivo catheter-induced clotting. A FXII-
+overnightat4◦C,andthenfrozenat−80◦C.Afterhomogenization
+directed ASO was used as a positive control, whereas a control ofthawedsamples,themRNAwasisolatedusingthePureLinkPro
+ASOandsalinewereused asnegative controls.
+96TotalRNAPurificationKit(LifeTechnologies),andmRNAlevels
+were quantified using OneStepPlus real-time polymerase chain
+Methods reaction (Applied Biosystems, Foster City, CA) and normalized
+againsta rabbit18Sribosomal RNAprimerprobeset.9
+Materials
+Adetaileddescriptionofmaterialsisprovidedinthesupplemental Global tests of coagulation
+File. Clottingtimesofrabbitplasmaweredeterminedbyincubating40
+μL of plasma with 50 μL of 20 mM HEPES buffer at pH 7.4 for
+Rabbit acquisition and housing
+10 minutes at 37◦C. After addition of 26 mM CaCl , absorbance
+2
+Male New Zealand white rabbits (2.5-3.0 kg), purchased from was monitored at 405 nm using a THERMOmax plate reader
+CharlesRiverCanada (Sherbrooke,QC, Canada), werehoused in (Molecular Devices, Sunnyvale, CA), and clotting times were
+individualcagesinroomsmaintainedataconstant12-hourlight-dark recorded as the time to the half-maximum absorbance, as deter-
+cyclewithcontrolledtemperatureandhumidityandweregivenfree minedbyinstrumentsoftware(SoftMaxPro,version5.4).Thedilute
+access to food and water. Studies were approved by the Animal activatedpartialthromboplastin time(aPTT)andprothrombin time
+Research Ethics Board at McMaster University, and procedures (PT) were determined in rabbit plasma collected before and after
+compliedwithCanadianCouncilonAnimalCareguidelines. ASOadministration. Briefly, 40 μLofplasma were incubated with
+40μLofa1:10dilutionofaPTT-SPreagentora1:100dilutionof
+Synthesis of ASOs
+RecombiPlasTin (Instrumentation Laboratory Co., Bedford, MA)
+HRG, FXII, and control ASOs conjugated to N-acetyl galactos- and 10 μL of 20 mM HEPES buffer at pH 7.4 for 10 minutes at
+amine weresynthesized byIonis Pharmaceuticals (Carlsbad, CA), 37◦C.Afteradditionof10μLof260mMCaCl (finalconcentration
+2
+and the ASO sequences are listed in supplemental Table 1. N- of26mM),absorbance wasmonitoredat405nmusing a THER-
+acetyl galactosamine conjugation was undertaken to enhance the MOmax plate reader (Molecular Devices, Sunnyvale, CA), and
+hepaticuptakeoftheASOs.24 clotting timesweredeterminedasdescribedearlier.
+5652 MALIKetal 26SEPTEMBER2023•VOLUME7,NUMBER18
+--- Page 3 ---
+HRG and FXII antigen levels To determine the effect of HRG or FXII knockdown on catheter
+thrombosis in vivo, a catheter thrombosis model with some modi-
+Plasma was subjected to electrophoresis on sodium dodecyl sul-
+fications was used (supplemental Figure 3).9 Briefly, rabbits were
+fate 4% or 15% polyacrylamide gradient gels (Bio-Rad Labora-
+anesthetizedwithacombinationofoxygen(1L/min)andisoflurane
+tories,Hercules,CA)undernonreducingconditions,andseparated
+(1%-4%) and maintained on anesthesia via a 2-mm endotracheal
+proteins were then transferred to Immuno-Blot polyvinylidene
+tube. Catheters (7F) from Access Technologies (Skokie, IL) cut
+fluoride membranes (Bio-Rad), as previously described.9,22 HRG
+into preweighed, 7 cm segments were inserted into the right
+and FXII were detected using a 1:1000 dilution of peroxidase-
+externaljugularveintowardtheheartandsecuredwithaligature.A
+labeled sheep antihuman HRG antibody20 or a 1:2000 dilution of
+pressure transducer (Baxter Healthcare, Deerfield, IL) was
+peroxidase-labeled goat antihuman FXII antibody (Affinity Biologi-
+attachedtothecatheter.Aliquotsofblood(3mL)weredrawnfrom
+cals, Ancaster, ON), respectively. Blots were imaged using the
+thecatheterinto5mLplasticsyringesevery5minutesforupto4
+ChemiDoc (Bio-Rad, Hercules, CA), and protein levels were
+hours, maintained in the syringe for 2 minutes, and then slowly
+quantified via densitometry using ImageLab version 3.0 software
+reinjected,afterwhichthecatheterwasflushedwith2mLof0.9%
+(Bio-Rad).
+sterile saline. The time to catheter occlusion was defined as that
+In vitro catheter-induced clotting and thrombin when blood could no longer be withdrawn from the catheter or
+when the pressure reached 90 mmHg. When catheter occlusion
+generation
+occurredoratthe4-hourpoint,rabbitsweregivenIVinjectionsof
+Plate-based assays were used to examine the effects of HRG or 1000 U/kg unfractionated heparin and 360 mg/kg sodium pento-
+FXIIdepletioninrabbitsuponexvivocatheter-inducedclottingand barbital via a marginal ear vein. The catheter was then excised,
+thrombin generation. Catheter-induced clotting assays were con- weighed to determine the intralumenal thrombus weight, and
+ductedaspreviouslydescribedwithsomemodifications.23Briefly,
+photographed.
+6Fcatheterswerepressedflatandcutinto1.7cmsegmentstofit
+thecircumferenceofwellsofa96-well,clear,flat-bottomplate.To Statistical analysis
+wellswithorwithoutcathetersegments,75μLof20mMHEPES
+All results are presented as mean ± standard deviation (SD).
+at pH 7.4 and 100 μL of rabbit plasma were added. After incu-
+Unless otherwise stated, experiments were performed at least 3
+bationfor20minutesat37◦C,25μLof160mMCaCl 2 wasadded times.Significanceofdifferencesbetweengroupswasdetermined
+(finalconcentration,20mMCaCl );absorbancewasmonitoredat
+2 usingoneortwo-wayanalysisofvariance(ANOVA)followedbythe
+405nmusingaplatereader,andclottingtimeswererecordedas
+Holm-Sidak comparison test. SigmaPlot version 11 (Systat Soft-
+the time to 50% absorbance, as determined by the instrument
+ware,SanJose,CA)andGraphPadPrism9(GraphPadSoftware,
+software.
+San Diago, CA) were used to create graphs, and IBM SPSS
+Catheter-inducedthrombingenerationwasquantifiedaspreviously Statistics software (Armonk, NY) was used to perform the statis-
+described.25Briefly,towellsofa96-wellCostar,black,flat-bottom ticalanalyses.Forallanalyses,P<.05wasconsideredstatistically
+plate with or without catheter segments, 100 μL of rabbit plasma significant.
+was added. After incubation for 15 minutes at37◦C, 100 μL ofa
+solution containing 1 mM Z-GGR-AMC (Bachem, Bubendorf, Results
+Switzerland) and 15 mM CaCl in 20 mM HEPES at pH 7.4 was
+2 HRG and FXII ASOs reduce hepatic mRNA and
+added, and substrate hydrolysis was monitored for 90 minutes at
+excitation and emission wavelengths of 360 nm and 460 nm, protein expression
+respectively, using a SpectraMax M3 plate reader (Molecular
+After a 4-week course of ASO treatment, hepatic mRNA and
+Devices). Thrombin generation profiles were analyzed using protein expression were quantified (supplemental Figure 3).
+Technothrombin TGAsoftware (Technoclone, Vienna,Austria). Compared with baseline, the HRG or FXII-directed ASOs signifi-
+Experiments with or without catheter segments were repeated in cantlyreducedhepaticmRNAexpressionofHRGandFXIIby95%
+human control plasma or HRG- or FXII-depleted human plasma, and85%,respectively(Figure1).Comparedwiththesalinecontrol
+and the time to clot formation and thrombin generation were
+values,theHRG-directedandFXII-directedASOsignificantly(P<
+determined. The effect of addition of human HRG up to 5 μM on .0001)reducedthemeanplasmaHRGlevelfrom142±29μg/mL
+catheter-induced clotting and thrombin generation was also
+to4±1μg/mLandthemeanplasmaFXIIlevelfrom24±3μg/mL
+assessed incontrolandHRG-depletedhuman plasma.
+to2±0.2μg/mL(supplementalFigure4).Incontrast,neitherthe
+controlASOnorsalinehadanyeffectonhepaticmRNAorplasma
+Catheter thrombosis in rabbits levelsofHRGorFXII.
+Using a web-based system (www.randomization.com) balanced
+HRG knockdown shortens the aPTT, whereas FXII
+using randomly permuted blocks, a total of 30 rabbits were
+knockdown prolongs it
+randomly assigned to receive twice weekly subcutaneous injec-
+tionsof8mg/kgoftheHRG,FXII,orcontrolASOoranequivalent Compared with baseline, the HRG-directed ASO significantly
+volume of saline for 4 weeks. The ASOs or saline were prepared shortenedtheaPTT(P<.01)twofold,whereastreatmentwiththe
+and aliquoted by an investigator who was aware of the treatment FXII-directed ASO significantly prolonged it threefold (P < .01;
+allocations (R.H.); treatments were administered, and catheter Figure 2). The threefold prolongation of the aPTT with FXII
+occlusion studies were performed by investigators blinded to knockdown is consistent with the observation that the aPTT is
+treatment allocation (R.A.M.,P.L.,andJ.Z.). approximatelythreefoldlongerinmicethataredeficientinFXIIthan
+26SEPTEMBER2023•VOLUME7,NUMBER18 HRGATTENUATESCATHETERTHROMBOSIS 5653
+--- Page 4 ---
+100
+50
+0
+ASO
+by treatment with the HRG or FXII-directed ASOs, thereby local-
+izingtheireffecttotheintrinsicpathwayofcoagulation(Figure2).
+HRG-directed ASO enhances catheter-induced
+clotting and thrombin generation, whereas the FXII-
+directed ASO attenuates them
+To confirm that catheters promote FXII activation, FXII was incu-
+batedintheabsenceorpresenceofcathetersegments,andFXIIa
+generation was quantified via a chromogenic assay. Although <5
+nM FXIIa was generated in the absence of catheter segments,
+there was a significant (P < .001) increase in FXIIa generation to
+61nMintheirpresence(supplementalFigure5).HRGattenuated
+FXIIautoactivationwitha50%inhibitoryconcentrationof344±12
+nMandabrogatedactivationat2μM.ThesedataconfirmthatHRG
+directly attenuates FXII autoactivation.20 The role of FXII in
+catheter-inducedclottingwasfurtherevaluatedusingCTI,apotent
+and specific inhibitor of FXIIa. CTI attenuated plasma clotting in
+both the absence and presence of catheter segments
+(supplementalFigure 6).
+Catheter-induced clotting and thrombin generation were used to
+evaluate the effects of HRG and FXII knockdown. Catheter seg-
+ments significantly (P < .01) shortened the recalcification time in
+plasma from saline-treated rabbits by 2.2-fold, from 1614 ± 133
+seconds to 732 ± 122 seconds, confirming that catheter seg-
+ments are prothrombotic (Figure 3A). Compared with results in
+plasma from rabbits given the control ASO, catheter segments
+significantly(P<.01)shortenedtherecalcificationtimeby2.1-fold,
+from 805 ± 117 seconds to 370 ± 96 seconds in plasma from
+rabbitsgiventhe HRG-directedASO, andsignificantly (P <.001)
+prolonged the recalcification time from 805 ± 117 seconds to
+1665±457secondsinplasmafromrabbitsgiventheFXII-directed
+ASO(Figure3A).AdditionofhumanHRGtocontrolrabbitplasma
+in wild-type mice (68 seconds and 24 seconds, respectively).26
+ortoplasmafromrabbitsgiventheHRG-directedASOattenuated
+The fact that the aPTT is prolonged but measurable with FXII
+theprothromboticeffectofcathetersinaconcentration-dependent
+depletionmayreflectthecontributionofresidualFXII,prekallikrein
+manner (supplementalFigure7).
+or FXI autoactivation, or kallikrein-induced FIX activation27
+contributing to contact-mediated clotting. Neither the control Catheter-induced thrombin generation was significantly (P < .01)
+ASOnorsalinehadanyeffectontheaPTT.ThePTwasunaffected enhancedintheplasmafromrabbitsgiventheHRG-directedASO
+)enilas
+fo %(
+ANRm
+reviL
+A
+200 FXII mRNA
+HRG mRNA
+150
+###
+***
+Saline Control HRG FXII
+B
+Saline Control ASO HRG ASO FXII ASO
+Rabbit#: 1 2 3 1 2 3 1 2 3 1 2 3
+Anti-FXII
+Anti-HRG
+100
+50
+### ***
+0
+ASO
+)enilas
+fo
+%(
+slevel
+nietorP
+1000
+500
+0
+ASO
+C
+Anti-FXII
+150
+Anti-HRG
+Saline Control HRG FXII
+Figure1.EffectofASOtreatmentonhepaticmRNAandplasmalevelsof
+HRGandFXII.(A)LivermRNAlevelswerequantifiedinrabbitsthatweregivena
+4-weekcourseoftreatmentwiththecontrol,HRG,orFXIIASOsandcomparedwith
+thelevelsinrabbitsgivensaline.FXII(redbars)andHRG(bluebars)hepaticmRNA
+levelsareplottedaspercentagesrelativetothoseinthesaline-treatedrabbits.Bars
+representmean±SDfrom6to8rabbitspertreatmentgroup.***P<.001HRG
+mRNAlevelscomparedwiththoseinsalinecontrols.###P<.001FXIImRNAlevels
+comparedwiththoseinsalinecontrols(one-wayANOVAandHolm-Sidakmethod).
+(B)PlasmalevelsofHRGandFXIIafterASOtreatmentswerequantifiedvia
+immunoblotanalysisusingperoxidase-labeledsheepantihumanHRGantibodyand
+peroxidase-labeledgoatantihumanFXIIantibody,respectively.Representativeimage
+from4blots.(C)BandsfrompanelBwerequantifiedviadensitometry.***P<.001
+comparisonofFXIIlevelsinsalinecontrols.###P<.001comparisonofHRGlevelsin
+salinecontrols.Barsrepresentmean±SDfrom6to8rabbitspertreatmentgroup
+(one-wayANOVAandHolm-Sidakmethod).
+)s(
+emit
+tolC
+** APTT
+2000 ***
+PT
+1500
+**
+**
+Saline Control HRG FXII
+Figure2.Effectoftreatmentwithsaline,orcontrol,HRG,orFXIIASOson
+theaPTTandPT.ThediluteaPTT(redbars)andPT(bluebars)weredeterminedin
+theplasmacollectedfromrabbitsaftera4-weekcourseoftreatmentwithsaline(n=
+6)orcontrol,orHRGorFXIIASO(N=8pergroup).Barsrepresentmean±SDfrom
+3determinationsforeachrabbit.*P<.05;**P<.01;and***P<.001comparisonof
+aPTTresultsasindicatedbythelines(one-wayANOVAandHolm-Sidakmethod).
+5654 MALIKetal 26SEPTEMBER2023•VOLUME7,NUMBER18
+--- Page 5 ---
+1000
+500
+0
+ASO
+compared with that in the plasma from rabbits treated with the catheter-inducedthrombingenerationwassignificantlyattenuated
+controlASO,asevidencedbyashorterlagtime(8±0.5minutes intheplasmafromrabbitsgiventheFXIIASOcomparedwiththat
+vs 15 ± 3 minutes; P < .01) and a higher peak thrombin intheplasmafromthosegiventhecontrolASO,asevidencedbya
+(118 ± 4 nM vs 86 ± 7 nM; P < .01; Figure 3D-E). In contrast, longerlagtime(from15±3minutesto23±2minutes;P<.05)
+)s(
+emit
+tolC
+A
+†
+– Catheter
+3000 + Catheter **
+2500 † †
+† † NS
+2000 ###
+1500 † †
+NS *
+##
+Saline Control HRG FXII
+140
+HRG ASO
+120
+Control ASO
+100 FXII ASO
+Saline 80
+60
+40
+20
+0
+)Mn(
+nibmorhT
+B
+140
+– Catheter + Catheter HRG ASO
+120
+Control ASO
+100 FXII ASO
+Saline 80
+60
+40
+20
+0
+0 20 40 60 80
+Time (min)
+)Mn(
+nibmorhT
+C
+0 20 40 60 80
+Time (min)
+*
+#
+NS
+**
+NS
+##
+0
+ASO
+)nim(
+emit
+gaL
+D
+– Catheter ##
+40 + Catheter
+NS
+30
+20
+NS NS ###
+10
+0
+Saline Control HRG FXII
+ASO
+)Mn(
+nibmorht
+kaeP
+E
+140 – Catheter
++ Catheter 120
+100
+80
+60
+40
+20
+Saline Control HRG FXII
+Figure3.Effectoftreatmentwithsaline,orcontrol,HRG,orFXIIASOsonexvivocatheter-inducedthrombingeneration.Rabbitplasmawascollectedaftera4-
+weekcourseoftreatmentwithsaline(n=6pergroup),orHRGorFXIIASOs(n=8).(A)Plasmawasincubatedintheabsenceorpresenceofcathetersegmentsfor15minutes
+at37◦Cbeforeclottingwasinitiatedbytheadditionof20mMCaCl2.Absorbancewasmonitored,andplasmarecalcificationclottimewasdeterminedasthehalf-timeofmaximal
+absorbance.Thrombingenerationwasinitiatedbyadditionof20mMCaCl2andwasquantifiedbymonitoringthehydrolysisof1mMZ-Gly-Gly-Arg-7-amino-4-methylcoumarin(Z-
+GGR-AMC)thrombinsubstrate.(B-C)Representativethrombingenerationprofilesintheabsence(B)orpresence(C)ofcathetersegments.(D)Meanlagtimeand(E)peak
+thrombinintheabsence(redbars)orpresence(bluebars)ofcathetersegmentsareshown.Barsrepresentmean±SDfrom3determinationsperrabbit,eachperformedin
+duplicate.*P<.05;**P<.01;and***P<.001comparisonofsaline-treatedplasmaintheabsenceofcathetersegments;#P<.05and##P<.01comparisonofsaline-treated
+plasmaintheabsenceofcathetersegments;†P<.05and††P<.01asindicatedbythelines(one-wayANOVAandHolm-Sidakmethod).
+26SEPTEMBER2023•VOLUME7,NUMBER18 HRGATTENUATESCATHETERTHROMBOSIS 5655
+--- Page 6 ---
+andareducedpeakthrombin(from86±7.2nMto32±6nM;P< HRG-directed ASO (129 ± 34 mg) and significantly (P < .05)
+.001). These results suggest that HRG knockdown is associated lower in those given the FXII-directed ASO (20 ± 13 mg;
+with a prothrombotic phenotype that enhances catheter-induced Figure 4B-C). To evaluate the extent of activation of coagulation,
+clotting and thrombin generation, whereas FXII knockdown is theplasmalevelsofTATandFXIIa-C1inhibitorcomplexwerealso
+associated with an antithrombotic phenotype that attenuates quantified. Compared with the plasma levels after catheter
+catheter-induced clotting andthrombingeneration. implantation in control rabbits, the plasma levels of FXIIa-C1
+inhibitor complex were significantly higher (P < .01) in rabbits
+Time to catheter occlusion is shortened in rabbits thatweregiventheHRG-directedASOandsignificantlylower(P<
+given the HRG-directed ASO and prolonged in those .05) in rabbits that received the FXII-directed ASO (supplemental
+given the FXII-directed ASO Figure 8A). Compared with control rabbits, the mean levels of
+thrombin-antithrombin (TAT) complex were higher after catheter
+To confirm the findings in vivo, the time to occlusion of catheters
+implantation in rabbits given the HRG-directed ASO and lower in
+implanted in the jugular vein of rabbits was quantified
+rabbits given the FXII-directed ASO, but the differences were not
+(supplemental Figure 3), as described previously by Yau et al.9,23
+statisticallysignificantly(supplementalFigure8B).Together,these
+The times to catheter occlusion were 59.7 ± 10.6 minutes and
+resultssuggestthatHRGknockdownenhancestheprothrombotic
+61.8 ± 8.4 minutes in rabbits given the control ASO or saline,
+activityofcathetersinrabbits,whereasFXIIknockdownattenuates
+respectively(Figure4A).Incontrast,thetimetocatheterocclusion
+their prothromboticactivity.
+was significantly (P < .01) reduced to 35 ± 9 minutes in rabbits
+given the HRG-directed ASO and was significantly (P < .0001)
+Depletion of HRG or FXII in human plasma has the
+prolonged to 125 ± 19 minutes in those given the FXII-directed
+same effect as it does in rabbit plasma
+ASO (Figure 4A). In keeping with these findings, compared with
+the thrombus weights in rabbits given the control ASO or saline To determine whether the findings in rabbits apply to those in
+(53.4±16.3mgand43.2±10.4mg,respectively)thethrombus humans, catheter-induced clotting and thrombin generation were
+weight was significantly (P < .01) greater in rabbits given the examined in human plasma. Catheter segments accelerated the
+A
+0
+ASO
+)nim(
+emit
+noisulcco
+retehtaC
+****
+200
+****
+150
+NS
+100 **
+50
+Saline Control HRG FXII
+B C
+Saline
+Control ASO
+HRG ASO
+0
+FXII ASO
+ASO
+)gm(
+thgiew
+submorhT
+*
+200
+** ***
+150
+NS
+100
+50
+Saline Control HRG FXII
+Figure4.Effectoftreatmentwithsaline,orcontrol,HRG,orFXIIASOsontimetocatheterocclusionandthrombusweight.Aftera4-weekcourseoftreatmentwith
+saline(n=6pergroup),orcontrol,HRG,orFXIIASOs(n=8pergroup),catheterswereimplantedinthejugularveinandthetimetocatheterocclusion(A)andtheweightofthe
+explantedcatheterthrombi(B)weredetermined.Mean±SD,withthesymbolsrepresentingtheresultsinindividualrabbits.*P<.05;**P<.01;***P<.001;and****P<.0001
+comparisonsbetweencatheterocclusiontimesorthrombusweightsasindicatedbythelines;(one-wayANOVAandHolm-Sidakmethod).(C)Representativeimagesof
+explantedcatheterswithintralumenalthrombi.NS,notsignificant.
+5656 MALIKetal 26SEPTEMBER2023•VOLUME7,NUMBER18
+--- Page 7 ---
+clotting time in control plasma threefold compared with that than that in control plasma (202 ± 24 seconds and 354 ± 51
+determinedintheirabsence(354±51secondsand1088±329 seconds, respectively; P <.01), whereas the clotting time inFXII-
+seconds,respectively;P<.001;Figure5A).Thecatheter-induced depleted plasma was significantly longer (1225 ± 243 seconds;
+clotting time was significantly shorter in HRG-depleted plasma P<.001).
+D
+0
+)nim(
+emit
+gaL
+E
+60 – Catheter * ##
++ Catheter 50
+*
+40
+##
+30 #
+20
+NS NS
+#
+10
+0
+Control HRG-Depleted FXII-Depleted
+Human Plasma
+)Mn(
+nibmorht
+kaeP
+A
+0
+400 – Catheter
++ Catheter
+300
+200
+100
+Control HRG-Depleted FXII-Depleted
+Human Plasma
+)s(
+emit
+tolC
+† †
+3000 – Catheter
+***
++ Catheter
+2500
+2000
+† † † ###
+† † †
+1500
+*
+1000
+500 ##
+Control HRG-Depleted FXII-Depleted
+Human Plasma
+B
+400
+300
+200
+100
+0
+)Mn(
+nibmorhT
+C
+400
+– Catheter Control Plasma
+HRG-Depleted Plasma
+300
+FXII-Depleted Plasma
+200
+100
+0
+0 20 40 60 80
+Time (min)
+)Mn(
+nibmorhT
++ Catheter Control Plasma
+HRG-Depleted Plasma
+FXII-Depleted Plasma
+0 20 40 60 80
+Time (min)
+Figure5.Catheter-inducedclottingandthrombingenerationincontrol,HRG-depleted,orFXII-depletedhumanplasma.(A)Plasmawasincubatedfor15minutesat
+37◦Cintheabsenceorpresenceofcathetersegmentsbeforeinitiatingclottingbyadditionof20mMCaCl2.Absorbancewasmonitored,andplasmarecalcificationtimeswere
+determinedasthetimetohalfmaximalabsorbance.Barsrepresentthemean±SDof4determinations.*P<.05and***P<.001comparisonoftheplasmarecalcificationtimein
+theabsenceofcathetersegments(redbars);##P<.01and###P<.001comparisonsoftheplasmarecalcificationtimeinthepresenceofcathetersegments(bluebars);††P<
+.01and†††P<.001asindicatedbythelines(one-wayANOVAandHolm-Sidakmethod).(B-E)Plasmawasincubatedintheabsenceorpresenceofcathetersegmentsfor
+15minutesat37◦C,andthrombingenerationwasinitiatedbytheadditionof20mMCaCl2andwasquantifiedbymonitoringthehydrolysisof1mMZ-GGR-AMC.Representative
+thrombingenerationprofilesintheabsence(B)orpresence(C)ofcathetersegments.Meanlagtime(D)andpeakthrombin(E)intheabsence(redbars)orpresence(bluebars)
+ofcathetersegmentsareshown.Barsrepresentmean±SDfrom5determinationseachperformedinduplicate.*P<.05comparisonofthecontrolplasmaintheabsenceof
+cathetersegments.#P<.05and##P<.01comparisonsofthecontrolplasmaintheabsenceofcathetersegments;P>.05(one-wayANOVAandHolm-Sidakmethod).
+26SEPTEMBER2023•VOLUME7,NUMBER18 HRGATTENUATESCATHETERTHROMBOSIS 5657
+--- Page 8 ---
+Comparing the results in the control rabbit plasma, catheter- bound FXI and promoting thrombin generation.30,33 Consistent
+induced thrombin generation was enhanced in HRG-depleted withourpreviousfindings,thecentralroleofFXIIinthisprocessis
+human plasma as evidenced by a significantly shorter lag time highlighted by our current observation that catheter thrombosis
+(from15±2minutesto9±3minutes;P<.05)andahigherpeak in vitro or in vivo is attenuated by FXII depletion.9,14,23 Therefore,
+thrombin(from216±22nMto350±11nM;P<.01;Figure5B- this study provides additional evidence that catheters trigger clot-
+E). In contrast, catheter-induced thrombin generation was attenu- tingbyactivating FXII.
+atedinFXII-depletedhumanplasmacomparedwiththatincontrol
+Inpurifiedorplasmasystems,wehavepreviouslyshownthatHRG
+human plasma, as evidenced by a prolonged lag time (from 15 ±
+2 minutes to 29 ± 6 minutes; P < .01) and had a significantly binds to FXIIa and attenuates FXII autoactivation and FXIIa-
+mediated activation of FXI.20 In this study, we extend these find-
+reducedthrombinpeak(from216±22nMto168±11nM;P<
+ings by showing that (1) catheter-induced FXII autoactivation and
+.05). Addition of human HRG to control or HRG-depleted human
+thrombin generation is enhanced in HRG-depleted plasma and
+plasma attenuated the prothrombotic effect of catheters in a
+concentration-dependent manner (Figure 6). Therefore, the find- attenuated in FXII-depleted plasma, and (2) compared with the
+levelsinthecontrolrabbits,catheterimplantationisassociatedwith
+ingsinhuman plasmamirror thoseinrabbitplasma.
+significantly higher and lower plasma levels of FXIIa-C1 inhibitor
+complexes with HRG and FXII depletion, respectively. The inter-
+Discussion
+action of HRG with FXIIa is primarily mediated by its central
+Catheter thrombosis is a common complication in patients with histidine-rich region (HRR) because peptide or recombinant frag-
+CVCs,butitspathogenesisispoorlyunderstood.1,8,28Theresults mentanalogsoftheHRRrecapitulatetheeffectsofintactHRG.34
+of this study identify HRG as a modulator of catheter thrombosis HRGbindstoanexositeonFXIIathatisdistinctfromitsactivesite
+because the prothrombotic effect of catheters is enhanced when because HRG has no effect on the chromogenic activity of FXIIa,
+rabbitorhumanplasmaisdepletedofHRGandattenuatedwhen nor does it influence the rate of FXIIa inhibition by C1 inhibitor.20
+HRG is added. Consistent with these in vitro findings, the time to The results of this study suggest that the HRG binding exosite
+catheter occlusion in rabbits is shorter when the HRG levels are on FXIIa remains accessible when FXII undergoes autoactivation
+reduced with an HRG-directed ASO compared with the times to onthecathetersurface,therebyexplainingthecapacityofHRGto
+catheter occlusion in rabbits given saline or a control ASO. modulatecatheterthrombosis.
+Therefore,HRGmodulatescatheterthrombosisinvitroandinvivo. Similar to the findings in rabbit plasma, catheter clotting is
+Protein adsorption onto the surface of medical devices occurs enhanced when human plasma is depleted of HRG, and is atten-
+rapidlyafterimplantation.29-32FXII,prekallikrein,andhighmolecular uated when FXII is depleted. Therefore, the results in rabbits are
+weight kininogen can bind directly to the surface, and by forming likelytomirrorthoseinhumans.HRGlevelsarereducedinpatients
+complexes of components of the contact system, high molecular withseveresepsisorinthosewithadvancedcancer.35-37Thelow
+weight kininogen can promote contact factor deposition on the levels of HRG in such patients may contribute to a higher risk of
+surface of medical devices.30,33 Catheters induce clotting by pro- catheter thrombosis compared with that in patients without these
+moting the autoactivation of bound FXII.9,14 The resultant FXIIa disorders.35,36 The fact that addition of HRG attenuates the pro-
+then initiates coagulation on the catheter surface by activating thrombotic effect of catheters in HRG-depleted rabbit or human
+3500 – Catheter
++ Catheter **
+3000
+**
+**
+** **
+2500
+*
+2000
+##
+1500 ## ##
+##
+1000
+#
+500
+0
+0 1000 2000
+Added HRG (nM)
+)s(
+emit
+tolC
+A
+3500 – Catheter
++ Catheter
+3000
+2500 *** ***
+***
+2000 **
+1500 *
+*
+1000 ## ## ##
+#
+500 #
+Control Human Plasma
+0
+3000 4000 5000 0 1000 2000
+Added HRG (nM)
+)s(
+emit
+tolC
+B
+HRG-Depleted Human Plasma
+3000 4000 5000
+Figure6.EffectofHRGoncatheter-inducedclottingincontrolorHRG-depletedhumanplasma.Controlhumanplasma(A),orHRG-depletedhumanplasma(B)was
+incubatedwithhumanHRGupto5μMintheabsence(redline)orpresence(blueline)ofcathetersegmentsfor15minutesat37◦Cbeforeinitiatingclottingviatheadditionof
+20mMCaCl2.Absorbancewasmonitoredandclottimewasdeterminedasthehalf-timeofmaximalabsorbance.Mean±SDof4determinations.*P<.05;**P<.01;and***P<
+.001comparisonsoftheclottimeintheabsenceofcathetersegmentsandwithoutHRG;#P<.05and##P<.01comparedwithclottimeinthepresenceofcathetersegments
+andwithoutHRG(one-wayANOVAandHolm-Sidakmethod).
+5658 MALIKetal 26SEPTEMBER2023•VOLUME7,NUMBER18
+--- Page 9 ---
+plasmaraisesthepossibilitythatsystemicadministrationofHRGor Health Research (FDN-159928) and the Heart and Stroke Foun-
+peptidesorrecombinantanalogsoftheHRRwillpreventcatheter dationofCanada(G-16-00013163).
+thrombosis inpatientswith reducedHRGlevels.
+Authorship
+In summary, we have shown that HRG modulates catheter
+thrombosis. These findings support the concept that HRG serves Contribution: R.A.M. designed and performed experiments,
+as a molecular brake for the contact system by attenuating the analyzeddata,andwrotethepaper;P.L.designedexperimentsand
+procoagulantactivityofFXIIaregardlessofwhetherFXIIactivation performed the catheter placement surgery; J.Z. designed and
+occurslocallyonthesurfaceofcatheters,istriggeredsystemically performed experiments; R.H. performed treatment randomization;
+with polyphosphate,22 or is induced by vascular injury with ferric L.H. and A.S.R. provided vital reagents and reviewed the manu-
+chloride.21 The fact that therapeutic levels of FXa-directed oral script; and J.C.F. and J.I.W. designed experiments, analyzed data,
+anticoagulants are unable to prevent catheter-induced clotting andwrotethemanuscript.
+in vitro suggests that alternative approaches are needed.38
+Therefore, supplementation with HRG or HRG analogs34 has the
+Conflict-of-interestdisclosure:L.H.andA.S.R.areemployeesof
+Ionis Pharmaceuticals. J.I.W. has served as a consultant for and
+potential to attenuate catheter thrombosis without perturbing
+hemostasis in individuals with hereditary or acquired HRG hasreceivedhonorariafromIonisPharmaceuticals,Anthos,Bayer,
+deficiency. Boehringer-Ingelheim, Bristol Myers Squibb, Daiichi-Sankyo, Jans-
+sen, Merck, Pfizer, and Servier. The remaining authors declare no
+competing financialinterests.
+Acknowledgments
+ORCID profiles: R.A.M., 0000-0001-7118-8715; J.Z., 0000-
+The authors thank Iqbal Jaffer of the Hamilton Health Sciences
+0002-3856-1845; R.H., 0000-0003-1906-9254; J.C.F., 0000-
+HeartInvestigationUnitforgenerouslyprovidingthepercutaneous
+0003-1223-0754; L.H., 0000-0001-5074-7362; A.S.R., 0000-
+coronary intervention catheters used forthe invitro studies. J.I.W.
+0002-4863-362X;J.I.W., 0000-0002-1092-7550.
+holds the Tier I Canada Research Chair in Thrombosis, and the
+Heart and Stroke Foundation and the J. Fraser Mustard Chair in Correspondence: Jeffrey I. Weitz, Thrombosis and Atheroscle-
+Cardiovascular Research at McMaster University. This work was rosisResearchInstitute,237BartonStE,Hamilton,ONL8L2X2,
+supported,inpart,bygrants-in-aidfromtheCanadianInstitutesof Canada;email:weitzj@taari.ca.
+References
+1. ErnstFR,ChenE,LipkinC,TayamaD,AminAN.Comparisonofhospitallengthofstay,costs,andreadmissionsofalteplaseversuscatheter
+replacementamongpatientswithoccludedcentralvenouscatheters.JHospMed.2014;9(8):490-496.
+2. JafferIH,FredenburghJC,HirshJ,WeitzJI.Medicaldevice-inducedthrombosis:whatcausesitandhowcanwepreventit?JThrombHaemost.2015;
+13(Suppl1):S72-S81.
+3. QureshiW,AliZ,AmjadW,etal.Venousthromboembolismincancer:anupdateoftreatmentandpreventionintheeraofneweranticoagulants.Front
+CardiovascMed.2016;3:24.
+4. VersoM,AgnelliG.Venousthromboembolismassociatedwithlong-termuseofcentralvenouscathetersincancerpatients.JClinOncol.2003;21(19):
+3665-3675.
+5. KlerkCPW,SmorenburgSM,BüllerHR.Thrombosisprophylaxisinpatientpopulationswithacentralvenouscatheter:asystematicreview.ArchIntern
+Med.2003;163(16):1913-1921.
+6. MarinA,BullL,KinzieM,AndresenM.Centralcatheter-associateddeepveinthrombosisincancer:clinicalcourse,prophylaxis,treatment.BMJSupport
+PalliatCare.2021;11(4):371-380.
+7. WallC,MooreJ,ThachilJ.Catheter-relatedthrombosis:apracticalapproach.JIntensiveCareSoc.2016;17(2):160-167.
+8. JafferIH,WeitzJI.Thebloodcompatibilitychallenge.Part1:blood-contactingmedicaldevices:thescopeoftheproblem.ActaBiomater.2019;94:2-10.
+9. YauJW,LiaoP,FredenburghJC,etal.SelectivedepletionoffactorXIorfactorXIIwithantisenseoligonucleotidesattenuatescatheterthrombosisin
+rabbits.Blood.2014;123(13):2102-2107.
+10. Renne´ T,GailaniD.RoleoffactorXIIinhemostasisandthrombosis:clinicalimplications.ExpertRevCardiovascTher.2007;5(4):733-741.
+11. SchousboeI.PharmacologicalregulationoffactorXIIactivationmaybeanewtargettocontrolpathologicalcoagulation.BiochemPharmacol.2008;
+75(5):1007-1013.
+12. StavrouE,SchmaierAH.FactorXII:whatdoesitcontributetoourunderstandingofthephysiologyandpathophysiologyofhemostasis&thrombosis.
+ThrombRes.2010;125(3):210-215.
+13. LongAT,KenneE,JungR,FuchsTA,Renne´ T.Contactsystemrevisited:aninterfacebetweeninflammation,coagulation,andinnateimmunity.
+JThrombHaemost.2016;14(3):427-437.
+14. YauJW,StaffordAR,LiaoP,etal.Corntrypsininhibitorcoatingattenuatestheprothromboticpropertiesofcathetersinvitroandinvivo.ActaBiomater.
+2012;8(11):4092-4100.
+26SEPTEMBER2023•VOLUME7,NUMBER18 HRGATTENUATESCATHETERTHROMBOSIS 5659
+--- Page 10 ---
+15. JonesAL,HulettMD,ParishCR.Histidine-richglycoproteinbindstocell-surfaceheparansulfateviaitsN-terminaldomainfollowingZn2+chelation.
+JBiolChem.2004;279(29):30114-30122.
+16. PoonIKH,PatelKK,DavisDS,ParishCR,HulettMD.Histidine-richglycoprotein:theSwissarmyknifeofmammalianplasma.Blood.2011;117(7):
+2093-2101.
+17. JonesAL,HulettMD,ParishCR.Histidine-richglycoprotein:anoveladaptorproteininplasmathatmodulatestheimmune,vascularandcoagulation
+systems.ImmunolCellBiol.2005;83(2):106-118.
+18. SaigoK,YoshidaA,RyoR,YamaguchiN,LeungLLK.Histidine-richglycoproteinasanegativeacutephasereactant.AmJHematol.1990;34(2):
+149-150.
+19. PanY,DengL,WangH,HeK,XiaQ.Histidine-richglycoprotein(HRGP):pleiotropicandparadoxicaleffectsonmacrophage,tumormicroenvironment,
+angiogenesis,andotherphysiologicalandpathologicalprocesses.GenesDis.2022;9(2):381-392.
+20. MacquarrieJL,StaffordAR,YauJW,etal.Histidine-richglycoproteinbindsfactorXIIawithhighaffinityandinhibitscontact-initiatedcoagulation.Blood.
+2011;117(15):4134-4141.
+21. VuTT,ZhouJ,LeslieBA,etal.Arterialthrombosisisacceleratedinmicedeficientinhistidine-richglycoprotein.Blood.2015;125(17):2712-2719.
+22. MalikRA,ZhouJ,FredenburghJC,etal.Polyphosphate-inducedthrombosisinmiceisfactorXIIdependentandisattenuatedbyhistidine-rich
+glycoprotein.BloodAdv.2021;5(18):3540-3551.
+23. YauJW,StaffordAR,LiaoP,FredenburghJC,RobertsR,WeitzJI.Mechanismofcatheterthrombosis:comparisonoftheantithromboticactivitiesof
+fondaparinux,enoxaparin,andheparininvitroandinvivo.Blood.2011;118(25):6667-6674.
+24. KimY,JoM,SchmidtJ,etal.EnhancedpotencyofGalNAc-conjugatedantisenseoligonucleotidesinhepatocellularcancermodels.MolTher.2019;
+27(9):1547-1557.
+25. YauJW,LiaoP,FredenburghJC,RobertsRS,WeitzJI,WeitzJI.Onlyhighlevelsofdabigatranattenuatecatheterthrombosisinvitroandinrabbits.
+ThrombHaemost.2014;112(1):79-86.
+26. PauerHU,Renne´ T,HemmerleinB,etal.TargeteddeletionofmurinecoagulationfactorXIIgene-amodelforcontactphaseactivationinvivo.Thromb
+Haemost.2004;92(3):503-508.
+27. KearneyKJ,ButlerJ,PosadaOM,etal.KallikreindirectlyinteractswithandactivatesfactorIX,resultinginthrombingenerationandfibrinformation
+independentoffactorXI.ProcNatlAcadSciUSA.2021;118(3):1-7.
+28. GeertsW.Centralvenouscatheter-relatedthrombosis.AmJHematol.2014;2014(1):306-311.
+29. OuberaiMM,XuK,WellandME.Effectoftheinterplaybetweenproteinandsurfaceonthepropertiesofadsorbedproteinlayers.Biomaterials.2014;
+35(24):6157-6163.
+30. ZiatsNP,PankowskyDA,TierneyBP,RatnoffOD,AndersonJM.AdsorptionofHagemanfactor(factorXII)andotherhumanplasmaproteinsto
+biomedicalpolymers.JLabClinMed.1990;116(5):687-696.
+31. AlibeikS,ZhuS,YauJW,WeitzJI,BrashJL.Modificationofpolyurethanewithpolyethyleneglycol-corntrypsininhibitorforinhibitionoffactorXllain
+bloodcontact.JBiomaterSci.2012;23(15):1981-1993.
+32. BrashJL,HorbettTA,LatourRA,TengvallP.ThebloodcompatibilitychallengePart2:proteinadsorptionphenomenagoverningbloodreactivity.Acta
+Biomater.2019;94:11-24.
+33. MargalitR,SchiffmanS.FactorXIadsorptiontosurface:interactionofhighmolecularweightkininogen(HMWK)andaplasmaadsorptioninhibitor.
+Blood.1980;56(2):168-172.
+34. TruongTK,MalikRA,YaoX,etal.Identificationofthehistidine-richglycoproteindomainsresponsibleforcontactpathwayinhibition.JThrombHaemost.
+2022;20(4):821-832.
+35. KurodaK,IshiiK,MiharaY,etal.Histidine-richglycoproteinasaprognosticbiomarkerforsepsis.SciRep.2021;11(1):10223-10226.
+36. WiniarskaA,ZarebaL,KrolczykG,CzyzewiczG,ZabczykM,UndasA.Decreasedlevelsofhistidine-richglycoproteininadvancedlungcancer:
+associationwithprothromboticalterations.DisMarkers.2019;2019(1):1-7.
+37. WakeH,MoriS,LiuK,etal.Histidine-richglycoproteinpreventssepticlethalitythroughregulationofimmunothrombosisandinflammation.
+EBioMedicine.2016;9:180-194.
+38. GuanZ,WangR,HussainRH,FredenburghJC,JafferIH,WeitzJI.Rivaroxabanandapixabanarelesseffectivethanenoxaparinforthepreventionof
+catheter-inducedclottinginvitro.JThrombHaemost.2023;21(1):76-82.
+5660 MALIKetal 26SEPTEMBER2023•VOLUME7,NUMBER18

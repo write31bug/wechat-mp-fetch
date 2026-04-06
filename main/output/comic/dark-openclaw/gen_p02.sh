@@ -1,0 +1,3 @@
+#!/bin/bash
+SKILL="/e/openclaw-work/skills/baoyu-imagine/scripts/main.ts"
+npx -y bun "$SKILL" --prompt "Dark manga comic page, 3:4 portrait. Split panel timeline showing one person in dark room at different times. Morning - person holding phone asking question, coffee cup on desk. Afternoon - same person at desk with 2 coffee cups. Evening - 3 coffee cups accumulated. Late night 2AM - same person with 5 coffee cups, dark circles under eyes, still staring at glowing phone. Each panel labeled with time. Dark moody atmosphere, orange glow from phone in each panel. Clean lineart flat colors manga style." --image "/e/openclaw-work/comic/dark-openclaw/p02_bg.png" --provider dashscope --model qwen-image-2.0-pro --quality 2k

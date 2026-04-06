@@ -1,0 +1,211 @@
+
+--- Page 1 ---
+MolecularImmunology46 (2009) 3388–3398
+ContentslistsavailableatScienceDirect
+Molecular Immunology
+journal homepage: www.elsevier.com/locate/molimm
+Interactions of histidine-rich glycoprotein with immunoglobulins and
+proteins of the complement system
+G.A.Mandersona,b,M.Martina,P.Önnerfjordb,T.Saxnec,A.Schmidtchend,
+T.E.Mollnese,D.Heinegårdb,A.M.Bloma,∗
+aLundUniversity,DepartmentofLaboratoryMedicineMalmö,DivisionofMedical,ProteinChemistry,TheWallenbergLaboratoryFloor4,
+UniversityHospital,Malmö,Entrance46Malmö,SE-20502,Sweden
+bDepartmentofExperimentalMedicalScience,DivisionofCellandMatrixBiology,BMC,LundUniversity,SE-22184,Lund,Sweden
+cDepartmentofRheumatology,LundUniversityHospital,SE-22185,Lund,Sweden
+dDivisionofDermatologyandVenereology,BMC,LundUniversity,SE-22184,Lund,Sweden
+eInstituteofImmunology,UniversityofOsloandRikshospitalet,Oslo,Norway
+a r t i c l e i n f o a b s t r a c t
+Articlehistory: Thisstudydescribeshowtheserumproteinhistidine-richglycoprotein(HRG)affectsthecomplement
+Received1April2009 system.WeshowthatHRGbindsstronglytoseveralcomplementproteins:C1q,factorHandC4b-binding
+Receivedinrevisedform15July2009 proteinandthatitisfoundcomplexedwiththeseproteinsinhumanseraandsynovialfluidsofrheuma-
+Accepted16July2009
+toidarthritispatients.HRGalsobindsC8andtoalesserextentmannose-bindinglectin,C4andC3.
+Available online 11 August 2009
+However,HRGaloneneitheractivatesnorinhibitscomplement.BothHRGandC1qbindtonecroticcells
+andincreasetheirphagocytosis.WefoundthatC1qcompetesweaklywithHRGforbindingtonecrotic
+Keywords:
+cellswhilstHRGdoesnotcompetewithC1q.Furthermore,HRGenhancescomplementactivationon
+Histidine-richglycoprotein
+necroticcellsmeasuredasdepositionofC3b.WeshowthatHRGinhibitstheformationofimmunecom-
+Immunecomplexes
+Complement plexesofovalbumin/anti-ovalbumin,whilstthereverseholdsforC1q.Immunecomplexesformedinthe
+C1q presenceofHRGshowenhancedcomplementactivation,whilstthoseformedinthepresenceofC1q
+Necroticcells showdiminishedcomplementactivation.Takentogether,HRGmayassistinthemaintenanceofnormal
+immunefunctionbymediatingtheclearanceofnecroticmaterial,inhibitingtheformationofinsoluble
+immunecomplexesandenhancingtheirabilitytoactivatecomplement,resultinginfasterclearance.
+© 2009 Elsevier Ltd. All rights reserved.
+1. Introduction ions(Jonesetal.,2005a).Itisthoughtthatmetalbinding(andalso
+pHchange)causesaconformationalchangethatcanaffectligand
+Theplasmaproteinhistidine-richglycoprotein(HRG)isknown binding,possiblyregulatingthebiologicalactivityofHRG(Joneset
+tointeractwithcomponentsoftheimmunesystem.Althoughmany al.,2005a).
+studieshavebeenpublished,thereissofarnoclearunderstanding ManyoftheinvivoligandsofHRGarepotentiallyimportantfor
+ofwhateffecttheseinteractionshaveonimmunefunction.HRG modulationofimmunesystemfunction.Forexample,theF region
+ab
+isamulti-domain67kDaprotein(Haeberli,1992)thatispresent of immunoglobulin G (IgG) molecules have been shown to bind
+inhumanplasmaatconcentrationsbetween100and150(cid:2)g/mL theN-terminaldomainofHRG(Gorganietal.,1999).Additionalin
+(Jonesetal.,2005a).Asthenamesuggests,theproteincontainsan vitroexperimentsshowedthattheformationofinsolubleimmune
+unusuallyhighnumberofsolvent-exposedhistidine(andalsopro- complexes (IICs) is partially inhibited at physiologically relevant
+linesresidues)thatareconcentratedincentral(cid:3)-helicaldomains. (i.e.150(cid:2)g/mL)concentrationsofHRG(Gorganietal.,1997).
+Thehistidineside-chainsareinvolvedinthecoordinationofZn2+ An interaction of HRG with C1q, the initiator of the classi-
+cal pathway of complement, has been documented (Gorgani et
+al., 1997). However, the consequences of this specific interac-
+tiononthedownstreamactivationofcomplementhavenotbeen
+Abbreviations:HRG,histidine-richglycoprotein;IC,immunecomplex;IIC,insol-
+studied.Complementispartoftheinnateimmunesystemandcon-
+ubleimmunecomplex;SIC,solubleimmunecomplex;TCC,terminalcomplement
+complex;NHS,normalhumanserum;FH,factorH;C4BP,C4b-bindingprotein;KCP, sists of three paths of proteolytic cascades that can be activated
+Kaposisarcoma-associatedherpesvirus(KSHV)complementcontrolprotein;mAb, by:pathogenicmicroorganismsurfaces(lectinpathway),immune
+monoclonalantibody;pAb,polyclonalantibody;MAC,membraneattackcomplex; complexes(classicalpathway)andtheautoactivationofthestruc-
+CRP,C-reactiveprotein;FI,factorI;BSA,bovineserumalbumin;MFI,meanfluores-
+turally unstable C3 (alternative pathway). The three pathways
+cenceintensity.
+∗ converge and ultimately lead to the formation of a lytic mem-
+Correspondingauthor.Tel.:+4640338233;fax:+4640337044.
+E-mailaddress:anna.blom@med.lu.se(A.M.Blom). braneattackcomplex(MAC).Complementactivationalsoresults
+0161-5890/$–seefrontmatter© 2009 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.molimm.2009.07.011
+--- Page 2 ---
+G.A.Mandersonetal./MolecularImmunology46 (2009) 3388–3398 3389
+inopsonisationof“self”cellsandtissuesuchasdyingcells,which Dahlbäck(1983),respectively.C3-metandC4-metwerepreparedas
+becometargetedforphagocytosis(Smithetal.,2002).Additionally, describedinBlometal.(2003c).Mannose-bindinglectin(MBL)was
+the products of two of the proteolysis reactions are the anaphy- purchasedfromStatensSerumInstitut,Denmark.C-reactivepro-
+latoxinsC3aandC5a,whichtriggeraninflammatoryresponseand tein(CRP)wasfromCalbiochem,IgGfromImmunoandananti-C1q
+assistinrecruitingphagocyticcellstositesofinjury(Kohl,2001).In monoclonalantibody(A201)wasfromQuidel.C8andC9werefrom
+adiseasesetting,proteins,suchasHRG,maytriggerelevatedcom- Complement Technology, Inc. Chicken ovalbumin was obtained
+plementactivation.Thiscouldultimatelyleadtotheestablishment from Sigma–Aldrich. Fibromodulin was prepared as described in
+ofaviciouscircleofinflammation,celldeath,thedelayedclearance Heinegårdetal.(1986).Ananti-HRGmonoclonalantibody(mAb,
+ofcelldebris,continuedcomplementactivation,andtheeventual HRG-5, G-14-3-4D5/65) was provided by Dr C Parish, Australian
+destructionof“self”tissue(JancarandSanchezCrespo,2005).Addi- National University, Australia and anti-HRG polyclonal antibody
+tionally,whenimmunecomplexesarenotclearedefficiently,they (pAb, GHH 20 3) by Dr A Schmidtchen, Biomedical Centre, Lund
+cancontinuetoaggregateandtheireventualprecipitationistoxic University,Sweden.Polyclonalanti-factorH(FH)andanti-chicken
+to cells (Charlesworth et al., 1982). Only one report has investi- ovalbumin antibodies were from AbCam. Anti-Kaposi sarcoma-
+gatedthelinkbetweenHRGandcomplementindetail.Itproposes associatedherpesvirus(KSHV)complementcontrolprotein(KCP)
+abiphasicmodulationbyHRGofcascadeactivation,possiblyvia andC4BP(PK8604)pAbswerepreparedin-house.Theantibodies
+interactionswithC8,C9,SproteinandfactorD(Changetal.,1992). aE1195Band9C4-RQ-BwerefromDrTEMollnes,TheNationalHos-
+Moreworkisneededtoclarifythemechanisticdetailsandconse- pital,Olso,Norway.Allotherantibodies,andahorseradishperoxi-
+quencesoftheinteractionofHRGwiththeseandothercomplement dasestreptavidinconjugatewerefromDako.Freshsheeperythro-
+proteins. cyteswerepurchasedfromSwedishVeterinaryInstituteandJurkat
+Also relevant to immune system function, HRG has been T-cellswerefromtheAmericanTypeCultureCollection(ATCC).
+reportedtobindtonecroticcellsviatheN1N2domainandan,asyet,
+unidentifiedligandofcytoplasmicorigin(Jonesetal.,2005b).Asa 2.2. PurificationofHRG
+consequence of HRG binding, enhanced phagocytosis of necrotic
+cells by macrophages was reported in vitro (Jones et al., 2005b). HumanHRGwaspurifiedfromdefattedplasmabyNi-NTA(Qia-
+HRG was also found to bind to late apoptotic cells via DNA and gen) affinity chromatography. Plasma was loaded onto a column
+Fc(cid:4)-receptorIonmaturehumanmonocyte-derivedmacrophages, pre-equilibratedinTBS,pH8.0,1mMEDTA,100(cid:2)g/mLPMSFand
+which resulted in enhanced phagocytosis (Gorgani et al., 2002). 2(cid:2)g/mL aprotinin. Weakly bound material was eluted using the
+Thus,throughopsonisation,HRGmayplayaphysiologicalrolein samebufferwith150mMimidazoleandHRGwaselutedusingthe
+the clearance of late apoptotic and necrotic cells by phagocytes. firstbufferwith500mMimidazole.Purefractionsweredialysed
+Interestingly, in addition to its role as the initiator of the classi- againstTBS,pH7.4,concentrated,bystirredcellultrafiltrationto
+calpathway(Gaboriaudetal.,2004),C1qbindstoapoptoticand approximately1mg/mL,thenfrozenat−80◦C.
+necroticcells(Elwardetal.,2005)enhancingtheirrateofclearance
+byphagocyticcells.LittleisknownabouttheeffectsHRGmayhave 2.3. QuantitationofconcentrationsofHRGinserumandsynovial
+onthisaspectofC1qfunction.Additionally,becauseHRG,C1qand fluid
+IgGshavebeenshowntobindtooneanother,atripartite“inter-
+play”mayexist,whichcouldmodulatebothcomplementfunction Determinations were made by ELISA. A standard curve was
+andimmunecomplex(IC)growthandtheircomplement-activating preparedusingaserumpoolfromhealthyvolunteers.Microtitre
+potential. plate(NuncMaxisorp)wellswerecoatedovernightat4◦C,using
+The aims of the present study are to: (1) identify HRG– 50(cid:2)Lofanti-HRG((cid:3)HRG)pAb,dilutedwithcoatingbuffer(75mM
+complement interactions, and determine whether these interac- Na 2 CO 3 , pH 9.6), then washed 3 times (TBS, 2mm CaCl 2 , 0.1%
+tionsoccurinvivo.(2)Continuetheinvestigationregardingwhat Tween 20), as was done after all incubation steps. Plates were
+effect HRG may have on complement function and attempt to then blocked (200(cid:2)L of 1% BSA in washing solution) at room
+pinpoint where, and on which pathway, HRG acts. (3) Investi- temperature for 2h. Subsequent incubations were, unless stated
+gate how the binding of HRG to C1q may affect the interaction otherwise, made at room temperature for 1h using 50(cid:2)L vol-
+of both proteins with necrotic cells, and also the formation and umes. Plates were incubated with parallel plasma and synovial
+complement-activatingabilityofinsolubleimmunecomplexes. fluidsamples,eachfrom20rheumatoidarthritispatients,diluted
+in binding buffer (50mM HEPES, pH 7.4, 100mM NaCl, 2mM
+CaCl ).Next,plateswereincubatedwitha(cid:3)HRGmAb,andthen
+2
+2. Materialsandmethods agoat-(cid:3)-mousehorseradishperoxidase(HRP)conjugate(30min
+incubation), both diluted in blocking solution. Bound HRG was
+2.1. Materials detectedusing1,2-phenylenediaminedihydrochloride(OPD)/H 2 O 2
+(Dako).Thereactionwasstoppedusing0.5MH SO andA values
+2 4 490
+Samples of plasma and synovial fluid were collected from determined.
+rheumatoidarthritispatientsattheDepartmentofRheumatology,
+LundUniversityHospital.Sampleswerecentrifugedandstoredat 2.4. BindingofHRGtocomplement-relatedligands
+−80◦Cuntilanalysis.Allpatients,n=20,fulfilledtheAmericanCol-
+legeofRheumatology1987criteriaforrheumatoidarthritis(Arnett DetailsaspertheaboveELISAprotocol.Microtitreplatewells
+etal.,1988).Poolednormalhumanserum(NHS)waspreparedfrom werecoatedovernightwith:C1q,FH,C4-met,C3-met,FI,C4BP,IgG,
+thefreshlydrawnbloodofhealthyvolunteers.Theethicalreview CRP,C8,C9,MBL,fibromodulinandBSAat6(cid:2)g/mL.Followingblock-
+boardofLundUniversityhasapprovedcollectionofbloodandsyn- ing,theplateswereincubatedwithHRGdilutedwithbindingbuffer
+ovial fluids. C1q was purified from human serum (Tenner et al., to1–20(cid:2)g/mL.BoundHRGwasdetectedasabove.TheeffectofNaCl
+1981). The partial digestion of C1q using pepsin and collagenase onthebindingofHRGtoC1qandproteolyticallycleavedC1qheads
+(Worthington) was used to prepare tail (Paques et al., 1979) and andtailswasalsoexamined.C1qspecieswerecoatedovernightat
+head (Reid and Porter, 1976) regions. Factor H (FH), factor I (FI) 10(cid:2)g/mL.Plateswerethenincubatedwith10(cid:2)g/mLHRGdiluted
+andC4b-bindingprotein(C4BP)werepurifiedfromhumanplasma usingvariousratiosofbindingbufferand4MNaCltoachieveNaCl
+according to Blom et al. (2003a), Crossley and Porter (1980) and concentrationsbetween100and850mM.
+--- Page 3 ---
+3390 G.A.Mandersonetal./MolecularImmunology46 (2009) 3388–3398
+2.5. IdentificationofHRGincomplexwithotherproteinsinsera C1q-depleatedserumtogive80(cid:2)g/mLC1qand125(cid:2)g/mLaddi-
+tionalHRG.Therepletedserumwasthendiluted1:80,and25(cid:2)L
+An immune precipitation approach was used. Initially, serum was added to 125(cid:2)L sheep erythrocytes at 8.6×107cells/mL in
+orsynovialfluid(100(cid:2)Laliquots)waspre-clearedbyincubating DGVB++. Extent of haemolysis was assessed spectrophotometri-
+withanirrelevant(cid:3)FIpAb(20(cid:2)g)at4◦C(theincubationtempera- callyfromamountsofliberatedhaemoglobin(A ).
+405
+tureforallsubsequentsteps)for60min.Anyprotein/Igcomplexes
+formed were removed by adding 4(cid:2)L protein A Sepharose resin 2.9. CompetitionbetweenHRGandC1qforbindingtonecrotic
+(Sigma)mixedwith16(cid:2)LSephacrylS-100resin(GEHealthcare) cells
+andincubating,withrotating,for60min.Subsequently,20(cid:2)gof
+the following pAbs were added to 100(cid:2)L aliquots of fresh sera: Aflowcytometryapproachwasemployed.JurkatT-cells(ATCC)
+(cid:3)HRG,(cid:3)C1q,(cid:3)FH,(cid:3)C4BP,(cid:3)KCP,followedbyovernightincubation, in RPMI without serum at 2×106cells/mL were heat-treated at
+withrocking.FreshproteinASepharose(asabove)wasthenadded 56◦C for 30min to induce necrosis. Cells were then washed in
+followed by incubation, with rotating, for 60min. The resin was flow cytometry binding buffer (10mM HEPES, pH 7.4, 150mM
+sedimented, retained, washed 3 times in 400(cid:2)L cold microtitre NaCl, 5mM KCl, 1mM MgCl , 2mM CaCl ) and re-suspended to
+2 2
+platewashingsolution(seeabove),andre-suspendedin45(cid:2)LSDS- 1.5×107cells/mL.FortitrationofHRGandC1qwithnecroticcells,
+PAGEsamplebuffer.PrecipitatedmaterialwasanalysedbyWestern protein and cells were incubated together at 37◦C for 30min
+blotusinga(cid:3)HRGmAb,thenagoat-(cid:3)-mousepAbHRPconjugate. withgentleshaking.Followingwashinginflowcytometrybinding
+Proteinbandswerevisualizedusingaluminolenhancedchemilu- buffer,thecellswereincubated(30min,roomtemperature)with
+minescencesubstratesystem(Sigma–Aldrich,St.Louis,Missouri). a1:1000dilutionofa(cid:3)HRGmAbora(cid:3)C1qpAb,washedagain,
+The binding of HRG from serum to C1q, FH, IgG and C8 was thenincubatedwitha1:40dilutionofagoat-(cid:3)-mouseorswine-(cid:3)-
+alsoinvestigated.HRGligandswereimmobilisedat10(cid:2)g/mL,then rabbitpAbFITCconjugate.Thecellswerewashedandre-suspended
+incubated at 37◦C for 60min with NHS, diluted 1:10 in binding inflowcytometryanalysisbuffer(50mMHEPES,pH7.4,100mM
+buffer.BoundHRGwasdetectedusingthe(cid:3)HRGpAb. NaCl,30mMNaN ,1%BSA)andthequantitiesofboundHRGorC1q
+3
+determined.
+2.6. DirectactivationofcomplementbyimmobilisedHRG For competition studies, C1q labelled with AF488 (Molecular
+Probes) according to the manufacturer’s instructions, and unla-
+MicrotitreplatewellswerecoatedovernightwithHRG,IgG,or belledHRG,oralternativelyunlabelledC1qandAF488-HRGwere
+BSA at 5(cid:2)g/mL. Following blocking, plates were incubated with mixedandpre-incubatedat4◦Cfor30min.NecroticJurkatT-cells
+normal human serum (NHS), diluted in GVB++ (5mM veronal cellswereaddedandincubatedwiththeproteinsat37◦Cfor30min
+buffer,pH7.35,144mMNaCl,0.1%gelatin,1mMMgCl ,0.15mM withgentleshaking.Followingwashingwithflowcytometrybind-
+2
+CaCl )asfollows:depositionofC3d,1:200andC5b–C9,1:10.Serum ingbuffer,thecellswerere-suspendedinflowcytometryanalysis
+2
+incubationsweredoneat37◦Cfor20min(C3d)or40min(C5b–C9). bufferandthequantitiesoftheboundlabelledproteinsdetermined.
+For detection, plates were incubated with pAbs against C3d and ThemoleratiosAF488-C1q:HRGof1:0,1:1,1:2and1:4,correspond
+C5b–9,thenaswine-(cid:3)-rabbitpAbHRPconjugate. to7(cid:2)g/mLC1q:0,1,2.4,4.2(cid:2)g/mLHRG.ForAF488-HRG:C1q,the
+moleratios1:0,1:0.33,1:0.66,1:1and1:2,correspondto15(cid:2)g/mL
+2.7. InhibitionofcomplementactivationbyHRG HRG:0,1533.3,66.6,100and200(cid:2)g/mLC1q.
+Microtitreplatewellswerecoatedovernightwithfibromodulin 2.10. Confocalmicroscopy
+at10(cid:2)g/mL,thenblocked.NHSwasmixedwithHRGandGVB++
+toachieveafinalserumdilutionof1:50andHRGbetween2.5and NecrosiswasinducedinRPMIwithoutFCSasabove.Afterwash-
+25(cid:2)g/mL.ThevolumeofHRGsolution,relativetoGVB++andserum ingthecellstwicewithbindingbuffer(10mMHEPES,150mMNaCl,
+neverexceeded7%.Theseserum/HRGmixtureswereincubatedat 5mMKCl,1mMMgCl ,2mMCaCl ),1×106cellswereincubated
+2 2
+4◦Cfor1hbeforebeingusedincomplementdepositionassays(see withacombinationof350(cid:2)g/mlC1qand50(cid:2)g/mLHRG(equimo-
+above). laramounts)for30minat37◦C.Thecellsweretransferredtoice
+andwashedtwicewithice-coldbindingbufferandspunfor5minat
+2.8. EffectofHRGoncomplement-inducederythrocyte 500rpmonSuperFrostPlusobjectslides(Menzel,Germany)using
+haemolysis a Cellspin (Tharmac, Germany). After fixation with 3.7% PFA for
+15minatroomtemperature,thecellswereblockedfor30minwith
+Sheep erythrocytes were washed 3 times in DGVB++ (2.5mM 1%BSAinPBS.Thecellswerenextincubatedwithrabbit(cid:3)-human
+veronalbuffer,pH7.35,72mMNaCl,0.1%gelatin,2.5%d-glucose, HRGandmouse(cid:3)-humanC1qover-nightat4◦C,thenwithAF488-
+1mM MgCl , 0.15mM CaCl ), then adjusted to 1×109cells/mL. labelled goat anti-rabbit and AF647-labelled goat anti-mouse, as
+2 2
+Next, the cells were mixed with an equivalent volume of ambo- appropriate,for1hatroomtemperature.Finally,100ng/mLpropid-
+ceptor(DadeBehring),previouslydiluted1:1500inDGVB++,and iumiodine(PI)wasaddedandthecellsincubatedfor15minatroom
+incubated at 37◦C for 20min. The erythrocytes were washed temperature.Inbetweeneachstop,theslideswerewashedexten-
+twice,thenre-suspendedto5×108cells/mL.Forhaemolyticassays, sivelywithPBS,thendippedbrieflyin99%ethanol.Aftercomplete
+erythrocytes were diluted to 8.6×107cells/mL in DGVB++, then drying,thesamplesweremountedwithDakoCytomationFluores-
+effectors added: HRG (to 0.340(cid:2)M), C1q (to 0.056(cid:2)M), FH (to cent Mounting Medium (Dako) and sealed with nail polish. The
+0.103(cid:2)M)andC4BP(to0.038(cid:2)M).Whentwoproteinswereadded slideswerestoredat4◦C.
+simultaneously,theywerepre-incubatedat4◦Cfor5min.Haemol-
+ysiswasinitiatedbyaddingNHS,toafinaldilutionof1:270andthe 2.11. Complementactivationbynecroticcellsinthepresenceof
+processfollowed,at37◦C,bymeasuringthedecreaseinlightscat- HRG
+tering (A ). For HRG alone, the protein was also pre-incubated
+700
+withNHS(37◦C,10min)beforebeingaddedtotheerythrocytes. Necrotic Jurkat T-cells were prepared as described above, re-
+Pre-mixedHRGandC1qwerealsoaddedtoC1q-depletedserum, suspendedto1.5×107cells/mL,thenincubatedwithanequivalent
+whichwasthenusedforhaemolyticassays.HRG(554pmol)and volume of 250(cid:2)g/mL HRG in binding buffer. After washing, as
+C1q(45pmol)werepre-incubatedfor30minat4◦C,thenaddedto above, the cells were incubated with 0.25–5.0% NHS in GVB++

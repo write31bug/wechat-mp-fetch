@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "skills": {
+    "social-media-scheduler": {
+      "version": "1.0.0",
+      "installedAt": 1775378617509
+    },
+    "douyin-tiktok-trends": {
+      "version": "1.0.0",
+      "installedAt": 1775378617598
+    }
+  }
+}

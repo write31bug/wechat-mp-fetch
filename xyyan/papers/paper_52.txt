@@ -1,0 +1,597 @@
+
+--- Page 1 ---
+JournalofThrombosisandHaemostasis,3:865–872
+IN FOCUS
+Enhanced blood coagulation and fibrinolysis in mice lacking
+histidine-rich glycoprotein (HRG)
+N. TSUCHIDA-STRAETEN,*(cid:1)(cid:2) S. ENSSLEN,*(cid:2) C. SCHA¨ FER,* M. WO¨ LTJE,* B. DENECKE,* M. MOSER,*
+S. GRA¨ BER,* S. WAKABAYASHI,(cid:1) T. KOIDE(cid:1) andW. JAHNEN-DECHENT*
+*IZKFBIOMAT,UniversityHospital,RWTHAachen,Pauwelsstrasse30,D-52074,Aachen,Germany;and(cid:1)DepartmentofLifeScience,Graduate
+SchoolofLifeScience,UniversityofHyogo,Kamigori-cho,Hyogo,678–1297,Japan
+Tocitethisarticle:Tsuchida-StraetenN,EnsslenS,Scha¨ferC,Wo¨ltjeM,DeneckeB,MoserM,Gra¨berS,WakabayashiS,KoideT,Jahnen-Dechent
+W.Enhancedbloodcoagulationandfibrinolysisinmicelackinghistidine-richglycoprotein(HRG).JThrombHaemost2005;3:865–72.
+SeealsoBorzaD-B.Lifewithouthistidine-richglycoprotein:modulationofthehemostaticbalancerevisited.Thisissue,pp863–4.
+genesforfetuin-A,fetuin-B,HRGandkininogenclusterhead
+Summary. Histidine-rich glycoprotein (HRG) is a serum to tail on chromosome 3 in the human genome and on
+proteinbelongingtothecystatinsuperfamily.HRGmayplay chromosome16inmouse.TheHrggeneincludessevenexons
+aregulatoryroleinhemostasisandinnateimmunity.However, andsixintrons.TheN-terminalregionoftheproteinconsists
+thisroleisuncertainbecauseofalackofrigoroustestinginan of two cystatin-like domains D1 and D2 which are each
+animalmodel.Wegeneratedmicelackingthetranslationstart encoded by three exons, exons I to III and exons IV to VI,
+pointofexon1oftheHrggene,effectivelyresultinginanull respectively.ExonVIIencodesforalargeC-terminaldomain,
+mutation(Hrg–/–).Themicewereviableandfertilebuthadno whose N-terminal region is very rich in proline and histidine
+HRG in their blood. Antithrombin activity in the plasma of residues. HRG is exclusively synthesized in the liver, but it
+Hrg–/– mice was higher than in the plasma of heterozygous becomesassociatedwithplateletsandmegakaryocytesandcan
+Hrg+/–orwild-typeHrg+/+mice.Theprothrombintimewas be released after thrombin stimulation [4]. Mature HRG
+shorter in Hrg–/– mice than in Hrg+/– and Hrg+/+ mice. circulatesinthebloodatarelativelyhighconcentrationofup
+Bleeding time after tail tip amputation in Hrg–/– mice was to150mgL )1((cid:1)2lmolL)1).
+shorter than in Hrg+/+ mice. The spontaneous fibrinolytic HRGbindstoheparin[5,6],plasminogen[7,8]andfibrino-
+activity in clotted blood of Hrg–/– mice was higher than in gen [9] suggesting a role in hemostasis. Several individuals
+Hrg+/+ mice. These findings suggest that HRG plays a role withacongenitaldeficiencyofHRGwerediscoveredinthree
+asbothananticoagulantandanantifibrinolyticmodifier,and familieswiththrombophilia[10–12]corroboratingsucharole.
+mayregulateplateletfunctioninvivo. Molecular binding of HRG to multiple ligands is mediated
+throughspecificbindingdomains,whichbindindependentof
+Keywords: blood proteins, glycoproteins, hemostasis, HRG, eachother[13].Alow-affinitybindingsiteforthecellsurface
+knockoutmice. glycosaminoglycanheparansulfatewasrecentlymappedtothe
+N-terminaltandemcystatindomains(N1N2)[14].Cellbinding
+Introduction of HRG was enhanced by Zn2+ in an indirect fashion by
+binding to the histidine-proline-rich domain. This binding
+Human histidine-rich glycoprotein (HRG) is a single-chain
+behaviorcangreatlyinfluenceHRGbioactivityatsitesoflocal
+glycoproteinwithamolecularweightof67000;itiscomposed
+changesinpHvalueandZn2+concentration[15],suggesting
+of 507 amino acid residues. HRG belongs to the cystatin
+thatHRGmaybeatunableadaptorproteinforseveralligands
+superfamilyofproteinslikefetuinsandkininogens[1–3].The
+involved in inflammation and tissue remodelling. Such a
+mechanism was indeed experimentally verified for HRG
+bindingofplasminogen[16].Theauthorsproposedthatunder
+Correspondence: Willi Jahnen-Dechent, IZKF BIOMAT, University conditionsoflowpHandelevatedfreeZn2+,HRGactsasa
+Hospital,Pauwelsstrasse30,D-52074Aachen,Germany. high-affinity receptor for plasminogen thus enhancing the
+Tel.:+492418080163;fax:+492418082573;e-mail:willi.jahnen@
+migratorypotentialofcells.
+rwth-aachen.de
+In addition, HRG binds and transports divalent metals
+[17,18],tocomplementcomponentsandIgG,andinhibitsT-cell
+(cid:2)Theseauthorscontributedequally.TheGenBankaccessionnumberof
+proliferation[19–21].Recently,itwasreportedthatHRGhas
+thenucleotidesequenceisAB055898.
+potentantiangiogenicactivity[22,23].Despitetheseabundant
+Received28September2004,accepted16December2004 biological properties reported for HRG, the physiological
+(cid:1)2005InternationalSocietyonThrombosisandHaemostasis
+--- Page 2 ---
+866 N.Tsuchida-Straeten etal
+functionofHRGhasnotbeenfirmlyestablished.Toexplorethe (2lmolL)1 final concentration), 144 resistant clones were
+physiologicalfunctionofHRG,weclonedthemouseHRGgene isolated,cryo-conservedandusedforDNApreparation.DNA
+and produced, by homologous recombination, mice lacking samples from individual ES cell clones digested with ScaI or
+HRG. HindIII were probed with the 0.6-kb SmaI fragment located
+immediatelyupstreamofthe1.9-kbSalI-XbaIfragmentusedin
+the replacement vector. This probe detected a 10.4-kb ScaI
+Materials and methods
+fragmentanda4.6-kbHindIIIfragmentinwild-typeDNAora
+Allanimalexperimentsinthisstudywereperformedcomplying 6.5-kb ScaI fragment and a 8.4kb HindIII fragment in the
+with the German Animal Protection Law (Tierschutzgesetz) correctlytargetedallele(seeFig.1).
+following procedures reviewed and approved by institutional Two independent ES cell clones (clone 33 and clone 24)
+andstateanimalprotectionboards. yieldedfertilechimerasuponblastocystinjection.Oneclone33
+chimericfemaleandoneclone24chimericmaletransmittedthe
+targeted Hrg locus through the germline as demonstrated by
+Targetingvector andhomologous recombination
+SouthernblotanalysisoftailDNAfromF offspring.
+1
+To construct a targeting vector for the Hrg gene, we first GenotypesweredeterminedbySouthernblothybridization
+screenedamouse129/SvJgenomiclibrarywitha1.1-kilobase analysis as described for ES cells or by polymerase chain
+(kb)EcoRIfragmentofratHRGcDNA.Theidentityofthe reaction(PCR).PCRanalysiswascarriedoutusingprimersP1
+genewasconfirmedbyrestrictionmappingwithratandmouse (5¢-TTGAATGATTCTAATGTGAAGGC-3¢), P2 (5¢-GGT
+Hrg cDNAs and by sequencing. A targeting vector was CCTCATTTCCGCATTCCGTGGA-3¢) and P3 (5¢-TTGT
+constructed following published protocols [24]. A 1.9-kb GTAGCGCAAG TGCCAGCG-3¢) covering the positions
+SalI-XbaI DNA fragment including a part of exon I of the indicatedinFig.1.
+mouseHrggeneservedas5¢-homologousregionanda7.8-kb Immunoblots were performed with 0.2lL of serum and
+BamHIgenomicfragmentofmouseHrg,whichcontainsexons rabbitantiserumagainsthumanHRG,whichcross-reactswith
+IItoVIIservedasa3¢-homologousregion.Thus,thetargeting mouseHRGasdescribed[25].
+vectorreplaceda 1.8-kbXbaI-BamHI fragmentcomprising a
+partofexonIincludingthetranslationstartpointwithaneo-
+Hematological analysis
+mycincassetteforpositivecloneselection(Fig.1).FlankingTK
+cassettesfornegativeselectionwerealsocontainedinthevector. Blood was collected by cardiac puncture and serum was
+129/Olaembryonicstemcells(passage10)weregrownona obtainedbycentrifugation.Serumchemistryandhemograms
+mouse embryonic fibroblast feeder layer and electroporated were performed using a Vitros 250 analyzer (Orthochemical
+with60lgofPvuI-linearizedreplacementvectorDNAfollow- Diagnostics, Necher Giemlind, Germany) and a Celltek-M
+ingestablishedprotocols.Afterpositive-negativeselectionusing (Nihon Konden; Johnson & Johnson, Bad Hamburg,
+G418 (400lgmL
+)1
+final concentration) and ganciclovir Germany)analyzer,respectively.Forcoagulationassaysblood
+was anticoagulated with sodium citrate (9:1 v/v with 3.8%
+sodiumcitrate).Antithrombinactivitywasdeterminedusingthe
+10.4 kb COAMATIC(cid:2)Antithrombinkit(Chromogenix,Orangeburg,
+4.6 kb
+SH H H S
+Wildtype NY, USA) and control plasma N (Dade Behring, Marburg,
+P1 P2 allele Germany).
+3091 bp
+Fibrinogen was determined using commercial kit 886
+S H S B
+Targeting (Sigma,Taufkirchen,Germany).Prothrombintimewasmeas-
+NEO
+vector ured using a KC10A coagulometer (Amelung, Lemgo,
+6.5kb Germany). Human HRG was purified from human plasma
+8.4 kb
+SH S H S Targeted asdescribedpreviously[26].
+NEO
+allele
+P1 P3
+2077 bp
+probe Bleedingtime
+1 kb
+The tails of 2–4-month-old anesthetized mice (100mg keta-
+mine and 5mg xylazine per kg intraperitoneally) were
+Fig.1. StructureofthemouseHrggene.ThemouseHrggeneandits
+prewarmed for 5min at 37(cid:3)C in a water bath, and a 5-mm
+partialrestrictionmapareschematicallydrawnasthewild-typeallele(top).
+Exonsarerepresentedbyblackboxes.RestrictionenzymesareBamHI(B), segment of tail tip was amputated with a razor blade. The
+HindIII(H),andScaI(S).Thetargetingvectorisdrawninthemiddle.The bleedingtimewastakenuntilthebleedingstopped.
+3¢-portionofexonIandthe5¢-halfofintronAwerereplacedbythe
+neomycincassetteinthetargetedHrggene(bottom)effectivelyremoving
+thetranslationstart.ThepositionofPCRprimers(P1,P2,andP3)andthe Wholebloodclotlysis
+sizeoftheexpectedPCRproductsareshownbelowthegenes.Restriction
+fragmentsdigestedbyScaIorHindIIIrestrictionenzymesareindicated Briefly,100lLoffreshbloodcollectedbyvenacavapuncture
+withtheirrespectivesizesinkbprobedbya0.6-kbSmaIfragment. wasdiluted10-foldwithsalinecontaining(cid:1)10000countsper
+(cid:1)2005InternationalSocietyonThrombosisandHaemostasis
+--- Page 3 ---
+Coagulationandfibrinolysis inHRGknockout mice 867
+minhuman125I-labeledfibrinogen(Amersham,Buckingham-
+A
+shire,UK)andwascoagulatedat37(cid:3)Cwith8lLofbovine
+thrombin (75UmL)1) (Sigma), and 10lL of 0.75molL)1 M +/+ +/– –/– +/+ +/– –/– M
+CaCl solution[27].Atthetimesindicatedthe125Icontentof
+2
+10
+50-lLaliquotsofsupernatantwasmeasuredusingagamma-
+8
+counter(modelLB951G;Berthold,BadWildbad,Germany).
+6
+The release of 125I-labeled fibrin degradation peptides was
+5
+analyzed by sodium dodecyl sulfate–polyacrylamide gel elec-
+trophoresis(SDS–PAGE)andautoradiographyusing10lLof
+3
+lyzed clot supernatant and NuPAGETM acrylamide gels
+Hind lll Sca l
+(Novex,Frankfurt,Germany).
+B
+M +/– +/– –/– –/– +/+ +/– –/– +/– +/+–/– –/–
+Induction ofskin wounds
+10
+Mice were anesthetized, shaved dorsolaterally and swabbed
+5
+with70%ethanol.Afullthicknesswoundwasinflictedusing
+an 8-mm dermal biopsy punch. Wound areas were photo- 3
+graphed daily and the wound area was measured histomor- 2
+phometrically using National Institutes of Health IMAGE
+software.
+Fig.2. ConfirmationofHrggeneknockoutatthelevelofgenomicDNA.
+Results
+(A)SouthernblotanalysisofgenomicDNAisolatedfromtailbiopsies
+ofHrg+/+,Hrg+/–andHrg–/–mice.ThegenomicDNAprobeindicated
+Structureof the Hrggenelocus inFig.1detecteda4.6-kbHindIIIfragmentanda10.4-kbScaIfragment
+inthewild-typealleleandan8.4-kbHindIIIfragmentanda6.5-kbScaI
+Figure1showsthestructureofthemouseHrggenelocus.The
+fragmentinthemutantallele,respectively,indicatingcorrectgenetar-
+completenucleotidesequenceof13591bases(AB055898)was getingasoutlinedinFig.1.PCRanalysisoftheprogenyofatypical
+determined by sequencing. The alignment with the cDNA heterozygousHrg+/–mating.(B)PCRdetectionofthedisruptedallele
+sequence demonstrated that the gene for mouse Hrg was wasaccomplishedwithforwardprimer1(P1,seeFig.1)derivedfromthe
+5¢non-codingflankingregionoftheHrggeneandwithreverseprimer3
+composedofsixsmallexonsIthroughVI(81–225bp),andone
+(P3),locatedintheneomycincassette.ThusthePCRgeneratesan
+largeexonVII(905bp).Thesizeofintronsvariedfrom677bp
+ampliconsizeof2077bpforthemutatedallele.ThePCRofthewild-type
+to2315bp.Thisexon–intronstructurewasverysimilartothat allelewithforwardprimer1andreverseprimer2(P2)locatedwithin
+of the human gene [28] where seven exons were likewise thedeletedregionoftheHrggeneresultsinanampliconsizeof3091bp.
+identified.Thestructuralorganizationintotwogroupsofthree Notethatallthreegenotypeswererepresentedinoneprogeny.DNA
+marker(M)sizeinkbisindicatedontheleft.
+exonscodingforacystatin-likeproteindomaineach,andone
+additional larger exon coding for a third protein domain
+specificfortherespectiveproteinisalsopresentintherelated F offspring (Figs2A,B). Ten matings yielded a combined
+1
+fetuin family proteins, Fetuin-A/Ahsg and Fetuin-B/Fetub progenyof98micecomprising30Hrg+/+,34Hrg+/–,and34
+[24,29]. The genes encoding these proteins are neighbors on Hrg–/– mice illustrating that HRG-deficient mice are viable.
+chromosome16inthemousegenomeandthereforeoriginated Progeny derived from different injection experiments were
+bygeneduplication.Asimilararrangementisconservedinthe phenotypicallyindistinguishable.TheHrgnullmutationinits
+humangenome. homozygous state was maintained on a mixed 129/Ola,
+C57BL/6background.Forfurtherreferencethemutantstrain
+is named 129/B6-Hrgtm1Wja according to ILAR (Institute of
+Generationof HRGnullmutant mice (Hrg–/–)
+LaboratoryAnimalResources)rules.
+A targeting vector for homologous recombination was con-
+structedasshowninFig.1.UpongenomicSouthernhybrid-
+Analysisof HRG-deficient mice (129/B6-Hrgtm1Wja)
+ization of DNA isolated from 144 neomycin-resistant cell
+clonesthreecorrectlytargetedembryonicstemcellcloneswith Homozygous HRG-deficient mice were viable and fertile.
+thepredictedrestrictionpatterns(Fig.1)wereidentified.Two Spontaneousmortalityduringthefirst3monthswasnormalat
+independent ES cell clones were successfully used to derive 2.6% (seven out of a total of 268 animals). We performed
+chimeric mice after blastocyst injection and embryo transfer. immunoblotanalysistoconfirmtheHRGdeficiencyinserum.
+GenomicDNAanalysisofF -progenyofthesemiceindicated Figure3showsthattwoproteinbandscharacteristicofHRG
+1
+thepresenceofonewild-typealleleandonenullallelederived (80kDa) and its major proteolytic degradation product were
+by homologous recombination at the Hrg locus. Mice of all detected in the serum of wild-type and heterozygous Hrg+/–
+three Hrg genotypes were born from crosses of heterozygous mice,butnoproteinbandwasdetectedinserumfromHrg–/–
+(cid:1)2005InternationalSocietyonThrombosisandHaemostasis
+--- Page 4 ---
+A 4 p=0.3
+kDa hu +/+ +/– –/– –/– +/+ +/– –/– –/– p=0.1
+p=0.00001
+96 p=0.2
+3 p=0.0002
+68
+p=0.5
+2
+30
+B
+1
+kDa hu –/– –/– –/– +/– +/– +/– +/+ +/+
+96
+0
+68 +/+ +/– –/– +/+ +/– –/–
+n=8 n=4 n=8 n=8 n=12 n=15
+male
+30
+Fig.3. ImmunoblotanalysisofserumHrgexpression.Serum(0.2lL)
+fromprogenyofaheterozygousF crossofclone24(A)orclone33 2
+(B)wasseparatedbyreducingSDS–PAGEandelectrotransferredonto
+nitrocellulose.HRGproteinwasdetectedbyimmunologicalstaining
+usingrabbitpolyclonalantibodyraisedagainsthumanHRG,peroxidase-
+activityof116%andHRG-deficientplasmafromHrg–/–mice
+labeledsecondaryantibodyandenhancedchemiluminescencedetection.
++/+,wild-type;+/–,heterozygous;–/–,homozygousHRG-deficient; hadanelevatedantithrombinactivityof125%.Thedifference
+hu,humanserum.NotethatnoHRGwasdetectedinHrg–/–serumand inantithrombinactivitybetweenHrg+/+andHrg–/–micewas
+abouthalftheamountofHRGwasdetectedinserumfromHrg+/–mice
+statistically highly significant (n¼ 10 each, P¼ 0.001, data
+whencomparedtowild-typeHrg+/+mice.
+notshown).
+Wemeasuredfibrinogeninplasmasamplesfrommaleand
+mice. Roughly half the amount of HRG protein could be femalemice(Fig.4).Theamountoffibrinogenwashigherin
+detected in serum from Hrg+/– mice compared to Hrg+/+ plasma from males than from females. This sex-specific
+mice.ThisfindingindicatesthatbothcopiesoftheHrggeneare difference was47%inwild-type mice(2.5±0.4gL)1 male,
+independently expressed. We obtained identical results when
+1.7±0.1gL)1female)to35%inheterozygousHrg+/–mice
+weanalyzedHRGlevelsinserumfromtheoffspringofEScell (2.3±0.3gL
+)1
+male, 1.7±0.4gL
+)1
+female) and 13% in
+clones24or33(Fig.3),indicatingthatbothstrainsrepresented Hrg–/– mice (2.6±0.5gL )1 male, 2.3±0.4gL )1 female).
+atrueHRGnullmutationattheserumproteinlevel.Strain33 Plasma fibrinogen was increased in HRG-deficient mice
+wasanalyzedinmoredetail. compared to wild-type and Hrg+/– mice. This difference was
+mostpronouncedintheplasmaofHRG-deficientfemalemice,
+containing 35% more fibrinogen (2.3±0.4gL)1) than
+Hematological analysis
+plasmafromheterozygousandwild-typefemales(both1.7±
+Routine hematology revealed similar blood cell counts for
+0.1gL)1).
+Hrg–/– mice and for wild-type mice, but monocytes were Figure5(A) illustrates that the prothrombin time was
+2.5-fold more abundant in HRG-deficient than in wild-type significantly shorter in the plasma of HRG-deficient mice
+mice(5.3±3.0%vs.2.1±2.1%,n¼ 8,P¼ 0.018).Serum (lane 4) than in human plasma (lane1), fetuin-A-deficient
+activity GOT/AST, GPT/ALT, GGT, blood glucose, triglyc- (lane 2) or wild-type mouse plasma (lane 3), suggesting that
+erides, urea, creatinine, and electrolytes were all normal in HRG deficiency was associated with faster extrinsic blood
+HRG-deficientandwild-typemicesuggestingthatliver,heart clotting.Thisacceleratedprothrombintimewasspecificforthe
+and kidney metabolism were uncompromised by the lack of HRGdeficiency,becausedeficiencyinfetuin-A,agenetically–
+HRG(datanotshown). but not functionally – related plasma protein, was not
+associated with shortened prothrombin time. In addition,
+reconstitution with purified human HRG of HRG-deficient
+Bloodcoagulation
+mouse plasma restored the prothrombin time to wild-type
+Weestimatedantithrombinactivityusingachromogenicassay levels(Fig.5,lanes4–7).Figure5(B)depictstheimmunoblot
+measuring the residual activity of excess factor Xa in the analysisoftheidenticalplasmasamplesanalyzedinFig.5(A),
+presence of a fixed amount of heparin. Commercial human confirmingthattheclottingtimeincreasedwiththeamountof
+controlplasmaNactivitywassetto100%inthisassay.Plasma HRGintheplasmasamples.
+samples obtained from wild-type Hrg+/+ mice scored 107% Nextwemeasuredthebleedingtimeafteramputationofa
+comparedtohumancontrolplasmaN.Plasmaobtainedfrom 5-mm length of tail tip as an in vivo parameter of combined
+heterozygous Hrg+/– mice had an elevated antithrombin plasmaandplateletmediatedbloodcoagulation.Thebleeding
+]l/g[
+negonirbif
+868 N.Tsuchida-Straeten etal
+female
+Fig.4. Fibrinogenconcentrationinplasmaofwild-typeandHRG-
+deficientmice.+/+,wild-type;+/–,heterozygous;–/–,homozygous
+HRG-deficient.Valuesrepresentthemean±SDof4–15individualmice
+asdetailedinthefigure.TheP-valueswerecalculatedwithStudent’st-test.
+(cid:1)2005InternationalSocietyonThrombosisandHaemostasis
+--- Page 5 ---
+A
+14 p = 0.08
+p = 0.01
+13
+p = 0.0003
+12 p = 0.0002
+11
+10
+9
+B
+autoradiography (Fig.7B). In full accordance with the faster
+clot lysis in Hrg–/– mice determined by radioactive measure-
+mentofclotlysissupernatants,higheramountsofradioactive
+125I-labeled fibrin degradation peptides were consistently
+detected in lyzed clot supernatants of HRG-deficient mouse
+blood(Fig.7B,lane5–8)thaninlyzedclotsupernatantsfrom
+wild-typemouseblood(lane1–4).Takentogethertheseresults
+times were highly variable, ranging from 0.5 to 5.5min suggestthatHRGmayactasanantifibrinolyticinvivo.
+(Fig.6). Nevertheless, the bleeding time was significantly
+shorter in Hrg–/– mice compared to Hrg+/+ mice (median
+Skinwound model
+±SEM,50±8s,n¼ 14vs.62±22s,n¼ 23,P<0.01).
+Hrg+/–mice showedbleedingtimessimilartowild-typemice Toevaluateiftheobserveddifferencesinbothcoagulationand
+(63±10s,n¼ 27). fibrinolysiswouldinfluencethehealingofanexternalwound,
+Takentogethertheresultsfrommeasurementsofantithrom- which involves both thrombosis and fibrinolysis, we inflicted
+bin activity, prothrombin time and bleeding time suggest a fullthicknessskinwoundstothebackofHrg–/–andwild-type
+mild,yetstatisticallysignificant,anticoagulantactionofplasma mice.Onedayafterexcisionofskinbiopsiesthewoundshad
+HRG. shrunk to about 50% of the original wounded area in both
+Nextweestimatedthefibrinolyticactivityinvenacavablood wild-typeandHrg–/–mice.Thewoundsweretypicallycovered
+clotted by the addition of bovine thrombin and 125I-labeled by a dry eschar within 2days (not shown). A detailed
+fibrinogen. Figure7(A) illustrates that spontaneous clot lysis morphometric analysis of the wound healing was performed
+was faster in HRG-deficient mice than in wild-type mice. using electronic images of the wounds. Large variation of
+Fifteenminutesafterinitiationofbloodclottingbytheaddition wound areas existed within experimental groups during the
+of thrombin we observed 4.36±0.24% release of input wound contraction period (day 1–4) regardless of their
+radioactive label into the soluble supernatant in blood from genotype. These differences leveled out during the first week.
+Hrg–/– mice vs. 1.30±0.10% in wild-type mice. The accu- We did not observe statistically significant differences in the
+mulated release of 125I label in Hrg–/– and wild-type mice gross morphology (not shown) and timing of wound healing
+ranged from 8.74±0.31% vs. 2.66±0.23% at 30min, to betweenwild-typeandHrg–/–miceindicatingthatthepertur-
+44.32±2.74%vs.14.90±0.23%at22.5h.Tovisualizethe bation of plasmatic and platelet-mediated blood clotting
+fibrin degradation peptides liberated during fibrinolysis we observed ex vivo did not overtly influence the wound healing
+analyzed the lyzed clot supernatant by SDS–PAGE and inthissimplewoundingmodel(datanotshown).
+]s[
+emit
+nibmorhtorp
+400
+350
+300
+p = 0.047
+250
+200
+150
+100
+50
+0
+8
++/+
+1 2 3 4 5 6 7
+(n=23)
+kDa
+94
+67
+43
+30
+Fig.5. Prothrombintimemeasurementinhumanandmouseplasma.
+(A)Prothrombintimewasmeasuredusingacoagulometer.(B)Immu-
+noblotanalysisoftheplasmasamplesusedin(A).Lane1,humanplasma;
+lane2,mousefetuin-A-deficientplasma;lane3,wild-typeplasma;lane4,
+HRG-deficientplasma;lanes5–7,HRG-deficientplasmawith10,30
+and60lgmL)1humanHRGadded,respectively.Notethattherecon-
+stitutionwithhumanHRG(60lgmL)1)ofHRG-deficientmouseplasma
+restorednormalprothrombintimedose-dependently.Valuesrepresent
+themean±SDoffourindividualmice.TheP-valueswerecalculatedwith
+Student’st-test.
+]s[
+emit
+gnideelB
+Coagulationandfibrinolysis inHRGknockout mice 869
+p = 0.005
++/– –/–
+(n=27) (n=14)
+Fig.6. Bleedingtime.Tailtipswereclippedandthebleedingtimewas
+determinedasdescribedintheMaterialsandmethods.Dataaredisplayed
+inaboxplotoftheindicatednumberofindividualmeasurementsfor
+eachgenotype.Eachboxencloses50%ofthedatawiththemedianvalue
+ofthevariabledisplayedasaline.Thetopandbottomoftheboxmark
+thelimitsof±25%ofthevariablepopulation.Thelinesextending
+fromthetopandbottomofeachboxmarktheminimumandmaximum
+valueswithinthedatasetthatfallwithinanacceptablerange.Any
+valueoutsidethisrange,calledanoutlier,isdisplayedasanindividual
+point.Outliersareincludedinallcalculations.P-valuesofStudent’st-tests
+areindicatedatthetopofthecolumns.
+(cid:1)2005InternationalSocietyonThrombosisandHaemostasis
+--- Page 6 ---
+A 50 RecentlyHRGwasdescribedasapotentopsonin[30]andwe
++/+ speculate that the lack of HRG could trigger monocyte
+–/– proliferationtocompensateforapotentialdecreaseinphago-
+40 cyteactivation.Athoroughinvestigationoftheinnateimmune
+response in HRG-deficient mice will clarify the potential
+immunemodulatorycontributionofHRG.
+30 AroleofHRGinhemostasishasbeenrepeatedlyproposed
+basedontheobservationthatHRGbindsseveralcomponents
+ofthecoagulationandfibrinolysiscascades.Prothrombintime
+20 was significantly shorter in Hrg–/– plasma samples than in
+Hrg+/+ samples, and reconstitution of the plasma samples
+withpurifiedhumanHRGnormalizedtheprothrombintime.
+10 Hence we conclude that HRG may regulate the extrinsic
+pathwayofcoagulationinmicebyinteractingwiththrombin.
+Our observation that HRG-deficient plasma also had higher
+antithrombin activity suggests an additional and alternative
+mechanismofHRGanticoagulantactivity.Antithrombinisa
+potent physiological negative regulator of the blood coagula-
+tion inhibiting thrombin, factor Xa and factor IXa [31]. Its
+B inhibitoryactivitytowardsserineproteasesismuchenhanced
+inthepresenceofheparin[32].HRGhasahighbindingaffinity
+forheparinandthereforepotentiallycompeteswiththebinding
+ofheparintoantithrombin[33].Consequently,HRGinhibits
+thehigh-affinitybindingofantithrombintothrombinaswellas
+theantifactorXaactivityofantithrombin.Therefore,HRGis
+consideredamodulatorofanticoagulantactivityofheparinin
+humanplasma[34].Comparingunmodifiedplasmasamplesof
+HRG-deficient mice and wild-type mice, we determined that
+HRGcanantagonizeantithrombinactivityinvivo.
+ItisknownthatHRGinteractswithfibrinogeninvitro[9].
+HRG-deficient mice of both sexes had elevated plasma
+fibrinogen, especially female Hrg–/– mice, which had 35%
+moreplasmafibrinogenthanage-andsex-matchedwild-type
+mice.ThisisthefirstdemonstrationinvivothatHRGlevelsin
+blood might also influence the level of the most abundant
+protein of the blood coagulation cascade, possibly associated
+withenhancedplasmacoagulation.Similarobservationsexist
+inhumanpatients.ThreecasesofcongenitalHRGdeficiency
+have been reported to date [10–12]. Strikingly, all patients
+suffering from embolism were women. One patient with the
+HRGTokushima2allelehadonly50%ofthenormalHRG
+plasmalevel,andhadassociatedelevatedfibrinogen[12].Given
+theshorterprothrombintimeandtheelevatedfibrinogenlevels
+one may ask, why a thrombophilic phenotype was not
+Discussion
+observed in HRG-deficient mice. One should recall at this
+To analyze the physiological function of HRG we generated point that HRG binds to plasminogen in plasma and is
+HRG-deficient mice by deleting the translation start point of supposedtoactasanantifibrinolytic[7].Thereforethelackof
+exon 1 of the gene through homologous recombination. The HRGshouldbeassociatedwithfasterfibrinolysis,whichwas
+Hrg null mutants had no immunologically detectable HRG indeed confirmed by measurements in Hrg–/– blood. This
+protein in their plasma and the mice were fertile. We finding is compatible with a report that poly-histidine a
+successfullybredhomozygousHRG-deficientmiceforseveral surrogateofthehistidine-richregionofHRGdown-regulated
+generations. These data indicate that HRG is dispensable fibrinolysisbysuppressingplasmininteractionwithfibrin[35].
+duringnormalembryogenesisanddevelopment. Recently it was suggested that HRG mediated high-affinity
+Homozygous HRG-deficient mice had significantly higher tethering of plasminogen to cell surfaces, thus activating
+numbersofmonocytesintheirbloodthanwild-typemice.At fibrinolyis[16].Thisdoesnotexcludetheenhancedfibrinolysis
+present we have no explanation for this mild monocytosis. observedinplasmaofHRG-deficientmice,becausetheHRG
+]%[
+sisyl
+tolc
+870 N.Tsuchida-Straeten etal
+0
+0 0.250.5 1 1.5 2 3 4 5 6 22.5
+time [hours]
+1 2 3 4 5 6 7 8
+kDa
+191
+97
+64
+51
+39
+28
+17
+Fig.7. Fibrinolyticactivityinclottedmouseblood.Mousebloodwas
+dilutedwithsalineandclottedbytheadditionofCa2+andbovine
+thrombinusing125I-labeledfibrinogenasatracer.Fibrinolysiswas
+measuredasthereleaseof125Iradioactivityintothesolubleclotsuper-
+natant.(A)Datarepresentthemean±SEMofaccumulatedbloodclot
+lysisofHrg+/+(j,n¼6)andHrg–/–(s,n¼6)miceexpressedas
+percentofradioactivityof125I-labeledfibrinogenrecoveredinthelyzed
+clotsupernatant.(B)Ten-microliteraliquotsoflyzedclotsupernatant
+harvestedafter15,30,60and90minofspontaneousclotlysiswere
+separatedonSDS–PAGEandautoradiographed.Lanes1and5,15min;
+lanes2and6,30min;lanes3and7,1h;lane4and8,1.5h.Notethe
+abundanceoffibrindegradationproductsinHRG-deficientclotsuper-
+natants(lanes5–8)comparedtowild-typeclotsupernatants(lanes1–4).
+(cid:1)2005InternationalSocietyonThrombosisandHaemostasis
+--- Page 7 ---
+Coagulationandfibrinolysis inHRGknockout mice 871
+activitymayvarygreatlyinfreeandcell-boundformaswellas Frontiers Student Exchange Promotion Program in 2002–03
+with local pH and Zn2+ concentration [14,17]. Regardless of by Japanese Ministry of Education, Culture, Sports, Science
+the precise molecular mechanism our study strongly suggests andTechnology(T.K.)andDeutscheForschungsgemeinschaft
+thatdependingonthemicromilieuHRGcanactasbothan (W.J.D.).
+anticoagulantandanantifibrinolyticinvivo.
+Apart from plasmatic coagulation, hemostasis can also be
+References
+modulatedonthelevelofplatelets,whichareknowntocarry
+HRG[36].TodeterminetheeffectofHRGdeficiencyonplatelet 1 KoideT.Humanhistidine-richglycoproteingene:evidenceforevo-
+function we measured the bleeding time following tail-tip lutionaryrelatednesstocystatinsupergenefamily.ThrombHes1988;
+amputation.Consistently,thebleedingtimeinHrg–/–micewas 8:91–7.
+2 FalquerhoL,PateyG,PaquereauL,RossiV,LahunaO,SzpirerJ,
+significantlyshorterthaninHrg+/+mice.Thisresultsuggested
+SzpirerC,LevanG, LeCamA.Primarystructureof therat gene
+thatinadditiontoitsinfluenceonplasmaticcoagulationHRG encoding an inhibitor of the insulin receptor tyrosine kinase. Gene
+inhibits platelet function. Concerning the possible molecular 1991;98:209–16.
+mechanismoftheplateletinhibition,itwasreportedthatHRG 3 Kitamura N, Kitagawa H, Fukushima D, Takagaki Y, Miyata T,
+strongly binds platelets in the presence of Zn2+ [37], and NakanishiS.Structuralorganizationofthehumankininogengene
+andamodelforitsevolution.JBiolChem1985;260:8610–7.
+inactivates platelet thrombospondin, a strong promoter of
+4 Leung LL, Harpel PC, Nachman RL. Platelet histidine-rich glyco-
+plateletaggregation[38]. Asaresultofitsabundanthistidine protein.MethEnzymol1989;169:268–76.
+residues HRG is exquisitely sensitive to pH changes near the 5 LijnenHR,VanHoefB,CollenD.Interactionofheparinwithhis-
+physiologicalbloodpHandhasbeentermedapHsensor[15]. tidine-richglycoproteinandwithantithrombinIII.ThrombHaemost
+1983;50:560–2.
+HRG may modulate both plasmatic and platelet-mediated
+6 KazamaY,KoideT.ModulationofproteinCinhibitoractivityby
+hemostasis in a pH-dependent and Zn2+-dependent fashion,
+histidine-rich glycoprotein and platelet factor 4. Role of zinc and
+matchingspecificrequirementsindifferentlocationsofthebody calciumionsintheheparin-neutralizingabilityofhistidine-richgly-
+that require enhanced or attenuated blood clotting. This coprotein.ThrombHaemost1992;67:50–5.
+hypothesiscannowbetestedusingtheHRG-deficientmicein 7 LijnenHR,HoylaertsM,CollenD.Isolationandcharacterizationof
+ahumanplasmaproteinwithaffinityforthelysinebindingsitesin
+variousmodelsofwoundingandhemostasis.
+plasminogen.Roleintheregulationoffibrinolysisandidentification
+ashistidine-richglycoprotein.JBiolChem1980;255:10214–22.
+8 SaezCT,JansenGJ,SmithA,MorganWT.Interactionofhistidine-
+Author contributions
+proline-rich glycoprotein with plasminogen: effect of ligands, pH,
+N. Tsuchida-Straeten – cloning and sequencing mouse Hrg ionic strength, and chemical modification. Biochemistry 1995; 34:
+2496–503.
+gene; construction of mouse Hrg targeting vector; DNA
+9 LeungLL.Interactionofhistidine-richglycoproteinwithfibrinogen
+analysis of ES cell and mouse tail DNA with PCR and
+andfibrin.JClinInvest1986;77:1305–11.
+Southernblotanalysis;measurementofantithrombinactivity, 10 ShigekiyoT,OhshimaT,OkaH,TomonariA,AzumaH,SaitoS.
+prothrombintime,fibrinogenlevel,measurementoffibrinolytic Congenital histidine-rich glycoprotein deficiency. Thromb Haemost
+activity;measurementofbleedingtime.S.Ensslen–blastocyst 1993;70:263–5.
+11 SoutoJC,GariM,FalkonL,FontcubertaJ.Anewcaseofhereditary
+injectionoftargetedEScells;embryotransfer;genotypingand
+histidine-rich glycoprotein deficiency with familial thrombophilia.
+establishment of HRG-deficient mouse strains; skin wound
+ThrombHaemost1996;75:374–5.
+experiments. C. Scha¨fer – genomic Southern blots; immuno- 12 Shigekiyo T, Yoshida H, Kanagawa Y, Satoh K, Wakabayashi S,
+blot analysis of mouse serum; maintenance of mouse colony. Matsumoto T, Koide T. Histidine-rich glycoprotein (HRG)
+M.Wo¨ltje–isolationandidentificationofgenomicPACclone Tokushima2:novelHRGdeficiency,molecularandcellularcharac-
+terization.ThrombHaemost2000;84:675–9.
+carrying the mouse Hrg gene. B. Denecke – development of
+13 BorzaDB,TatumFM,MorganWT.Domainstructureandconfor-
+genomic PCR genotyping. M. Moser – electroporating ES
+mationofhistidine-proline-richglycoprotein.Biochemistry1996;35:
+cells; culture and transfection of ES cells; micromanipulation 1925–34.
+and embryo transfer. S. Gra¨ber – immunoblot analysis; 14 JonesAL,HulettMD,ParishCR.Histidine-richglycoproteinbinds
+prothrombin time measurements; animal experimentation; to cell-surface heparan sulfate via its N-terminal domain following
+Zn2+chelation.JBiolChem2004;279:30114–22.
+venacavableedingforfibrinolyticanalysis.S.Wakabayashi–
+15 Borza DB, Morgan WT. Histidine-proline-rich glycoprotein as a
+HrgcDNAcloningandprovision;supervisionofHrggenomic
+plasmapHsensor.Modulationofitsinteractionwithglycosaminog-
+and targeting vector subcloning. T. Koide – supervision and lycansbypHandmetals.JBiolChem1998;273:5493–9.
+manuscript revision. W. Jahnen-Dechent – coordination of 16 JonesAL,HulettMD,AltinJG,HoggP,ParishCR.Plasminogenis
+projectandmanuscriptwriting. tetheredwithhighaffinitytothecellsurfacebytheplasmaprotein,
+histidine-richglycoprotein.JBiolChem2004;279:38267–76.
+17 GuthansSL,MorganWT.Theinteractionofzinc,nickelandcad-
+Acknowledgements miumwithserumalbuminandhistidine-richglycoproteinassessedby
+equilibrium dialysis and immunoadsorbent chromatography. Arch
+We thank Dr Fuminori Tokunaga for helpful discussion. Biochembiophys1982;218:320–8.
+FinancialsupportwasobtainedfromtheSTARTprogramof 18 MorganWT.Thehistidine-richglycoproteinofserumhasadomain
+rich in histidine, proline, and glycine that binds heme and metals.
+the Faculty of Medicine, RWTH Aachen (C.S.), the Japan
+Biochemistry1985;24:1496–501.
+Society for the Promotion of Science (T.K.), Academic
+(cid:1)2005InternationalSocietyonThrombosisandHaemostasis
+--- Page 8 ---
+872 N.Tsuchida-Straeten etal
+19 SaigoK,ShatskyM,LevittLJ,LeungLK.Interactionofhistidine- of the 5¢-terminal region of cDNA and a search for the liver
+richglycoproteinwithhumanTlymphocytes.JBiolChem1989;264: specificpromoterinthegene.JBiochem(Tokyo)1999;125:522–30.
+8249–53. 29 DeneckeB,Gra¨berS,Scha¨ferC,HeissA,Wo¨ltjeM,Jahnen-Dechent
+20 ChangNS,LeuRW,RummageJA,AndersonJK,MoleJE.Regu- W.Tissuedistributionandactivitytestingsuggestasimilarbutnot
+lation of complement functional efficiency by histidine-rich glyco- identical function of fetuin-B and fetuin-A. Biochem J 2003; 376:
+protein.Blood1992;79:2973–80. 135–45.
+21 GorganiNN,ParishCR,EasterbrookSmithSB,AltinJG.Histidine- 30 GorganiNN,SmithBA,KonoDH,TheofilopoulosAN.Histidine-
+richglycoproteinbindstohumanIgGandC1qandinhibitstheforma- richglycoproteinbindstoDNAandFcgammaRIandpotentiates
+tionofinsolubleimmunecomplexes.Biochemistry1997;36:6653–62. theingestionofapoptoticcellsbymacrophages.JImmunol2002;169:
+22 JuarezJC,GuanX,ShipulinaNV,PlunkettML,ParryGC,Shaw 4745–51.
+DE,ZhangJC,RabbaniSA,McCraeKR,MazarAP,MorganWT, 31 DavieEW,HanahanDJ. Bloodcoagulationproteins. In: Putnam,
+DonateF.Histidine-proline-richglycoproteinhaspotentantiangio- FW,ed.ThePlasmaProteins,Vol.3.NewYork:AcademicPress,
+genic activity mediated through the histidine-proline-rich domain. 1977,421–544.
+CancerRes2002;62:5344–50. 32 RosenbergRD.Actionsandinteractionsofantithrombinandhep-
+23 DonateF,JuarezJC,GiuanX,ShiplinaNV,PlonhettML,Tel-Tsur arin.NEnglJMed1975;292:146–51.
+Z, Shaw DE, Morgon WT, Mazar AP. Peptides derived from the 33 LijnenHR,HoylaertsM,CollenD.Heparinbindingpropertiesof
+histidine-proline domain of the histidine-proline-rich glycoprotein humanhistidine-richglycoprotein.Mechanismandroleintheneut-
+bindtotropomyosinandhaveantiangiogenicandantitumoractivit- ralizationofheparininplasma.JBiolChem1983;258:3803–8.
+ies.CancerRes2004;64:5812–17. 34 Lijnen HR, Van Hoef B, Collen D. Histidine-rich glycoprotein
+24 Jahnen-Dechent W, Schinke T, Trindl A, Muller-Esterl W, modulates the anticoagulant activity of heparin in human plasma.
+SablitzkyF, KaiserS, BlessingM.Cloningandtargeteddeletionof ThrombHaemost1984;51:266–8.
+themousefetuingene.JBiolChem1997;272:31496–503. 35 Chu AJ, Mathews ST. Poly-L-histidine downregulates fibrinolysis.
+25 SchinkeT,KoideT,Jahnen-DechentW.Humanhistidine-richgly- BloodCoagulFibrinolysis2003;14:627–32.
+coprotein expressed in SF9 insect cells inhibits apatite formation. 36 LeungLL,HarpelPC,NachmanRL,RabellinoEM.Histidine-rich
+FEBSLett1997;412:559–62. glycoproteinispresentinhumanplateletsandisreleasedfollowing
+26 KoideT,OdaniS,OnoT.Humanhistidine-richglycoprotein:sim- thrombinstimulation.Blood1983;62:1016–21.
+ultaneouspurificationwithantithrombinIIIandcharacterizationof 37 HorneMK, 3rdMerrymanPK,CullinaneAM.Histidine-proline-
+itsgrossstructure.JBiochem(Tokyo)1985;98:1191–200. richglycoproteinbindingtoplateletsmediatedbytransitionmetals.
+27 GallimoreMJ,TylerHM,ShawJT.Themeasurementoffibrinolysis ThrombHaemost2001;85:890–5.
+intherat.ThrombDiathHaemorrh1971;26:295–310. 38 LeungLL,NachmanRL,HarpelPC.Complexformationofplatelet
+28 WakabayashiS,TakahashiK,KoideT.Structuralcharacterization thrombospondinwithhistidine-richglycoprotein.JClinInvest1984;
+of the gene for human histidine-rich glycoprotein, reinvestigation 73:5–12.
+(cid:1)2005InternationalSocietyonThrombosisandHaemostasis

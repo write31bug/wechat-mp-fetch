@@ -1,0 +1,625 @@
+
+--- Page 1 ---
+Coagulation and Fibrinolysis 89
+Histidine-rich glycoprotein binds DNA and RNA and attenuates their
+capacity to activate the intrinsic coagulation pathway
+Trang T. Vu1,2; Beverly A. Leslie1,3; Alan R. Stafford1,3; Ji Zhou1,3; James C. Fredenburgh1,3; Jeffrey I. Weitz1,2,3,4
+1Thrombosis and Atherosclerosis Research Institute, McMaster University, Hamilton, Ontario, Canada; 2Department of Medical Sciences, McMaster University, Hamilton, Ontario,
+Canada; 3Department of Medicine, McMaster University, Hamilton, Ontario, Canada; 4Department of Biochemistry and Biomedical Sciences, McMaster University, Hamilton,
+Ontario, Canada
+Summary lecular weight kininogen (HK), and b) enhance thrombin-mediated FXI
+When triggered by factor (F) XII and nucleic acids, we showed that activation by 10– to 12-fold. Surface plasmon resonance studies show
+thrombosis in HRG-deficient mice is accelerated compared with that that DNA and RNA bind FXII, FXIIa, HK, FXI, FXIa and thrombin with
+in wild-type mice. In this study, we set out to identify the mechanisms high affinity. HRG attenuates DNA- and RNA-mediated FXII activation,
+by which nucleic acids promote contact activation, and to determine and FXI activation by FXIIa or by thrombin, suggesting that HRG down
+whether HRG attenuates their effects. DNA or RNA addition to human regulates the capacity of DNA and RNA to activate the intrinsic path-
+plasma enhances thrombin generation via the intrinsic pathway and way. Therefore, HRG attenuates the procoagulant activity of nucleic
+shortens the clotting time. Their effect on the clotting time is seven- to acids at multiple levels.
+14-fold greater in HRG-deficient plasma than in control plasma. Inves-
+tigations into the mechanisms of activation reveal that nucleic acids a) Keywords
+promote FXII activation in the presence of prekallikrein- and high mo- Coagulation, intrinsic pathway, histidine-rich glycoprotein, DNA, RNA
+Correspondence to: Financial support:
+Jeffrey Weitz This work was supported in part by the Canadian Institutes of Health Research
+Thrombosis and Atherosclerosis Research Institute (FRN 3992, FRN 102735, and CTP 79846), the Heart and Stroke Foundation (T6357).
+237 Barton St. E T. T.V. was supported by a Natural Sciences and Engineering Research Council of
+Hamilton, Ontario L8L 2X2, Canada Canada CGS D Award. J.I.W. holds the Heart and Stroke Foundation J. Fraser Mustard
+Tel.: +1 905 521 2100 ext 40721, Fax: +1 905 575 2646 Endowed Chair in Cardiovascular Research and the Canada Research Chair (Tier 1) in
+E-mail: weitzj@taari.ca Thrombosis.
+Received: April 23, 2015
+Accepted after major revision: July 31, 2015
+Epub ahead of print: September 10, 2015
+http://dx.doi.org/10.1160/TH15-04-0336
+Thromb Haemost 2016; 115: 89–98
+Introduction with surgery or trauma (4). These observations prompted a re-
+vised model of coagulation that diminished the contribution of the
+The intrinsic pathway is initiated by activation of the contact sys- contact system to fibrin formation (4–6). However, recent studies
+tem; the components of which include factor (F) XII, prekallikrein prompted a re-examination of the role of the intrinsic pathway in
+(PK) and high-molecular-weight kininogen (HK) (1). Contact thrombosis. Thus, FXII- or FXI-deficient mice exhibit attenuated
+with polyanionic surfaces induces a conformational change in thrombosis at sites of arterial or venous injury (7–9). Likewise, in-
+FXII that results in the generation of small amounts of FXIIa; a hibition of FXIIa or FXIa with small molecules or antibodies, or
+process known as autoactivation. FXIIa converts PK to kallikrein, knockdown of these factors with antisense oligonucleotides at-
+which then feeds back to activate more FXII. FXIIa propagates co- tenuates thrombosis in mice, rats, rabbits and baboons (7, 10–12).
+agulation by activating FXI. FXI and PK circulate in complex with Therefore, with mounting evidence for a role of the intrinsic path-
+HK, which localises both proteins to polyanionic surfaces and en- way in thrombosis, FXII and FXI have been identified as prime
+hances their activation (1). In the presence of such surfaces, targets for novel antithrombotic strategies.
+thrombin can feed back and activate FXI, thereby promoting its Emerging evidence that the contact system contributes to the
+own generation (2). Therefore, polyanionic surfaces are important stabilisation and propagation of arterial and venous thrombi has
+cofactors in the contact system (2, 3). renewed interest in the search for physiological activators of this
+The contact system is considered dispensable for haemostasis system (13). These activators include naturally occurring poly-
+because patients with congenital deficiencies of FXII, PK or HK do phosphates, such as DNA, RNA and inorganic polyphosphate
+not have a bleeding diathesis; and those with FXI deficiency rarely (polyP) (3, 14). DNA and RNA are released from cells that are
+have spontaneous bleeding and only experience excessive bleeding stimulated, injured, or dying, whereas polyP is released from the
+© Schattauer 2016 Thrombosis and Haemostasis 115.1/2016
+.lairetam
+dethgirypoC
+.ytisrevinU
+notsoB
+:yb
+dedaolnwoD
+--- Page 2 ---
+90 Vu et al. HRG binds DNA and RNA and limits their procoagulant activity
+dense granules of activated platelets (3, 14). Neutrophil extracellu- (Marburg, Germany). Phosphatidylcholine and phosphatidylser-
+lar traps (NETs), which consist of de-condensed chromatin that is ine (PCPS) vesicles were prepared in a 3:1 ratio as described (29).
+extruded from activated neutrophils, provide another source of Lyophilised single-stranded (ss)-DNA from calf thymus and
+DNA (15, 16). Histones, the other major component of chromatin, double stranded (ds)-DNA from salmon sperm were from Sigma
+also promote coagulation, but only in the presence of platelets or Aldrich and Invitrogen (Carlsbad, CA, USA), respectively.
+red blood cells (17–19). The importance of DNA, RNA and polyP
+as potential physiological activators of the intrinsic pathway is
+Human plasma
+highlighted by the observation that administration of nucleases,
+phosphatase, or neutralising polymers that bind these activators Blood collected from 10–15 healthy volunteers was used to prepare
+attenuates arterial and venous thrombosis in various animal mod- platelet poor plasma as described (30). Human pooled plasma was
+els (3, 15, 16, 20, 21). Although naturally occurring polyphos- rendered deficient of HRG by affinity chromatography using an
+phates have been identified as potent activators of the contact sys- immobilised HRG-directed antibody (22). A polyclonal antibody
+tem, little is known about how activation is regulated. raised against human HRG (Affinity Biologicals, Ancaster, ON,
+We have shown that histidine-rich glycoprotein (HRG) modu- Canada) was affinity purified using an HRG-Sepharose column,
+lates the contact system by binding FXIIa with high affinity and at- prepared as described (27). As a control, mock-deficient plasma
+tenuating its capacity to undergo autoactivation, or to propagate was prepared by subjecting plasma to chromatography on un-
+coagulation by activating FXI (22). HRG is a 75 kDa glycoprotein modified Sepharose. FXII-, FXI- and FVII-deficient human plas-
+that circulates in plasma at a concentration of 1.5–2 µM (23). HRG mas were from Affinity Biologicals Inc.
+has a modular domain structure that endows it with the capacity
+to bind numerous ligands important in coagulation, including fi-
+Nucleic acid preparation
+brin(ogen), DNA, kallikrein and FXIIa (22, 24, 25). Because HRG
+is released from activated platelets and binds to components of the A549 cells, generously provided by Dr. Patricia Liaw, were cultured
+contact system, it is uniquely positioned to serve as a novel regu- in Petri dishes containing RPMI-1640 medium (Invitrogen)
+lator of the intrinsic pathway (22, 24–26). This concept is sup- supplemented with 10 % heat-inactivated fetal bovine serum and
+ported by our recent demonstration that thrombosis is accelerated 5 % penicillin and streptomycin (Sigma Aldrich). For RNA prep-
+in HRG-deficient mice, and that HRG repletion protects these arations, cell suspensions were stored in RNA Protect reagent
+mice from thrombosis triggered by FXII and nucleic acids (27). (Qiagen, Mississauga, ON, Canada). After subjecting the suspen-
+The purpose of this study was to determine the mechanisms by sions to centrifugation at 10,000 × g for 10–15 minutes (min) to
+which HRG attenuates contact activation by nucleic acids. Al- sediment the cells, DNA and RNA were isolated using DNeasy and
+though previous work has shown that activation of the contact sys- RNeasy Plus Mini isolation kits, respectively (Qiagen), and quanti-
+tem by DNA and RNA is dependent on FXII and PK, little is fied by measuring absorbance at 260 nm. The integrity of the DNA
+known about the effects of nucleic acids on FXII autoactivation and RNA preparations was assessed by electrophoresis on 1.5 %
+and FXI activation by FXIIa or thrombin. Accordingly, we first and 2 % agarose gels, respectively, under non-denaturing condi-
+examined the effect of DNA and RNA on these reactions, and then tions. DNA migrated as a narrow band with an apparent size over
+determined whether HRG attenuates their activities. 10 kilobase pairs, whereas RNA migrated as two distinct bands of
+0.8 and 2 kilobase pairs (data not shown). Biotin (B)-labelled DNA
+and RNA were generated using the Photoprobe (Long Arm) biotin
+Materials and methods labeling kit (Vector Laboratories, Burlingame, CA, USA) accord-
+ing to the manufacturer’s instructions.
+Reagents
+Human α-thrombin, FXII, FXIIa, FXI, FXIa, PK, HK and corn
+Plasma clotting assays
+trypsin inhibitor (CTI) were from Enzyme Research Laboratories
+(South Bend, IN). Soybean trypsin inhibitor (STI) was from Sigma Clotting assays were performed as previously described (22), with
+Aldrich (St. Louis, MO, USA). HRG was isolated from human some modifications. Assays were performed in wells of a 96-well
+plasma using a nickel-NTA agarose column as described pre- plate and all reagents were diluted into a 41.7 mM imidazole buffer,
+viously (22) and was labelled with fluorescein isothiocyanate pH 7.0. To wells containing 50 µl of DNA or RNA in final concen-
+(FITC) according to the manufacturer’s specifications (Sigma trations ranging from 0–25 µg/ml, was added 50 µl of citrated mock-
+Aldrich). Dextran sulfate (500 kDa) was from GE Healthcare deficient or HRG-deficient human plasma containing 15 µM PCPS.
+(Pittsburgh, PA, USA). H-D-Pro-Phe-Arg-p-nitroaniline (S-2302) For HRG repletion experiments, wells contained 25 µl of DNA or
+and pyroGlu-Pro-Arg-p-nitroaniline (CS-21(66)) were from RNA at a final concentration of 30 µg/ml, and 25 µl of buffer con-
+Chromogenix (Milano, Italy) and Aniara (Neuville-sur-Oise, taining HRG at final concentrations of 0 to 3 µM. In all assays, clot-
+France), respectively. D-Phe-Pro-Arg-chloromethyl ketone (FPR) ting was initiated by addition of 50 µl of CaCl to a final concen-
+2
+was from EMD Millipore (Toronto, ON, Canada) and FPR-ad- tration of 8.3 mM, and absorbance was monitored at 405 nm at
+ducts of FXIIa, FXIa and thrombin were prepared as described 37 °C using a SpectroMax M3 plate reader (Molecular Devices, Sun-
+(28). Recombinant hirudin (lepirudin) was from Dade-Behring nyvale, CA, USA). The clot time was taken as the time to reach
+Thrombosis and Haemostasis 115.1/2016 © Schattauer 2016
+.lairetam
+dethgirypoC
+.ytisrevinU
+notsoB
+:yb
+dedaolnwoD
+--- Page 3 ---
+Vu et al. HRG binds DNA and RNA and limits their procoagulant activity 91
+h alf-maximal absorbance, as determined with instrument software. vices). Thrombin generation profiles and data were analysed using
+The concentration of nucleic acids that shortened the clot time by Technothrombin TGA software (Technoclone, Vienna, Austria).
+50 % compared with that measured in their absence (EC ) was de- All experiments were performed four times.
+50
+termined by nonlinear regression analysis using a rectangular hyper-
+bola (Table Curve, v4, Jandel Scientific, San Rafael, CA, USA). Ex-
+Factor activation assays
+periments were repeated three times, each in duplicate.
+The activation of 150 nM FXII by 25 µg/ml DNA or RNA, or by
+0.7 µg/ml dextran sulfate was quantified in the absence or presence
+Thrombin generation assays
+of 15 nM PK and/or 37.5 nM HK in 10 mM HEPES, pH 7.4, 150
+Thrombin generation was quantified using calibrated automated mM NaCl (HBS). To examine the effect of HRG on these reac-
+thrombography in wells of black 96-well plates (Costar, Lowell, tions, studies were repeated in the presence of HRG up to 2 µM. In
+MA, USA). To wells containing 10 µl of a 20 µg/ml (final concen- all cases, reaction mixtures were incubated at 37 °C for 30 min
+tration) DNA or RNA solution in 20 mM Tris, pH 7.4, was added prior to addition of STI to 100 µg/ml to inhibit kallikrein activity.
+40 µl of control, FXII-, FXI- or FVII-deficient plasma. Thrombin FXIIa generation was then quantified by adding 417 µM S-2302, a
+generation was initiated by adding 15 mM CaCl and monitored FXIIa-directed substrate, and monitoring its hydrolysis at 405 nm
+2
+by quantifying the hydrolysis of 1 mM Z-Gly-Gly-Arg-AMC (Ba- using a SpectroMax plate reader. FXIIa activity was normalised
+chem, Bubendorf, Switzerland), a fluorescent thrombin-directed relative to that determined in the absence of a polyanionic surface,
+substrate, using a SpectraMax M5e plate reader (Molecular De- PK, HK and HRG.
+Figure 1: Effect of HRG on DNA- or RNA-induced activation of the in- sion (lines). Clotting was initiated with 30 µg/ml DNA (C) or RNA (D) in con-
+trinsic pathway in plasma. DNA (A) or RNA (B) was added to control (■) trol (black bars) or HRG-deficient human plasma (white bars) supplemented
+or HRG-deficient human plasma (●) and clotting was initiated with CaCl to a with HRG (0–3 µM). Data represent the mean ± SD of three determinations
+2
+final concentration of 8.3 mM. Clot times, which were determined as the each performed in duplicate. * p< 0.01, **p< 0.001, compared with control
+time to reach half-maximal absorbance at 405 nm, were plotted vs the nu- plasma.
+cleic acid concentration. EC values were determined by nonlinear regres-
+50
+© Schattauer 2016 Thrombosis and Haemostasis 115.1/2016
+.lairetam
+dethgirypoC
+.ytisrevinU
+notsoB
+:yb
+dedaolnwoD
+--- Page 4 ---
+92 Vu et al. HRG binds DNA and RNA and limits their procoagulant activity
+To examine the effect of DNA and RNA on the activation of µM to determine whether HRG modulates FXI activation by
+FXI by FXIIa, 100 nM FXI was incubated with 10 nM FXIIa for 35 thrombin. FXIa activity in the presence of HRG was normalised
+min at 37 °C in the absence or presence of 20 µg/ml DNA or RNA. relative to that determined in its absence. All experiments were
+After adding 30 nM CTI to inhibit FXIIa, FXIa generation was performed three times, and EC for HRG was determined by non-
+50
+quantified by monitoring the hydrolysis of 529 µM CS-21(66), a linear regression analysis as described above.
+FXIa-directed substrate, at 405 nm. Studies were done in the ab-
+sence or presence of 100 nM HK and were repeated with or with-
+Fluorescence measurements
+out HRG to 2 µM to determine whether HRG modulates FXI acti-
+vation by FXIIa. FXIa activity was normalised relative to that de- Binding of ss- and ds-DNA to FITC-HRG was assessed by moni-
+termined in the absence of HRG. toring changes in fluorescence using a Perkin Elmer LS 50B lumi-
+To determine whether DNA and RNA promote the activation nescence spectrophotometer (25). Briefly, fluorescence was moni-
+of FXI by thrombin, 40 nM FXI was incubated with 10 nM throm- tored at excitation and emission wavelengths of 492 and 532 nm,
+bin for 35 min at 37 °C in the absence or presence of 20 µg/ml of respectively, and slit widths of 10 and 15 nm, respectively, with a
+DNA or RNA or 0.7 µg/ml of dextran sulfate. Hirudin was then 515 nm emission filter. Binding was assessed by titrating aliquots
+added to 100 nM to inhibit thrombin activity, and FXIa activity of ss- or ds-DNA in concentrations up to 0.16 µM into a cuvette
+was quantified by monitoring the hydrolysis of 500 µM CS-21(66) containing 50 nM FITC-HRG in HBS containing 0.005 % Tween
+at 405 nm. Studies were repeated in the presence of HRG up to 4 20 (Tw). Intensity values (I) after each addition were divided by
+Figure 2: Comparison of DNA- or RNA-induced thrombin generation the lag time in min (A), the time to peak thrombin in min (B), the peak throm-
+in control, FXII-, FXI- or FVII-deficient plasma. After incubation of 20 bin in nM (C), and the ETP in nM*min (D) were determined. Data represent
+µg/ml DNA (black bars) or RNA (white bars) in control, FXII-, FXI- or FVII-defi- the mean ± SD of four determinations. * p< 0.05, ** p< 0.005, compared
+cient human plasma, 15 mM CaCl was added, thrombin generation was with control plasma in which thrombin generation was initiated with DNA;.
+2
+quantified by monitoring the hydrolysis of 1 mM Z-Gly-Gly-Arg-AMC, and ## p< 0.005, compared with control plasma initiated with RNA.
+Thrombosis and Haemostasis 115.1/2016 © Schattauer 2016
+.lairetam
+dethgirypoC
+.ytisrevinU
+notsoB
+:yb
+dedaolnwoD
+--- Page 5 ---
+Vu et al. HRG binds DNA and RNA and limits their procoagulant activity 93
+baseline fluorescence (I), plotted against the DNA concentrations, Table 1: Effect of nucleic acids and contact proteins on FXII acti-
+o
+and the data were then subjected to nonlinear regression analysis vation. The activation of 150 nM FXII by 25 µg/ml DNA or RNA, or by 0.7
+µg/ml dextran sulfate was quantified in the absence or presence of 15 nM PK
+as described (28). Experiments were performed three times.
+and/or 37.5 nM HK and data were normalised relative to the results deter-
+mined in the absence of DNA, RNA and cofactors. Data represent the mean
+Surface plasmon resonance (SPR) and standard deviation of three determinations. *p< 0.05 and **p< 0.005 vs
+FXII activation in the absence of polyanion or cofactor, by Student t-test.
+Binding of proteins to immobilised B-labelled DNA or RNA was
+determined by SPR using a Biacore T200 (GE Healthcare). B-DNA FXIIa generated (relative)
+or B-RNA in HBS-Tw was adsorbed to 200–300 response units No poly- DNA RNA Dextran
+(RU) onto separate flow cells of a streptavidin-coated chip (XanTec anion sulfate
+bioanalytics GmbH, Düsseldorf, Germany) at a flow rate of 5 FXII 1.0 3.9 ± 0.6* 4.0 ± 0.6* 52.3 ± 35.1
+µl/min. Flow cells were regenerated with 1 M NaCl, 250 mM imid-
+FXII + HK 1.3 ± 0.03 3.4 ± 0.4* 3.5 ± 1.6 25.3 ± 15.0
+azole and 10 mM EDTA between runs. Aliquots of HRG (0–0.125
+FXII + PK 2.8 ± 1.3 17.5 ± 1.4** 20.8 ± 5.3* 209.3 ± 56.0*
+µM), FXII (0–1 µM), FPR-FXIIa (0–4 µM), HK (0–2 µM), PK (0–4
+µM), FXI (0–0.1 µM), FPR-FXIa (0–0.2 µM) or FPR-thrombin FXII + HK + PK 2.2 ± 0.7 63.0 ± 8.7* 183.0 ± 22.1** 212.0 ± 61.6*
+(0–8 µM) were injected at a flow rate of 40 µl/min for 300 seconds
+(s) to monitor association, followed by injections of HBS-Tw for
+800 s to monitor dissociation. An unmodified streptavidin-con- control and HRG-deficient plasma (▶ Figure 1 A and B, respect-
+taining flow cell served as the reference control. Binding of FPR- ively). However, the effective concentration of DNA required to
+thrombin and FPR-FXIIa was quantified by steady-state analysis, shorten the clot time by 50 % (EC ) was seven-fold lower in HRG-
+50
+whereas binding of the other proteins was quantified by global deficient plasma than in control plasma (3.8 ± 1.4 and 28.9 ± 4.0
+analysis of on- and off-rates using the Langmuir 1:1 binding µg/ml, respectively; p< 0.01), whereas the EC of RNA was 13-fold 50
+model, as determined with instrument software (Biacore). All ex- lower in HRG-deficient plasma than in control plasma (0.4 ± 0.04
+periments were performed three to four times. and 5.1 ± 2.5 µg/ml, respectively; p< 0.01). Thus, DNA- and RNA-
+induced clotting in HRG-deficient plasma is enhanced compared
+with that in control plasma. Addition of HRG to HRG-deficient
+Binding competition
+plasma prolonged the nucleic acid-induced clot times in a concen-
+The effect of HRG on DNA or RNA binding to immobilised FXI tration-dependent fashion to values similar to those in control
+was assessed by SPR (25). FXI diluted to 50 µg/ml in 10 mM ma- plasma (▶ Figure 1 C and D). Therefore, these findings demon-
+leate buffer, pH 6.0 was covalently bound to a flow cell of a CM5 strate that HRG is a potent modulator of nucleic acid-induced ac-
+sensor chip in the Biacore T200 using an amine coupling kit (GE tivation of coagulation. We next set out to quantify the effects of
+Healthcare). To assess association, ds-DNA from salmon sperm or DNA and RNA on thrombin generation and FXII and FXI acti-
+RNA from A549 cells in HBS-Tw at concentrations of 12 µg/ml vation and to determine how HRG modulates these reactions.
+and 0.5 µg/ml, respectively, was injected at a flow rate of 15 µl/min
+for 90 s and 120 s, respectively. Dissociation was assessed by addi-
+tion of HRG (0–5 nM) at a flow rate of 15 µl/min for 400 s. Be- Table 2: Dissociation constants for the interactions of FXII, FPR-
+FXIIa, HK, PK, FXI, FPR-FXIa and FPR-thrombin with DNA and RNA.
+tween injections, flow cells were regenerated with 1 M NaCl for
+The affinities of FXII, FPR-FXIIa, HK, PK, FXI, FPR-FXIa and FPR-thrombin for
+240 s. An unmodified flow cell served as the reference control and
+immobilised DNA or RNA were determined using SPR. The affinities of throm-
+data were analysed using instrument software. The experiment
+bin and FPR-FXIIa for DNA or RNA were determined by steady state analysis
+was repeated three times. of the plots of Req values vs input thrombin or FPR-FXIIa concentrations. The
+affinities of FXI, FPR-FXIa (Figure 5), FXII, HK and PK for DNA or RNA were
+determined by kinetic analysis of the binding sensorgrams. Values represent
+Statistical analysis
+the mean ± SD of three to four determinations.
+Results are presented as the mean ± SD. Significance of differences
+DNA RNA
+was determined using Student t-tests. For all analyses, p< 0.05 was
+Kd (nM)
+considered statistically significant.
+FXII 206.7 ± 87.6 220.3 ± 108.5
+FPR-FXIIa 2963.3 ± 310.5 2766.7 ± 768.2
+Results
+HK 317.0 ± 60.2 308.9 ± 85.6
+HRG attenuates DNA- and RNA-induced activation of
+PK No binding No binding
+coagulation in plasma
+FXI 3.1 ± 0.4 4.4 ± 0.7
+DNA or RNA was titrated into control or HRG-deficient human
+FPR-FXIa 13.6 ± 0.8 15.6 ± 0.2
+plasma and their effects on clot times were examined. DNA and
+FPR-thrombin 971.3 ± 211.9 867.7 ± 429.8
+RNA accelerated clotting in a concentration-dependent fashion in
+© Schattauer 2016 Thrombosis and Haemostasis 115.1/2016
+.lairetam
+dethgirypoC
+.ytisrevinU
+notsoB
+:yb
+dedaolnwoD
+--- Page 6 ---
+94 Vu et al. HRG binds DNA and RNA and limits their procoagulant activity
+Figure 4: Effect of HRG on thrombin activation of FXI. After incubating
+10 nM thrombin and 40 nM FXI with 20 µg/ml DNA (●) or RNA (♦) for 35 min
+in the absence or presence of 0–4 µM HRG, thrombin was inhibited with 100
+nM hirudin and FXI activation was quantified by monitoring the hydrolysis of
+CS-21(66). FXIa activity in the presence of HRG was normalised relative to
+that determined in its absence, and values were plotted vs the HRG concen-
+trations. EC values were determined by nonlinear regression (lines). Sym- 50
+bols represent the mean ± SD of three determinations.
+peak thrombin was significantly prolonged compared with control
+plasma, and the lag time was significantly prolonged for DNA in
+both plasmas and for RNA in FXI-deficient plasma (▶ Figure 2 A,
+B). Similarly, the peak thrombin concentration and ETP in the pres-
+ence of DNA and RNA were also reduced (p< 0.005) in FXII- and
+FXI-deficient plasma compared with control plasma. Therefore,
+these data confirm that nucleic acids promote contact activation in a
+Figure 3: Effect of HRG on DNA- or RNA-induced activation of FXII
+and FXIIa activation of FXI. A) 150 nM FXII, 15 nM PK, 37.5 nM HK and 25 FXII- and FXI-dependent fashion.
+µg/ml DNA (●) or RNA (♦) were incubated in the presence of 0–2 µM HRG. In
+the FXIIa assay, kallikrein was inhibited with STI and FXII activation was de-
+DNA and RNA promote FXII activation
+termined by chromogenic assay. B) For FXI activation, 10 nM FXIIa, 100 nM
+FXI, 100 nM HK and 20 µg/ml DNA (●) or RNA (♦) were incubated in the pres-
+We next assessed the capacity of DNA and RNA to activate FXII in
+ence of 0–2 µM HRG. After 35 min, FXIIa was inhibited with 30nM CTI and
+the absence or presence of PK and HK. In the absence of HK and
+FXI activation was quantified by monitoring the hydrolysis of CS-21(66).
+PK, DNA and RNA enhanced FXII activation by about four-fold
+FXIIa and FXIa activities were normalised relative to those determined in the
+(▶ Table 1). Whereas HK addition alone had little effect on FXII
+absence of HRG, and values were plotted vs the HRG concentrations. EC
+50
+values were determined by nonlinear regression (lines). Symbols represent activation by DNA or RNA, PK addition enhanced activation by
+the mean ± SD of three determinations. up to 20-fold, and addition of both PK and HK promoted FXII ac-
+tivation up to 180-fold (▶ Table 1). Therefore, although DNA or
+RNA alone has little effect on FXII activation, these data suggest
+DNA and RNA enhance thrombin generation via the that they become potent promoters in the presence of PK and HK,
+intrinsic pathway in agreement with a previous report (3). By comparison, 0.7 µg/ml
+dextran sulfate promotes FXII activation by 52-fold even in the ab-
+In a thrombin generation assay, addition of DNA or RNA to control sence of PK and HK (▶ Table 1), suggesting that the mechanism of
+plasma significantly (p< 0.005) shortened the lag time by four-fold FXII activation differs depending on the polyanionic activator.
+and increased endogenous thrombin potential (ETP) by 1.4-fold
+(data not shown), thereby confirming that nucleic acids are proco- HRG and contact pathway proteins bind to DNA and
+agulant (3, 31). However, the capacity of DNA or RNA to promote
+RNA
+thrombin generation was attenuated in FXII- or FXI-deficient plas-
+ma, but not in FVII deficient plasma (▶ Figure 2 A-D). When DNA Next, we used SPR to quantify binding of contact system proteins
+or RNA was added to FXII- or FXI-deficient plasma, the time to to DNA and RNA. FXII and FPR-FXIIa bound to immobilised
+Thrombosis and Haemostasis 115.1/2016 © Schattauer 2016
+.lairetam
+dethgirypoC
+.ytisrevinU
+notsoB
+:yb
+dedaolnwoD
+--- Page 7 ---
+Vu et al. HRG binds DNA and RNA and limits their procoagulant activity 95
+n ucleic acids with K values of ~200 nM and ~3 µM, respectively
+d
+(▶ Table 2). These data suggest that once FXII is activated, its af-
+finity for nucleic acids decreases. Previous work suggested that HK
+binds to PK and bridges the zymogen onto polyanionic surfaces
+(32). Consistent with this concept, we found that HK bound to
+both DNA and RNA with K values of about 300 nM (▶ Table 2).
+d
+In contrast, no significant binding was observed with PK. Taken
+together, these data support the contention that DNA and RNA
+provide a surface onto which the contact proteins FXII and HK as-
+semble to promote coagulation.
+Using SPR, we recently demonstrated that HRG binds DNA
+and RNA with high affinity, with identical K values of 1.3 ± 0.8
+d
+nM (27). Binding of HRG to DNA had previously been shown
+using an immunoassay (24). DNA contains regions that are single-
+stranded. Because ss-DNA has a structure distinct from that of
+RNA, we used fluorescence to compare the affinity of FITC-HRG
+for ds-DNA with that for ss-DNA. FITC-HRG bound ds- and ss-
+DNA with K values of 19.1 ± 1.4 and 28.5 ± 10.6 nM, respectively
+d
+(data not shown). Therefore, not only are the binding data ob-
+tained with fluorescence in agreement with those obtained by SPR,
+but the fluorescence data reveal that HRG binds ds-DNA and ss-
+DNA with similar high affinity.
+HRG attenuates DNA- or RNA-induced activation of
+FXII
+Having confirmed that nucleic acids promote clotting via the in-
+trinsic pathway, we next set out to identify the reactions that are
+modulated by HRG. The effect of HRG on DNA- or RNA-induced
+activation of FXII was examined in the presence of PK and HK be-
+cause nucleic acids enhanced activation of FXII up to 180-fold in
+the presence of HK and PK, but only four-fold in their absence
+(▶ Table 1). HRG attenuated FXIIa generation in a concentration-
+dependent fashion producing up to 95 % inhibition with an EC of
+50
+about 200 nM (▶ Figure 3 A). Therefore, by binding FXIIa, HRG
+attenuates DNA- or RNA-induced activation of FXII; findings
+consistent with previous results obtained with dextran sulfate (22).
+HRG attenuates DNA- or RNA-induced activation of
+FXI by FXIIa
+In the presence of 20 µg/ml DNA or RNA, the amount of FXIa
+generated by incubating FXI with FXIIa was significantly en-
+hanced by two-fold (data not shown); an effect that was attenuated Figure 5: Binding of FXI, FXIa and thrombin to B-DNA as determined
+by HRG (▶ Figure 3 B). With 2 µM HRG, FXI activation by FXIIa using SPR. A) FXI (0–100 nM), B) FPR-FXIa (0–200 nM), or C) FPR-thrombin
+(0–8 µM) was separately injected into streptavidin flow cells containing im-
+in the presence of DNA or RNA was reduced by 63 % and 83 %, re-
+mobilised B-DNA. Req values were plotted vs input protein concentrations.
+spectively, with EC values of about 500 and 100 nM, respectively.
+50 Data represent the mean ± SD of three determinations and were fit by non-
+Therefore, HRG attenuates nucleic acid-mediated FXI activation
+linear regression analysis using a rectangular hyperbola (line). Insets show
+by FXIIa. representative binding sensorgrams from each experiment with B-DNA,
+where input protein concentrations in nM are indicated adjacent to each
+HRG attenuates DNA- or RNA-induced enhancement tracing.
+of FXI activation by thrombin
+Thrombin activation of FXI is a key feedback step that is enhanced
+by polyanionic surfaces such as dextran sulfate and polyP (2, 33).
+© Schattauer 2016 Thrombosis and Haemostasis 115.1/2016
+.lairetam
+dethgirypoC
+.ytisrevinU
+notsoB
+:yb
+dedaolnwoD
+--- Page 8 ---
+96 Vu et al. HRG binds DNA and RNA and limits their procoagulant activity
+Previous work has shown that nucleic acids also augment this data raise the possibility that by binding DNA and RNA with high
+reaction, so the effect of HRG on this reaction was examined (3). affinity, HRG attenuates their stimulatory capacity.
+In the presence of DNA or RNA, the extent of thrombin-mediated
+activation of FXI activation was 10– to 12-fold greater (p< 0.001)
+FXI, FXIa and thrombin bind DNA and RNA
+than that in their absence (data not shown). By comparison, 0.7
+µg/ml of dextran sulfate enhanced FXI activation by thrombin by To determine how nucleic acids promote thrombin activation of
+71-fold (p< 0.001; data not shown). HRG attenuated the capacity FXI, we used SPR to quantify the interaction of thrombin, FXI and
+of DNA or RNA to promote FXI activation by thrombin (▶ Figure FXIa with immobilised B-DNA or B-RNA. FXI and FPR-FXIa
+4). With DNA and RNA, addition of HRG up to 4 µM reduced bound DNA in a concentration-dependent and saturable fashion
+thrombin-mediated FXI activation by 85 % and 60 %, respectively, (▶ Figure 5 A and B, respectively) with K values of 3 to 4 nM and
+d
+with EC values of 300 ± 160 and 215 ± 85 nM, respectively. Be- 14 to 16 nM, respectively (▶ Table 2). Similar results were ob-
+50
+cause HRG does not bind to FXI, FXIa or thrombin (22, 25), these served with RNA. Therefore, FXI and FXIa bind DNA and RNA
+with affinities comparable with that of HRG.
+Immobilised thrombin has previously been shown to bind
+polyP with a K value of 15 nM (2). We used SPR to determine
+d
+whether thrombin also binds DNA and RNA. FPR-thrombin
+bound to immobilised DNA and RNA in a concentration-depend-
+ent and saturable fashion (▶ Figure 5 C), yielding K values of 900
+d
+to 1,000 nM (▶ Table 2). Compared with HRG, FXI and FXIa, the
+affinity of thrombin for nucleic acids was much weaker (▶ Table
+2). The capacity of FXI and thrombin to bind nucleic acids sup-
+ports the contention that DNA and RNA promote thrombin acti-
+vation of FXI by serving as templates onto which thrombin and
+FXI assemble (▶ Figure 4).
+HRG displaces FXI bound to DNA or RNA
+To determine whether HRG modulates thrombin activation of FXI
+by binding to the nucleic acid template, we used SPR to assess the
+capacity of HRG to displace DNA or RNA bound to immobilised
+FXI. The experiment was designed to exploit the facts that DNA
+and RNA dissociation from FXI is slow, and that HRG does not
+bind FXI (22). DNA and RNA bound immobilised FXI in a satu-
+rable manner (▶ Figure 6) and subsequent injection of HRG accel-
+erated their dissociation in a concentration-dependent and satu-
+rable manner. Therefore, by binding to the nucleic acids, HRG in-
+hibited FXI binding. These results provide evidence for competi-
+tive binding of HRG and FXI to nucleic acids, thereby identifying a
+secondary mechanism through which HRG regulates the contact
+pathway of coagulation.
+Discussion
+Emerging evidence identifies DNA and RNA as important acti-
+vators of FXII-dependent thrombosis (3, 7, 31, 34). Consequently,
+it is important to better understand the mechanism by which this
+Figure 6: Displacement of DNA and RNA from immobilised FXI by occurs and how the activity of nucleic acids is regulated. In this
+HRG. FXI was immobilised on a flow cell of a CM5 biosensor chip to
+study, we show that nucleic acids promote a) thrombin generation
+~14,000 RU. A) After injection of 12 µg/ml DNA at a flow rate of 15 µl/min
+in a FXII- and FXI-dependent fashion, b) FXII activation in the
+for 120 s, HRG in concentrations from 0–5 nM as indicated was injected at
+presence of HK and PK, and c) feedback activation of FXI by
+a flow rate of 15 µl/min and dissociation was monitored for 400 s. Between
+thrombin. Therefore, these data confirm that, like polyP and mast-
+injections, flow cells were regenerated with 1 M NaCl for 240 s. An unmodi-
+fied flow cell served as the reference control. B) The experiment was then cell derived heparin, DNA and RNA are potent activators of the
+r epeated using 0.5 µg/ml RNA in place of DNA. Experiments were repeated intrinsic pathway. They also demonstrate that nucleic acids impact
+three times and representative plots are illustrated. numerous processes in the intrinsic pathway.
+Thrombosis and Haemostasis 115.1/2016 © Schattauer 2016
+.lairetam
+dethgirypoC
+.ytisrevinU
+notsoB
+:yb
+dedaolnwoD
+--- Page 9 ---
+Vu et al. HRG binds DNA and RNA and limits their procoagulant activity 97
+Apart from degradation by endogenous nucleases, it is unclear be the major regulator of FXIIa, but its rate of FXIIa inhibition is
+how the procoagulant activity of nucleic acids is regulated. Pre- relatively slow compared with that of other serpin-protease inter-
+viously, we identified HRG as a regulator of the contact system be- actions (38, 39). Furthermore, when bound to polyanions, FXIIa is
+cause it binds FXIIa and attenuates its capacity to promote contact protected from regulation by C1 inhibitor (40–42). In contrast,
+activation of coagulation (22). We subsequently showed that in FXII loses affinity for DNA and RNA upon activation, which en-
+mice deficient in HRG, thrombosis is accelerated in a nucleic acid- ables FXIIa to dissociate from the nucleic acids where it can be in-
+driven arterial injury model, and that administration of HRG re- hibited by HRG. The capacity of HRG to inhibit the activities of
+versed this (27). The current study identifies additional mechan- FXIIa, DNA, and RNA establishes it as a potentially important
+isms by which HRG may modulate the procoagulant effects of nu- regulator of the intrinsic pathway. Thus, HRG attenuates a) FXII
+cleic acids. Thus, the enhanced activation of FXII by FXIIa and activation, b) FXIIa activity, and c) feedback activation of FXI by
+FXI by FXIIa induced by DNA or RNA is attenuated by HRG with thrombin. With its high affinity for DNA and RNA, HRG is loca-
+EC values ranging from 100 to 500 nM; concentrations well lised to the site of contact activation, where it can inhibit FXIIa and
+50
+within the physiological range of HRG of 2 µM. HRG binds DNA neutralise the capacity of DNA or RNA to promote contact acti-
+and RNA with K values of about 1 nM and attenuates their proco- vation reactions. Further support for the role of HRG comes from
+d
+agulant activity because it competes with contact factors for bind- the observation that activated platelets release zinc and HRG, and
+ing to nucleic acids. Therefore, HRG reduces the capacity of DNA zinc augments the affinity of HRG for FXIIa by 103-fold (22, 43).
+and RNA to activate FXII and to support feedback activation of Therefore, HRG may serve as a buffer for the contact system in
+FXI by thrombin. Collectively, our results confirm that nucleic normal haemostasis, and the surge in zinc that occurs when pla-
+acids are potent activators of the contact system, and indicate that telets are activated at sites of injury provides a dynamic switch that
+HRG is a dynamic regulator of this pathway. attenuates thrombosis under conditions of vascular injury. In sup-
+This study aimed to quantify the stimulatory effects of nucleic port of this concept, HRG-FXIIa complexes are detected in con-
+acids on individual contact system reactions in order to define the tact-activated plasma (22), raising the possibility that HRG was the
+breadth of HRG modulation. The enhanced thrombin generation unidentified plasma protein that interfered with the interaction of
+induced by DNA or RNA is attenuated in FXII- or FXI-deficient a FXIIa-directed nanobody with FXIIa (35).
+plasma, but not in FVII-deficient plasma; findings consistent with In summary, we show that nucleic acids are potent cofactors for
+the concept that DNA and RNA initiate coagulation exclusively via the activation of FXII and FXI. The identification of physiological
+the intrinsic pathway. Polyanionic surfaces vary in their efficiency activators of the intrinsic pathway suggests that complementary
+as cofactors for FXII activation (35, 36). For example, polyP effec- mechanisms exist to down regulate this process. By binding DNA
+tively promotes FXII autoactivation on its own (14), whereas hepa- and RNA, HRG is localised to the site of contact activation where
+rin only does so when PK is present (37). Like heparin, DNA and it is poised to dampen FXIIa and FXIa generation; processes
+RNA alone are weak activators of FXII, but they promote acti- necessary for the initiation and propagation of the intrinsic path-
+vation by 180-fold in the presence of PK and HK (▶ Table 1 and way of coagulation. These findings add further support for the
+(3). This enhancement likely reflects the reciprocal activation of
+FXII and PK on the nucleic acid surface. In support of this con-
+cept, we show that both FXII and HK bind to DNA and RNA. By
+bridging PK onto polyanionic surfaces, HK also helps to localize What is known about this topic?
+the components of the contact system to the site of activation. • Nucleic acids have been shown to accelerate clotting via the con-
+Once FXIIa is generated, it propagates the intrinsic pathway by ac- tact pathway.
+tivating FXI; a process amplified by feedback activation of FXI by • Although nucleic acids promote factor XII activation, it is unclear
+thrombin (2, 33). Activation of FXI appears to be a pivotal step in whether they affect other reactions in the contact pathway.
+nucleic acid-induced activation of the intrinsic pathway because • Histidine-rich glycoprotein binds factor XIIa and attenuates its
+thrombin generation is attenuated to a greater extent in FXI-defi-
+procoagulant activity, and thrombosis after arterial injury is accel-
+cient plasma than in FXII-deficient plasma. Feedback activation of
+erated in histidine-rich glycoprotein-deficient mice.
+FXI by thrombin requires a polyanionic surface as a cofactor (2,
+33). We show that like polyP, DNA and RNA also bind FXI and What does this paper add?
+thrombin and significantly augment the capacity of thrombin to • DNA and RNA promote factor XII activation in the presence of
+activate FXI; findings consistent with the notion that all poly- prekallikrein and high-molecular-weight kininogen, and enhance
+anions containing an inorganic polyphosphate backbone promote factor XI activation by thrombin.
+feedback activation of FXI by thrombin (2). Therefore, our collec- • DNA and RNA bind factor XII, high-molecular-weight kininogen,
+tive results suggest that DNA and RNA are cofactors for the acti-
+factor XI, and thrombin, thereby serving as potential templates.
+vation of FXII and FXI and that these steps are important for initi-
+• Histidine-rich glycoprotein attenuates DNA- and RNA-stimulated
+ating, propagating and amplifying the procoagulant response.
+activation of factor XII and XI, demonstrating that it modulates
+Although physiological activators of the intrinsic pathway have
+the contact pathway and may serve as endogenous regulator of
+now been identified, it remains unclear how this pathway is regu-
+thrombosis.
+lated to prevent uncontrolled clotting. C1 inhibitor is proposed to
+© Schattauer 2016 Thrombosis and Haemostasis 115.1/2016
+.lairetam
+dethgirypoC
+.ytisrevinU
+notsoB
+:yb
+dedaolnwoD
+--- Page 10 ---
+98 Vu et al. HRG binds DNA and RNA and limits their procoagulant activityy
+concept that HRG serves as a dynamic modulator of the intrinsic 21.Jain S, Pitoc GA, Holl EK, et al. Nucleic acid scavengers inhibit thrombosis with-
+out increasing bleeding. Proc Natl Acad Sci USA 2012; 109: 12938–12943.
+pathway.
+22.MacQuarrie JL, Stafford AR, Yau JW, et al. Histidine-rich glycoprotein binds
+factor XIIa with high affinity and inhibits contact-initiated coagulation. Blood
+Acknowledgements 2011; 117: 4134–4141.
+The authors thank Zakhar Lysov for assistance with cell culture. 23.Jones AL, Hulett MD, Parish CR. Histidine-rich glycoprotein: A novel adaptor
+protein in plasma that modulates the immune, vascular and coagulation sys-
+tems. Immunol Cell Biol 2005; 83: 106–118.
+Conflicts of interest
+24.Gorgani NN, Smith BA, Kono DH, et al. Histidine-rich glycoprotein binds to
+None declared. DNA and Fc gamma RI and potentiates the ingestion of apoptotic cells by mac-
+rophages. J Immunol 2002; 169: 4745–4751.
+25.Vu TT, Stafford AR, Leslie BA, et al. Histidine-rich glycoprotein binds fi-
+References
+brin(ogen) with high affinity and competes with thrombin for binding to the
+gamma’-chain. J Biol Chem 2011; 286: 30314–30323.
+1. Colman RW, Schmaier AH. Contact system: a vascular biology modulator with 26.Leung LL, Harpel PC, Nachman RL, et al. Histidine-rich glycoprotein is present
+anticoagulant, profibrinolytic, antiadhesive, and proinflammatory attributes. in human platelets and is released following thrombin stimulation. Blood 1983;
+Blood 1997; 90: 3819–3843. 62: 1016–1021.
+2. Choi SH, Smith SA, Morrissey JH. Polyphosphate is a cofactor for the activation 27.Vu TT, Zhou J, Leslie BA, et al. Arterial thrombosis is accelerated in mice defi-
+of factor XI by thrombin. Blood 2011; 118: 6963–6970. cient in histidine-rich glycoprotein. Blood 2015; 125: 2712–2719.
+3. Kannemeier C, Shibamiya A, Nakazawa F, et al. Extracellular RNA constitutes a 28.Petrera NS, Stafford AR, Leslie BA, et al. Long range communication between
+natural procoagulant cofactor in blood coagulation. Proc Natl Acad Sci USA exosites 1 and 2 modulates thrombin function. J Biol Chem 2009; 284:
+2007; 104: 6388–6393. 25620–25629.
+4. Gailani D, Renne T. Intrinsic pathway of coagulation and arterial thrombosis. 29.Kretz CA, Cuddy KK, Stafford AR, et al. HD1, a thrombin- and prothrombin-
+Arterioscler Thromb Vasc Biol 2007; 27: 2507–2513. binding DNA aptamer, inhibits thrombin generation by attenuating prothrom-
+5. Muller F, Gailani D, Renne T. Factor XI and XII as antithrombotic targets. Curr bin activation and thrombin feedback reactions. Thromb Haemost 2010; 103:
+Opin Hematol 2011; 18: 349–355. 83–93.
+6. Gailani D, Broze GJ, Jr. Factor XI activation in a revised model of blood coagu- 30.Yau JW, Stafford AR, Liao P, et al. Mechanism of catheter thrombosis: compari-
+lation. Science 1991; 253: 909–912. son of the antithrombotic activities of fondaparinux, enoxaparin, and heparin in
+7. Renne T, Pozgajova M, Gruner S, et al. Defective thrombus formation in mice vitro and in vivo. Blood 2011; 118: 6667–6674.
+lacking coagulation factor XII. J Exp Med 2005; 202: 271–281. 31.Swystun LL, Mukherjee S, Liaw PC. Breast cancer chemotherapy induces the re-
+8. Wang X, Smith PL, Hsu MY, et al. Effects of factor XI deficiency on ferric chlor- lease of cell-free DNA, a novel procoagulant stimulus. J Thromb Haemost 2011;
+ide-induced vena cava thrombosis in mice. J Thromb Haemost 2006; 4: 9: 2313–2321.
+1982–1988. 32.Mandle RJ, Colman RW, Kaplan AP. Identification of prekallikrein and high-
+9. Wang X, Cheng Q, Xu L, et al. Effects of factor IX or factor XI deficiency on fer- molecular-weight kininogen as a complex in human plasma. Proc Natl Acad Sci
+ric chloride-induced carotid artery occlusion in mice. J Thromb Haemost 2005; USA 1976; 73: 4179–4183.
+3: 695–702. 33.Scott CF, Colman RW. Fibrinogen blocks the autoactivation and thrombin-me-
+10.Crosby JR, Marzec U, Revenko AS, et al. Antithrombotic effect of antisense fac- diated activation of factor XI on dextran sulfate. Proc Natl Acad Sci USA 1992;
+tor XI oligonucleotide treatment in primates. Arterioscler Thromb Vasc Biol 89: 11189–11193.
+2013; 33: 1670–1678. 34.Fuchs TA, Brill A, Duerschmied D, et al. Extracellular DNA traps promote
+11.Yau JW, Liao P, Fredenburgh JC, et al. Selective depletion of factor XI or factor thrombosis. Proc Natl Acad Sci USA 2010; 107: 15880–15885.
+XII with antisense oligonucleotides attenuates catheter thrombosis in rabbits. 35.de Maat S, van Dooremalen S, de Groot PG, et al. A nanobody-based method
+Blood 2014; 123: 2102–2107. for tracking factor XII activation in plasma. Thromb Haemost 2013; 110:
+12.Larsson M, Rayzman V, Nolte MW, et al. A factor XIIa inhibitory antibody pro- 458–468.
+vides thromboprotection in extracorporeal circulation without increasing 36.Gansler J, Jaax M, Leiting S, et al. Structural requirements for the procoagulant
+bleeding risk. Sci Transl Med 2014; 6: 222ra17. activity of nucleic acids. PLoS One 2012; 7: e50399.
+13.Renne T, Schmaier AH, Nickel KF, et al. In vivo roles of factor XII. Blood 2012; 37.Pixley RA, Cassello A, De La Cadena RA, et al. Effect of heparin on the acti-
+120: 4296–4303. vation of factor XII and the contact system in plasma. Thromb Haemost 1991;
+14.Muller F, Mutch NJ, Schenk WA, et al. Platelet polyphosphates are proinflam- 66: 540–547.
+matory and procoagulant mediators in vivo. Cell 2009; 139: 1143–1156. 38.de Agostini A, Lijnen HR, Pixley RA, et al. Inactivation of factor XII active frag-
+15.Brill A, Fuchs TA, Savchenko AS, et al. Neutrophil extracellular traps promote ment in normal plasma. Predominant role of C-1-inhibitor. J Clin Invest 1984;
+deep vein thrombosis in mice. J Thromb Haemost 2012; 10: 136–144. 73: 1542–1549.
+16.von Bruhl ML, Stark K, Steinhart A, et al. Monocytes, neutrophils, and platelets 39.Olson ST, Gettins PG. Regulation of proteases by protein inhibitors of the serpin
+cooperate to initiate and propagate venous thrombosis in mice in vivo. J Exp superfamily. Prog Mol Biol Transl Sci 2011; 99: 185–240.
+Med 2012; 209: 819–835. 40.Wagenaar-Bos IG, Hack CE. Structure and function of C1-inhibitor. Immunol
+17.Gould TJ, Vu TT, Swystun LL, et al. Neutrophil extracellular traps promote Allergy Clin North Am 2006; 26: 615–632.
+thrombin generation through platelet-dependent and platelet-independent 41.Pixley RA, Schmaier A, Colman RW. Effect of negatively charged activating
+mechanisms. Arterioscler Thromb Vasc Biol 2014; 34: 1977–1984. compounds on inactivation of factor XIIa by Cl inhibitor. Arch Biochem Bio-
+18.Semeraro F, Ammollo CT, Esmon NL, et al. Histones induce phosphatidylserine phys 1987; 256: 490–498.
+exposure and a procoagulant phenotype in human red blood cells. J Thromb 42.Pixley RA, Schapira M, Colman RW. The regulation of human factor XIIa by
+Haemost 2014; 12: 1697–1702. plasma proteinase inhibitors. J Biol Chem 1985; 260: 1723–1729.
+19.Semeraro F, Ammollo CT, Morrissey JH, et al. Extracellular histones promote 43.Marx G, Korner G, Mou X, et al. Packaging zinc, fibrinogen, and factor XIII in
+thrombin generation through platelet-dependent mechanisms: involvement of platelet alpha-granules. J Cell Physiol 1993; 156: 437–442.
+platelet TLR2 and TLR4. Blood 2011; 118: 1952–1961.
+20.Smith SA, Choi SH, Collins JN, et al. Inhibition of polyphosphate as a novel
+strategy for preventing thrombosis and inflammation. Blood 2012; 120:
+5103–5110.
+Thrombosis and Haemostasis 115.1/2016 © Schattauer 2016
+.lairetam
+dethgirypoC
+.ytisrevinU
+notsoB
+:yb
+dedaolnwoD

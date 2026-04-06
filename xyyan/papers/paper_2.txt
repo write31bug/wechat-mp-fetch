@@ -1,0 +1,249 @@
+
+--- Page 1 ---
+Acta Med. Okayama, 2021
+Vol. 75, No. 6, pp. 671-675
+CopyrightⒸ 2021 by Okayama University Medical School.
+Review
+http ://escholarship.lib.okayama-u.ac.jp/amo/
+Multiple Roles of Histidine-Rich Glycoprotein in
+Vascular Homeostasis and Angiogenesis
+Shangze Gaoa,b,c＊§, and Masahiro Nishiboria
+aDepartment of Pharmacology, Okayama University Graduate School of Medicine,
+Dentistry and Pharmaceutical Sciences, Okayama 700-8558, Japan,
+bSchool of Pharmaceutical Sciences, cTsinghua-Peking Center for Life Sciences, Tsinghua University, Beijing 100084, China
+Histidine-rich glycoprotein (HRG) is a 75kDa plasma protein that is synthesized in the liver of many verte-
+brates and present in their plasma at relatively high concentrations of 100-150μg/mL. HRG is an abundant and
+well-characterized protein having a multidomain structure that enable it to interact with many ligands, func-
+tion as an adaptor molecule, and participate in numerous physiological and pathological processes. As a
+plasma protein, HRG has been reported to regulate vascular biology, including coagulation, fibrinolysis and
+angiogenesis, through its binding with several ligands (heparin, FXII, fibrinogen, thrombospondin, and plas-
+minogen) and interaction with many types of cells (endothelial cells, erythrocytes, neutrophils and platelets).
+This review aims to summarize the roles of HRG in maintaining vascular homeostasis and regulating angiogen-
+esis in various pathological conditions.
+Key words: histidine-rich glycoprotein, vascular biology, coagulation, angiogenesis
+H istidine-rich glycoprotein (HRG) is a 75kDa [9], plasminogen [10], fibrinogen [11], thrombospon-
+single polypeptide chain protein that was first din (TSP) [12], tropomysin [13], vasculostatin [14],
+purified from human plasma almost half a century ago immunoglobulin G [15], complement components [16]
+[1,2]. HRG is mainly synthesized in the liver [3] and and phospholipids [17] through several independent
+has been shown to be present in the plasma of many binding sites [18], thereby regulating numerous bio-
+vertebrates (humans, mice, cows, rats and rabbits) [4] logic processes. HRG maintains homeostasis of the
+as well as in aquatic invertebrates [5]. It is relatively vascular system to provide immediate responses to for-
+abundant, circulating at a concentration of approxi- eign pathogens and vascular damage and has functions
+mately 100-150μg/mL in human blood [6]. Human in modulating coagulation [19], fibrinolysis [10] and
+HRG has been analyzed as having 507 amino acids [3] angiogenesis [4,20] and helping to kill pathogens [21-
+in multiple domains: two cystatin-like regions at the 23]. In our study, we also found that HRG interacts
+N-terminus and a histidine-rich region (HRR) flanked with many different cell types in blood vessels, includ-
+by two proline-rich regions (PRRs) and a C-terminal ing endothelial cells, erythrocytes, neutrophils and
+domain [7]. HRG can simultaneously interacts with platelets, to help prevent vascular dysfunction (Fig.1).
+multiple ligands, including heparin [2], heme [8], Zn2+ In this review, we focus on the roles of HRG in the
+maintenance of vascular homeostasis and regulation of
+Received February 28, 2021 ; accepted July 5, 2021. angiogenesis.
+＊Corresponding author. Phone and Fax : +81-86-235-7138
+E-mail : gaoshangze20@163.com (S. Gao)
+§The Awardee of the 2019 Incentive Award of the Okayama Medical Conflict of Interest Disclosures: No potential conflict of interest relevant
+Associa tion in Cardiovascular and Pulmonary Research. to this article was reported.
+--- Page 2 ---
+672 Gao et al. Acta Med. Okayama Vol. 75, No. 6
+Fig. 1 HRG helps to maintain the vascular homeostasis.
+The Role of HRG on Maintaining Vascular heparin and antithrombin III [24-26]. In addition, it
+Homeostasis has been shown that HRG can act as an antifibrinolytic
+agent due to its high-affinity interaction with plasmino-
+Plasma proteins are essential for a variety of normal gen, by which it inhibits the interaction of plasminogen
+physiologic processes, such as coagulation, fibrinolysis, with fibrin clots, thus indirectly inhibiting plas-
+angiogenesis, tissue remodeling and transporting of min-mediated fibrinolysis [27,28]. This proposed anti-
+nutrients, as well as the detection and clearance of fibrinolytic effect of HRG would be expected to potenti-
+unwanted materials such as pathogens, immune com- ate clot formation and persistence within the
+plexes (ICs) and dying/dead cells. The pathologies of vasculature and in tissues. In contrast, other studies
+many diseases like sepsis include vascular dysfunction have demonstrated the pro-fibrinolytic role of sur-
+associated with coagulopathy and dysregulated inflam- face-immobilized HRG [29]. Immobilized HRG binds
+mation/immune responses. These pathologies are likely plasminogen with a high affinity, resulting in an
+related to dysregulation of neutrophils, activation and approximately 30-fold increase in the conversion of
+damage of vascular endothelial cells, enhanced platelet plasminogen to plasmin by tPA, with theoretically a
+aggregation, immune paralysis, and procoagulant concomitant increase in the fibrinolytic potential in the
+activity. HRG’s location in plasma as well as its multiple microenvironment of fibrin clots. Collectively, these
+ligands within hemostatic pathways have implicated this studies suggest that HRG is an important agent in the
+protein as a modulator of hemostasis. regulation of coagulation and fibrinolysis.
+HRG regulates both coagulation and fibrinolysis. HRG interacts with several blood cells. The ini-
+In previous studies, HRG was found to modulate vari- tial step of the disruption of vascular homeostasis is the
+ous components of the coagulation cascade through its injury of vascular endothelial cells. It has been demon-
+binding with molecules related to coagulation and fibri- strated that HRG can protect vascular endothelial cells
+nolysis. HRG inhibits the procoagulant activity of from strong activation and apoptosis induced by lipo-
+monocytes by blocking the normal interaction between polysaccharide (LPS) or TNF-α in vitro [30,31]. HRG
+--- Page 3 ---
+December 2021 The Regulation of Vascular System by HRG 673
+also can protect against the vascular barrier dysfunction ease conditions. Numerous studies have reported on the
+of sepsis in mice and can prevent LPS/TNF-a-induced dysregulated adherence of erythrocytes to endothelial
+cytokine release from endothelial cells in vitro, thus cells in sickle cell disease (SCD), malaria and diabetes.
+helping to maintain the barrier integrity of the vascular This adhesion plays a pivotal role in initiating thrombus
+endothelium [31]. Moreover, HRG was also shown to formation after the activation of neutrophils and plate-
+inhibit release of the damage-associated molecule-high lets in immunothrombosis. HRG also strongly inhibits
+mobility group box-1 (HMGB1) from endothelial cells the Zn2+-induced aggregation of erythrocytes and the
+through its binding with the C-type lectin domain fam- adhesion of erythrocytes to the damaged vascular endo-
+ily 1 member A (CLEC 1A) receptor expressed on thelium: two more of its antithrombotic effects [39].
+endothelial cells [32].
+HRG plays important roles in neutrophils, main- Functions of HRG in Angiogenesis
+taining their round shape and smooth cell surface and
+suppressing the spontaneous production of reactive In healthy adults, angiogenesis is rare. The vascula-
+oxygen species (ROS). Plasma HRG maintains circulat- ture is tightly regulated by pro- and anti-angiogenic
+ing neutrophils in the quiescent state, thereby facilitat- factors, keeping it quiescent during normal conditions.
+ing the ease of their passage through capillaries and Excessive angiogenesis has been implicated in numer-
+limiting damage to vascular endothelial cells, which ous pathological conditions such as rheumatoid arthri-
+may be induced by the ROS released from neutrophils tis, retinopathy and tumor growth, and the possibility
+[30]. Likewise, decreased plasma levels of HRG in sep- of inhibiting the formation and remodeling of blood
+sis can result in the adhesion of neutrophils on vascular vessels is therefore of great clinical interest [40,41].
+endothelial cells, with subsequent intravascular This section focuses on the role of HRG in the regula-
+NETosis and immunothrombosis [30]. tion of both pro- and anti- angiogenic properties.
+Platelets are small cellular fragments derived from Pro-angiogenesis activity. There have been
+the budding of megakaryocytes in the bone marrow. reports on both the enhancing and inhibitory effects of
+They play an important role in the regulation of blood HRG on angiogenesis, including both specific and more
+hemostasis as well as other processes such as immunity, general effects on cellular function. One group reported
+tumor metastasis and angiogenesis. At sites of blood that HRG inhibits the antiangiogenic effect of the
+vessel injury, platelets are activated and aggregate to angiogenesis inhibitor TSP-1 and -2 via the HRG
+prevent hemorrhage. HRG has been found within N-terminal and C-terminal interfering with the binding
+platelets and has also been reported to be released fol- of TSP to its receptor CD36 (Fig.2) [42]. HRG can also
+lowing platelet activation with thrombin [33]. There are tether plasminogen/plasmin to the surface of endothe-
+studies showing that HRG binds to platelets in a specific lial cells, thereby potentially enhancing cell migration
+saturable manner dependent on Zn2+. Binding is poten- and invasion, which is important during angiogenesis
+tiated by thrombin-induced platelet activation [34,35]. among other processes [43].
+HRG−/− mice display a shorter bleeding time than Anti-angiogenesis activity. Conversely, some
+HRG+/+ mice, indicating a role of HRG as a negative researchers have demonstrated HRG’s negative role in
+regulator of platelet function [36]. The underlying angiogenesis by various mechanisms [44-46]. HRG can
+mechanisms of action are unclear but could involve the bind to heparan sulphate on the extracellular matrix
+recruitment of other plasma proteins to the platelet sur- (ECM) and mask its heparanase cleavage sites, thereby
+face. Candidates that are involved in platelet function preventing the release of growth factors from the ECM
+and binding to HRG are TSPs and vitronectin [37]. [47]. HRG has also been reported to inhibit endothelial
+Taken together, the above-mentioned findings suggest cell tube formation and proliferation in vitro [45]. These
+a role for HRG both as an anticoagulant, an antifibri- results were later extended with in vivo data, where HRG
+nolytic modifier and a regulator of platelet function was shown to inhibit tumor growth and vascularization
+[36]. in a subcutaneous fibrosarcoma mouse model, with the
+Since red blood cells (RBCs) play significant func- antiangiogenic effect mediated by the His/Pro-rich
+tions in blood clotting and related disorders [38], the domain [45,46].
+RBC rheology has been widely studied in different dis-
+--- Page 4 ---
+674 Gao et al. Acta Med. Okayama Vol. 75, No. 6
+Fig. 2 Domain structure of HRG and its binding molecule.
+Concluding Remarks a novel adaptor protein in plasma that modulates the immune, vas-
+cular and coagulation systems. Immunol Cell Biol (2005) 83: 106-
+118.
+Vascular dysfunction occurs as a common patho-
+5. Nair PS and Robinson WE: Purification and characterization of a
+logical process in many severe diseases and is accompa- histidine-rich glycoprotein that binds cadmium from the blood
+nied by abnormal coagulation, fibrinolysis, inflamma- plasma of the bivalve Mytilus edulis. Arch Biochem Biophys (1999)
+366: 8-14.
+tion and activation of various cells in blood. In this
+6. Corrigan JJ, Jeter MA, Bruck D and Feinberg WM: Histidine-rich
+review, we revealed that HRG can protect endothelial glycoprotein levels in children: the effect of age. Thromb Res
+cells, neutrophils, RBC and platelets from overwhelm- (1990) 59: 681-686.
+7. Ivan P, Kruti P, David D, Christopher P and Mark H: Histidine-rich
+ing activation in pathological processes, thus regulating
+glycoprotein: the Swiss Army knife of mammalian plasma. Blood
+coagulation and angiogenesis and maintaining homeo-
+(2011) 117: 2093-2101.
+stasis of the vascular endothelium. Although HRG has 8. Katagiri M, Tsutsui K, Yamano T, Shimonishi Y and Ishibashi F:
+been shown to interact with a variety of ligands and to Interaction of heme with a synthetic peptide mimicking the putative
+heme-binding site of histidine-rich glycoprotein. Biochem Biophys
+regulate numerous biological activities, much more
+Res Commun (1987) 149: 1070-1076.
+remains to be discovered about this intriguing mole- 9. Morgan WT: Interactions of the histidine-rich glycoprotein of serum
+cule. with metals. Biochemistry (1981) 20: 1054-1061.
+10. Lijnen HR, Hoylaerts M and Collen D: Isolation and characteriza-
+tion of a human plasma protein with affinity for the lysine binding
+Acknowledgments. The work was supported by a Grant-in-Aid for
+sites in plasminogen. Role in the regulation of fibrinolysis and
+Scientific Research (no.19H03408 to M.N.), a Grant-in-Aid for Young
+identification as histidine-rich glycoprotein. J Biol Chem (1980)
+Scientists (no.17K15580 to H.W.) from the Japan Society for the Promotion
+255: 10214-10222.
+of Science (JSPS). The author S.G. was supported by a funding from
+11. Leung LL: Interaction of histidine-rich glycoprotein with fibrinogen
+Tsinghua University-Peking University Joint Center for Life Sciences.
+and fibrin. J Clin Invest (1986) 77: 1305-1311.
+12. Leung LL, Nachman RL and Harpel PC: Complex formation of
+References platelet thrombospondin with histidine-rich glycoprotein. J Clin
+Invest (1984) 73: 5-12.
+13. Guan X, Juarez JC, Qi X, Shipulina N, Shaw D, Morgan W,
+1. Haupt H and Heimburger N: Human serum proteins with high affin-
+McCrae K, Mazar A and Doñate F: Histidine-proline rich glycopro-
+ity for carboxymethylcellulose. I. Isolation of lysozyme, C1q and 2
+tein (HPRG) binds and transduces anti-angiogenic signals through
+hitherto unknown globulins. Hoppe Seylers Z Physiol Chem (1972)
+cell surface tropomyosin on endothelial cells. Thromb Haemost
+353: 1125-1132.
+(2004) 92: 403-412.
+2. Heimburger N, Haupt H, Kranz T and Baudner S: Human serum
+14. Klenotic PA, Huang P, Palomo J, Kaur B, Meir E, Vogelbaum M,
+proteins with high affinity to carboxymethylcellulose. II. Physico-
+Febbraio M, Gladson C and Silverstein R: Histidine-rich glycopro-
+chemical and immunological characterization of a histidine-rich
+tein modulates the anti-angiogenic effects of vasculostatin. Am J
+3,8S-2-glycoprotein (CM-protein I). Hoppe Seylers Z Physiol Chem
+Pathol (2010) 176: 2039-2050.
+(1972) 353: 1133-1140.
+15. Gorgani NN, Parish CR, Easterbrook Smith SB and Altin JG:
+3. Koide T, Foster D, Yoshitake S and Davie EW: Amino acid
+Histidine-rich glycoprotein binds to human IgG and C1q and inhibits
+sequence of human histidine-rich glycoprotein derived from the
+the formation of insoluble immune complexes. Biochemistry (1997)
+nucleotide sequence of its cDNA. Biochemistry (1986) 25: 2220-
+36: 6653-6662.
+2225.
+16. Manderson GA, Martin M, Onnerfjord P, Saxne T, Schmidtchen A,
+4. Jones AL, Hulett MD and Parish CR: Histidine-rich glycoprotein:
+--- Page 5 ---
+December 2021 The Regulation of Vascular System by HRG 675
+Mollnes TE, Heinegård D and Blom AM: Interactions of histidine- 32. Gao S, Wake H, Sakaguchi M, Wang D, Takahashi H, Teshigawara
+rich glycoprotein with immunoglobulins and proteins of the comple- K, Zhong H, Mori S, Liu K, Takahashi H and Nishibori M:
+ment system. Mol Immunol (2009) 46: 3388-3398. Histidine-rich glycoprotein inhibits HMGB1-mediated pathway in
+17. Poon IK, Hulett MD and Parish CR: Histidine-rich glycoprotein is vascular endothelial cells through CLEC1A. iScience (2020) 23:
+a novel plasma pattern recognition molecule that recruits IgG to 101180.
+facilitate necrotic cell clearance via FcγRI on phagocytes. Blood 33. Leung L, Harpel P, Nachman R and Rabellino E: Histidine-rich
+(2010) 115: 2473-2482. glycoprotein is present in human platelets and is released following
+18. Borza DB, Tatum FM and Morgan WT: Domain structure and con- thrombin stimulation. Blood (1983) 62: 1016-1021.
+formation of histidine-proline-rich glycoprotein. Biochemistry (1996) 34. Horne MK, Merryman PK and Cullinane AM: Histidine- proline-rich
+35: 1925-1934. glycoprotein binding to platelets mediated by transition metals.
+19. Wakabayashi S and Koide T: Histidine-rich glycoprotein: a possi- Thromb Haemost (2001) 85: 890-895.
+ble modulator of coagulation and fibrinolysis. Semin Thromb Hemost 35. Lerch PG, Nydegger UE, Kuyas C and Haeberli A: Histidine-rich
+(2011) 37: 389-394. glycoprotein binding to activated human platelets. Br J Haematol
+20. Simantov R, Febbraio M, Crombie R, Asch AS, Nachman RL and (1988) 70: 219-224.
+Silverstein RL: Histidine-rich glycoprotein. inhibits the antiangio- 36. Tsuchida-Straeten N, Ensslen S, Schäfer C, Wöltje M, Denecke B,
+genic effect of thrombospondin-1. J Clin Invest (2001) 107: 45-52. Moser M, Gräber S, Wakabayashi S, Koide T and Jahnen-Dechent
+21. Rydengård V, Olsson A-K, Mörgelin M and Schmidtchen A: W: Enhanced blood coagulation and fibrinolysis in mice lacking
+Histidine-rich glycoprotein exerts antibacterial activity. FEBS J histidine-rich glycoprotein (HRG). J Thromb Haemost (2005) 5:
+(2007) 274: 377-389. 865-872.
+22. Rydengård V, Shannon O, Lundqvist K, Kacprzyk L, Chalupka A, 37. Leung LL, Nachman RL and Harpel PC: Complex formation of
+Olsson AK, Mörgelin M, Jahnen-Dechent W, Malmsten M and platelet thrombospondin with histidine-rich glycoprotein. J Clin
+Schmidtchen A: Histidine-rich glycoprotein protects from systemic Invest (1984) 73: 5-12.
+Candida infection. PLoS Pathog (2008) 4: e1000116. 38. Litvinov RI and Weisel JW: Role of red blood cells in haemostasis
+23. Shannon O, Rydengård V, Schmidtchen A, Mörgelin M, Alm P, and thrombosis. ISBT Sci Ser (2017) 12: 176-183.
+Sørensen OE and Björck L: Histidine-rich glycoprotein promotes 39. Zhong H, Wake H, Liu K, Gao Y, Teshigawara K, Sakaguchi M,
+bacterial entrapment in clots and decreases mortality in a mouse Mori S and Nishibori M: Effects of histidine-rich glycoprotein on
+model of sepsis. Blood (2010) 116: 365-2372. erythrocyte aggregation and hemolysis: implication for a role in
+24. Koide T, Odani S and Ono T: The N-terminal sequence of human septic condition. J Pharmacol Sci (2018) 136: 97-106.
+plasma histidine-rich glycoprotein homologous to antithrombin with 40. Risau W: Mechanisms of angiogenesis. Nature (1997) 386: 671-
+high affinity for heparin. FEBS Lett (1982) 141: 222-224. 674.
+27. Lijnen HR, van Hoef B and Collen D: Interaction of heparin with 41. Carmeliet P: Angiogenesis in life, disease and medicine. Nature
+histidine-rich glycoprotein and with antithrombin III. Thromb (2005) 438: 932-936.
+Haemost (1983) 50: 560-562. 42. Simantov RM, Febbraio and Silverstein RL: The antiangiogenic
+26. Lijnen HR, Van Hoef B and Collen D: Histidine-rich glycoprotein effect of thrombospondin-2 is mediated by CD36 and modulated by
+modulates the anticoagulant activity of heparin in human plasma. histidine-rich glycoprotein. Matrix Biol (2005) 24: 27-34.
+Thromb Haemost (1984) 51: 266-268. 43. Jones AL, Hulett MD and Parish CR: Histidine-rich glycoprotein
+27. Borza DB and Morgan WT: Acceleration of plasminogen activation binds to cell-surface heparan sulfate via its N-terminal domain fol-
+by tissue plasminogen activator on surface-bound histidine proline- lowing Zn2+ chelation. J Biol Chem (2004) 279: 30114-30122.
+rich glycoprotein. J Biol Chem (1997) 272: 5718-5726. 44. Olsson AK, Larsson H, Dixelius J, Johansson I, Lee C, Oellig C,
+28. Jones AL, Hulett MD, Altin JG, Hogg P and Parish CR: Björk I and Welsh LC: A fragment of histidine-rich glycoprotein is
+Plasminogen is tethered with high affinity to the cell surface by the a potent inhibitor of tumor vascularization. Cancer Res (2004) 64:
+plasma protein, histidine-rich glycoprotein. J Biol Chem (2004) 599-605.
+279: 38267-38276. 45. Juarez JC, Guan X, Shipulina NV, Plunkett ML, Parry GC, Shaw
+29. Silverstein RL, Nachman RL, Leung LL and Harpel PC: Activation D, Zhang JC, Rabbani SA, McCrae KR, Mazar AP, Morgan W
+of immobilized plasminogen by tissue activator. Multimolecular and Doñate F: Histidine-proline-rich glycoprotein has potent anti-
+complex formation. J Biol Chem (1985) 260: 10346-10352. angiogenic activity mediated through the histidine-proline-rich domain.
+30. Wake H, Mori S, Liu K, Morioka Y, Teshigawara K, Sakaguchi M, Cancer Res (2002) 62: 5344-5350.
+Kuroda K, Gao Y, Takahashi H, Ohtsuka A, Yoshino T, Morimatsu 46. Donate F, Juarez JC, Guan X, Shipulina NV, Plunkett ML, Tsur Z,
+H and Nishibori M: Histidine-rich glycoprotein prevents septic Shaw D, Morgan W and Mazar AP: Peptides derived from the his-
+lethality through regulation of immunothrombosis and inflammation. tidine-proline domain of the histidine-proline-rich glycoprotein bind
+EBioMedicine (2016) 9: 180-194. to tropomyosin and have antiangiogenic and antitumor activities.
+31. Gao S, Wake H, Gao Y, Wang D, Mori S, Liu K, Teshigawara K, Cancer Res (2004) 64: 5812-5817.
+Takahashi H and Nishibori M: Histidine-rich glycoprotein amelio- 47. Freeman C and Parish CP: A rapid quantitative assay for the
+rates endothelial barrier dysfunction through regulation of NF-κB detection of mammalian heparanase activity. Biochem J (1997)
+and MAPK signal pathway. British Journal of Pharmacology (2019), 325: 229-237.
+176: 2808-2824.

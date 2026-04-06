@@ -1,0 +1,417 @@
+
+--- Page 1 ---
+https://www.jhltopen.org/
+Histidine-rich glycoprotein ameliorated lung
+]]
+]] ]]]]]]
+1
+ischemia-reperfusion injury in a mouse model
+Yujiro Kubo, MD, PhD,a,d Seiichiro Sugimoto, MD, PhD,a,e,⁎
+Daiki Ousaka, PhD,b,f Dengli Wang, PhD,b Toshiaki Ohara, MD, PhD,c
+Toshio Shiotani, MD, PhD,a,e Shin Tanaka, MD, PhD,a,e Ken Suzawa, MD, PhD,a
+Kazuhiko Shien, MD, PhD,a Kentaroh Miyoshi, MD, PhD,a
+Mikio Okazaki, MD, PhD,a Yasuyuki Hosono, MD, PhD,b
+Akihiro Matsukawa, MD, PhD,c and Shinichi Toyooka, MD, PhDa,e
+aDepartment of General Thoracic Surgery and Breast and Endocrinological Surgery, Okayama University Graduate
+School of Medicine, Dentistry and Pharmaceutical Sciences, Okayama, Japan
+bDepartment of Pharmacology, Okayama University Graduate School of Medicine, Dentistry and Pharmaceutical
+Sciences, Okayama, Japan
+cDepartment of Pathology and Experimental Medicine, Okayama University Graduate School of Medicine, Dentistry and
+Pharmaceutical Sciences, Okayama, Japan
+dDepartment of Thoracic Surgery and Lung Transplantation, Hospital Universitario Puerta de Hierro-Majadahonda,
+Madrid, Spain
+eDepartment of General Thoracic Surgery and Organ Transplant Center, Okayama University Hospital, Okayama, Japan
+fDepartment of Medical Technology, Faculty of Life Science, Okayama University of Science, Okayama, Japan
+KEYWORDS: BACKGROUND: Histidine-rich glycoprotein (HRG) is a multifunctional plasma glycoprotein involved
+Histidine-rich in the regulation of various biological processes. Decreased plasma levels of HRG at 72 h after lung
+glycoprotein; transplantation have been shown to be associated with severe primary graft dysfunction and poor
+Ischemia-reperfusion transplant outcomes. In this study, we examined the effect of HRG supplementation on lung ischemia-
+injury; reperfusion injury (IRI) in mice.
+Lung transplantation; METHODS: The experimental mice were divided into a Sham group and three IRI groups (n=5 each)
+Neutrophil extracellular that received phosphate-buffered saline, human serum albumin, or HRG (HRG/IRI group), respec-
+traps; tively. The lung function, lung injury, neutrophil infiltration, cellular apoptosis, inflammatory med-
+High-mobility group iators, neutrophil extracellular traps (NETs), translocation status of high-mobility group box 1
+box 1 (HMGB1), and hemolytic products in the injured tissue/plasma were compared among the groups.
+RESULTS: The HRG/IRI group showed significantly improved oxygenation capacity and a reduced
+severity of lung injury as compared with the other IRI groups. The HRG/IRI group also showed
+Abbreviations: DAMPs, damage-associated molecular patterns; HMGB1, high-mobility group box 1; HRG, histidine-rich glycoprotein; HSA, human serum
+albumin; IL, interleukin; IRI, ischemia-reperfusion injury; LT, lung transplantation; Ly6G, lymphocyte antigen 6 family member G; MPO, myeloperoxidase;
+NET, neutrophil extracellular trap; PBS, phosphate-buffered saline; PGD, primary graft dysfunction; TUNEL, terminal deoxynucleotidyl transferase-
+mediated deoxyuridine triphosphate nick-end labeling
+1 Meeting presentation: Presented at the 43rd annual meeting and scientific sessions of the International Society for Heart and Lung Transplantation, CO,
+USA, in April 2023
+⁎ Corresponding author: Seiichiro Sugimoto, MD, PhD, Department of General Thoracic Surgery and Organ Transplant Center, Okayama University
+Hospital, 2–5-1 Shikata-cho, Kita-ku, Okayama 700–8558, Japan. Telephone: +81-86-235-7265. Fax: +81-86-235-7269.
+E-mail address: sugimo-s@cc.okayama-u.ac.jp.
+2950-1334/© 2025 The Authors. Published by Elsevier Inc. on behalf of International Society for Heart and Lung Transplantation. This is an open access
+article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+https://doi.org/10.1016/j.jhlto.2025.100453
+--- Page 2 ---
+2 JHLT Open, Vol 11C, February 2026
+significantly less severe tissue inflammation in the reperfused lung, including a lower level of neu-
+trophil infiltration, apoptotic cells, and neutrophil-associated inflammatory mediators than the other IRI
+groups. Moreover, formation of NETs and HMGB1 translocation were significantly suppressed in the
+HRG/IRI group as compared with the other IRI groups. A significantly greater degree of scavenging of
+hemolytic products was observed in the HRG/IRI group than the other IRI groups.
+CONCLUSION: HRG supplementation ameliorated lung IRI in mice by suppressing inflammatory re-
+sponses triggered by neutrophil-associated factors, including formation of NETs, HMGB1 transloca-
+tion, and accumulation of hemolytic products.
+JHLT Open 2026;11:100453
+© 2025 The Authors. Published by Elsevier Inc. on behalf of International Society for Heart and Lung
+Transplantation. This is an open access article under the CC BY-NC-ND license (http://creative-
+commons.org/licenses/by-nc-nd/4.0/).
+Introduction with the principles of laboratory animal care formulated by
+the National Society for Medical Research and the Guide
+Lung transplantation (LT) is offered as a last resort for patients for the Care and Use of Laboratory Animals: Eighth Edition
+with end-stage lung diseases. However, lung ischemia-re- (National Academy Press, 2011). The research protocol was
+perfusion injury (IRI), a major cause of primary graft dys- approved by the relevant ethics committee and institutional
+function (PGD) after LT, is associated with chronic lung review board (OKU-2021661).
+allograft rejection and reduced survival after LT.1 Lung IRI is
+associated with cellular stress, oxidative damage and in- Purification of HRG from human plasma
+flammation, resulting in graft dysfunction and poor transplant
+outcomes.2 Lung IRI involves multifaceted mechanisms, in- HRG was purified from human plasma (supplied by the
+cluding formation of neutrophil extracellular traps (NETs)3and Japanese Red Cross Society), as described previously.13 In
+release of damage-associated molecular patterns (DAMPs) such brief, human plasma was incubated with nickel-nitrilo-
+as high-mobility group box 1 (HMGB1)4 and hemolytic pro- triacetic acid agarose (Qiagen, Hilden, Germany) for 2 h at
+ducts.5 Among these, HMGB1-mediated inflammatory re- 4 °C under gentle shaking. The gel was packed in a column
+sponses have been shown to be inhibited by histidine-rich and washed sequentially with 10 mM Tris-buffered saline
+glycoprotein (HRG).6 containing 10 mM imidazole (pH 8.0) and 10 mM Tris
+HRG, which was first isolated from the human serum and buffer containing 1 M NaCl (pH 8.0). Human HRG was
+characterized in 1972,7 is a 75-kDa multifunctional plasma eluted with 0.5 M imidazole in 10 mM Tris-buffered saline
+glycoprotein that is mainly produced in the liver and occurs (pH 8.0). The protein extract was further purified on a
+relatively abundantly in the circulation.8HRG is also expressed Mono Q column (GE Healthcare, Little Chalfont, UK) with
+on the surfaces of leukocytes9 and maintains circulating neu- an NaCl gradient. Purified human HRG was identified by
+trophils in a resting state to prevent vascular endothelial cells sodium dodecyl sulfate–polyacrylamide gel electrophoresis
+from uncontrolled activation.10In fact, plasma HRG levels are and Western blotting using human HRG-specific anti-
+decreased in mice with sepsis, whose survival has been shown bodies.
+to improve with HRG supplementation.10 Patients with sepsis
+showing decreased plasma HRG levels have also been de- Lung IRI model
+monstrated to show poor survival.11
+Consistent with the observations in patients with sepsis, A mouse hilar clamp model was used as the lung IRI model
+we showed in a previous study that LT patients showing (Figure 1), as previously described4 (see Supplemental
+decreased plasma HRG levels at 72 h after LT developed Material for details). Animals in the Sham group (n = 5)
+severe PGD and showed decreased overall survival after underwent left thoracotomy without a hilar clamp and the
+LT.12 Therefore, we hypothesized that HRG could offer healthy control group (n = 2) consisted of clean animals that
+promise as a potential therapeutic target for lung IRI. In this were immediately sacrificed. Mice in the IRI groups were
+study, we examined the effect of HRG supplementation on subjected to left lung ischemia for 1.5 h using a left hilar
+lung IRI using a mouse hilar clamp model. clamp, followed by 3 h of reperfusion. At sacrifice, arterial
+blood gases were measured, with oxygen delivered at a
+FiO2 of 1.0 after clamping the right pulmonary hilum for
+Materials and methods 3 min.14
+Animals HRG supplementation
+Pathogen-free male C57BL/6J mice (CLEA Japan, Tokyo, The mice scheduled to be subjected to IRI were adminis-
+Japan) weighing 20–25 g at 8–12 weeks were utilized for tered 8 μl/g of vehicle (phosphate-buffered saline, PBS)
+the experiments. All mice were cared for in accordance (PBS/IRI group, n = 5), 20 mg/kg (8 μl/g) of protein
+--- Page 3 ---
+Kubo et al. HRG Ameliorated Lung Ischemia-reperfusion Injury in Mice 3
+Figure 1 Experimental protocol for creation of a mouse model of lung IRI. (a) Schematic diagram of preliminary experiments. (b)
+Schematic diagram of treatment experiments.
+control, namely, human serum albumin (HSA) (HSA/IRI manufacturer’s instructions (see Supplemental Material for
+group, n = 5), or 20 mg/kg (8 μl/g) of HRG (HRG/IRI details).
+group, n = 5) into the tail vein prior to the thoracotomy. The
+concentrations (8 μl/g) of HSA and HRG were adjusted to
+Quantification of cytokines and chemokines
+match the PBS dose per body weight, in accordance with
+the study protocol described previously.10
+The concentrations of cytokines and chemokines in the
+plasma and lung samples were measured using Bio-Plex
+Pro Mouse Cytokine 23-plex Panel (Bio-Rad, CA, USA), in
+Histological lung injury score analysis
+accordance with the manufacturer’s instructions.
+Histological lung injury was evaluated in a blinded manner
+by two pathologists (T. O. and A. M.), who assigned scores Immunohistochemistry
+to the specimens based on the lung injury criteria: (1)
+neutrophil infiltration or aggregation; (2) airway epithelial Immunohistochemical analysis was performed using anti-
+cell damage; (3) interstitial edema; (4) hyaline membrane HMGB1 pAb (#ab18256, Abcam, Cambridge, UK), anti-
+formation; and (5) hemorrhage.15 The severity of each pa- myeloperoxidase (MPO) pAb (#AF3667, R&D systems,
+thological feature was assigned a score of 0, 1, 2, 3 or 4, MN, USA), anti-histone H3 pAb (#ab5103, Abcam), and
+corresponding to absent, minimal, mild, moderate, or severe anti-lymphocyte antigen 6 complex locus G6D (Ly6G)
+injury, respectively. The total score obtained by adding the mAb (#127602, Biolegends, CA, USA), as described pre-
+scores for the individual pathological features represented viously4,10 (see Supplemental Material for details).
+the total lung injury score. NETs are defined as extracellular structures showing co-
+localization of MPO and histone H3, and are detected by
+immunofluorescence within 100 µm beneath the pleura.
+Analysis of the severity of apoptosis NET-positive sites were counted in three high-power fields
+and their average values were determined, as described
+The apoptosis severity was analyzed by terminal deox- previously.10 Cells with positive HMGB1 expression out-
+ynucleotidyl transferase-mediated deoxyuridine tripho- side the nuclei were counted as cells showing HMGB1
+sphate nick-end labeling (TUNEL), in accordance with the translocation from the nuclei, and the average percentages
+--- Page 4 ---
+4 JHLT Open, Vol 11C, February 2026
+of these cells relative to the total number of cells in three scores, especially the scores for neutrophil infiltration and
+high-power fields were calculated. hemorrhage, than the PBS/IRI (P = 0.0028) and HSA/IRI
+(P = 0.0003) groups (Figure 3b, c). The HRG/IRI group
+Enzyme-linked immunosorbent assay also showed significantly better oxygenation capacity than
+the PBS/IRI and HSA/IRI groups (P < 0.0001 for both)
+The protein levels of HMGB1 in the plasma and lung (Figure 3d). The results of TUNEL staining performed to
+samples were evaluated using the HMGB1 ELISA Kit Exp evaluate the severity of apoptosis as a component of tissue
+(Shino-Test Co., Sagamihara, Japan), in accordance with damage (Figure 3e) revealed significantly fewer TUNEL-
+the manufacturer’s instructions. positive cells in HRG/IRI group than in the PBS/IRI (P =
+0.0011) and HSA/IRI (P = 0.0002) groups. Cytokine assay
+of the lung tissue revealed significantly lower levels of
+Western blotting
+neutrophil-associated chemokines (Figure 3f), including C-
+X-C motif chemokine ligand 1, granulocyte colony-stimu-
+Cryopreserved lung tissues were subjected to Western blotting,
+as previously described4 (see Supplementary Material for de- lating factor, and granulocyte-macrophage colony-stimu-
+lating factor, in the HRG/IRI group than in the PBS/IRI (P
+tails), using rabbit anti-HRG pAb (#GTX64492, Gene Tex, CA,
+= 0.0033, 0.0464, and 0.0012, respectively) and HSA/IRI
+USA), rabbit anti-haptoglobin (#ab1312369, Abcam), rabbit
+(P = 0.0200, 0.0482, and 0.0439, respectively) groups.
+anti-hemopexin mAb (#ab150401, Abcam), and goat anti-he-
+Significant differences were also observed in the levels of
+moglobin (#GTX77484, Gene Tex).
+macrophage inflammatory protein-1α (P = 0.0373), 1β (P =
+0.0297), interleukin (IL)−6 (P = 0.0173), and IL-10 (P =
+Statistical analysis
+0.0043) between the HRG/IRI and PBS/IRI groups. In
+contrast, there was a significant difference in the level of
+Prism 9 (GraphPad Software, CA, USA) was used for the
+IL-1β only between the HRG/IRI and HSA/IRI groups (P =
+statistical analyses. Statistical comparisons between two
+0.0247). Furthermore, no significant differences in the
+groups were performed using Student’s t-test and compar-
+tissue levels of tumor necrosis factor-α were observed
+isons among multiple groups were performed by one-way
+among the groups.
+ANOVA followed by the post hoc Šídák’s test for multiple
+comparisons. P < 0.05 was considered as denoting sig-
+HRG suppressed neutrophil-associated
+nificance.
+inflammatory responses
+Results The results of immunohistochemical analysis revealed that, si-
+milar to the Sham group, the HRG/IRI group showed a sig-
+Decrease of plasma HRG levels in the murine lung IRI nificantly lower degree of neutrophil infiltration, which was
+identified as the sum of MPO- and Ly6G- positive cells, than
+the PBS/IRI and HSA/IRI groups (MPO, P < 0.0001 for both;
+First, we performed preliminary experiments to determine the
+Ly6G, P = 0.0014 and P < 0.0001, respectively) (Figure 4a, b).
+optimal duration of ischemia and reperfusion for obtaining
+A correlation diagram between MPO- and Ly6G- positive cells
+appropriate mouse models of lung IRI from among different
+is shown in Figure 4c. Neutrophil-derived MPO activity was
+time combinations (Figure 1a). The combination of 1.5-hour
+suppressed in the HRG/IRI group as compared with the PBS/
+ischemia and 3-hour reperfusion was identified as the optimal
+IRI and HSA/IRI groups.
+protocol based on significant differences observed in the fol-
+Evaluation of NETs by fluorescence immunostaining
+lowing features between the groups (Figure 1b). Diffuse lung
+(Fig. 4d) revealed that the overall number of NETs was
+redness on gross inspection was observed in the IRI group as
+small and that the NETs were mainly located just beneath
+compared with the Sham group (Figure 2a). The lung injury
+the pleura. A significantly smaller number of NETs per unit
+scores were significantly higher in the IRI group than in the
+area within 100 µm beneath the pleura was observed in the
+Sham group (P = 0.0085; Figure 2b, c), especially the score for
+HRG/IRI group than in the PBS/IRI (P = 0.0082) and HSA/
+hemorrhage (P = 0.0002). The oxygenation capacity was sig-
+IRI (P = 0.0230) groups.
+nificantly worse in the IRI group than in the Sham group (P =
+0.0005; Figure 2d). Notably, the plasma HRG levels were
+significantly lower in the IRI group than in the Sham group (P HRG supplementation decreased HMGB1
+= 0.0011; Figure 2e). translocation
+HRG supplementation ameliorated the lung IRI Immunofluorescence staining showed that HMGB1 was
+localized in the nuclei in the Sham group, whereas nuclear
+Figure 3shows the results of the treatment experiment. The HMGB1 was translocated to the cytoplasm and then to the
+HRG/IRI group showed a pinkish white appearance of the extracellular spaces in the PBS/IRI and HSA/IRI groups
+reperfused lungs as compared with the PBS/IRI and HSA/ (Figure 5a). This translocation of HMGB1 was significantly
+IRI groups, similar to the Sham group (Figure 3a). The suppressed in the HRG/IRI group as compared with that in
+HRG/IRI group showed significantly lower lung injury the PBS/IRI and HSA/IRI groups (P < 0.0001 for both).
+--- Page 5 ---
+Kubo et al. HRG Ameliorated Lung Ischemia-reperfusion Injury in Mice 5
+Figure 2 Results of preliminary experiments performed with an ischemia time of 1.5 h and reperfusion time of 3 h. (a) Representative
+images of gross appearance of the left lung. (b) Representative images of hematoxylin and eosin staining. Scale bars represent 100 µm. (c)
+Total lung injury score and scores for each of the injury criteria. (d) Lung oxygenation capacity as assessed by the PaO2/FiO2 ratio. (e)
+HRG levels in plasma samples analyzed by Western blotting. Data are expressed as means ± standard error of the mean (SEM), * P < 0.05,
+** P < 0.01, *** P < 0.001.
+HRG decreased the accumulation of hemolysis- supplementation, the plasma HRG levels were relatively high in
+derived DAMPs the HRG/IRI group and significantly lower in the PBS/IRI and
+HSA/IRI groups (P < 0.0001 for both), consistent with the
+Plasma markers of hemolysis were evaluated by Western results of the preliminary experiments. The plasma levels of
+blotting (Fig. 5b). As a result of adequate HRG haptoglobin and hemopexin, which are scavengers of hemolytic
+--- Page 6 ---
+6 JHLT Open, Vol 11C, February 2026
+Figure 3 Results of treatment experiments performed with an ischemia time of 1.5 h and reperfusion time of 3 h. (a) Representative
+images of gross appearance of the left lungs in representative cases. (b) Hematoxylin and eosin staining in representative cases. Scale bars
+equal to 100 µm. (c) Total lung injury score and scores for each of the criteria of IRI. (d) Lung oxygenation capacity as assessed by the
+PaO2/FiO2 ratio. (e) Number of TUNEL-positive apoptotic cells assessed by immunostaining. (f) Concentrations of cytokines and che-
+mokines in the lung tissue by a multiplex immunoassay. Data are expressed as the means ± SEM, * P < 0.05, ** P < 0.01, *** P < 0.001,
+**** P < 0.0001.
+--- Page 7 ---
+Kubo et al. HRG Ameliorated Lung Ischemia-reperfusion Injury in Mice 7
+Figure 4 (a, b) Representative images of immunostaining for MPO and Ly6G with quantification of the area occupied by cells showing
+positive staining for MPO and/or Ly6G. Scale bars represent 100 µm. (c) A correlation diagram of the areas occupied by MPO- and Ly6G-
+positive cells. (d) Representative images of fluorescence immunostaining for NETs and evaluation of the number of NETs. Scale bars
+represent 20 µm. Data are expressed as the means ± SEM, * P < 0.05, ** P < 0.01, **** P < 0.0001.
+--- Page 8 ---
+8 JHLT Open, Vol 11C, February 2026
+Figure 5 (a) Representative images of fluorescence immunostaining for HMGB1 and evaluation of the number of cells showing
+HMGB1 translocation from the nucleus. Scale bars represent 20 µm. (b) Hemolytic marker levels in the plasma samples were analyzed by
+Western blotting. Data are expressed as the means ± SEM, * P < 0.05, ** P < 0.01, **** P < 0.0001.
+products, were maintained in the HRG/IRI group, as in the associated inflammatory mediators, NET formation,
+Sham group, while they were significantly decreased in the HMGB1 translocation, and production of hemolysis-de-
+PBS/IRI (P = 0.0052 and 0.0429, respectively) and HSA/IRI rived DAMPs. Our results suggest that HRG supple-
+groups (P < 0.0001 and 0.0017, respectively) as compared with mentation may offer promise as a potential therapeutic
+the HRG/IRI group. In contrast, the level of free hemoglobin, strategy for lung IRI.
+which is known as a hemolysis-derived DAMP, was sig- Plasma HRG levels decrease during severe systemic
+nificantly decreased in the HRG/IRI group as compared with inflammation, and HRG supplementation has been shown to
+the PBS/IRI (P = 0.0065) and HSA/IRI (P = 0.0077) groups. improve outcomes in septic mice.10 Similarly, in a mouse
+model of liver IRI with non-alcoholic steatohepatitis, HRG-
+knockdown mice showed severe liver damage, which was
+effectively prevented by HRG supplementation.16 Further-
+Discussion
+more, congenital HRG deficiency is a risk factor for cere-
+bral infarction and thrombophilia.17 Given these previous
+In this study, we found significantly reduced plasma HRG
+findings, we considered that lung IRI, associated with de-
+levels in murine lung IRI, consistent with the results of a
+creased plasma levels of HRG, may be potentially treatable
+previous clinical study12. HRG supplementation alleviated
+by HRG supplementation. To the best of our knowledge,
+lung IRI in mice, with decreases in the degree of neutrophil
+this is the first report focusing on the role of HRG in
+infiltration, severity of apoptosis, expressions of neutrophil-
+lung IRI.
+--- Page 9 ---
+Kubo et al. HRG Ameliorated Lung Ischemia-reperfusion Injury in Mice 9
+e.g., extracellular hemoglobin by haptoglobin and extra-
+cellular heme by hemopexin, and rapidly removed from the
+circulation.19 Considering these observations, our results
+suggest that HRG may act as a scavenger of hemolytic
+products while sparing haptoglobin and hemopexin in the
+plasma.
+Based on the results of previous studies and this study,
+we speculate the involvement of the following multifaceted
+mechanisms to explain the therapeutic efficacy of HRG in
+lung IRI (Figure 6). HRG inhibits neutrophil infiltration
+from vascular endothelial cells and suppresses the release of
+HMGB1 from the nuclei of the vascular endothelial and
+alveolar epithelial cells, as well as prevents the formation of
+NETs associated with hemorrhage and hemolysis. Si-
+multaneously, HRG decreases vascular inflammation, con-
+Figure 6 Summary of the multifaceted mechanisms under-
+tributing to reduction of hemorrhage and hemolysis. In
+lying the efficacy of HRG against lung IRI inferred from this
+addition, in combination with hemopexin and haptoglobin,
+study.
+HRG acts as a scavenger for hemolysis-derived DAMPs.
+Therefore, depletion of HRG might impair biological reg-
+Our results showed that HRG supplementation sup- ulation and exacerbate lung IRI through these multifaceted
+pressed the degree of neutrophil infiltration, release of mechanisms.
+neutrophil-associated cytokines, and formation of NETs in In a previous clinical study, patients with severe PGD
+the murine lung IRI. HRG has been shown to control in- were found to have significantly lower plasma HRG levels
+flammation by maintaining the neutrophil morphology and than those with no or moderate PGD at 72 h after LT, and
+inhibiting both neutrophil adhesion to endothelial cells and high plasma HRG levels at 72 h after LT were associated
+formation of NETs.10,16 Neutrophil infiltration and the re- with improved overall survival.12 Given the results of this
+lease of neutrophil-associated cytokines are the main fea- study, HRG supplementation might alleviate lung IRI and
+tures of lung IRI,2 and formation of NETs has also been severe PGD, presumably contributing to improved survival
+shown to be increased in the lung tissue in murine lung after LT. Regarding clinical application of HRG, although
+IRI.3 Increased numbers of NETs have been shown in the HRG has the advantage of an established purification pro-
+alveolar lavage fluid of patients with PGD after LT, and to tocol among numerous types of plasma proteins,13 the
+be associated with the development of PGD,3 suggesting amount of available HRG is limited due to its dependence
+that NETs could be possible therapeutic targets for PGD. on blood donation. To resolve this problem, further study is
+Taken together, suppression of the formation of NETs required to develop recombinant HRG protein or to identify
+would be one of the key mechanisms by which HRG sup- a low-molecular-weight protein to which HRG can bind.
+plementation ameliorated lung IRI in mice. This study had several limitations. To minimize ex-
+Among the DAMPs, extracellular HMGB1 directly perimental errors, we used a hilar clamp model and not a
+contributes to the production of inflammatory cytokines and LT model, because of its simplicity and high reproduci-
+development of IRI.18 Hemolytic products, including free bility. Since the lung graft is exposed to warm and not cold
+hemoglobin, heme, and divalent iron ions, also represent ischemia in this model, this model does not reproduce the
+DAMPs.19,20 Under sepsis conditions, HRG effectively clinical condition of IRI after LT from donors after brain
+inhibits the HMGB1 translocation from the nucleus to the death, in contrast to donors after circulatory death.
+cytoplasm and extracellular space, contributing to the sup- Although HRG was administered before the thoracotomy in
+pression of hemolysis by protecting the vascular endothelial this study, administration after reperfusion may be more
+barrier function.6 Translocation of nuclear HMGB1 to the therapeutic and more clinically relevant for IRI after LT.
+cytoplasm and extracellular space, which was previously Further, the optimal route of administration could differ in
+reported in a brain IRI model,20 was observed in the lung LT, including intravenous administration, administration by
+tissue of murine lung IRI in this study, consistent with mixing in the perfusion solution injected into the graft
+previously reported results.4 Notably, HMGB1 transloca- pulmonary artery or preservation solution for the graft, or
+tion was significantly suppressed in the HRG/IRI group in ex-vivo lung perfusion. Our study did not include assess-
+this study. Moreover, the level of free hemoglobin was ments using transgenic or knockout mice, and the precise
+significantly decreased, and the levels of haptoglobin and mechanism of HRG action should be elucidated in future
+hemopexin, which are known as scavengers of hemolytic studies employing genetically modified animals in a mouse
+products, were significantly increased in the HRG/IRI LT model. Further research using rodent or porcine LT
+group as compared with the other groups. HRG promotes models is needed to assess the clinical feasibility of HRG
+scavenging of hemolytic products such as DAMPs by supplementation for lung IRI after LT. In addition, because
+avidly binding to them, effectively preventing sequential this study relied on a single experimental model with a
+hemolysis.21To prevent their detrimental effects, hemolytic limited sample size, and our histological evaluation tended
+products are scavenged by acute-phase plasma proteins, to focus on hemorrhagic findings, along with the absence of
+--- Page 10 ---
+10 JHLT Open, Vol 11C, February 2026
+vascular permeability assessment, the generalizability and Heart and Lung Transplantation. J Heart Lung Transplant
+interpretability of our results may remain constrained. 2017;36:1114-20.
+3. Sayah DM, Mallavia B, Liu F, et al. Neutrophil extracellular traps are
+In conclusion, HRG supplementation ameliorated lung
+pathogenic in primary graft dysfunction after lung transplantation. Am
+IRI in mice, by suppressing the inflammatory responses
+J Respir Crit Care Med 2015;191:455-63.
+caused by neutrophil-associated factors, including forma- 4. Nakata K, Okazaki M, Shimizu D, et al. Protective effects of anti-
+tion of NETs, HMGB1 translocation, and accumulation of HMGB1 monoclonal antibody on lung ischemia reperfusion injury in
+hemolysis-derived DAMPs. Although the mechanism of mice. Biochem Biophys Res Commun 2021;573:164-70.
+5. Shaver CM, Wickersham N, McNeil JB, et al. Cell-free hemoglobin
+HRG action needs to be elucidated in other LT models,
+promotes primary graft dysfunction through oxidative lung endothelial
+HRG supplementation might offer a potential therapeutic
+injury. JCI insight 2018;3.
+strategy for lung IRI. 6. Gao S, Wake H, Sakaguchi M, et al. Histidine-Rich glycoprotein in-
+hibits high-mobility group box-1-mediated pathways in vascular en-
+dothelial cells through CLEC-1A. iScience 2020;23:101180.
+7. Heimburger N, Haupt H, Kranz T, Baudner S. [Human serum proteins
+CRediT authorship contribution statement
+with high affinity to carboxymethylcellulose. II. Physico-chemical and
+immunological characterization of a histidine-rich 3,8S- 2 -glycopro-
+Y.K., S.S., and D.O. designed and performed the experi- tein (CM-protein I)]. Hoppe Seylers Z Physiol Chem
+ments, analyzed and interpreted the data. Y.K. and S.S. 1972;353:1133-40.
+8. Corrigan Jr. JJ, Jeter MA, Bruck D, Feinberg WM. Histidine-rich
+drafted and revised the manuscript. D.W. performed the
+glycoprotein levels in children: the effect of age. Thromb Res
+experiments and analyzed the data. T.O. and A.M. per-
+1990;59:681-6.
+formed histological analyses. All authors have read and 9. Sia DY, Rylatt DB, Parish CR. Anti-self receptors. V. Properties of a
+approved the final version of the manuscript. mouse serum factor that blocks autorosetting receptors on lympho-
+cytes. Immunology 1982;45:207-16.
+10. Wake H, Mori S, Liu K, et al. Histidine-rich glycoprotein prevents
+septic lethality through regulation of immunothrombosis and in-
+Declaration of Competing Interest
+flammation. EBioMedicine 2016;9:180-94.
+11. Kuroda K, Ishii K, Mihara Y, et al. Histidine-rich glycoprotein as a
+The authors declare that they have no known competing prognostic biomarker for sepsis. Sci Rep 2021;11.
+financial interests or personal relationships that could have 12. Shiotani T, Sugimoto S, Tomioka Y, et al. Plasma concentrations of
+histidine-rich glycoprotein in primary graft dysfunction after lung
+appeared to influence the work reported in this paper.
+transplantation. Interdiscip Cardiovasc Thorac Surg 2024;38.
+13. Mori S, Takahashi HK, Yamaoka K, Okamoto M, Nishibori M. High
+affinity binding of serum histidine-rich glycoprotein to nickel-nitrilo-
+Acknowledgments triacetic acid: the application to microquantification. Life Sci
+2003;73:93-102.
+14. Bai YZ, Yokoyama Y, Li W, Terada Y, Kreisel D, Nava RG. Murine
+This work was supported by a Grant-in-Aid for Scientific
+left pulmonary hilar clamp model of lung ischemia reperfusion injury.
+Research (Grant no. 20K17747 and 22K08974) from the J Vis Exp 2024;206.
+Japan Society for the Promotion of Science. 15. Pirat A, Zeyneloglu P, Aldemir D, et al. Pretreatment with simvastatin
+reduces lung injury related to intestinal ischemia-reperfusion in rats.
+Anesth Analg 2006;102:225-32.
+16. Guo J, Akahoshi T, Mizuta Y, et al. Histidine-rich glycoprotein alle-
+Appendix A. Supporting information
+viates liver ischemia/reperfusion injury in mice with nonalcoholic
+steatohepatitis. Liver Transpl 2021;27:840-53.
+Supplemental data associated with this article can be found 17. Shigekiyo T, Yagi H, Sekimoto E, Shibata H, Ozaki S, Tamura T.
+Cerebral infarction and iron deficiency anemia due to uterine myoma
+in the online version at doi:10.1016/j.jhlto.2025.100453.
+in two middle-aged women with histidine-rich glycoprotein defi-
+ciency. Thromb Res 2020;191:30-3.
+18. Sha Y, Zmijewski J, Xu Z, Abraham E. HMGB1 develops enhanced
+References proinflammatory activity by binding to cytokines. J Immunol
+2008;180:2531-7.
+1. Diamond JM, Arcasoy S, Kennedy CC, et al. Report of the 19. Bozza MT, Jeney V. Pro-inflammatory actions of heme and other
+International Society for Heart and Lung Transplantation Working hemoglobin-derived DAMPs. Front Immunol 2020;11:1323.
+Group on Primary Lung Graft Dysfunction, part II: Epidemiology, risk 20. Wake H, Takahashi Y, Yoshii Y, et al. Histidine-rich glycoprotein
+factors, and outcomes-A 2016 Consensus Group statement of the possesses antioxidant activity through self-oxidation and inhibition of
+International Society for Heart and Lung Transplantation. J Heart Lung hydroxyl radical production via chelating divalent metal ions in
+Transplant 2017;36:1104-13. Fenton’s reaction. Free radical research 2020:1-13.
+2. Gelman AE, Fisher AJ, Huang HJ, et al. Report of the ISHLT Working 21. Zhong H, Wake H, Liu K, et al. Effects of Histidine-rich glycoprotein
+Group on Primary Lung Graft Dysfunction Part III: mechanisms: a on erythrocyte aggregation and hemolysis: implications for a role
+2016 Consensus Group Statement of the International Society for under septic conditions. J Pharmacol Sci 2018;136:97-106.

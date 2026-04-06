@@ -1,0 +1,11 @@
+{
+  "session": "default",
+  "startedAt": "2026-04-05T09:12:10.762Z",
+  "variables": {
+    "searchQuery": "AI agents 2026",
+    "searchResults": [],
+    "resultCount": 0
+  },
+  "lastStep": "step-2-wait-results",
+  "lastSnapshot": "- link \"意见反馈\" [ref=e1]\n- generic \"|刷新\" [ref=e2] clickable [cursor:pointer]"
+}

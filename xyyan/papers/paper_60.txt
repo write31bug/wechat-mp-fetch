@@ -1,0 +1,237 @@
+
+--- Page 1 ---
+SHOCK,Vol.62,No.3,pp.351–356,2024
+CHANGES OF HISTIDINE-RICH GLYCOPROTEIN LEVELS IN CRITICALLY ILL
+SEPTIC PATIENTS
+AyuNabilaKusumaPradana, 1TomohikoAkahoshi, 1JieGuo,1YukieMizuta,2
+ShuntaroMatsunaga,1SayokoNarahara,3MasaharuMurata,3andKenYamaura2
+1DepartmentofAdvancedEmergencyandDisastermedicine,GraduateSchoolofMedicalSciences,Kyushu
+University,Fukuoka,Japan;2DepartmentofAnesthesiologyandCriticalCareMedicine,GraduateSchoolof
+MedicalSciences,KyushuUniversity,Fukuoka,Japan;3CenterforAdvancedMedicalInnovation,Kyushu
+University,Fukuoka,Japan
+Received8Mar2024;firstreviewcompleted2Apr2024;acceptedinfinalform16May2024
+ABSTRACT—Background:Histidine-richglycoprotein(HRG),apotentialprognosticfactorinsepsis,lacksclarityregardingits
+relevance in septic-induced shock, disseminated intravascular coagulation (DIC), and acute respiratory distress syndrome
+(ARDS) pathogenesis. This study investigated the association between HRG concentrations and these critical conditions.
+Methods:Bloodsampleswerecollectedfrom53criticallyillpatientsondays1,3,5,and7afterICUadmissionattheKyushu
+UniversityHospital.Dailyclinicalandlaboratorydatawererecorded,andpatientsurvivalwasassessed28daysafterICUad-
+mission.Results:SerumHRGconcentrationsweresignificantlyreducedondays3,5,and7inpatientswithsepticshock
+andDIC but notinthosewith ARDS.While initialHRG levels onday onewerenot correlatedwith survival, nonsurvivors
+displayeddecreasedHRGlevels,notablyondays3,5,and7post-ICUadmissions.TheHRGlevelsremainedstableinsurvi-
+vors.Aprogressivedecreasewasassociatedwithhighermortalityrates,particularlyondays5and7.Onday5,anHRGlevel
+withacutoffof25.5μg/mLshowedasensitivityof0.77andaspecificityof0.75,indicatingsignificantlylowersurvivalrates(log-
+ranktest,P<0.05).Conclusion:HRGpresentsapotentialinterventionforcriticallyillsepsispatients,providinganovelstrategy
+toenhanceoutcomes.FurtherresearchisneededtoexplorethetherapeuticpotentialofHRGinsepsismanagement.
+KEYWORDS—Sepsis;septicshock;disseminatedintravascularcoagulation;acuterespiratorydistresssyndrome
+INTRODUCTION drugshavebeenusedforDICandtheyimprovetheprognosisof
+thesepatients,especiallyinJapan(7).
+Sepsisisaleadingcauseofglobalfatalitiesandcriticalillnesses
+Recentresearchhasrevealedthecriticalroleofhistidine-rich
+(1),contributingtoover20%ofworldwidedeaths(2).Despitean
+glycoproteins (HRG) during immune and inflammatory re-
+increaseinsepsiscasesanddeaths,Japanhasseenadecreasein
+sponses.This75kDaplasmaglycoprotein,primarilysynthesized
+sepsis patientmortality over the past8 years, mirroring a global
+in the liver, exerts a pivotal influence on various physiological
+trend(3).In2017alone,sepsisaffectedover48.9millionpeople,
+functions,including coagulation, fibrinolysis, immunity, and in-
+causingover11milliondeathsglobally(2).Mortalityrisksassoci-
+flammation (8,9). With plasma concentrations typically falling
+ated with septic shock (4), acute respiratory distress syndrome
+between 60 to 150 μg/mL (8,10), HRG emerges as a crucial
+(ARDS) (5), and disseminated intravascular coagulation (DIC)
+player in maintaining neutrophil shape, enhancing their ability
+(6)underscoretheseverityofsepsis-relatedcomplications.
+to engulf bacteria (11), and mitigating neutrophil extracellular
+Septicshockhasahospitalmortalityriskof40–60%(3),while
+traps(NETs)formation(12).Additionally,HRGhasbeenfound
+ARDShasa30–40%mortalityrate(5).InJapan,sepsis-induced
+to regulate vascular endothelial cell activity and restrain the re-
+DICpatientshaveamortalityrateof24.8%comparedwith17.5%
+leaseofHMGB1intotheextracellularspace(13,14).Importantly,
+innon-DICpatients(6).Therefore,varioustherapeuticmodalities,
+studieshaveindicatedacorrelationbetweenreducedHRGlevels
+suchascatecholaminesandsteroids,havebeenusedtoimprove
+insepticconditionsandpatientsurvival(15–17),underscoringits
+theprognosisofpatientswithsepticshock(6).Recombinanthuman
+urgentclinicalrelevanceincriticalillness.
+thrombomodulinandplasma-derivedorrecombinantantithrombin
+However, the association between HRG concentration and
+sepsis-related DIC, shock, and ARDS remains unclear. Given
+the prognostic impact of these conditions on sepsis (3,5,6), our
+Addressreprintrequeststo:TomohikoAkahoshi,MD,PhD,DepartmentofAd- study aimed to investigate changes in HRG concentrations and
+vanced Emergency and Disaster Medicine, Graduate School of Medical Sciences,
+theirrelationshipwithconcurrentDIC,ARDS,andsepticshock.
+KyushuUniversity,3-1-1 Maidashi, Higashi-ku, Fukuoka812-8582, Japan.E-mail:
+akahoshi.tomohiko.006@m.kyushu-u.ac.jp
+Institution:DepartmentofAdvancedEmergencyandDisasterMedicine,Graduate
+MATERIALSANDMETHODS
+SchoolofMedicalSciences,KyushuUniversity
+Funding:ThisresearchwassupportedbygrantsfromtheJapanSocietyforthePro-
+motionofScience(JSPS)KAKENHI(grantnumberJP22H03175).
+Patientsanddatacollection
+Theauthorsreportnoconflictsofinterest.
+Supplementaldigitalcontentisavailableforthisarticle.DirectURLcitationappears Thiswasasingle-centerretrospectiveanalysis.FromJune2019toOctober
+intheprintedtextandisprovidedintheHTMLandPDFversionsofthisarticleonthe 2021,65criticallyillpatientswithsepsiswereconsecutivelyadmittedtotheemer-
+journal’sWebsite(www.shockjournal.com).
+gencyICUofKyushuUniversityHospital.Weexcludedpatientsyoungerthan
+DOI:10.1097/SHK.0000000000002406 20yearsofage,patientswithcancerintheterminalstages,patientswithlivercir-
+Copyright©2024TheAuthor(s).PublishedbyWoltersKluwerHealth,Inc.onbehalfof
+rhosis,andindividualswhodiedwithin3daysofICUstay.Ultimately,53patients
+theShockSociety.Thisisanopen-accessarticledistributedunderthetermsoftheCreative
+wereincluded,withtheprimaryreasonsforICUadmissionbeingsepticshockre-
+CommonsAttribution-NonCommercial-NoDerivativesLicense4.0(CCBY-NC-ND),
+whereitispermissibletodownloadandsharetheworkprovideditisproperlycited. quiring adrenalin >0.1 γ or ARDS necessitating mechanicalventilation.There
+Theworkcannotbechangedinanywayorusedcommerciallywithoutpermissionfrom were29patientswithsepticshock,25withDIC,and33withARDS,withsome
+thejournal. showingoverlapbetweentheseconditions.
+351
+--- Page 2 ---
+352 SHOCKVOL.62,NO.3
+PRADANAETAL.
+Septicshock process.Subsequently,thesamecentrifugationconditionsasthoseusedforplasma
+sampleswereapplied.Theresultingsupernatantwascollectedandstoredat−80°C.
+Sepsisandsepticshockwerediagnosedaccordingtothecriteriaoutlinedinthe
+ThirdInternationalConsensusDefinitionforSepsisandSepticShock(Sepsis-3)
+(1).Thisdefinitioncharacterizessepsisaslife-threateningorgandysfunctionaris- MeasurementofHRG
+ingfromdysregulatedhostresponsestoinfection(1).Septicshock,asubsetofsep- SerumandplasmaHRGconcentrationswereassessedfollowingthemanufac-
+sis,ischaracterizedbyprofoundabnormalitiesincirculatory,cellular,andmeta- turer’sprotocolusingahumanenzyme-linkedimmunosorbentassay(ELISA)kit
+bolicfunctions,leadingtoasubstantialincreaseintheriskofmortality(1). (Abcam,Cambridge,UK).Dilutedbloodsamplesandstandardswereaddedto
+eachwellandthewellswereshakengentlyfor2.5hatroomtemperature.After
+fourwasheswith1(cid:1)washbuffer,1(cid:1)biotinylatedanti-humanHRGdetectionan-
+DIC
+tibodieswereaddedtoeachwell,andthewellsweregentlyshakenfor1hatroom
+Disseminated intravascular coagulation (DIC) is an acquired syndrome temperature.Followingfouradditionalwashes,theHRP-streptavidinconcentrate
+resultingfrombothinfectiousandnoninfectioustriggers,markedbywidespread wasaddedtoeachwellandgentlyshakenfor45minatroomtemperature.The
+activationofcoagulationwithinthebloodvessels(18,19).DICinvariablyarises wellswerethenrewashedfourtimes,andTMBSubstrateReagentswereadded,
+asacomplicationofoneormoreunderlyingclinicalconditions.Theleadingcause followedbygentleshakingfor30mininthedarkatroomtemperature.StopSolu-
+ofDICisinfection,withothercommoncausesincludingmalignancies,obstetrical tionswereaddedtoeachwell,andtheplateswereimmediatelyreadat450nm
+complications,andtrauma(20).DICwasdiagnosedusingtheJapaneseAssocia- usinganELISAmicroplatereader(Tecan,Männedorf,Switzerland).
+tionforAcuteMedicineDICscore(TableSupplementary1,http://links.lww.
+com/SHK/B964)(21).TheJapaneseAssociationforAcuteMedicineDICscore
+Ethicsstatement
+consistsofplateletcount,prothrombintime,fibrindegradationproducts(FDP)
+orD-dimer,andsystemicinflammatoryresponsesyndrome(21).Thisscorewas ThisstudywasconductedinaccordancewiththeethicalguidelinesoftheDec-
+developedforearlydiagnosisofDICandhasbeenusedinJapan. larationofHelsinkiandInternationalConferenceonHarmonizationGuidelinesfor
+GoodClinicalPractice.ThestudywasapprovedbytheKyushuUniversityHospi-
+talInstitutionalReviewBoard(approvalnumber:21117-00),andinformedcon-
+ARDS
+sentwasobtainedbeforedatacollection.
+ARDSwasdiagnosedaccordingtotheBerlindefinition.TheBerlindefinitionof
+ARDSisthepresenceofsymptomsorworseningoftherespiratorysystemwithin1
+Statisticalanalysis
+week,withdiffusebilateralopacitiesonchestradiographs,whicharenotattributed
+tocongestiveheartfailureorintravascularvolumeoverload.TheBerlindefinitioncat- Dataarepresentedasmean±standarddeviation.Thecorrelationbetweenserum
+egorizes ARDS as mild (200 mmHg < PaO/FiO ≤ 300 mmHg), moderate andplasmaHRGconcentrationswasanalyzedusingthePearson’scorrelationmatrix
+(100mmHg<PaO/FiO ≤200mmHg),and 2 severe 2 (PaO/FiO ≤100mmHg) andsimplelinearregression.Pearson’srvalues>0.70wereconsideredindicativeofa
+2 2 2 2
+(22).Inthepresentstudy,COVID-19wasprevalent;therefore,ARDSinmostpatients strongcorrelation.Differencesbetweentwogroupswereassessedusingtheunpaired
+wascausedbyCOVID-19.ThediagnosisofCOVID-19wasbasedonpositivepo-
+Student’sttest,whiletwo-wayanalysisofvariancewithDunnett’smultiplecompar-
+lymerasechainreaction(PCR)results.
+isonstestwasappliedforthreeormoregroups.TheFisher’sexactprobabilitytestwas
+usedtocomparetheratiosofthetwocategoricalgroups.Receiveroperatingcharacter-
+istic(ROC)curveanalysiswasconductedtoevaluateHRGconcentrationsondays1,
+Otherdefinitions 3,5,and7forprognosticprediction.Kaplan-Meiersurvivalcurvesandlog-ranktests
+TheSequentialOrganFailureAssessmentandAcutePhysiologyandChronic wereperformedbycategorizingpatientsintotwogroupsusingcutofflevelsobtained
+EvaluationIIscoreswerecalculatedfromthepatients’dailyclinicalandlaboratory fromtheROCcurveanalysis.Alltwo-tailedtestswereconsideredstatisticallysignif-
+dataobtainedthroughouttheirICUstay.Onday28postadmission,patients’con- icantatP<0.05.StatisticalanalyseswereconductedusingtheGraphPadPrismsoft-
+ditionswereassessedtoascertaintheirsurvivalstatus. ware(GraphPadPrism9.5.1;GraphPadSoftware,SanDiego,CA).
+Samplecollection
+RESULTS
+Bloodsampleswerecollectedfrompatientsonthefirst,third,fifth,andseventh
+daysafteradmissiontotheICUatKyushuUniversityHospital.Bloodsampleswere
+obtainedfromtwohealthyvolunteersforcomparativeanalysis.Sampleswerecol- Patients’characteristics
+lectedinbothserumandEDTAplasmatubes.Plasmatubeswereslowlyshaken
+andcentrifugedat1000(cid:1)gfor15min,whereasserumtubesweregentlyinverted As outlined in Table 1, the patients had a mean age of 63.-
+twiceandincubatedatroomtemperaturefor45mintocompletethecoagulation 0±14.8years,with60.4%beingmen(32menand21women).
+TABLE1. Patients’characteristics
+Factor All,N=53 Survivor,n=41 Nonsurvivor,n=12 P
+Age,years 63.6±14.8 61.9±15.4 69.4±10.7 0.125
+Male/female,(%) 32/21(60.4/39,6) 24/17(58.5/41.5) 8/4(66.7/33.3) 0.612
+Siteofinfection 53
+-Lung 30 24 6 -
+-Abdomen 15 11 4 -
+-Urinarytract 3 3 0 -
+-Softtissues 5 3 2 -
+SOFA 9.7±3.9 9.2±3.7 11.4±3.9 0.08
+APACHEII 27.7±7.6 26±7.4 33.5±4.9 0.002*
+AcuteDICscore 2.6±2.5 2.6±2.7 2.7±1.7 0.9
+Platelet((cid:1)103) 167.5±90.8 171.3±87.1 154.3±105.3 0.573
+ICUstays,d 14.6±13.3 15.3±14.6 12.5±7.7 0.529
+Diagnosis
+-Onlysepticshock 5 4 1 -
+-SepticshockwithDIC 15 13 2 -
+-SepticshockwithDICandARDS 9 2 7 -
+-ARDSwithDIC 1 1 0 -
+-OnlyARDS 23 21 2 -
+Dataarereportedasthemean±SD.
+APACHEII,AcutePhysiologyandChronicHealthEvaluation;ARDS,acuterespiratorydistresssyndrome;DIC,disseminatedintravascularcoagulation;
+SOFA,SequentialOrganFailureAssessment.
+--- Page 3 ---
+SHOCKSEPTEMBER2024
+HRGLEVELSINCRITICALLYILLSEPTICPATIENTS
+353
+OndayoneafteradmissiontotheICU,themeanAPACHEII,Se-
+quential Organ Failure Assessment, and acute DIC scores were
+27± 7.6,9 ± 3.9, and 2 ± 2.5,respectively. Among these pa-
+tients, 29 (54.7%) had septic shock, 34 (64.2%) had ARDS,
+and 25 (47.2%) had DIC. Of the 29 patients with septic shock,
+24hadconcomitantDIC.TwentypatientswithARDSwerediag-
+nosed with coronavirus disease 2019 (COVID-19). In total, 12
+patients(22.6%)diedwithin28days.
+AssociationbetweenserumandplasmaHRGconcentrations
+We analyzed the plasma and serum HRG concentrations in
+blood samples from patients and volunteers. Plasma and serum
+HRGconcentrationsshowedapositivecorrelation,withacoeffi-
+cient(r)of0.9486.(Y=0.911X+4.57,P<0.0001)(Fig.1).
+ChangesinserumHRGconcentrationsinsurvivorsand
+FIG. 2. Differences in HRG concentrations between survivors and
+nonsurvivors in critically ill patients. In nonsurvivors, the HRG
+nonsurvivors
+concentrations were significantly lower on days 3, 5, and 7 than on day 1.
+Inthesurvivors,theaverageHRGconcentrationswere32.5,28.6, HRGconcentrationswerealsosignificantlylowerinnonsurvivors(n=12)than
+30.3,and32.6μg/mLondays1,3,5,and7,respectively(Fig.2). in survivors (n = 41) on days 5 and 7. Data are presented as mean and
+standarddeviation.*P<0.05vs.nonsurvivorsondays3and7;**P<0.01vs.
+Conversely,innonsurvivors,theaverageHRGconcentrationswere
+nonsurvivors on day 5; #P < 0.05 vs. survivors on days 5 and 7. HRG,
+36.3,23.3,19.7,and20.3μg/mLondays1,3,5,and7,respectively.
+histidine-richglycoprotein.
+Notably, HRG concentrations in nonsurvivors were significantly
+lowerondays3(P<0.05),5(P<0.01),and7(P<0.05)thanon
+The mean HRG concentrations were 31.1, 23.3, 22.9, and
+day1.Furthermore,theHRGconcentrationsondays5and7were 22.8 μg/mL in patients with DIC and 35.2, 31.1, 33.3, and
+significantlylowerinnonsurvivorsthaninsurvivors. 36.1μg/mLinpatientswithoutDICondays1,3,5,and7,respec-
+tively. Patients with DIC did not exhibit significant changes in
+ChangesinHRGconcentrationsinpatientswithsepticshock, HRG concentrations on days 3, 5, and 7 compared with those
+ARDS,andDIC onday1.However,patientswithDICconsistentlyshowedsignif-
+MeanHRGconcentrationsondays1,3,5,and7were35.6, icantly lower HRG concentrations than those without DIC on
+25.2, 24.7, and 25 μg/mL inpatients with septicshock and 31, days3,5,and7(Fig.3B).
+230, 32.6, and 33.1 μg/mL in patients with ARDS. Patients
+experiencingsepticshockexhibitedasignificantdeclineinHRGcon-
+centrations on days 3, 5, and 7 compared to day 1 (all P < 0.01). HRGconcentrationsbetweensurvivorsandnonsurvivorsin
+Moreover, HRG concentrations were significantly lower in pa- patientswithsepticshock,DIC,andARDS
+tientswithsepticshockthaninthosewithARDSondays5.No MeanHRGconcentrationswere35.3,28.0,27.4,and29.6μg/mL
+significantchangesinHRGconcentrationswerefoundinpatients insepticshocksurvivors,whilenonsurvivorshadconcentrationsof
+withARDS(Fig.3A). 35.4,19.0,16.6,and16.4μg/mLondays1,3,5,and7,respectively.
+Innonsurvivorsofsepticshock,HRGconcentrationswerenotably
+lowerondays3,5,and7thanonday1.Additionally,thereweresig-
+nificant differences in HRG concentrations between nonsurvivors
+andsurvivorsondays5and7(P<0.05;Fig.4A).
+Survivors with DIC displayed mean HRG concentrations of
+29.5, 26.0, 26.4, and 27.0 μg/mL, whereas nonsurvivors
+displayed concentrations of 28.1, 14.5, 16.6, and 16.4 μg/mL
+on days 1, 3, 5, and 7, respectively. Although HRG concentra-
+tions in nonsurvivors with DIC were lower than those in survi-
+vors, significant differences were observed only on days 3 and
+5(P<0.05,Fig.4B).
+InsurvivorswithARDS,themeanHRGconcentrationswere
+29.3,28.9,32.5,and34.3μg/mL,whilenonsurvivorshadcon-
+centrationsof36.3,24.2,20.6,and20.3μg/mLondays1,3,5,
+and7,respectively.Notably,HRGconcentrationsweresignifi-
+cantly lower on days 5 and 7 in nonsurvivors of ARDS, with
+FIG. 1. Correlation between serum HRG concentrations and plasma no significant differences observed between the time points in
+HRG concentrations. In preliminary experiments, serum and plasma HRG survivors of ARDS (Fig. 4C). Additionally, HRG concentra-
+concentrations showed a high positive correlation (n = 17, r = 0.9486,
+tionsweresignificantlylowerinnonsurvivorsthaninsurvivors
+P < 0.0001) inblood samples fromtwo voluntary donors and 15criticallyill
+patients.HRG,histidine-richglycoprotein. ondays5and7.

@@ -1,0 +1,3 @@
+#!/bin/bash
+SKILL="/e/openclaw-work/skills/baoyu-imagine/scripts/main.ts"
+npx -y bun "$SKILL" --prompt "Manga comic cover page, 3:4 portrait, warm emotional. A young person lying in bed late at night, phone screen glowing on their face showing concert announcement for MAYDAY. Excitement and anticipation in their eyes. Starry night window in background. MAYDAY band logo subtly in background. Chinese text area at top: 追星逐光. Soft warm bedroom lighting, moonlight through curtains. Japanese manga style, emotional storytelling, clean lineart, flat colors with warm tones." --image "/e/openclaw-work/comic/mayday-mayday/cover.png" --provider dashscope --model qwen-image-2.0-pro --quality 2k

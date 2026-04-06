@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<style>
+* { margin: 0; padding: 0; }
+body {
+  width: 1080px;
+  height: 1440px;
+  background: url('cover.png') no-repeat center center;
+  background-size: cover;
+  font-family: "PingFang SC", "Microsoft YaHei", Arial, sans-serif;
+  position: relative;
+  overflow: hidden;
+}
+/* Dark gradient overlay to ensure text readability */
+.overlay {
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: linear-gradient(
+    to bottom,
+    rgba(10,8,30,0.55) 0%,
+    rgba(10,8,30,0.3) 30%,
+    rgba(10,8,30,0.15) 55%,
+    rgba(10,8,30,0.4) 80%,
+    rgba(10,8,30,0.7) 100%
+  );
+}
+.content {
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 60px 80px 50px;
+}
+/* TOP */
+.top { text-align: center; margin-top: 40px; }
+.recruit-badge {
+  display: inline-block;
+  background: linear-gradient(135deg, #f97316, #fb923c);
+  color: #fff;
+  font-size: 18px;
+  font-weight: 800;
+  padding: 8px 28px;
+  border-radius: 40px;
+  letter-spacing: 3px;
+  margin-bottom: 16px;
+  box-shadow: 0 4px 20px rgba(249,115,22,0.5);
+}
+.company-name {
+  font-size: 90px;
+  font-weight: 900;
+  color: #ffffff;
+  letter-spacing: 8px;
+  text-shadow: 0 4px 30px rgba(0,0,0,0.6);
+  line-height: 1;
+}
+.company-name-en {
+  font-size: 26px;
+  font-weight: 600;
+  color: rgba(255,255,255,0.8);
+  letter-spacing: 10px;
+  margin-top: 6px;
+  text-shadow: 0 2px 10px rgba(0,0,0,0.5);
+}
+/* MIDDLE - job tags */
+.middle {
+  margin-top: 80px;
+  text-align: center;
+}
+.tags-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  max-width: 700px;
+}
+.tag {
+  background: rgba(255,255,255,0.18);
+  backdrop-filter: blur(8px);
+  border: 1.5px solid rgba(255,255,255,0.35);
+  color: #fff;
+  font-size: 18px;
+  font-weight: 700;
+  padding: 10px 24px;
+  border-radius: 30px;
+  letter-spacing: 2px;
+}
+.tag.highlight {
+  background: rgba(255,255,255,0.95);
+  color: #4f46e5;
+  font-weight: 800;
+}
+/* BOTTOM */
+.bottom {
+  position: absolute;
+  bottom: 50px;
+  left: 0; right: 0;
+  text-align: center;
+}
+.slogan {
+  font-size: 38px;
+  font-weight: 900;
+  color: #ffffff;
+  letter-spacing: 4px;
+  text-shadow: 0 4px 20px rgba(0,0,0,0.6);
+  margin-bottom: 20px;
+}
+.cta-row {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 16px;
+}
+.cta-email {
+  background: #fff;
+  color: #4f46e5;
+  font-size: 17px;
+  font-weight: 800;
+  padding: 12px 28px;
+  border-radius: 30px;
+  letter-spacing: 1px;
+  box-shadow: 0 4px 24px rgba(79,70,229,0.5);
+}
+.cta-web {
+  background: transparent;
+  border: 2px solid rgba(255,255,255,0.5);
+  color: #fff;
+  font-size: 17px;
+  font-weight: 700;
+  padding: 12px 28px;
+  border-radius: 30px;
+  letter-spacing: 1px;
+}
+.star-decor {
+  color: #fbbf24;
+  font-size: 16px;
+  letter-spacing: 2px;
+}
+</style>
+</head>
+<body>
+<div class="overlay"></div>
+<div class="content">
+  <div class="top">
+    <div class="recruit-badge">⭐ 2026 春季招聘</div>
+    <div class="company-name">星光科技</div>
+    <div class="company-name-en">STARLIGHT TECH</div>
+  </div>
+
+  <div class="middle">
+    <div class="tags-row">
+      <div class="tag highlight">前端工程师</div>
+      <div class="tag highlight">UI设计师</div>
+      <div class="tag highlight">产品经理</div>
+      <div class="tag highlight">内容编辑</div>
+    </div>
+  </div>
+</div>
+
+<div class="bottom">
+  <div class="slogan">来这里，写你的故事</div>
+  <div class="cta-row">
+    <div class="cta-email">📧 join@starlight.tech</div>
+    <div class="cta-web">🌐 www.starlight.tech</div>
+  </div>
+  <div class="star-decor">✦ ✦ ✦</div>
+</div>
+</body>
+</html>

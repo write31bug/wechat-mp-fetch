@@ -1,0 +1,178 @@
+
+--- Page 1 ---
+Received: 7 July 2021 | Accepted: 27 December 2021
+DOI: 10.1111/jth.15631
+ORIGINAL ARTICLE
+Identification of the histidine- rich glycoprotein domains
+responsible for contact pathway inhibition
+Tammy K. Truong1,2,3 | Rida A. Malik1,3 | Xintong Yao1,3 |
+James C. Fredenburgh1,2 | Alan R. Stafford1,2 | Hasam M. Madarati1,3 |
+Colin A. Kretz1,2 | Jeffrey I. Weitz1,2,3,4
+1Thrombosis and Atherosclerosis Research
+Institute, Hamilton, Ontario, Canada Abstract
+2Department of Medicine, McMaster Background: Previously, we showed that histidine- rich glycoprotein (HRG) binds
+University, Hamilton, Ontario, Canada
+factor (F) XIIa with high affinity, inhibits FXII autoactivation and FXIIa- mediated ac-
+3Department of Medical Sciences,
+tivation of FXI, and attenuates ferric chloride- induced arterial thrombosis in mice.
+McMaster University, Hamilton, Ontario,
+Canada Therefore, HRG downregulates the contact pathway in vitro and in vivo.
+4Department of Biochemistry and
+Objective: To identify the domains on HRG responsible for contact pathway inhibition.
+Biomedical Sciences, McMaster
+University, Hamilton, Ontario, Canada Methods: Recombinant HRG domain constructs (N- terminal [N1, N2, and N1N2],
+proline- rich regions, histidine- rich region [HRR], and C- terminal) were expressed and
+Correspondence
+Jeffrey I. Weitz, Thrombosis and purified. The affinities of plasma- derived HRG, HRG domain constructs, and synthetic
+Atherosclerosis Research Institute, 237
+HRR peptides for FXII, FXIIa, β- FXIIa, and polyphosphate (polyP) were determined
+Barton St. E., Hamilton, Ontario, Canada
+L8L 2X2. using surface plasmon resonance, and their effects on polyP- induced FXII autoactiva-
+Email: weitzj@taari.ca
+tion, FXIIa- mediated activation of FXI and prekallikrein, the activated partial throm-
+Funding information boplastin time (APTT), and thrombin generation were examined.
+Heart and Stroke Foundation of Canada,
+Results: HRG and HRG domain constructs bind FXIIa, but not FXII or β- FXII. HRR,
+Grant/Award Number: G- 16- 000131163;
+Canadian Institutes of Health Research, N1, and N1N2 bind FXIIa with affinities comparable with that of HRG, whereas the
+Grant/Award Number: FDN0159928
+remaining domains bind with lower affinity. Synthetic HRR peptides bind FXIIa and
+polyP with high affinity. HRG and HRR significantly inhibit FXII autoactivation and
+prolong the APTT. Like HRG, synthetic HRR peptides inhibit FXII autoactivation, at-
+tenuate FXIIa- mediated activation of prekallikrein and FXI, prolong the APTT, and
+attenuate thrombin generation.
+Conclusion: The interaction of HRG with FXIIa and polyP is predominantly mediated
+by the HRR domain. Like intact HRG, HRR downregulates the contact pathway and
+contributes to HRG- mediated down regulation of coagulation.
+KEYWORDS
+coagulation, factor XII, histidine- rich glycoprotein, polyphosphate, thrombosis
+Manuscript handled by: James Morrissey
+Final decision: James Morrissey, 27 December 2021
+© 2021 International Society on Thrombosis and Haemostasis
+|
+J Thromb Haemost. 2022;20:821–832. wileyonlinelibrary.com/journal/jth 821
+--- Page 2 ---
+822 | TRUONG eT al.
+1 | INTRODUCTION
+ESSENTIALS
+The contact pathway is triggered when factor (F) XII binds to nega-
+• Histidine- rich glycoprotein (HRG) downregulates the
+tively charged surfaces and undergoes autoactivation.1,2 Such sur-
+contact pathway.
+faces include nucleic acids released from cells undergoing apoptosis,
+• The histidine- rich region (HRR) domain of HRG modu-
+autophagy, or necrosis, neutrophil extracellular traps extruded from
+lates factor XIIa activity.
+activated neutrophils, and short chain polyphosphate (polyP) consist-
+• HRR analogs recapitulate the effects of intact HRG.
+ing of 70– 100 phosphate units released from activated platelets.3- 7
+• Like HRG, HRR analogs may attenuate thrombosis with-
+Binding of FXII to negatively charged surfaces induces its au-
+out disrupting hemostasis.
+toactivation via a conformational change that is enhanced in the
+presence of Zn2+.8,9 FXII autoactivation occurs by cleavage of the
+Arg353- Val354 bond, which converts single- chain FXII into its
+activated, two- chain form.10– 12 α- FXIIa (FXIIa) propagates coag-
+ulation by activating FXI, which circulates in complex with high 2 | METHODS
+molecular weight kininogen (HK), and culminates in thrombin gen-
+eration and fibrin formation.13,14 Recent studies suggest that FXII, 2.1 | Reagents
+which is dispensable for hemostasis, is important for thrombus
+growth.15- 23 Therefore, FXIIa inhibition may attenuate thrombosis Oligonucleotide primers were from MOBIX (McMaster University,
+without disrupting hemostasis. Hamilton, ON) and are described in Table S1. HRG (NM_000412)
+Previously, we showed that histidine- rich glycoprotein (HRG) Human Tagged ORF Clone (cDNA) was purchased from OriGene
+binds FXIIa with high affinity, thereby inhibiting FXII autoactivation Global (Rockville, MD). The expression vector, pMAL- c5e, and
+and FXIIa- mediated activation of FXI,24 and attenuating ferric chlo- BL21- Gold (DE3) Escherichia coli were from New England Biolabs
+ride (FeCl )- induced arterial thrombosis in mice.25 HRG is a 75- kDa Ltd. (Whitby, ON). Peptide analogs of the HRR containing one
+3
+glycoprotein that circulates in plasma at a concentration of ~1– 3 μM or four repeats of the His- His- Pro- His- Gly (HHPHG)
+1- 4
+consen-
+and is implicated in diverse processes including coagulation, fibrino- sus sequence,36 a scrambled peptide containing five repeats of
+lysis, immunity, and angiogenesis.24,26– 28 Human HRG consists of two HAHG, Scr(HAHG) H, and poly- His peptides consisting of six or
+5
+cystatin- like N- terminal domains (N1 and N2), a central histidine- rich 12 His residues (H- 6 and H- 12) were from Biomatik (Cambridge,
+region (HRR) flanked by two proline- rich regions (PRR1 and PPR2), ON) (Table S2). Short chain polyP consisting of 70– 100 phosphate
+and a C-t erminal domain (COOH).29,30 The HRR is unique because of units (P70.5) was a generous gift from Dr. Thomas Stoffel (BK
+its unusually high content of histidine (13% of total amino acids) and Giulini GmbH, Ladenburg, Germany). Biotinylated Phe- Pro- Arg-
+the presence of 12 tandem repeats of a Gly- His- His- Pro- His consen- chloromethyl ketone was from Hematologic Technologies Inc.
+sus sequence.29 The multidomain structure of HRG endows it with (Essex Junction, VT). Zinc chloride (ZnCl ), silicon dioxide (silica;
+2
+the capacity to bind many ligands including fibrinogen, plasminogen, 5– 15 nm), IPTG, and EDTA were purchased from Sigma Aldrich (St.
+thrombospondin, and heparin.26,27,31,32 The HRR domain of HRG Louis, MO). Human FXII, α- FXIIa, β- FXIIa, FXI, PK, HK, and corn
+binds divalent metal cations (e.g., Zn2+, Ni2+, Cu2+, Co2+) and under- trypsin inhibitor (CTI) were from Enzyme Research Laboratories
+goes a conformational change, which may influence its biological ac- (South Bend, IN). Unless otherwise specified, FXIIa will refer
+tivity.26,27,33 HRG also binds nucleic acids and polyP and attenuates to α- FXIIa. RecombiPlasTin 2G and APTT- SP (liquid) were pur-
+their capacity to activate the contact pathway.34,35 Therefore, HRG chased from Instrumentation Laboratory Company (Bedford,
+is a multifunctional protein. MA). Phosphatidylcholine- phosphatidylserine (3:1) vesicles were
+HRG downregulates coagulation in at least two ways. First, HRG prepared as previously described.37 A sheep polyclonal antibody
+binds to an exosite on FXIIa and prevents its interactions with FXII against human HRG and a polyclonal goat anti- human FXII anti-
+and FXI.24 HRG does not bind to zymogen FXII, FXI, FXIa, or FIX.24 body were from Affinity Biologicals (Ancaster, ON). The HRG-
+Second, HRG binds polyP and other polyanions and attenuates their directed antibody was affinity purified as previously described.25
+capacity to activate FXII.24,34,35 Although HRG is a potent regulator Horseradish peroxidase (HRP) conjugate was prepared using
+of the intrinsic pathway of coagulation in vitro24 and in vivo,25 the a Lightning- Link HRP conjugation kit from Novus Biologicals
+HRG domains responsible for its interaction with FXIIa and polyan- (Centennial, CO) according to the manufacturer's protocol.
+ions such as polyP remain elusive. To identify these domains, we A polyclonal rabbit antibody against maltose- binding protein
+generated recombinant constructs of individual HRG domains and (MBP) antibody was from Thermo Fisher Scientific (Burlington,
+synthetic HRR peptide analogs and determined their (1) affinities ON). BIAcore sensor chips (CM4 and CM5) and amine coupling
+for FXIIa, FXII, β- FXIIa, and polyP; (2) inhibitory effects on polyP- kit were from Cytiva (Mississauga, ON). HRG was isolated from
+induced FXII autoactivation, FXIIa- mediated activation of FXI, and human plasma using a Ni- NTA agarose column and human plasma
+prekallikrein (PK); and (3) effects on the activated partial thrombo- was depleted of HRG by affinity chromatography as previously
+plastin time (APTT) and polyP- induced thrombin generation. described.24
+--- Page 3 ---
+TRUONG eT al. | 823
+2.2 | Cloning, expression, and purification of MBP- (Bio- Rad Laboratories Ltd.) in the presence of 0.1% SDS and 0.14 M
+HRG domain constructs β- mercaptoethanol. Separated proteins were transferred onto ni-
+trocellulose membranes (Bio- Rad) overnight at 4°C using a Mini-
+2.2.1 | Cloning PROTEAN Tetra electrophoresis system (Bio- Rad). Membranes
+were blocked with 1% BSA in 50 mM Tris- HCl, 150 mM NaCl, pH
+Primers were designed to polymerase chain reaction- amplify indi- 7.4 containing 0.005% Tween20 and probed with affinity- purified
+vidual and adjacent domains of human HRG (Table S1). Polymerase HRP- conjugated polyclonal sheep anti- HRG antibody (0.2 µg/ml)
+chain reaction products were gel purified, digested with Ava1 or for 2 h or affinity- purified polyclonal rabbit antibody against MBP
+Nde1 and BamH1 (New England Biolabs Ltd.), and then ligated into (0.1 µg/ml) overnight at 4°C. Blots probed with the antibody against
+a pMAL- c5e expression vector containing a NH
+2
+- terminal MBP- MBP were then incubated with 0.2 µg/ml HRP- linked secondary
+tag. The domain constructs were as follows: MBP- N1, MBP- N2, anti- rabbit antibody (Cedarlane) for 2 h at 25°C. Bound HRP was
+MBP- N1N2, MBP- PRR1, MBP- HRR, MBP- PRR2, and MBP- COOH detected with the Immune- Star HRP kit (Bio- Rad) and chemilumi-
+(Figure S1). All clones were verified by Sanger sequencing. nescence was quantified using Chemi- Doc (Bio- Rad).
+2.2.2 | Expression 2.4 | Surface plasmon resonance
+MBP-H RG domain plasmids were transformed into BL21 (DE3) E coli The affinities of MBP- HRG constructs and synthetic HRR pep-
+cells and allowed to grow for 1– 2 h at 37°C until reaching mid- log phase tides for FXIIa, β- FXIIa, and FXII, and polyP were quantified using
+(A 600 = ~0.6). Expression was induced with 1 mM IPTG for an addi- surface plasmon resonance (SPR) on a BIAcore T200. Streptavidin
+tional 4 h at 37°C. Cells were harvested by centrifugation at 4000g (ThermoFisher) was attached onto flow cells of a CM4 sensor chip to
+for 20 min and the supernatant was discarded. The pellet was resus- 2000– 3000 response units (RU) using an amine coupling kit.24 FXIIa
+pended in 25 ml of column buffer (20 mM Tris- HCl, 200 mM NaCl, or β- FXIIa, labeled at the active site with biotinylated Phe- Pro- Arg-
+1 mM EDTA, 1 mM sodium azide, pH 7.4) in the presence of Complete chloromethyl ketone, was absorbed to immobilized streptavidin to
+Protease Inhibitor (Sigma). Bacteria were placed in an ice water bath ~500 RU at a flow rate of 10 µl/min at 25°C. FXII was immobilized
+and subjected to lysis by sonication in 5 s on/off pulses for 20 min directly onto a flow cell of a CM4 chip to ~500 RU by amine coupling.
+using a FB120 Sonic Dismembrator fitted with a CL- 18 probe (Fisher Unmodified polyP was immobilized on a CM5 chip derivatized with
+Scientific). Lysed bacteria were subjected to centrifugation at 20 000g a diamine linker. Ethylenediamine first was attached to the flow cell
+for 20 min. The supernatant was harvested and diluted 1:6 with col- using an amine coupling protocol (Cytiva), where ethylenediamine
+umn buffer and subjected to amylose affinity chromatography at 4°C. was substituted for ethanolamine. PolyP was immediately attached
+to the free amine with modifications to the method of Choi et al38
+and Thermo Scientific Tech Tip.39 PolyP was dissolved in water to
+2.2.3 | Purification 500 mg/ml at 37°C. A solution consisting of 230 µl of polyP, 50 µl
+of 1 M EDC (in 100 mM 3- (N- morpholino)- propane sulfonic acid
+Amylose resin (New England Biolabs) in a 10- ml column was washed [MOPS], pH 6.5), 25 µl of 0.1 M imidazole, pH 6.0, and 192 µl of
+with five volumes of column buffer. Diluted supernatant was loaded 100 mM MOPS, pH 6.5 was mixed and supplemented with an ad-
+onto the column and the flow through was collected. The column was ditional 25 µl of 0.1 M imidazole. The solution was immediately
+washed with 12 volumes of column buffer and protein was eluted injected into the flow cell at 5 µl/min for 50 min, followed by two ad-
+with 15 ml of 10 mM maltose (New England Biolabs) in column buffer. ditional injections for 15 min each. This resulted in an increase in RU
+One- milliliter fractions were collected, and protein content was as- of 140. The running buffer was 100 mM MOPS, pH 6.5. The control
+sessed by measuring absorbance at 280 nm and 320 nm. Protein- flow cell was blocked with ethanolamine using amine coupling.
+containing fractions were pooled; subjected to buffer exchange four Binding experiments were performed at 25°C in HBS buffer
+times into 20 mM HEPES- OH, 150 mM NaCl, pH 7.4 (HBS); concen- containing 0.005% Tween- 20 and 13 µM ZnCl
+2
+at a flow rate of
+trated using Amicon Ultra- 15 Centrifugal Filter Units (Thermo Fisher 50 µl/min. Increasing concentrations of analytes, 0– 500 nM HRG,
+Scientific, Inc.); and stored in aliquots at −80°C. Protein concentra- 0– 5000 nM HRG domain constructs, or 0– 8000 nM synthetic HRR
+tions were determined by measuring absorbance and using calculated peptides, were injected into both flow cells for 300 s, followed
+extinction coefficients (Expasy ProtParam online tool). by running buffer alone for 900 s. Flow cells were regenerated
+with 250 mM NaCl, 62.5 mM imidazole, and 5 mM EDTA for 60 s.
+Reciprocal experiments were performed by SPR to determine the
+2.3 | SDS- PAGE and Western blot analysis affinity of FXII and FXIIa for HRG in the presence of 13 µM ZnCl
+2
+.
+Biotinylated HRG was absorbed to immobilized streptavidin onto a
+Purified recombinant MBP- HRG domain constructs were sub- CM5 chip to 560 RU at a flow rate of 10 µl/min at 25°C.24 Binding ex-
+jected to SDS- PAGE analysis on 4%– 15% polyacrylamide gels periments were performed as previously described with increasing

@@ -1,0 +1,531 @@
+
+--- Page 1 ---
+1
+Vol.:(0123456789)
+Scientific Reports |        (2021) 11:10223  
+| https://doi.org/10.1038/s41598-021-89555-z
+www.nature.com/scientificreports
+Histidine‑rich glycoprotein 
+as a prognostic biomarker for sepsis
+Kosuke Kuroda1*, Kenzo Ishii2, Yuko Mihara1, Naoya Kawanoue1, Hidenori Wake3, 
+Shuji Mori4, Michihiro Yoshida5, Masahiro Nishibori6 & Hiroshi Morimatsu1
+Various biomarkers have been proposed for sepsis; however, only a few become the standard. We 
+previously reported that plasma histidine-rich glycoprotein (HRG) levels decreased in septic mice, 
+and supplemental infusion of HRG improved survival in mice model of sepsis. Moreover, our previous 
+clinical study demonstrated that HRG levels in septic patients were lower than those in noninfective 
+systemic inflammatory response syndrome patients, and it could be a biomarker for sepsis. In this 
+study, we focused on septic patients and assessed the differences in HRG levels between the non-
+survivors and survivors. We studied ICU patients newly diagnosed with sepsis. Blood samples were 
+collected within 24 h of ICU admission, and HRG levels were determined using an enzyme-linked 
+immunosorbent assay. Ninety-nine septic patients from 11 institutes in Japan were included. HRG 
+levels were significantly lower in non-survivors (n = 16) than in survivors (n = 83) (median, 15.1 
+[interquartile ranges, 12.7–16.6] vs. 30.6 [22.1–39.6] µg/ml; p < 0.01). Survival analysis revealed 
+that HRG levels were associated with mortality (hazard ratio 0.79, p < 0.01), and the Harrell C-index 
+(predictive power) for HRG was 0.90. These results suggested that HRG could be a novel prognostic 
+biomarker for sepsis.
+Abbreviations
+APACHE	
+Acute physiology and chronic evaluation
+CI	
+Confidence interval
+ELISA	
+Enzyme-linked immunosorbent assay
+HR	
+Hazard ratio
+HRG	
+Histidine-rich glycoprotein
+ICU	
+Intensive care unit
+IQR	
+Interquartile ranges
+PCT	
+Procalcitonin
+SIRS	
+Systemic inflammatory response syndrome
+SOFA	
+Sequential organ failure assessment
+Sepsis is one of the leading causes of death ­worldwide1,2. However, all clinical trials conducted for the develop-
+ment of therapeutic drugs for sepsis for decades have failed. One of the problems hindering an early initiation 
+of treatment for sepsis is unavailability of a good biomarker to diagnose and evaluate severity of ­sepsis3. Many 
+markers and scoring systems have been studied to predict the severity and mortality in septic patients. Procal-
+citonin (PCT) is commonly used to assist in the diagnosis of acute infection in clinical ­settings4,5 and is some-
+what considered as a prognostic ­biomarker6,7. However, a single biomarker cannot sufficiently determine the 
+­prognosis3,7,8. Thus, new biomarkers available to estimate sepsis severity and enable earlier treatment initiation 
+are highly anticipated.
+Histidine-rich glycoprotein (HRG) is a 75 kDa plasma glycoprotein produced in the liver and present at 
+concentration of approximately 100 µg/ml9. It is considered to be involved in many functions in biological 
+OPEN
+1Department of Anesthesiology and Resuscitology, Okayama University Graduate School of Medicine, 
+Dentistry and Pharmaceutical Sciences, 2‑5‑1 Shikata‑cho, Kitaku, Okayama 700‑8558, Japan. 2Department of 
+Anesthesiology, Fukuyama City Hospital, 5‑23‑1 Zaocho, Fukuyama, Hiroshima 721‑8511, Japan. 3Department 
+of Pharmacology, Faculty of Medicine, Kindai University, 377‑2 Ohnohigashi, Osaka‑Sayama, Osaka 589‑8511, 
+Japan. 4Department of Pharmacology, School of Pharmacy, Shujitsu University, 1‑6‑1 Nishigawara, Nakaku, 
+Okayama  703‑8516, Japan. 5Center for Innovative Clinical Medicine, Okayama University Hospital, 2‑5‑1 
+Shikata‑cho, Kitaku, Okayama 700‑8558, Japan. 6Department of Pharmacology, Okayama University Graduate 
+School of Medicine, Dentistry and Pharmaceutical Sciences, 2‑5‑1 Shikata‑cho, Kitaku, Okayama  700‑8558, 
+Japan. *email: kuro96@okayama-u.ac.jp
+
+--- Page 2 ---
+2
+Vol:.(1234567890)
+Scientific Reports |        (2021) 11:10223  | 
+https://doi.org/10.1038/s41598-021-89555-z
+www.nature.com/scientificreports/
+systems, such as coagulation, immune response, and modulation of ­angiogenesis9,10. In particular, HRG is sug-
+gested to play an essential role in host defense ­mechanisms10–12. Recently, we reported that plasma HRG levels 
+rapidly decreased in mice with ­sepsis13. Moreover, supplemental HRG infusion significantly improved the sepsis 
+survival rate in mice, while the knockdown of HRG levels exacerbated ­mortality13. Since HRG strongly induced 
+the spherical shape in human neutrophils, suppressed the neutrophil adhesion to vascular endothelial cells, 
+maintained passage through microcapillaries, and reduced ROS production, these effects may contribute to the 
+beneficial effects of HRG detected in septic ­animals13. Furthermore, HRG has been recently reported to protect 
+the vascular endothelial cells from LPS-induced disorder and increased ­permeability14. Our animal study as well 
+as in vitro experiments suggested that plasma HRG might be a useful biomarker of sepsis and that supplemental 
+therapy with HRG may provide a novel strategy for the treatment of sepsis. In fact, our previous clinical study 
+on 70 patients with systemic inflammatory response syndrome (SIRS) showed that HRG levels of septic patients 
+were significantly lower than those of noninfective SIRS patients and that HRG levels were significantly associ-
+ated with mortality within the SIRS ­population15. However, whether HRG could predict the prognosis of septic 
+patients remains unclear.
+This study included septic patients according to Sepsis-2 ­definition16 and evaluate the survival rate of septic 
+patients classified according to plasma HRG levels. HRG levels were also compared with clinical parameters 
+such as PCT in septic patients.
+Results
+Patients. 
+Patients were prospectively enrolled from October 2014 to September 2016 in 11 Japanese hos-
+pitals: 2 university and 9 general hospitals. Written informed consent was obtained from 101 patients. Two 
+were excluded because of lack of 28-day survival data, and finally, 99 patients were analyzed. The patient char-
+acteristics are shown in Table 1 and Supplementary Tables S1 and S2. The median age was 72.0 (interquartile 
+ranges [IQR], 64.0–78.0) years and 70% were males (69 males and 30 females). Their median acute physiology 
+and chronic evaluation (APACHE) II and sequential organ failure assessment (SOFA) scores were 25.0 (IQR, 
+21.0–31.0) and 11.0 (IQR, 8.0–13.0), respectively. The 28-day mortality rate was 16.2% (16/99 cases). A total of 
+46 patients (46.5%) were diagnosed with septic shock, 43 (43.4%) with severe sepsis, and 10 (10.1%) with sepsis 
+according to the Sepsis-2 definition. The 28-day mortality rates in patients with septic shock, severe sepsis, and 
+sepsis were 17.4% (8/46 patients), 18.6% (8/43 patients), 0% (0/10 patients), respectively.
+Plasma HRG and PCT levels on the first day of ICU admission. 
+The median HRG level of 99 septic 
+patients was 26.49 (IQR, 19.55–38.40) µg/ml in this study.
+Table 1.   Patient characteristics. Expressed as median (interquartile range). APACHE acute physiology and 
+chronic evaluation, SOFA sequential organ failure assessment, AIDS acquired immunodeficiency syndrome.
+Variable
+Total
+Sepsis
+Severe sepsis
+Septic shock
+N
+99
+10
+43
+46
+Age, years
+72.0 (64.0–78.0)
+75.0 (68.3–80.5)
+72.0 (64.0–80.0)
+71.0 (60.8–76.3)
+Male sex, n
+69 (69.7%)
+8 (80.0%)
+28 (65.1%)
+33 (71.7%)
+28-day death, days
+16 (16.2%)
+0
+8 (18.6%)
+8 (17.4%)
+ICU stay, days
+10.0 (5.0–16.0)
+7.5 (3.8–15.5)
+11.0 (5.0–18.0)
+9.5 (5.0–16.0)
+APACHE II score
+25.0 (21.0–31.0)
+20.0 (13.5–21.8)
+24.0 (22.0–30.0)
+28.0 (21.5–34.5)
+SOFA score
+11.0 (8.0–13.0)
+4.5 (2.0–6.0)
+9.0 (7.0–12.0)
+13.0 (11.0–16.0)
+Source of infection, n (death)
+99 (16)
+Lung
+20 (4)
+3
+7 (2)
+10 (2)
+Gastrointestinal
+19 (2)
+3
+10 (1)
+6 (1)
+Hepatic
+1
+0
+0
+1
+ Gallbladder
+8
+0
+3
+5
+ Urinary
+14 (1)
+1
+6 (1)
+7
+ Bone/soft tissue
+13 (2)
+2
+5 (1)
+6 (1)
+Others
+24 (7)
+1
+12 (3)
+11 (4)
+Ventilation, n
+53 (53.5%)
+5 (50.0%)
+23 (53.5%)
+25 (54.3%)
+Inotropes (Day 1)
+54 (54.5%)
+1 (10.0%)
+7 (16.3%)
+46 (100%)
+Blood purification
+Chronic dialysis
+4 (4.0%)
+0
+1 (2.3%)
+3 (6.5%)
+Renal replacement therapy
+29 (29.3%)
+0
+15 (34.9%)
+14 (30.4%)
+Polymyxin B hemoperfusion
+7 (7.1%)
+0
+3 (7.0%)
+4 (8.7%)
+Liver failure
+2 (2.0%)
+0
+2 (4.7%)
+0
+AIDS
+0
+0
+0
+0
+Hematologic malignancies
+6 (6.1%)
+1 (10.0%)
+1 (2.3%)
+4 (8.7%)
+
+--- Page 3 ---
+3
+Vol.:(0123456789)
+Scientific Reports |        (2021) 11:10223  | 
+https://doi.org/10.1038/s41598-021-89555-z
+www.nature.com/scientificreports/
+Figure 1 shows the primary outcome results. Comparing the non-survivors (n = 16) and survivors (n = 83), 
+HRG levels in the former were significantly lower than those in the latter (median, 15.1 [IQR, 12.7–16.6] vs. 30.6 
+[22.1–39.6] µg/ml; Mann–Whitney test, P < 0.01). PCT levels in non-survivors and survivors were 9.23 (IQR, 
+3.30–100) and 31.8 (11.0–84.2) ng/ml, respectively, but without statistical differences (P = 0.42).
+HRG levels in patients with septic shock, severe sepsis, and sepsis were 25.5 (IQR, 17.6–37.6), 30.8 (19.6–40.9), 
+and 28.9 (22.2–37.8) µg/ml, respectively, but without statistical differences (Kruskal–Wallis test, P = 0.48) (Sup-
+plementary Figure S1).
+There were no significant correlations between HRG levels and other parameters, such as white blood cell 
+count (Spearman’s rho, 0.071, P = 0.48), C-reactive protein (− 0.0018, P = 0.99), PCT (0.089, P = 0.38), platelet 
+number (0.039, P = 0.70), and fibrinogen (0.066, P = 0.55).
+Survival analysis. 
+Table 2 shows associations between plasma levels of each marker and mortality. Higher 
+first-day HRG levels were significantly associated with lower risk of mortality. The hazard ratio (HR) was 0.79 
+(95% confidence interval [CI], 0.71–0.87, P < 0.01). Even after adjusting with the APACHE II score, the golden 
+standard in evaluating the patient’s severity, the HRG level remained an independent prognostic factor (adjusted 
+HR, 0.81; 95% CI, 0.72–0.89; P < 0.01). PCT levels were not statistically associated with mortality (P = 0.81). The 
+Harrell C-index for mortality was as follows: HRG, 0.90 (95% CI, 0.81–0.99); PCT, 0.54 (0.37–0.71); APACHE II 
+score, 0.72 (0.58–0.86); and SOFA score, 0.68 (0.56–0.81).
+When patients were divided into four subgroups according to quartiles of HRG level, Kaplan–Meier curves 
+(Fig. 2A) showed that the mortality in the Q1 group (lowest HRG subgroup) was significantly higher than that 
+in others (log-rank test, Bonferroni corrected P < 0.01).
+Supplementary Table S3 shows that the sensitivity and specificity of HRG levels associated with mortality at 
+the cut-off level of 20.0 µg/ml was 0.94 and 0.84, respectively. Thus, when patients were divided into high and 
+low HRG groups according to this cut-off level, Kaplan–Meier curves (Fig. 2B) showed that the mortality in the 
+latter group was significantly higher than that in the former (HR, 57.2; 95% CI, 11.5–1034; P < 0.01).
+We analyzed whether HRG was associated with mortality, regardless of the severity of organ dysfunction. 
+Supplementary Figure S2 shows the associations between HRG level and mortality in subgroups stratified with 
+Figure 1.   Plasma HRG levels in septic patients on the first day of ICU admission. We compared HRG levels 
+between survivors (n = 83) and non-survivors (n = 16). A box-and-whisker plot showing median, 25th, and 75th 
+percentiles. The bars represent the 5th and 95th percentiles. Circles represent HRG levels in patients. ***P < 0.01. 
+HRG histidine-rich glycoprotein.
+Table 2.   Associations between each variable and mortality. We used Cox’s proportional hazard model to 
+evaluate associations between each variable and mortality. HRG histidine-rich glycoprotein, PCT procalcitonin, 
+APACHE Acute Physiology and Chronic Evaluation, SOFA Sequential Organ Failure Assessment, HR hazard 
+ratio, Adjusted HR hazard ratio adjusted according to APACHE II score.
+Variables
+Univariate analysis
+Adjusted with APACHE II score
+HR (95% CI)
+P
+Harrell C-index
+Adjusted HR (95% CI)
+P
+HRG
+0.79 (0.71–0.87)
+< 0.01
+0.90
+0.81 (0.72–0.89)
+< 0.01
+PCT
+0.9993 (0.99–1.00)
+0.81
+0.54
+NA
+NA
+APACHE II score
+1.12 (1.06–1.20)
+< 0.01
+0.72
+NA
+NA
+SOFA score
+1.19 (1.04–1.37)
+0.010 0.68
+NA
+NA
+
+--- Page 4 ---
+4
+Vol:.(1234567890)
+Scientific Reports |        (2021) 11:10223  | 
+https://doi.org/10.1038/s41598-021-89555-z
+www.nature.com/scientificreports/
+APACHE II score and each parameter of SOFA score: shock, respiratory dysfunction, liver dysfunction, renal 
+dysfunction, and platelet number. HRG levels were shown to be significantly associated with mortality in all 
+subgroups.
+Discussion
+In this multicenter prospective study, first-day HRG levels in non-survivors were demonstrated to be significantly 
+lower than those in survivors among septic patients. HRG levels were also shown to be significantly associated 
+with mortality, and determination of HRG provided a good prognostic estimation as a biomarker for sepsis. 
+Moreover, these properties could also be found in patients with organ failure, such as severe hepatic or renal 
+failure.
+In our previous investigation, 70 patients with SIRS, including 20 with sepsis, were examined. We showed 
+that HRG levels in septic patients were significantly lower than those in noninfective SIRS patients and that 
+Figure 2.   Kaplan–Meier survival curves. (A) Patients were divided into four subgroups according to quartiles 
+of HRG level; Q1, 6.49–19.5 µg/ml, n = 25; Q2, 19.6–26.5 µg/ml, n = 25; Q3, 26.6–38.2 µg/ml, n = 25; Q4, 
+38.3–78.0 µg/ml, n = 24. The mortality of the Q1 group was significantly higher than others (log-rank test, 
+Bonferroni corrected P < 0.01). (B) Patients were divided into high and low HRG groups according to the cut-off 
+level of 20.0 µg/ml. At the cut-off level of 20.0 µg/ml, the sensitivity and specificity of HRG levels associated with 
+mortality was 0.94 and 0.84, respectively. HRG histidine-rich glycoprotein.
+
+--- Page 5 ---
+5
+Vol.:(0123456789)
+Scientific Reports |        (2021) 11:10223  | 
+https://doi.org/10.1038/s41598-021-89555-z
+www.nature.com/scientificreports/
+HRG levels were significantly associated with mortality within the SIRS ­population15. However, the association 
+of HRG with sepsis survival was difficult to determine due to the limited sample ­size17. In the current study, we 
+focused on sepsis and investigated a new cohort of 99 septic patients from 11 institutes, and we could obtain 
+similar results. Thus, these results were reproducible in independent cohorts.
+In this study, first-day HRG levels were shown to be associated with mortality. Harrell C-index, the predictive 
+power index, for mortality was 0.90 for HRG. This C-index was superior to the C-indices of APACHE II (0.72) 
+and SOFA scores (0.68), the golden standards in evaluating the sepsis severity. The SOFA score is included in 
+the new definition of sepsis (Sepsis-3)18, and previous studies demonstrated that SOFA score is a good indicator 
+of prognosis in ICU-admitted critically ill patients, especially those with severe ­sepsis19–21. Conversely, Liu et al. 
+reported in their meta-analysis that PCT was associated with mortality in septic patients and can moderately 
+predict sepsis ­mortality6. However, the prognostic accuracy of PCT has been reported to be inadequate for 
+clinical use, especially in patients with renal ­failure22,23. In the current study, the C-index for PCT was 0.54 and 
+inferior to that for HRG. Therefore, we suggest that HRG might be superior to APACHE II score, SOFA score, 
+and PCT as a prognostic biomarker.
+First-day HRG levels were found to distinguish survivors from non-survivors. Kaplan–Meier curves (Fig. 2A) 
+clearly showed that only Q1 group, patients with first-day HRG levels of < 19.5 µg/ml, had high mortality rate 
+of ≥ 50% and that almost all patients in other groups survived. This unique property would facilitate the determi-
+nation of death threshold when using HRG as a biomarker. In other words, HRG was thought to identify patients 
+who really need intensive treatments. Intensive and timely care for patients with first-day HRG levels of < 19.5 µg/
+ml may possibly reduce sepsis mortality. In addition, our previous animal study suggested that supplemental 
+infusion of HRG might provide a novel strategy for the treatment of ­sepsis13, indicating that HRG might serve 
+as a therapeutic as well as a biomarker.
+Moreover, when patients were divided into subgroups according to the degree of organ dysfunctions, reduced 
+HRG levels were shown to be significantly associated with mortality in all subgroups, including hepatic and renal 
+dysfunction (Supplementary Figure S2). Current sepsis biomarkers have problems in evaluating patients with 
+organ ­failure7. There are some cases in which PCT cannot work well, especially in patients with renal ­failure7,23. 
+Our data suggested that HRG had sufficient ability in evaluating the severity of septic patients in these settings, 
+including hepatic and renal failures. These results strongly suggested that plasma HRG would be a useful prog-
+nostic biomarker for sepsis.
+This study had some limitations. First, the old definition of sepsis (Sepsis-2) was used because this study was 
+started before the Sepsis-3 definition was established. Old data could affect interpretation of our results. In this 
+study, all patients had suspicious infection and SOFA score of 2 or higher, however it is unclear whether it was 
+increase of > 2 score. Therefore, another study should be conducted using the Sepsis-3 definition, and we have 
+already started the study. Second, although we focused on sepsis survival, we studied 99 septic patients, includ-
+ing 16 non-survivors. To reinforce our claim that HRG could be a prognostic marker for sepsis, a larger study 
+should be conducted. Third, we had no data on exact number of eligible patients and the incidence rate of sepsis 
+in 11 hospitals. Selection bias could affect the results. Fourth, only one-time HRG levels were assessed on day 1 
+of ICU, and we had no data on the time course and the exact timing of blood sampling. Timing of sampling in 
+consideration of treatment, and time-dependent changes in HRG levels would be more valuable and may reflect 
+treatment effects. Whether HRG-guided therapy is possible with time course data may be evaluated. Fifth, we 
+had no data regarding patient comorbidities and the pathogen. Further investigations on the association of HRG 
+with patient characteristics and with the causes of sepsis will be conducted. Sixth, because of the lack of exact 
+data on the cause of death, it is possible that patients with withdrawal from treatment were included, which could 
+affect the results. Seventh, for measuring HRG, we used our in-house ELISA, which established in our previously 
+published study. This may affect the results of this study.
+In conclusion, in this study, first-day plasma HRG levels in non-survivors were found to be significantly lower 
+than those in survivors among septic patients. HRG were also found to have a good prognostic accuracy as a 
+biomarker for sepsis. Therefore, we suggest that HRG might be a good biomarker in diagnosing sepsis, evaluating 
+sepsis severity, and predicting patient outcomes. Studies with larger cohorts are needed to confirm our findings.
+Methods
+Study design. 
+This was a multicenter, prospective, and observational investigation approved by the 
+Institutional Review Board of any institution involved, including the Okayama University Graduate School 
+of Medicine, Dentistry, and Pharmaceutical Sciences. It was registered at the UMIN Clinical Trials Registry 
+(UMIN000017651, registered 22 May 2015—retrospectively registered, principal investigator’s name is Hiroshi 
+Morimatsu). This study was performed in accordance with the ethical standards laid down in the Declaration of 
+Helsinki and its later amendments. This observational study was also reported following the Strengthening the 
+Reporting of Observational Studies in Epidemiology ­guidelines24.
+Patients and data collection. 
+Patients who were newly diagnosed with sepsis according to Sepsis-216 
+were prospectively enrolled in the study. The inclusion criteria were patients admitted to the ICU and the occur-
+rence of sepsis. The exclusion criteria were age younger than 20 years, pregnancy, or failure to obtain consent.
+Clinical and laboratory data were obtained daily while in the ICU. Initial SOFA score and APACHE II score 
+were calculated using clinical parameters and blood test results. Patients were classified according to the previous 
+definitions of sepsis (Sepsis-2), the guidelines of the American College of Chest Physicians/Society of Critical 
+Care Medicine and the International Surviving Sepsis Campaign Guidelines ­Committee16. A follow-up at 28 days 
+was performed to determine survivors and non-survivors.
+
+--- Page 6 ---
+6
+Vol:.(1234567890)
+Scientific Reports |        (2021) 11:10223  | 
+https://doi.org/10.1038/s41598-021-89555-z
+www.nature.com/scientificreports/
+Measurement methods. 
+After obtaining written informed consent for participation from the patients or 
+their relatives, blood samples were collected in tubes containing ­K2-EDTA at a convenient timing within 24 h of 
+sepsis diagnosis, regardless of the treatment. The samples were processed and immediately frozen in each hospi-
+tal, then transported to Okayama University, and stored at − 80 °C for later analysis.
+HRG levels were determined using a modified quantitative sandwich enzyme-linked immunosorbent assay 
+(ELISA) as described ­previously15. In brief, we used a rat monoclonal antibody against human HRG (made in-
+house, number 75-14) as the capture antibody and horseradish peroxidase-conjugated nickel–nitrilotriacetic 
+acid (Ni–NTA HRP conjugate; Qiagen, Venlo, Netherland) for detection instead of secondary antibody. Plasma 
+samples were diluted 1:50 in phosphate-buffered saline (PBS) containing 1% bovine serum albumin (BSA) for 
+measurement. A standard curve is established using serial dilutions of known amounts of purified HRG (made 
+in-house). Each plasma sample was tested in duplicate, and assays were repeated twice independently.
+Outcomes. 
+The primary outcome was HRG levels in survivors and non-survivors. The secondary outcome 
+was the association between HRG levels and mortality.
+Statistical analysis. 
+The statistical approach was mostly designed a priori. Only the analysis provided in 
+Supplementary Figure S2 arose out of the data exploration process and was therefore designed post hoc.
+The median, interquartile ranges (IQR, 25th–75th percentiles), and box-whisker plot were used to sum-
+marize the variables. The ICU first-day markers were compared using the Mann–Whitney/Kruskal–Wallis tests 
+between/among subgroups, and the statistical significance level was set as 0.05 (two-sided). The contribution of 
+each marker to the 28-day mortality was assessed using Cox’s proportional hazard model adjusted with APACHE 
+II score, also especially in case of HRG, stratified with each parameter of SOFA score. The hazard ratio (HR) 
+and 95% confidence interval (CI) were estimated. The cumulative survival rate was estimated and tested using 
+the Kaplan–Meier method and the log-rank test with Bonferroni correction for four subgroups according to 
+quartiles of HRG level, and using the Kaplan–Meier method and the log-rank test for subgroups defined by the 
+cut-off value of HRG specified with the logistic regression receiver operating characteristic analysis; the HR was 
+calculated using the Cox’s proportional hazard model. Spearman rank correlation coefficient was calculated 
+to assess correlations between HRG and other variables. All analyses were performed using the JMP Pro 12 
+software (SAS Institute Inc., Chicago, IL), except for the Harrell C-index that was performed using the STATA 
+12 software (SAS Institute Inc.).
+Data availability
+The datasets generated and analysed during the current study are available from the corresponding author on 
+reasonable request.
+Received: 14 February 2021; Accepted: 26 April 2021
+References
+	 1.	 Rhee, C. et al. Incidence and trends of sepsis in US hospitals using clinical vs claims data, 2009–2014. JAMA 318, 1241–1249 
+(2017).
+	 2.	 Fleischmann, C. et al. Assessment of global incidence and mortality of hospital-treated sepsis current estimates and limitations. 
+Am. J. Respir. Crit. Care Med. 193, 259–272 (2016).
+	 3.	 Wu, C. C. et al. Comparison of diagnostic accuracy in sepsis between presepsin, procalcitonin, and C-reactive protein: A systematic 
+review and meta-analysis. Ann. Intensive Care 7, 91 (2017).
+	 4.	 Bloos, F. & Reinhart, K. Rapid diagnosis of sepsis. Virulence 5, 154–160 (2014).
+	 5.	 Rhodes, A. et al. Surviving sepsis campaign: International guidelines for management of sepsis and septic shock: 2016. Intensive 
+Care Med. 43, 304–377 (2017).
+	 6.	 Liu, D. et al. Prognostic value of procalcitonin in adult patients with sepsis: A systematic review and meta-analysis. PLoS ONE 10, 
+e0129450 (2015).
+	 7.	 Yang, H. S. et al. Prognostic value of presepsin in adult patients with sepsis: Systematic review and meta-analysis. PLoS ONE 13, 
+e0191486 (2018).
+	 8.	 Parlato, M. et al. Circulating biomarkers may be unable to detect infection at the early phase of sepsis in ICU patients: The CAP-
+TAIN prospective multicenter cohort study. Intensive Care Med. 44, 1061–1070 (2018).
+	 9.	 Poon, I. K. H., Patel, K. K., Davis, D. S., Parish, C. R. & Hulett, M. D. Histidine-rich glycoprotein: The Swiss Army knife of mam-
+malian plasma. Blood 117, 2093–2101 (2011).
+	10.	 Blank, M. & Shoenfeld, Y. Histidine-rich glycoprotein modulation of immune/autoimmune, vascular, and coagulation systems. 
+Clin. Rev. Allergy Immunol. 34, 307–312 (2008).
+	11.	 Shannon, O. et al. Histidine-rich glycoprotein promotes bacterial entrapment in clots and decreases mortality in a mouse model 
+of sepsis. Blood 116, 2365–2372 (2010).
+	12.	 Nishimura, Y. et al. Histidine-rich glycoprotein augments natural killer cell function by modulating PD-1 expression via CLEC-1B. 
+Pharmacol. Res. Perspect. 7, e00481 (2019).
+	13.	 Wake, H. et al. Histidine-rich glycoprotein prevents septic lethality through regulation of immunothrombosis and inflammation. 
+EBioMedicine 9, 180–194 (2016).
+	14.	 Gao, S. et al. Histidine-rich glycoprotein ameliorates endothelial barrier dysfunction through regulation of NF-kB and MAP signal 
+pathway. Br. J. Pharmacol. 176, 2808–2824 (2019).
+	15.	 Kuroda, K. et al. Decrease in histidine-rich glycoprotein as a novel biomarker to predict sepsis among systemic inflammatory 
+response syndrome. Crit. Care Med. 46, 570–576 (2018).
+	16.	 Levy, M. M. et al. 2001 SCCM/ESICM/ACCP/ATS/SIS International sepsis definitions conference. Crit. Care Med. 31, 1250–1256 
+(2003).
+	17.	 Nishibori, M., Wake, H. & Morimatsu, H. Histidine-rich glycoprotein as an excellent biomarker for sepsis and beyond. Crit. Care 
+22, 209 (2018).
+	18.	 Singer, M. et al. The third international consensus definitions for sepsis and septic shock (Sepsis-3). JAMA 315, 801–810 (2016).
+
+--- Page 7 ---
+7
+Vol.:(0123456789)
+Scientific Reports |        (2021) 11:10223  | 
+https://doi.org/10.1038/s41598-021-89555-z
+www.nature.com/scientificreports/
+	19.	 Yousef, A. A. & Suliman, G. A. The predictive prognostic values of serum TNF-α in comparison to SOFA score monitoring in 
+critically ill patients. Biomed. Res. Int. 2013, 258029 (2013).
+	20.	 Jones, A. E., Trzeciak, S. & Kline, J. A. The sequential organ failure assessment score for predicting outcome in patients with severe 
+sepsis and evidence of hypoperfusion at the time of emergency department presentation. Crit. Care Med. 37, 1649–1654 (2009).
+	21.	 Vincent, J. L. et al. Use of the SOFA score to assess the incidence of organ dysfunction/failure in intensive care units: Results of a 
+multicenter, prospective study. Crit. Care Med. 26, 1793–1800 (1998).
+	22.	 Henriquez-Camacho, C. & Losa, J. Biomarkers for sepsis. Biomed. Res. Int. 2014, 547818 (2014).
+	23.	 Grace, E. & Turner, R. M. Use of procalcitonin in patients with various degrees of chronic kidney disease including renal replace-
+ment therapy. Clin. Infect. Dis. 59, 1761–1767 (2014).
+	24.	 von Elm, E. et al. Strengthening the reporting of observational studies in epidemiology (STROBE) statement: Guidelines for 
+reporting observational studies. BMJ 335, 806–808 (2007).
+Acknowledgements
+We would like to thank MARUZEN-YUSHODO Co., Ltd. (http://​kw.​maruz​en.​co.​jp/​kousei-​honya​ku/) for the 
+English language editing. We thank all participating researchers of the Okayama Research Investigation Organ-
+izing Network (ORION) investigators for their contributions to this study. Participating hospitals and principal 
+investigators are as follows: Hidekuni Hidaka, M.D., (Fukuyama City Hospital, Hiroshima), Makoto Takatori, 
+M.D., (Hiroshima City Hiroshima Citizens Hospital, Hiroshima), Shinsei Saeki, M.D., (Iwakuni Medical Center, 
+Yamaguchi), Toshiaki Kurasako, M.D., (Japan Red Cross Society Himeji Hospital, Hyogo), Akihito Hirasaki, 
+M.D., (Kagawa Prefectural Central Hospital, Kagawa), Michio Kitaura, M.D., (Kagawa Rosai Hospital, Kagawa), 
+Masataka Yokoyama, M.D., (Kochi Medical School Hospital, Kochi), Masahiro Taniguchi, M.D., (Okayama 
+Medical Center, Okayama), Yoji Kobayashi, M.D., (Okayama Saiseikai General Hospital, Okayama), Hiroshi 
+Morimatsu, M.D., (Okayama University Hospital, Okayama), and Mitsunori Tsukioki, M.D., (Onomichi Munici-
+pal Hospital, Hirishima).
+Author contributions
+K.K., H.W., M.N., and H.M. contributed to the study concept and design. K.K., K.I., Y.M., H.M. and the ORION 
+investigators participated in data collection. K.K., N.K., H.W., S.M., and M.N. did the laboratory work. All authors 
+participated in data analysis and interpretation. K.K., M.Y., and H.M. contributed to the statistical analysis. K.K., 
+N.K., H.W., M.N., and H.M. contributed to drafting of the report. M.N. and H.M. were responsible for obtaining 
+funding. M.N. and H.M. supervised the study.
+Funding
+This work was supported by grants from the Japan Agency for Medical Research and Development (AMED) 
+(AMED JP15lk0201014; AMED JP19im0210109) and from Secom Science and Technology Foundation to MN, 
+and from the Japan AMED (AMED JP19lk0201085) to HM.
+Competing interests 
+The authors declare no competing interests.
+Additional information
+Supplementary Information The online version contains supplementary material available at https://​doi.​org/​
+10.​1038/​s41598-​021-​89555-z.
+Correspondence and requests for materials should be addressed to K.K.
+Reprints and permissions information is available at www.nature.com/reprints.
+Publisher’s note  Springer Nature remains neutral with regard to jurisdictional claims in published maps and 
+institutional affiliations.
+Open Access   This article is licensed under a Creative Commons Attribution 4.0 International 
+License, which permits use, sharing, adaptation, distribution and reproduction in any medium or 
+format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the 
+Creative Commons licence, and indicate if changes were made. The images or other third party material in this 
+article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the 
+material. If material is not included in the article’s Creative Commons licence and your intended use is not 
+permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from 
+the copyright holder. To view a copy of this licence, visit http://​creat​iveco​mmons.​org/​licen​ses/​by/4.​0/.
+© The Author(s) 2021

@@ -1,0 +1,283 @@
+
+--- Page 1 ---
+THEJOURNALOFBIOLOGICALCHEMISTRY VOL.286,NO.35,pp.30314–30323,September2,2011
+©2011byTheAmericanSocietyforBiochemistryandMolecularBiology,Inc. PrintedintheU.S.A.
+Histidine-rich Glycoprotein Binds Fibrin(ogen) with High
+Affinity and Competes with Thrombin for Binding to the
+(cid:1)(cid:1)
+-Chain*
+Receivedforpublication,April25,2011,andinrevisedform,June28,2011Published,JBCPapersinPress,July8,2011,DOI10.1074/jbc.M111.253831
+TrangT.Vu‡§1,AlanR.Stafford‡¶,BeverlyA.Leslie‡¶,PaulY.Kim‡¶,JamesC.Fredenburgh‡¶,andJeffreyI.Weitz‡§¶2
+Fromthe‡ThrombosisandAtherosclerosisResearchInstituteandtheDepartmentsof§MedicalSciencesand¶Medicine,McMaster
+University,Hamilton,OntarioL8L2X2,Canada
+Histidine-rich glycoprotein (HRG) is an abundant protein by disulfide bonds (1). Approximately 10–15% of circulating
+thatbindsfibrinogenandotherplasmaproteinsinaZn2(cid:2)-de- fibrinogen has a variant (cid:3)-chain termed the (cid:3)(cid:1)-chain, which
+pendentfashionbutwhosefunctionisunclear.HRGhasantimi- results from differential processing of the (cid:3) -chain mRNA
+A
+crobialactivity,anditsincorporationintofibrinclotsfacilitates transcript (2–4). The (cid:3)(cid:1)-chain is distinguished from the
+bacterial entrapment and killing and promotes inflammation. (cid:3) -chainbythepresenceofanacidic20-residueextensionatits
+A
+AlthoughthesefindingssuggestthatHRGcontributestoinnate COOHterminus(2,5).
+immunity and inflammation, little is known about the HRG- Thrombincatalyzestheconversionoffibrinogentoinsoluble
+fibrin(ogen) interaction. By immunoassay, HRG-fibrinogen fibrin,andduringthisprocesssomethrombinremainsbound
+complexes were detected in Zn2(cid:2)-supplemented human to the fibrin network (6). Exosites 1 and 2 are two regulatory
+plasma,afindingconsistentwithahighaffinityinteraction. domainsthatflanktheactivesiteofthrombinandmediateits
+Surface plasmon resonance determinations support this con- bindingtofibrin(7,8).Exosite1ofthrombininteractswiththe
+ceptandshowthatinthepresenceofZn2(cid:2),HRGbindsthepre-
+centralE-domainoffibrin,whereasexosite2bindsonlytothe
+dominant(cid:1) /(cid:1) -fibrinogenandthe(cid:1)-chainelongatedisoform, COOH terminus of the (cid:3)(cid:1)-chain. Consequently, thrombin
+A A
+(cid:1)
+A
+/(cid:1)(cid:1)-fibrinogen,withK
+d
+valuesof9nM.Likewise,125I-labeled binds(cid:3)
+A
+/(cid:3)
+A
+-fibrininaunivalentfashionwithaK
+d
+valueof2–4
+HRGbinds(cid:1)
+A
+/(cid:1)
+A
+-or(cid:1)
+A
+/(cid:1)(cid:1)-fibrinclotswithsimilarK
+d
+values (cid:4) M. In contrast, both exosites are engaged when thrombin
+whenZn2(cid:2)ispresent.TherearemultipleHRGbindingsiteson bindsto(cid:3) /(cid:3)(cid:1)-fibrin,resultinginahigheraffinityinteraction
+A
+fibrin(ogen)becauseHRGbindsimmobilizedfibrinogenfrag- (K value of 0.08–0.18 (cid:4) M) (5, 9). Fibrin-bound thrombin
+d
+mentDorEand(cid:1)(cid:1)-peptide,ananalogoftheCOOHterminusof remainsactive,andtheproteaseisprotectedfrominhibitionby
+the (cid:1)(cid:1)-chain that mediates the high affinity interaction of fluid-phaseinhibitors,suchasantithrombinandheparincofac-
+thrombinwith(cid:1) /(cid:1)(cid:1)-fibrin.ThrombincompeteswithHRGfor torII(6).Becauseofitsbivalentinteractionwith(cid:3) /(cid:3)(cid:1)-fibrin,
+A A
+(cid:1)(cid:1)-peptide binding and displaces 125I-HRG from (cid:1) /(cid:1)(cid:1)-fibrin thrombinboundto(cid:3) /(cid:3)(cid:1)-fibrinismoreprotectedfrominhibi-
+A A
+clotsandviceversa.Takentogether,thesedatasuggestthat(a) tionbyfluid-phaseinhibitorsthanthrombinboundto(cid:3) /(cid:3) -
+A A
+HRGcirculatesincomplexwithfibrinogenandthatthecom- fibrin(10).
+plex persists upon fibrin formation, and (b) by competing Likethrombin,histidine-richglycoprotein(HRG)3bindsto
+withthrombinfor(cid:1) /(cid:1)(cid:1)-fibrinbinding,HRGmaymodulate fibrinogenandisincorporatedintofibrinclots(11).Although
+A
+coagulation.Therefore,theHRG-fibrininteractionmaypro- theplasmaconcentrationofHRGrangesfrom1.6to2(cid:4) M,the
+videanovellinkbetweencoagulation,innateimmunity,and concentrationinplatelet-richthrombimaybehigherbecause
+inflammation. HRGisstoredinthealphagranulesofplateletsandisreleased
+when platelets are activated (12, 13). A 75-kDa glycoprotein,
+HRG,iscomposedoftwoNH -terminalcystatin-likedomains,
+2
+Fibrinogenisthesolubleprecursoroffibrin,acriticalcom- a central histidine-rich region (HRR) flanked by two proline-
+ponentofbloodclotsthatendowsthemwithstrengthandelas- richregions,andaCOOH-terminaldomain(14).Inadditionto
+ticity.Fibrinogenisaglycoproteincomposedofthreepairsof fibrinogen,HRGalsobindsplasminogen,heparansulfate,and
+polypeptidechains,termedA(cid:1),B(cid:2),and(cid:3),thatareconnected divalentcations,suchasZn2(cid:2)(12,15,16).Therefore,HRGis
+hypothesizedtobeanimportantaccessoryoradapterprotein
+*This work was supported in part by the Canadian Institutes of Health thatbringsdifferentligandstogetherunderspecificconditions
+Research(MOP3992,MOP102735,andCTP79846),theHeartandStroke (14).
+FoundationofOntario(T4792andT4730),theHeartandStrokeFounda- HRG-deficientmiceexhibitashorterprothrombintimeand
+tionofCanada(aNovelandExploratoryResearchFundgrant),andthe
+acceleratedfibrinolysiscomparedwithwild-typemice,raising
+OntarioResearchandDevelopmentChallengeFund.
+1SupportedbyaHeartandStrokeFoundationofOntarioGraduateStudent
+Award. 3Theabbreviationsusedare:HRG,histidine-richglycoprotein;HRR,histidine-
+2Holds the Heart and Stroke Foundation of Ontario/J. Fraser Mustard richregion;Fab,fragmentantibodybinding;FPRck,D-Phe-Pro-Argchlo-
+EndowedChairinCardiovascularResearchandtheCanadaResearchChair romethylketone;YPRck,D-Tyr-Pro-Argchloromethylketone;HBS,Hepes-
+(Tier1)inThrombosis.Towhomcorrespondenceshouldbeaddressed: buffered saline; (cid:3)(cid:1)-peptide, synthetic analog of the COOH-terminal
+ThrombosisandAtherosclerosisResearchInstitute,237BartonSt.E.,Ham- portion of the (cid:3)(cid:1)-chain of (cid:3)/(cid:3)(cid:1)-fibrinogen; RU, response units; Req,
+A
+ilton, Ontario L8L2X2, Canada. Tel.: 905-574-8550; Fax: 905-575-2646; amountofligandboundtoimmobilizedproteinatequilibrium;SPR,sur-
+E-mail:weitzj@taari.ca. faceplasmonresonance.
+30314 JOURNALOFBIOLOGICALCHEMISTRY VOLUME286•NUMBER35•SEPTEMBER2,2011
+Downloaded
+from
+www.jbc.org
+at
+University
+of
+Toronto,
+on
+February
+21,
+2013
+--- Page 2 ---
+HRGModulatesThrombinBindingtoFibrin
+thepossibilitythatHRGmodulatescoagulationandfibrinolysis PreparationofFibrinogenFragments—FragmentXwaspre-
+(17).Inadditiontoitspotentialroleinhemostasis,HRGalso pared by limited plasmin digestion of fibrinogen (23). Frag-
+hasbeenimplicatedininnateimmunityandinflammation(18). mentsDandEweregeneratedbyplasmindigestionof(cid:3) /(cid:3) -
+A A
+HRGexhibitsantifungalandantimicrobialactivityinvitro,and fibrinogen(25).Digestedmaterialwasappliedtoa12-mlUNO
+these activities are enhanced at low pH or in the presence of Q-12ionexchangecolumn(Bio-Rad)usingaBio-RadBiologic
+Zn2(cid:2), conditions that promote ligand binding (19, 20). The Duoflowsystemataflowrateof5ml/min.Toelutenon-spe-
+antimicrobial activity of HRG has also been demonstrated in cificallyboundproteins,thecolumnwaswashedwith30mlof
+vivoandappearstobefibrin-dependent.Thus,comparedwith 0.02Msodiumphosphate,0.01Mcitricacid,pH7.6.FragmentD
+wild-typemice,HRG-deficientmicearemoresusceptibletothe waselutedwith100mlof0.1Msodiumphosphate,0.05Mcitric
+lethaleffectofStreptococcuspyogenesinfectionandarerescued acid,pH5.0,whereasfragmentEwassubsequentlyelutedwith
+with HRG supplementation (21). This phenomenon is fibrin- 40 ml of the same buffer at pH 4.4 (26). Protein-containing
+dependentbecausefibrinisessentialforHRG-mediatedbacte- fractionswereidentifiedbyabsorbanceat280nmandpooled.
+rial entrapment and killing, processes that prevent bacterial Purifiedfragmentsweredialyzedinto10mMHepes-NaOH,150
+dissemination.Inaddition,theHRG-fibrininteractionmodu- mMNaCl,pH7.4(HBS)andconcentrated.Finalconcentrations
+latesinflammationbecauseHRG-deficientmiceexhibitatten- weredeterminedat280nm(27).Theintegrityofthefragments
+uatedabscessformationinresponsetosubcutaneousinjection wasassessedbySDS-PAGEanalysison4–15%polyacrylamide
+ofbacteria.Basedonthesefindings,ithasbeenpostulatedthat gels (Ready-Gel, Bio-Rad) under reducing and non-reducing
+HRG plays a fibrin-dependent role in both inflammation and conditions.Sampleswerestoredinaliquotsat(cid:3)80°C.
+innateimmunity(21). Preparation of (cid:3)(cid:1)-directed IgG Fab Fragments—For some
+DespiteemergingevidencethattheHRG-fibrin(ogen)inter- experiments,fragmentantibodybinding(Fab)regionsfromthe
+action is physiologically important, little is known about the affinity-purified (cid:3)(cid:1)-peptide-directed IgG were generated by
+biochemical foundation of this interaction or its functional papain digestion (28), isolated with a Fab preparation kit
+consequences.Toaddressthesegapsinknowledge,wesetout (Pierce), assessed for purity by SDS-PAGE analysis, and then
+to(a)quantifythebindingofHRGtofibrin(ogen),(b)identify concentratedanddialyzedagainstHBS.
+theHRGbindingdomainsonfibrin(ogen),and(c)determine LabelingofProteins—(cid:3)(cid:1)-Peptidewaslabeledwithfluorescein
+whetherthereisoverlapbetweentheHRGandthrombinbind- isothiocyanate as previously described (9). (cid:1)–Thrombin was
+ingdomainsonfibrin(ogen). radiolabeledbyreactionwith125I-labeledYPRck,andHRGwas
+radiolabeledwithNa125I(McMasterUniversityNuclearReac-
+EXPERIMENTALPROCEDURES tor,Hamilton,ON)usingIodo-beads(Pierce)asdescribed(29).
+Materials 125I-YPRck-thrombinand125I-HRGconcentrationswere5–6
+Reagents—Human thrombin, prothrombin, and plasmino-
+(cid:4) M,asdeterminedbyabsorbanceat280nm,withradioactivity
+of500,000–800,000cpm/(cid:4)gofprotein.FPRck-thrombinwas
+gen-freefibrinogenwerefromEnzymeResearchLaboratories
+preparedasdescribed(30).
+(SouthBend,IN).PlasminandfactorXIIIwerefromHaemato-
+logicTechnologiesInc.(EssexJunction,VT).Prionexwasfrom
+Methods
+Pentapharm (Basel, Switzerland). A 20-amino acid analog of
+theCOOHterminusofthe(cid:3)(cid:1)-chainoffibrinogen,(cid:3)(cid:1)-peptide SurfacePlasmonResonance(SPR)—TheinteractionofHRG
+(VRPEHPAETEYDSLYPEDDL),waspreparedbyBachemBio- with immobilized (cid:3) /(cid:3) - or (cid:3) /(cid:3)(cid:1)-fibrin(ogen), biotinylated-
+A A A
+science,Inc.(KingofPrussia,PA),andasheepantibodyagainst
+(cid:3)(cid:1)-peptide,orfragmentsX,D,orEwasassessedbySPRusinga
+thispeptidewasfromAffinityBiologicals(Ancaster,ON).The BIAcore1000(GEHealthcare)aspreviouslydescribed(24,30)
+two Tyr residues within the (cid:3)(cid:1)-peptide were modified with butwithsomemodifications.Briefly,proteinswerecovalently
+phosphategroupsinplaceofsulfatetoenhancestability(22). linked to separate flow cells of a carboxymethylated dextran
+The(cid:3)(cid:1)-peptide-directedIgGwassubjectedtoaffinitychro- (CM4)biosensorchipataflowrateof5(cid:4)l/minusinganamine
+matography using immobilized (cid:3)(cid:1)-peptide (SulfoLink couplingkit(GEHealthcare).Proteinswereimmobilizedusing
+Immobilization Kit for Peptides, Thermo Scientific, Rock- 10mMacetatebufferatvaryingpHvaluestomaximizeadsorp-
+ford, IL). D-Phe-Pro-Arg chloromethyl ketone and D-Tyr- tion. (cid:3)
+A
+/(cid:3)
+A
+- or (cid:3)
+A
+/(cid:3)(cid:1)-fibrinogen or fragments X and D were
+Pro-Arg chloromethyl ketone (FPRck and YPRck, respec- immobilized at pH 5.5 to (cid:4)3000–7000 response units (RU).
+tively) were from EMD Chemicals (Gibbstown, NJ). FragmentEwasimmobilizedatpH4.5to(cid:4)2000–3000RU.For
+Fibrinogen was rendered factor XIII-free, and (cid:3) /(cid:3) - and fibrinbindingstudies,immobilized(cid:3) /(cid:3) -or(cid:3) /(cid:3)(cid:1)-fibrinogen
+A A A A A
+(cid:3) /(cid:3)(cid:1)-fibrinogen were separated by fractionation on DEAE- wasconvertedtofibrinbythreesuccessive60-mininjectionsof
+A
+Sepharose (GE Healthcare) and characterized as previously 100 nM thrombin at 5 (cid:4)l/min (30). To prepare streptavidin-
+described(10,23).HRGwaspurifiedbymetal-chelatechroma- conjugatedCM4flowcells,0.4mg/mlstreptavidin(Sigma)at
+tography,andHRG-deficientplasmawaspreparedasdescribed pH4.5wasinjected.Biotinylated(cid:3)(cid:1)-peptide(30)wasadsorbed
+previously (24). Non-immune sheep IgG and a human HRG- to the immobilized streptavidin to 200–300 RU. Remaining
+directedIgGfromsheepwerepreparedbyAffinityBiologicals, reactivegroupswereneutralizedwith1Methylenediamine,and
+andtheHRG-specificIgGfractionwasisolatedbyaffinitychro- non-specificallyadsorbedproteinswereremovedbytreatment
+matography using immobilized HRG (24). Unless otherwise with0.5MNaCl.Anunmodifiedflowcellservedasthecontrol.
+specified,otherreagentswerefromSigma. All SPR procedures were done in HBS containing 0.005%
+SEPTEMBER2,2011•VOLUME286•NUMBER35 JOURNALOFBIOLOGICALCHEMISTRY 30315
+Downloaded
+from
+www.jbc.org
+at
+University
+of
+Toronto,
+on
+February
+21,
+2013
+--- Page 3 ---
+HRGModulatesThrombinBindingtoFibrin
+Tween20and2mMCaCl ,andflowcellswereregeneratedwith ear regression of a rectangular hyperbola to determine K .
+2 d
+250mMimidazoleand2mMEDTAbetweenruns. Experimentswereperformedtwiceinduplicate.
+TomeasuretheaffinityofHRGforimmobilizedfibrinogen, Effect of Competitors on the Binding of 125I-HRG to Fibrin
+fibrin, or fibrinogen fragments, aliquots of HRG (0–1 (cid:4) M) in Clots—Clots were formed in TBS-Tween containing 2 mM
+buffercontaining20(cid:4) MZnCl wereinjectedataflowrateof30 CaCl and20(cid:4) MZnCl .Fabfragmentsderivedfrom(cid:3)(cid:1)-pep-
+2 2 2
+(cid:4)l/min.ToquantifyZn2(cid:2)dependence,bindingof200nMHRG tide-directed IgG were used to assess the contribution of the
+toimmobilized(cid:3) /(cid:3) -or(cid:3) /(cid:3)(cid:1)-fibrinogenwasmonitoredin (cid:3)(cid:1)-chainto125I-HRGbindingtoclots.Afterpreincubationof
+A A A
+the presence of varying concentrations of ZnCl (0–60 (cid:4) M) 0.25 (cid:4) M (cid:3) /(cid:3) - or (cid:3) /(cid:3)(cid:1)-fibrinogen with (cid:3)(cid:1)-peptide-directed
+2 A A A
+usingdualinjectionmode.Thebindingofthrombintoimmo- FabfragmentsorcontrolsheepIgG(0–4(cid:4) M)for1hat23°C,
+bilizedfragmentDorEwasmonitoredbyinjectionofFPRck- 60nM 125I-HRGwasadded,andclotsweregeneratedwith20
+thrombin(0–15(cid:4) M)intoflowcells. nMthrombin.TodeterminewhetherHRGandthrombinshare
+The(cid:3)(cid:1)-peptide-directedIgGwasusedtoassessthecontribu- fibrinbindingsites,theeffectofFPRck-thrombinonthebind-
+tionofthe(cid:3)(cid:1)-chaintotheinteractionofHRGwithimmobilized ingof125I-HRGwasassessed.Samplescontaining2(cid:4) M (cid:3) /(cid:3) -
+A A
+(cid:3)(cid:1)-peptide or fibrinogen. A saturating amount of (cid:3)(cid:1)-peptide- or (cid:3) /(cid:3)(cid:1)- fibrinogen, 20 nM 125I-HRG, and FPRck-thrombin
+A
+directedIgGoranon-immuneIgG(2(cid:4) M)wasfirstinjectedinto (0–8(cid:4) M)in0.25%Prionexwereclottedwith20nMthrombin.
+flow cells containing immobilized (cid:3)(cid:1)-peptide or (cid:3) /(cid:3)(cid:1)- or TheeffectofvaryingconcentrationsofHRGonthebindingof
+A
+(cid:3) /(cid:3) -fibrinogen.ThebindingofHRGtofibrinogenorfibrin- 125I-YPRck-thrombinwasassessedinareciprocalexperiment.
+A A ogenfragmentswasthenmeasuredasdescribedabove,except Samplescontaining2(cid:4) M (cid:3) /(cid:3) -or0.25(cid:4) M (cid:3) /(cid:3)(cid:1)-fibrinogen,
+A A A
+that flow cells were re-saturated with 0.5 (cid:4) M (cid:3)(cid:1)-peptide-di- 20nM 125I-YPRck-thrombin,andHRG(0–2(cid:4) M)wereclotted
+rectedIgGorcontrolIgGbeforeeachHRGinjection. with10nMthrombin.Thefractionof125I-HRGor125I-YPRck-
+BindingofHRGtoimmobilized(cid:3)(cid:1)-peptideintheabsenceor thrombinboundwasdeterminedasdescribedabove.Allexper-
+presence of FPRck-thrombin was monitored using a BIAcore imentswereperformedtwiceinduplicate.
+T200. Biotinylated (cid:3)(cid:1)-peptide was adsorbed to streptavidin- HRGDiffusionfromPreformedFibrinClots—Therateof125I-
+conjugatedCM4flowcellsto100RUinthepresenceof20(cid:4)
+M
+HRGdissociationfrom(cid:3) /(cid:3) -or(cid:3) /(cid:3)(cid:1)-fibrinclotswasdeter-
+A A A
+ZnCl ataflowrateof5(cid:4)l/min.Anunmodifiedflowcellserved minedaspreviouslydescribed(10,30).Briefly,fibrinclotswere
+2
+asacontrol.Usingdualinjectionmode,1(cid:4) MHRGwasinjected formedaroundplasticinoculationloops(Bac-Loop,Thermo-
+at10(cid:4)l/minfollowedbyasecondinjectionofFPRck-thrombin FisherScientific,Waltham,MA)byadding10nMthrombinto
+orprothrombinatconcentrationsrangingfrom0to8(cid:4) M.Flow solutionscontaining5(cid:4) M (cid:3) /(cid:3) -or(cid:3) /(cid:3)(cid:1)-fibrinogen,20nM
+A A A
+cells were regenerated with 250 mM imidazole, 2 mM EDTA, factor XIII, and 50 nM 125I-HRG in TBS-Tween containing 2
+and1MNaCl.Allexperimentswereperformedatleasttwice. mM CaCl and 20 (cid:4) M ZnCl . After incubation for 45 min at
+2 2
+SPR Data Analysis—K values were determined by kinetic 23°C,clotswereremovedandimmersedinbuffercontaining2
+d
+analysis of on- and off-rates of HRG binding to immobilized mMCaCl plus20(cid:4) MZnCl ,2mMCaCl plus10(cid:4) Mdiethyldi-
+2 2 2
+ligandsusingScrubber2version2.0a(Bio-LogicSoftwareCo., thiocarbamatetrihydrate,or2MNaClplus2mMEDTA.The
+Campbell,Australia)asdescribedpreviously(24,30).Forfur- fractionofclot-associated125I-HRGremainingatvarioustimes
+therassessmentofbinding,theamountofHRGboundatthe wasdetermined,andtimecourseswerefittoatwo-phaseexpo-
+equilibriumposition(Req)wasdeterminedusingtheLangmuir nentialdecaycurve(TableCurve,JandelScientific,SanRafael,
+1:1 binding model (BIAEvaluation software Version 3.2) and CA)(10).Experimentswererepeatedthreetimes.
+wasplottedagainstthetitrantconcentration.Molarstoichiom- Detection of HRG-Fibrinogen Complexes in Plasma—HRG-
+etries were determined as described in the BIAtechnology fibrinogen complexes in plasma were detected using a previ-
+handbook(BIAcore1000).Thecorrectionfactortoaccountfor ouslydescribedsandwichELISA(24)withsomemodifications.
+the orientation of the immobilized fibrinogen and fibrin was Briefly,100(cid:4)loffibrinogen-directedcaptureantibody(Affinity
+0.25,whichcorrespondsto25%oftheamountofimmobilized Biologicals)dilutedto20(cid:4)g/mlin50mMNaHCO ,pH9.6,was
+3
+fibrinaccessibletothe(cid:3)(cid:1)-peptide-directedIgGasdetermined added to wells of a 96-well Immunlon 4 HBX plate (Thermo
+inaseparatestudy(10).Thecorrectionfactorforimmobilized Scientific)andincubatedovernightat4°C.Toblocknonspe-
+(cid:3)(cid:1)-peptidewas0.7,whichcorrespondsto70%correctorienta- cificbinding,200(cid:4)lof10mg/mlbovineserumalbumin(Sigma)
+tionofpeptideaccessibletoananalyte(BIAcore). was added to each well and incubated fo r 1 h at 23°C.Wells
+Interaction of 125I-HRG with Fibrin Clots—In a series of werewashed3timeswith150(cid:4)lofphosphate-bufferedsaline
+microcentrifugetubes,(cid:3) /(cid:3) -or(cid:3) /(cid:3)(cid:1)-fibrinogen,inconcen- (PBS)containing10(cid:4) MZnCl and0.1%Tween20.Normaland
+A A A 2
+trations ranging from 0 to 1.25 (cid:4) M, was clotted with 10 nM HRG-deficient plasma samples were dialyzed against TBS to
+thrombin in the presence of 40 nM 125I-HRG as previously removecitrate,reconstitutedwith18(cid:4) MZnCl ,andthenseri-
+2
+described(30).Clotswereformedin20mMTris-HCland150 allydilutedupto1600-foldwithHBScontaining1%ovalbumin,
+mM NaCl, pH 7.4 (TBS), containing 0.005% Tween (TBS- 0.1%Tween20,2mMCaCl ,100nMhirudin(Behring),and18
+2
+Tween) and 2 mM CaCl and 20 (cid:4) M ZnCl or 10 (cid:4) M sodium (cid:4) MZnCl .Toprepareareferencecurve,HRG-fibrinogencom-
+2 2 2
+diethyldithiocarbamate trihydrate. The concentration of 125I- plexesweregeneratedbyincubatingvaryingconcentrationsof
+HRGboundtofibrinwascalculatedbysubtractingtheconcen- HRG (0–1.6 (cid:4)g/ml) with fibrinogen (0–0.8 (cid:4)g/ml) in a 2:1
+tration in the clot supernatant from the value obtained in molar ratio. 100 (cid:4)l of each of these mixtures or plasma was
+controlspreparedintheabsenceoffibrinogen.Plotsofbound added to wells and incubated fo r 2 h at 23°C.After three
+125I-HRGversusfibrinconcentrationwereanalyzedbynonlin- sequentialwasheswithPBScontainingZnCl ,HRG-fibrinogen
+2
+30316 JOURNALOFBIOLOGICALCHEMISTRY VOLUME286•NUMBER35•SEPTEMBER2,2011
+Downloaded
+from
+www.jbc.org
+at
+University
+of
+Toronto,
+on
+February
+21,
+2013

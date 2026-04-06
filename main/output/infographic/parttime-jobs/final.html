@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<style>
+* { margin: 0; padding: 0; }
+body {
+  width: 1080px;
+  height: 1440px;
+  background: url('bg_clean.png') no-repeat center center;
+  background-size: cover;
+  font-family: "PingFang SC", "Microsoft YaHei", "Helvetica Neue", Arial, sans-serif;
+  position: relative;
+  overflow: hidden;
+}
+.overlay {
+  width: 1080px;
+  height: 1440px;
+  position: absolute;
+  top: 0; left: 0;
+}
+.header {
+  position: absolute;
+  top: 40px;
+  left: 0; right: 0;
+  text-align: center;
+}
+.header h1 {
+  font-size: 52px;
+  font-weight: 900;
+  color: #1a1a2e;
+  letter-spacing: 4px;
+  text-shadow: 0 2px 8px rgba(255,255,255,0.9);
+}
+.cards {
+  position: absolute;
+  top: 160px;
+  left: 70px;
+  right: 70px;
+  bottom: 100px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 24px;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 28px 24px;
+  background: rgba(255,255,255,0.0);
+  border-radius: 16px;
+}
+.card-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 20px;
+  font-weight: 700;
+  padding: 6px 16px;
+  border-radius: 30px;
+  margin-bottom: 14px;
+  color: #fff;
+  width: fit-content;
+}
+.card:nth-child(1) .card-tag { background: #1565c0; }
+.card:nth-child(2) .card-tag { background: #2e7d32; }
+.card:nth-child(3) .card-tag { background: #e65100; }
+.card:nth-child(4) .card-tag { background: #6a1b9a; }
+
+.card-title {
+  font-size: 36px;
+  font-weight: 800;
+  color: #1a1a2e;
+  margin-bottom: 16px;
+  text-shadow: 0 1px 4px rgba(255,255,255,0.8);
+}
+.row {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+.row-label {
+  font-size: 15px;
+  font-weight: 600;
+  color: #555;
+  margin-bottom: 2px;
+}
+.row-value {
+  font-size: 18px;
+  color: #222;
+  line-height: 1.4;
+}
+.row-value.red { color: #c62828; font-weight: 700; }
+.footer {
+  position: absolute;
+  bottom: 30px;
+  left: 0; right: 0;
+  text-align: center;
+  font-size: 14px;
+  color: #aaa;
+  letter-spacing: 2px;
+}
+</style>
+</head>
+<body>
+<div class="overlay">
+  <div class="header">
+    <h1>兼职类型对比指南</h1>
+  </div>
+  <div class="cards">
+    <div class="card">
+      <div class="card-tag">⏰ 当天结算</div>
+      <div class="card-title">日结工</div>
+      <div class="row"><div class="row-label">结算</div><div class="row-value red">当天结算，立即到账</div></div>
+      <div class="row"><div class="row-label">优点</div><div class="row-value">资金回笼快，急用钱首选</div></div>
+      <div class="row"><div class="row-label">缺点</div><div class="row-value">无长期保障，稳定性差</div></div>
+      <div class="row"><div class="row-label">适合</div><div class="row-value">急需用钱、灵活就业者</div></div>
+    </div>
+    <div class="card">
+      <div class="card-tag">📅 每周结算</div>
+      <div class="card-title">周结工</div>
+      <div class="row"><div class="row-label">结算</div><div class="row-value red">每周结算，收入稳定</div></div>
+      <div class="row"><div class="row-label">优点</div><div class="row-value">稳定性较好，收入可预期</div></div>
+      <div class="row"><div class="row-label">缺点</div><div class="row-value">需等待一周才能到账</div></div>
+      <div class="row"><div class="row-label">适合</div><div class="row-value">需要稳定现金流、灵活安排时间者</div></div>
+    </div>
+    <div class="card">
+      <div class="card-tag">📆 月底结算</div>
+      <div class="card-title">月结工</div>
+      <div class="row"><div class="row-label">结算</div><div class="row-value red">月底统一结算</div></div>
+      <div class="row"><div class="row-label">优点</div><div class="row-value">便于长期规划，与正式工作接轨</div></div>
+      <div class="row"><div class="row-label">缺点</div><div class="row-value">需有短期积蓄支撑</div></div>
+      <div class="row"><div class="row-label">适合</div><div class="row-value">大学生、全职转兼职过渡者</div></div>
+    </div>
+    <div class="card">
+      <div class="card-tag">🏖️ 寒暑假</div>
+      <div class="card-title">寒暑假工</div>
+      <div class="row"><div class="row-label">结算</div><div class="row-value red">工作周期结束后结算</div></div>
+      <div class="row"><div class="row-label">优点</div><div class="row-value">薪资待遇较好，有完整工作经验</div></div>
+      <div class="row"><div class="row-label">缺点</div><div class="row-value">季节性强，机会有限</div></div>
+      <div class="row"><div class="row-label">适合</div><div class="row-value">学生群体、特定行业从业者</div></div>
+    </div>
+  </div>
+  <div class="footer">OpenClaw × baoyu-skills</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>兼职类型对比指南</title>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: "PingFang SC", "Microsoft YaHei", "Helvetica Neue", Arial, sans-serif;
+  background: #fff;
+  width: 900px;
+  padding: 40px;
+}
+.header {
+  text-align: center;
+  margin-bottom: 36px;
+}
+.header h1 {
+  font-size: 42px;
+  font-weight: 800;
+  color: #1a1a2e;
+  letter-spacing: 2px;
+}
+.header p {
+  font-size: 18px;
+  color: #888;
+  margin-top: 8px;
+}
+.cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+.card {
+  border-radius: 20px;
+  padding: 28px 24px;
+  position: relative;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+}
+.card:nth-child(1) { background: linear-gradient(135deg, #e3f2fd, #bbdefb); }
+.card:nth-child(2) { background: linear-gradient(135deg, #e8f5e9, #c8e6c9); }
+.card:nth-child(3) { background: linear-gradient(135deg, #fff3e0, #ffe0b2); }
+.card:nth-child(4) { background: linear-gradient(135deg, #f3e5f5, #e1bee7); }
+.card-tag {
+  display: inline-block;
+  font-size: 13px;
+  font-weight: 600;
+  padding: 4px 14px;
+  border-radius: 20px;
+  margin-bottom: 12px;
+}
+.card:nth-child(1) .card-tag { background: #1976d2; color: #fff; }
+.card:nth-child(2) .card-tag { background: #388e3c; color: #fff; }
+.card:nth-child(3) .card-tag { background: #f57c00; color: #fff; }
+.card:nth-child(4) .card-tag { background: #7b1fa2; color: #fff; }
+.card-title {
+  font-size: 28px;
+  font-weight: 700;
+  color: #1a1a2e;
+  margin-bottom: 14px;
+}
+.item {
+  display: flex;
+  margin-bottom: 8px;
+  font-size: 15px;
+  line-height: 1.5;
+}
+.item-label {
+  font-weight: 600;
+  color: #555;
+  width: 60px;
+  flex-shrink: 0;
+}
+.item-value {
+  color: #333;
+  flex: 1;
+}
+.item-value.highlight {
+  color: #d32f2f;
+  font-weight: 600;
+}
+.footer {
+  text-align: center;
+  margin-top: 30px;
+  font-size: 14px;
+  color: #aaa;
+}
+</style>
+</head>
+<body>
+<div class="header">
+  <h1>兼职类型对比指南</h1>
+  <p>找到最适合你的兼职方式</p>
+</div>
+<div class="cards">
+  <div class="card">
+    <div class="card-tag">⏰ 当天结算</div>
+    <div class="card-title">日结工</div>
+    <div class="item"><span class="item-label">结算</span><span class="item-value highlight">当天结算，立即到账</span></div>
+    <div class="item"><span class="item-label">优点</span><span class="item-value">资金回笼快，急用钱首选</span></div>
+    <div class="item"><span class="item-label">缺点</span><span class="item-value">无长期保障，稳定性差</span></div>
+    <div class="item"><span class="item-label">适合</span><span class="item-value">急需用钱、灵活就业者</span></div>
+  </div>
+  <div class="card">
+    <div class="card-tag">📅 每周结算</div>
+    <div class="card-title">周结工</div>
+    <div class="item"><span class="item-label">结算</span><span class="item-value highlight">每周结算，收入稳定</span></div>
+    <div class="item"><span class="item-label">优点</span><span class="item-value">稳定性较好，收入可预期</span></div>
+    <div class="item"><span class="item-label">缺点</span><span class="item-value">需等待一周才能到账</span></div>
+    <div class="item"><span class="item-label">适合</span><span class="item-value">需要稳定现金流、灵活安排时间者</span></div>
+  </div>
+  <div class="card">
+    <div class="card-tag">📆 月底结算</div>
+    <div class="card-title">月结工</div>
+    <div class="item"><span class="item-label">结算</span><span class="item-value highlight">月底统一结算</span></div>
+    <div class="item"><span class="item-label">优点</span><span class="item-value">便于长期规划，与正式工作接轨</span></div>
+    <div class="item"><span class="item-label">缺点</span><span class="item-value">需有短期积蓄支撑</span></div>
+    <div class="item"><span class="item-label">适合</span><span class="item-value">大学生、全职想转兼职过渡者</span></div>
+  </div>
+  <div class="card">
+    <div class="card-tag">🏖️ 寒暑假</div>
+    <div class="card-title">寒暑假工</div>
+    <div class="item"><span class="item-label">结算</span><span class="item-value highlight">工作周期结束后结算</span></div>
+    <div class="item"><span class="item-label">优点</span><span class="item-value">薪资待遇较好，有完整工作经验</span></div>
+    <div class="item"><span class="item-label">缺点</span><span class="item-value">季节性强，机会有限</span></div>
+    <div class="item"><span class="item-label">适合</span><span class="item-value">学生群体、特定行业从业者</span></div>
+  </div>
+</div>
+<div class="footer">来源：OpenClaw × baoyu-skills</div>
+</body>
+</html>

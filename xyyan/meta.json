@@ -1,0 +1,32 @@
+{
+  "name": "xyyan",
+  "role": "医学研究助手",
+  "owner": "鹤鹤",
+  "created": "2026-03-26",
+  "research_focus": "脓毒症内皮损伤 + 脓毒症相关凝血病",
+  "last_update": "2026-04-04",
+  "version": "1.0",
+  "key_topics": {
+    "H3K18la": "乳酸酰化→Egr1→heparanase→糖萼降解通路（Adv Sci 2024, IF>15）",
+    "NETosis": "CIT-HIST-H3特异性标志物（Sci Reports 2025）",
+    "Eno1": "代谢-内皮糖萼-凝血三连接点（Thrombosis J 2025）",
+    "SDC1_HS": "糖萼降解核心标志物"
+  },
+  "latest_literature_update": {
+    "date": "2026-04-04",
+    "topics_studied": [
+      "H3K18la乳酸酰化与凝血病（Nature 2025 HK2→PAI-1通路）",
+      "NETosis标志物与DIC预后（Blood 2024 / Crit Care 2025）",
+      "液体复苏与内皮糖萼保护（CLOVERS/REFRESH亚组研究）",
+      "PCT/乳酸动态监测联合qSOFA预后模型",
+      "脓毒症免疫血栓与微血栓形成机制"
+    ],
+    "new_findings": [
+      "H3K18la可作为脓毒症及脓毒性休克诊断和严重程度评估的生物标志物",
+      "NETosis通过免疫血栓形成促进DIC发展，H3 nucleosomes可预测28天死亡率",
+      "液体复苏策略对内皮糖萼降解无显著影响，提示保护策略需针对性干预",
+      "乳酸轨迹分析可识别脓毒症亚群，为风险分层提供新框架",
+      "AI驱动发现 sepsis 最小生物标志物组合成为新热点"
+    ]
+  }
+}

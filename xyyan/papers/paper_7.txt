@@ -1,0 +1,224 @@
+
+--- Page 1 ---
+Biochemistry 1997, 36, 6653-6662 6653
+Histidine-Rich Glycoprotein Binds to Human IgG and C1q and Inhibits the
+Formation of Insoluble Immune Complexes
+Nick N. Gorgani, Christopher R. Parish, Simon B. Easterbrook Smith, and Joseph G. Altin*
+DiVision of Immunology and Cell Biology, The John Curtin School of Medical Research, Australian National UniVersity,
+Canberra, ACT 2601, Australia
+ReceiVed October 14, 1996; ReVised Manuscript ReceiVed March 10, 1997X
+ABSTRACT: PurificationofthecomplementcomponentC1qfromhumanserumusinganestablishedmethod
+resulted in the copurification of two 30 kDa proteins with an N-terminal sequence identical to human
+histidine-richglycoprotein(HRG). Therefore,toexplorethepossibilitythatHRGcaninteractwithC1q,
+we examined the ability of 81 kDa (native) and the 30 kDa proteins (presumably proteolytic N-terminal
+fragments of HRG) to bind to C1q, using both ELISA and optical biosensor techniques. Both forms of
+HRG were found to bind to the human complement component C1q and also to purified human and
+rabbit IgG by ELISA. Kinetic analyses of the HRG-C1q and HRG-IgG interactions using the IAsys
+biosensorindicatetwodistinctbindingsiteswithaffinitiesK 0.78(cid:2)10-8MandK 3.73(cid:2)10-8Mfor
+d1 d2
+C1q,andonebindingsitewithaffinityK 8.5(cid:2)10-8MforIgG. Moreover,thefactthatbothnativeand
+d
+30kDaHRGbindtoC1qandtoIgGsuggeststhattheIgGandC1qbindingregionsonHRGarelocated
+in the 30 kDa N-terminal region of the HRG molecule. The Fab region of IgG is likely to be involved
+in the HRG-IgG interaction since HRG also bound to F(ab¢) fragments with an affinity similar to that
+2
+seenwiththecompleteIgGmolecule. Interestingly,thebindingbetweenHRGandIgGwassignificantly
+potentiated (K reduced from 85.0 to 18.9 nM) by the presence of physiological concentrations of Zn2+
+d
+(20 (cid:237)M). Conversely, the presence of Zn2+ weakened the binding of HRG to C1q (K increased from
+d
+7.80 to 29.3 nM). Modulation of these interactions by other divalent metal cations was less effective
+with relative potencies being Zn2+ > Ni2+ > Cu2+. An examination of the effect of native and 30 kDa
+HRG on the formation of insoluble immune complexes (IIC) between ovalbumin and polyclonal rabbit
+anti-ovalbuminIgGrevealedthatphysiologicalconcentrationsofHRGcanmarkedlyinhibitIICformation
+in Vitro. The results show that human HRG binds to C1q and to IgG in a Zn2+-modulated fashion, and
+that HRG can regulate the formation of IIC in Vitro, thus indicating a new functional role for HRG in
+ViVo.
+It is well established that certain autoimmune diseases, both inhibit the formation of IIC and promote their solubi-
+suchassystemiclupuserythematosus(SLE)andrheumatoid lization (Anton et al., 1994; Schifferli, 1987; Takata et al.,
+arthritis(RA),areassociatedwiththeproductionofautoan- 1984). Incontrast,C1q(aconstituentoftheC1component
+tibodies (Mountz et al., 1994). Moreover, in Vitro studies ofcomplement)isreportedtoenhancetheformationofIIC
+haveshownthatautoantibodiescanbecross-linkedwiththeir bybindingtoIgGmoleculesviatheC(cid:231)2domain(Burtonet
+cognateantigenstoforminsolubleimmunecomplexes(IIC) al.,1980)andmayleadtothecross-linkingofIgGmolecules
+(Sittampalam & Wilson, 1984a), which can precipitate in (Geronskietal.,1985;Easterbrook-Smithetal.,1988). The
+target tissues (e.g., joint synovial membrane) and lead to a interaction of C1q with the Fc region of IgG molecules in
+lack of nutrient transport and consequent tissue injury. immune complexes may also activate the complement
+Evidencesuggeststhattheeffectiveclearanceofcirculating cascade by the classical pathway (Schifferli, 1987). In
+immune complexes is necessary to limit immune complex- addition, C1q is reported to bind to specific receptors on
+mediatedtissueinjury(Charlesworthetal.,1982). Protective normal endothelial cells through its collagen-like fragment
+measuresmayincludemechanismswhichinhibitIICforma- and to act as an Fc receptor for circulating IgG immune
+tion,aswellasthosewhichpromotesolubilizationofformed complexes (Zhang et al., 1986). In contrast, studies on the
+IIC. anti-opsonic effect of serum suggest that C1q inhibits the
+EvidencesuggeststhatthecomplementcomponentsC3b interactionbetweenIgGandtheFcreceptorsonneutrophils
+andC1qcanmodulatetheformationofIIC,inVitro. Upon (Hakansson et al., 1982).
+activation of the complement cascade, the generation of
+InordertocomparetheeffectsofrabbitandhumanC1q
+complementC3banditscovalentbindingtotheFc(C(cid:231)2or
+ontheformationofIICbetweenovalbuminandrabbitanti-
+hingedomains)and/orFabportionoftheIgGmoleculemay ovalbumin IgG in Vitro, we recently purified rabbit and
+human C1q using an established method. During these
+*TowhomcorrespondenceshouldbeaddressedattheDivisionof studies,twoproteinswithanN-terminalsequenceidentical
+Biochemistry and Molecular Biology, The Faculty of Science, Aus- to histidine-rich glycoprotein (HRG) copurified with C1q
+tralian National University, Canberra, ACT 0200, Australia. Phone: (Gorganietal.,unpublishedobservation),suggestingthatC1q
+61 (6) 249 4495. FAX: 61 (6) 249 0313. E-mail: Joseph.Altin@
+mayformacomplexwiththisprotein. Preliminarydataalso
+anu.edu.au.
+XAbstractpublishedinAdVanceACSAbstracts,May1,1997. suggestedthatHRGmayassociatewithIgGmolecules.HRG
+S0006-2960(96)02573-1 CCC: $14.00 © 1997 American Chemical Society
+--- Page 2 ---
+6654 Biochemistry, Vol. 36, No. 22, 1997 Gorgani et al.
+isa81kDaproteinpresentinhumanplasmaataconcentra- mM sodium phosphate (pH 6.8) containing 1 mM EDTA
+tion of 150 (cid:237)g/mL, and was first described by Heimburger and 0.5 M NaCl (loading buffer). The plasma was mixed
+et al. (1972). The protein has since been isolated from the with EDTA and NaCl at the indicated final concentrations
+plasma of other species such as mouse, rabbit, cattle, and asintheloadingbufferandwith4-(2-aminoethyl)benzene-
+chicken. In Vitro studies have implicated HRG in the sulfonylfluoridehydrochloride(AEBSF)at100(cid:237)g/mLand
+divalentmetalionbindingcomponentofserum(Guthans& aprotinin(atrypsininhibitor)at2(cid:237)g/mL. Theplasmawas
+Morgan,1982),regulationofthecoagulationcascade(Leung passedthroughtheequilibratedcolumn,andunboundprotein
+etal.,1984;Leung,1986),regulationofgrowthfactoraction was removed by extensive washing of the column with the
+(Brown&Parish,1994),andregulationofimmunefunction loading buffer. Bound HRG was then eluted from the
+(Rylatt et al., 1981; Saigo et al., 1990; Chang et al., 1992; columnusingthesamebuffercontaining2MNaCl. Since
+Olsenetal.,1996). Itsprecisephysiologicalrole,however, ourresultsindicatedthat30kDaHRGcopurifieswithC1q,
+remains to be determined. the C1q purification procedure also was used to purify the
+In this study, we used an enzyme-linked immunosorbent N-terminal30kDafragmentofHRG. Rabbitanti-ovalbumin
+assay (ELISA) and the IAsys resonant mirror biosensor to IgG was purified from immunized rabbit serum by Na 2 SO 4
+study the binding of human HRG to human C1q and IgG, precipitation and ion-exchange chromatography using a
+andtodeterminethekineticconstantsfortheseinteractions. DEAE-Sephacel column. The IgG was collected from the
+Inaddition,weusedlightscatteringtechniques(Easterbrook- break-through peak as described (Easterbrook-Smith et al.,
+Smith et al., 1988) to examine the effects of human HRG 1988).
+and C1q on the formation of IIC between ovalbumin and SDS-PAGE. The purity of HRG preparations was
+polyclonalrabbitanti-ovalbuminIgG. Theresultsshowthat
+checkedbySDS-PAGEanalysiswhichwascarriedoutas
+physiological concentrations of HRG bind strongly to C1q described (Laemmli, 1970). Aliquots of HRG were boiled
+and to IgG, and inhibit the formation of IIC in Vitro, in either reduced or nonreduced sample buffer and electro-
+suggestingapreviouslyundescribedfunctionalroleforHRG. phoresedona12.5%acrylamidegel. Afterelectrophoresis,
+protein bands were identified by Coomassie Brilliant blue
+MATERIALS AND METHODS staining of the gel. The purity of the HRG preparations as
+judged by the intensity of the contaminating bands was
+Reagents. Human IgG, human C1q, bovine serum albu- always >95%.
+min(BSA,fractionV),ovalbumin(gradeV),andpolyoxy-
+Formation of Insoluble Immune Complexes. The forma-
+ethylenesorbitanmonolaurate(TWEEN-20)werepurchased
+tion of insoluble ovalbumin/anti-ovalbumin IgG immune
+fromSigmaChemicalCo.,St.Louis,MO. (Carboxymethyl)-
+complexes was carried out by incubating rabbit polyclonal
+dextran cuvettes for the IAsys biosensor, EDC [1-ethyl-3-
+anti-ovalbumin IgG in 0.01 M phosphate, pH 7.4, 0.15 M
+[3-(dimethylamino)propyl]carbodiimide], NHS (N-hydrox-
+NaCl (PBS) containing 3 mM NaN and different amounts
+3
+ysuccinimide),andethanolaminewerepurchasedfromFisons
+of HRG and/or C1q for 5 min in a quartz reaction vessel
+Applied Sensor Technology, Cambridge, U.K. The homo- (final volume 1 mL) maintained at 37 (cid:176) C. The formation
+bifunctional reagent bis(sulfosuccinimidyl) suberate (BS3),
+of IIC was initiated by the addition of ovalbumin at an
+sulfosuccinimidyl 6-(biotinamido)hexanoate (NHS-LC-Bi-
+equivalentantigen:antibodyratio. Sincetheabsorbancedue
+otin),andgentleAg/Abelutionbuffer(acuvetteregeneration
+to light scattering of a suspension of particles is related to
+buffer gentle to the dextran matrix) were purchased from
+the average size of the particles, the formation of IIC was
+Pierce, Rockford, IL.
+monitoredbymeasuringtheabsorbanceat350nmofsamples
+Purification of Proteins. Human C1q was purified from using a Varian Cary-1 spectrophotometer as described
+humanserumusingBiorex-70ion-exchangechromatography (Easterbrook-Smith et al., 1988).
+followed by Sephacryl S-300 gel filtration as previously ELISA Assays. HRG (125 nM) was coupled for 1 h to
+described (Tenner et al., 1981). Reduced SDS-PAGE Maxi-sorb ELISA trays in 0.1 M NaHCO buffer (pH 9.0).
+3
+analysis demonstrated that purification of C1q by this Thetrayswereblockedwith1%(w/v)BSAinPBS(PBS-
+procedure resulted in the copurification of two proteins of BSA) and then incubated with C1q in PBS-BSA for 1 h.
+32 and 34 kDa. The proteins were electrophoretically Bound C1q was detected using a monoclonal mouse anti-
+transferred onto a Problott PVDF membrane, and after C1qantibody(BUS-1)followedbyincubationwithaHRP-
+staining with Coomassie Brilliant Blue, the 32 and 34 kDa conjugatedsheepanti-mouseantibodyandcolordevelopment
+bandswereexcisedandsubjectedtoN-terminalsequencing using o-phenylenediamine dihydrochloride (2.5 mg/mL) in
+using an Applied Biosystems Inc. 473A model sequencer. a 0.05 M sodium citrate, 0.1 M sodium phosphate buffer
+Native human HRG of molecular mass 81 kDa was (pH 5.0) containing 0.03% (v/v) hydrogen peroxide as
+purified from fresh human plasma by equilibrating a phos- substrate. The binding of C1q was dose-dependent in the
+phocellulosecolumnwithloadingbuffercomprising10mM concentration range tested (15-125 nM). Under these
+sodium phosphate (pH 6.8) containing 1 mM dithiothreitol conditions,nonspecificbindingwasassessedusingthemouse
+(DTT),1mMethylenediaminetetraaceticacid(EDTA),and mAbanti-DNP-9(amAbto2,4-dinitrophenyl)asacontrol.
+0.5 M NaCl. DTT, EDTA, and NaCl were added to the Nosignificantlevelofnonspecificbindingcouldbedetected
+plasma at the indicated final concentrations as in loading using the control mAb, indicating that the signal observed
+buffer before the plasma was passed through the column. using the BUS-1 mAb reflects C1q specific binding.
+The column was extensively washed with loading buffer, AsimilarELISAassaywasalsousedtostudythebinding
+andboundHRGwaselutedusingthesamebuffercontaining of rabbit anti-ovalbumin IgG to immobilized HRG. HRG-
+2MNaClasdescribedpreviously(Rylattetal.,1981).For coupledMaxi-sorbELISAtrayswereincubatedwithrabbit
+some experiments (for interactions between HRG and IgG(0.03-2(cid:237)M)inPBS-BSAovernightatroomtemper-
+immobilized C1q), HRG was purified using the loading ature. Bound IgG was detected using a HRP-conjugated
+bufferwithoutDTT. Thecolumnwasequilibratedwith10 polyclonal goat anti-rabbit antibody followed by color
+--- Page 3 ---
+HRG Inhibits Immune Complex Formation Biochemistry, Vol. 36, No. 22, 1997 6655
+development. Parallel experiments in which a HRP- was removed by washing extensively (five cycles of con-
+conjugated polyclonal goat anti-sheep antibody was used centrationanddilution)inaCentricon10microconcentrator
+instead of HRP-conjugated goat anti-rabbit antibody, or in (Amicon,Inc.,Beverly,MA),beforestoringthebiotinylated
+which BSA was coated onto the wells instead of HRG, proteins at -20 (cid:176) C in small aliquots until use.
+indicated that the binding was specific for HRG. Biotinylatedproteins(e.g.,biotinylatedHRGorbiotinyl-
+DeterminationofBindingConstantsUsingtheBiosensor. ated IgG) were coupled to the immobilized streptavidin.
+AnIAsysresonantmirrorbiosensor(FisonsAppliedSensor Biotinylated protein (50 (cid:237)g/mL) in PBS-T (e.g., IgG or
+Technology, Cambridge, U.K.) (Cush et al., 1993; Buckle HRG)wasaddedtothestreptavidin-coupleddextrancuvette
+etal.,1993)witha(carboxymethyl)dextransensingcuvette equilibrated in PBS-T, and allowed to bind to the im-
+wasusedtodeterminethekineticconstantsandaffinitiesof mobilized streptavidin for 5 min. Nonspecifically bound
+the HRG-C1q and HRG-IgG interactions. Except where biotinylated protein was removed by washing 3 times with
+indicated,allexperimentswereperformedinPBScontaining PBS-T, followed by three washes with 10 mM HCl for 2
+0.05%Tween-20and10mg/mLBSA(PBS-BSA-T)and min (for three cycles).
+atatemperatureof25(cid:176) C. TheBSA(1%,w/v)wasincluded (c) Binding of Protein Ligands to Proteins on the Bio-
+in the buffer to reduce nonspecific binding. The reaction sensor Surface. Before immobilization of the biotinylated
+vessel was stirred continuously by the aid of a propeller. proteins on the streptavidin-dextran, nonspecific binding
+Bindingwasmeasuredat2sintervals,andthereadoutfrom betweentheproteinligandsandthestreptavidin-dextranwas
+the biosensor was in units of arc-seconds. Each binding assessedbytheadditionofdifferentamountsoftheprotein
+reaction was routinely followed for 5 min. All binding ligands in PBS-BSA-T to the cuvette. Under these
+experiments were performed in triplicate. The “Fast Fit” conditions,nosignificantlevelofnonspecificbindingofany
+programsuppliedbyFisonswasusedtoevaluatethekinetic of the protein ligands used in this study could be detected.
+constants (George et al., 1995). Preliminary experiments were performed to establish the
+(a)CouplingofStreptaVidinorC1qtotheDextranMatrix. concentrationrangeofeachproteinligandsuitableforkinetic
+StreptavidinorC1qwascoupledvia(cid:15)-aminogroupstothe analysis. PBS-Twasaddedtotheprotein-coupledcuvette
+(carboxymethyl)dextran sensing surface of the IAsys bio- toestablishabaseline(5min),andtheproteinligandtobe
+sensor cuvette using 1-ethyl-3-[3-(dimethylamino)propyl]- studiedwasthenaddedinPBS-Tatdifferentconcentrations.
+carbodiimideandN-hydroxysuccinimide(EDC/NHS)(Cush Binding of the ligand was studied by monitoring the
+et al., 1993; Buckle et al., 1993). This was done by associationphasefor5min. Subsequently,thecuvettewas
+equilibrating the cuvette in PBS buffer containing 0.05% washed with PBS-T, and the dissociation phase was
+Tween-20 (PBS-T) and then reacting the cuvette with a monitored for 5 min. Bound ligand was removed (cuvette
+mixtureofEDC/NHSfor7min. UnreactedEDC/NHSwas regeneration) by washing with either 10 mM HCl or the
+washed away with PBS-T followed by three washes with gentleAg/Abelutionbuffer(Pierce). Thebaselinewasthen
+0.01Msodiumacetatebuffer(forimmobilizationofstrept- reestablished after washing the cuvette with PBS-T. As
+avidin,thepHwasadjustedto4.5,andforC1qimmobiliza- previously,wefoundnoevidencethatthe10mMHClwash
+tion, the pH was adjusted to 5.0 using 2 M acetic acid). significantly affected the ability of the proteins to interact
+Streptavidin(50(cid:237)g/mL)orC1q(10(cid:237)g/mL)intheindicated under these conditions.
+acetatebufferwasaddedtothecuvetteandallowedtoreact (d) EValuation of the Kinetic Constants. The IAsys
+with the activated carboxyl groups for 5 min. Uncoupled biosensor was provided with a digital DECpc 450D LP
+2
+streptavidin or C1q was removed by washing with the computer. Dataobtainedwiththebiosensorweretransferred
+apppropriate acetate buffer, and unreacted succinimidyl directly to the “Fast Fit” program (Fison Applied Sensor
+groupswereblockedbyincubatingwithethanolamine(1M, Technology). This program uses an iterative curve-fitting
+pH 8.5) for 2 min. The cuvette was washed 3 times with to derive the observed rate constant and the maximum
+theappropriateacetatebuffer,andthenwashedwithPBS-T responseatequilibriumduetoligandbindingattheparticular
+followed by a wash with 10 mM HCl to remove any ligand concentration. The association of a soluble ligand
+noncovalentlyboundprotein. Consistentwithstudiesusing with an immobilized macromolecule can be described by
+other proteins [e.g., see George et al. (1995)], under these thepseudo-first-orderequationR t )R 0 +E(1-e-k obs t),when
+conditionstherewasnoevidencethatthe10mMHClwash onlyonebindingsiteisavailablefortheligand(Cushetal.,
+affectedtheabilityoftheimmobilizedC1qtointeractwith 1993). Inthisequation,R istheIAsysresponseattimetin
+t
+soluble HRG since binding constants did not change unitsofarc-seconds(thisisproportionaltotheconcentration
+significantly after repeated washing of the cuvette with 10 ofligand-proteincomplexattimet,R (cid:181) [ligand-protein]),
+t t
+mM HCl, even when the first HCl wash of the cuvette was R istheIAsysresponseattimet)0inunitsofarc-seconds
+0
+omitted to avoid possible denaturation of the immobilized induced by the addition of the ligand solution to the buffer
+C1q. Biosensorresponsesof(cid:24)500arc-sfortheimmobilized in the cuvette (this represents a net displacement of the
+streptavidin and 1800 arc-s for immobilized C1q were biosensorsignal,anditsvalueisdeterminedbytheFastFit
+observed. According to the relationship provided by the program for each binding curve analyzed, R (cid:181) [ligand-
+0
+manufacturer,theseconditionsresultedinthecouplingof3 protein] ),EisthemaximumIAsysresponseinunitsofarc-
+0
+ng of streptavidin and 11 ng of C1q per mm2 of dextran seconds due to bound ligand at equilibrium (E (cid:181) [ligand-
+surface. protein]¥ ),andK
+obs
+istheobservedrateconstant(termedk
+on
+(b)BiotinylationofProteinsandBindingtotheBiosensor inFastFit)givenbyk )k +k [ligand](Georgeetal.,
+obs off on
+Surface. The proteins to be biotinylated were dissolved in 1995). For two binding sites, the “Fast Fit” program uses
+PBS at a concentration of 1 mg/mL and then reacted with the equation R t ) R 0 + E 1 (1 - e-k obs1 t) + E 2 (1 - e-k obs2 t) to
+NHS-LC-biotin(1mg/mL)for30minatroomtemperature. derive the kinetic constants (Cush et al., 1993). In this
+ThereactionwasstoppedbytheadditionofTrisbuffer(pH equation,E andE arethemaximumresponseatequilibrium
+1 2
+8.0) to a final concentration of 100 mM. Unreacted biotin due to binding of the ligand to the high- and low-affinity

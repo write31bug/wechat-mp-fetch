@@ -1,0 +1,230 @@
+
+--- Page 1 ---
+REGULAR ARTICLE
+Polyphosphate-induced thrombosis in mice is factor XII dependent and is
+attenuated by histidine-rich glycoprotein
+RidaA.Malik,1,2,*JiZhou,1,3,*JamesC. Fredenburgh,1,3 Tammy K. Truong,1,3 JeffR.Crosby,4 AlexeyS.Revenko,4
+andJeffreyI. Weitz1,2,3,5
+1ThrombosisandAtherosclerosisResearchInstitute,Hamilton,ON,Canada;2DepartmentofMedicalSciences;3DepartmentofMedicine,McMasterUniversity,Hamilton,ON,
+Canada;4IonisPharmaceuticalsInc.,Carlsbad,CA;and5DepartmentofBiochemistryandBiomedicalSciences,McMasterUniversity,Hamilton,ON,Canada
+Histidine-richglycoprotein(HRG)isanabundantplasmaproteinthatbindsfactorXIIa
+KeyPoints
+(FXIIa)andinhibitsfactorXII(FXII)autoactivationandFXIIa-mediatedactivationofFXI.
+(cid:1) HRG attenuates
+Polyphosphate(polyP),apotentprocoagulantreleasedfromactivatedplatelets,mayserve
+polyP-induced throm-
+asaphysiologicalactivatorofthecontactsystem.Previously,weshowedthatHRGbinds
+bin generation.
+DNAandneutralizesitsprocoagulantactivity.Consequently,ourgoalwastodetermine
+(cid:1)Thrombosisinducedin
+whetherthecapacityofHRGtobindpolyanionsenablesittoregulatepolyP-induced
+mice by intraperitoneal
+thrombosis.Inaplate-basedassay,immobilizedpolyPboundHRG,FXII,andFXIIainazinc-
+injection of polyP is
+dependentmanner.BasalandpolyP-inducedthrombingenerationwasgreaterinplasma
+mediated by factor XII
+fromHRG-deficientmicethaninplasmafromwild-typemice.Intraperitonealinjectionof
+and attenuated by
+polyPshortenedtheactivatedpartialthromboplastintime,enhancedthrombingeneration,
+HRG.
+increasedthrombin-antithrombinlevels,reducedlungperfusion,andpromotedpulmo-
+naryfibrindepositiontoagreaterextentinHRG-deficientmicethaninwild-typemice,
+effectsthatwereabrogatedwithFXIIknockdown.HRGthusattenuatestheprocoagulant
+andprothromboticeffectsofpolyPinanFXII-dependentmannerbymodulatingthecontact
+system.
+Introduction
+ThecontactsystemisinitiatedwhenfactorXII(FXII)bindstonegativelychargedsurfacesandundergoes
+autoactivation.1-3SuchsurfacesincludethenaturallyoccurringpolyanionsDNA,RNA,andinorganicpoly-
+phosphates (polyPs).2,4 DNAand RNAarereleased from activated ordamaged cells,whereaspolyP is
+releasedfromactivatedplatelets.2,4,5ActivationofFXIIbypolyanionspropagatesaprocoagulantresponse
+thatpromotesthrombingenerationandfibrinformationandleadstothrombosis.2,4
+polyPisalinearpolymerofinorganicphosphateunitsheldtogetherbyphosphoanhydridebonds.5,6polyPis
+abundantinnatureandispresentinprokaryotes,lowereukaryotes,andvertebrates.7Inmammals,polyP
+secretedfromthedensegranulesofactivatedplateletsiscomposedof60to100phosphateunits.8,9In
+additiontopromotingFXIIautoactivation,plateletpolyPenhancestheactivationoffactorXIandfactorV
+bythrombinandincreasesfibrinclotstability,therebyattenuatingfibrindegradation.8,10,11Therefore,polyP
+isanimportantcontributortotheprocoagulanteffectofplatelets.
+Histidine-richglycoprotein(HRG)isa75kDaglycoproteinthatissynthesizedintheliverandcirculatesin
+plasmaataconcentrationof1to3mM.12HRGhasbeenimplicatedinavarietyofbiologicalprocesses,
+including angiogenesis, immunity, and coagulation.12-15 HRG levels are reduced in pregnancy and with
+Submitted22February2021;accepted20May2021;prepublishedonlineonBlood Requestsfordetailsaboutthematerials,methods,anddatasetsmaybesubmittedto
+AdvancesFirstEdition2September2021;finalversionpublishedonline17September thecorrespondingauthor(JeffreyI.Weitz;e-mail:weitzj@taari.ca).
+2021.DOI10.1182/bloodadvances.2021004567. Thefull-textversionofthisarticlecontainsadatasupplement.
+*R.A.M.andJ.Z.contributedequally. (cid:1)2021byTheAmericanSocietyofHematology
+3540 28SEPTEMBER2021(cid:129)VOLUME5,NUMBER18
+--- Page 2 ---
+sepsis,indicatingthatitisanegativeacute-phasereactantprotein.16 Data were analyzed by using nonlinear regression of a rectangular
+Previously,weshowedthatHRGdownregulatesthecontactsystem hyperbola using TableCurve 2D (Jandel Scientific, Systat Software
+by binding factor XIIa (FXIIa) with high affinity and attenuating FXII Inc.,SanJose,CA)todeterminethedissociationconstants(K d ).
+autoactivation and FXIIa-mediated activation of FXI.17 HRG binds
+Mice
+FXIIaatasitedistinctfromtheactivesitebecauseFXIIachromogenic
+activityanditsinhibitionbycorntrypsininhibitor(CTI)areunaffected. HRG
+2/2
+mice were maintained on a pure C57BL/6 (The Jackson
+The importance of this regulation is highlighted by the finding that Laboratory, Bar Harbor, ME) background after .10 generations of
+FeCl -inducedarterialthrombosisisacceleratedinmicedeficientin backcrossing.Micewerehousedinmicro-isolatorcagesexposedto
+3
+HRG compared with that in wild-type mice.18 These observations 12-hour light-dark cycles and had free access to food and water.
+suggestthatHRGservesasamolecularbrakeforthecontactsystem. Bloodwascollectedandplasmawaspreparedasdescribedinthe
+supplemental Methods. Age- and weight-matched male mice were
+BecauseHRGbindsDNAandRNAandattenuatestheirprocoagu- usedforallexperiments.Allanimalutilizationprotocolswereapproved
+lantactivity,18wehypothesizedthatHRGcouldalsobindpolyPand
+by the Animal Research Ethics Board at McMaster University, and
+attenuate its procoagulant activity. To test this hypothesis, we mea- studies were performed in accordance with the Canadian Council
+suredtheaffinityofHRGforpolyP,examinedtheeffectofHRGon
+onAnimalCareguidelines.
+theprocoagulantactivityofpolyPinvitro,andcomparedtheprothrom-
+botic effects of polyP in HRG-deficient and wild-type mice with or FXIIwasknockeddowninwild-typeandHRG
+2/2
+micewithaliver-
+directed, mouse-specific FXII–antisense oligonucleotide (ASO),
+withoutFXIIknockdown.
+whichwasgenerouslyprovidedbyIonisPharmaceuticals(Carlsbad,
+CA),aspreviouslydescribed,withsomemodifications.20Briefly,the
+Methods FXII-ASOwasadministeredsubcutaneouslyatadoseof20mg/kg
+twiceweeklyfor4weeks,andtheextentofknockdownwasassessed
+Materials by comparing hepatic FXII messenger RNA and plasma FXII levels
+beforeandafterASOadministration,asdescribedinthesupplemen-
+Adetaileddescriptionofthestudymaterialsisprovidedinthesupple-
+mental Methods. Short-chain polyP of (cid:3)70 phosphate units gener- talMethods.Micewerestudiedafter4weeksofASOtreatment.
+ously provided by Thomas Staffel (70.5 CAREPHOS 244, BK polyP-inducedthrombosismodel
+Giulini,GmbH,Ladenburg,Germany),wasdissolvedin20mMN-2-
+hydroxyethylpiperazine-N9-2-ethanesulfonic acid (HEPES), pH 7.4 HRG
+2/2
+andwild-typemicewereanesthetizedbyusingacombina-
+tion of oxygen (0.5 L/min) and isoflurane (1-4%) delivered by face
+for the in vitro studies and in 0.9% sterile saline for in vivo without
+mask,andtheskinoftheabdomenwasasepticallyprepared.polyP
+addedcalcium.
+(100 mg/kg in saline) or an equivalent volume of saline was given
+with an intraperitoneal (IP) injection using an insulin syringe fitted
+Affinity ofpolyP for HRG,FXII,and FXIIa
+witha30Gneedle.Micewereeuthanizedviacervicaldislocationat
+Anenzyme-linkedimmunosorbentassaywasusedtodeterminethe varyingtimepoints.Bloodwascollectedviapunctureoftheinferior
+affinityofHRG,FXII,andFXIIaforimmobilizedbiotinylated(b)-polyP.19 venacavaandplasmawaspreparedasdescribedinthesupplemental
+polyP of (cid:3)70phosphate units was biotinylated as described inthe Methods.Lungs,liver,heart,andkidneyswereremovedforhistologic
+supplementalMethods.Inthewellsofa96-wellCostarhigh-binding analysisasdetailedinthesupplementalMethods.
+enzyme-linked immunosorbent assay plate (Corning, Tewksbury,
+Coagulationtestingandthrombingenerationassays
+MA),10mg/mLstreptavidinin50mMsodiumcarbonatebuffer,pH
+9.6 wasincubated overnightat4(cid:4)C.Wells werethenblocked with ToevaluatetheimpactofpolyPandHRGonclottinginhumanand
+phosphate-bufferedsaline,pH7.4containing3%bovineserumalbu- murineplasma,clottingassayswereconductedasdescribedinthe
+min (BSA) for 90 minutes at 23(cid:4)C and then washed 3 times with supplementalMethods.
+washbufferconsistingof20mMTris-HCl,150mMNaCl,pH7.4con- Tomonitorthrombingeneration,40mLofmouseplasmawasincu-
+taining0.01%Tween20.Aftertheadditionof10mg/mL(100mM) bated with 15 mM of phosphatidylcholine-phosphatidylserine (3:1
+b-polyPtoeachwell,theplatewasincubatedovernightat4(cid:4)C,and mol:mol) vesicles (PCPS) for 10 minutes at 37(cid:4)C before initiating
+wells were washed 3 times. To the wells, varying concentrations of thrombin generation by addition of 50 mL of a solution containing
+HRG,FXII,orFXIIawereaddedin20mMHEPES,150mMNaCl, 15 mM CaCl and 1 mM Z-Gly-Gly-Arg-AMC. Substrate hydrolysis
+2
+pH 7.4 containing 1% BSA and 0.05% Tween 20 in the absence was monitored by using a SpectraMax M3 plate reader (Molecular
+orpresenceof6mMZnCl .Afterincubationfor2hoursat23(cid:4)C,wells Devices) for 90 minutes at excitation and emission wavelengths of
+2
+werewashed3times.BoundHRGandBSAweredetectedwitha 360 nm and 460 nm, respectively. Thrombin generation profiles
+1:200dilutionofperoxidase-labeledsheepanti-humanHRGantibody, wereanalyzedbyusingTechnothrombinTGAsoftware(Technoclone,
+whereasboundFXIIandFXIIaweredetectedwitha1:100dilutionof Vienna,Austria).Todeterminethefunctionalconcentrationof polyP
+peroxidase-labeledgoatanti-humanFXIIantibody.Afterincubationfor absorbedafterIPinjection,peakthrombinlevelsinplasmameasured
+2hoursat23(cid:4)Cand3washes,0.4mg/mLo-phenylenediaminedihy- atvarioustimepointswerecomparedwithastandardcurveproduced
+byaddingknownconcentrationsofpolyPtopooledplasmafromwild-
+drochlorideinsubstratebuffer(50mMcitricacidand50mMdiso-
+typeorHRG
+2/2
+mice.
+dium phosphate, pH 5.0), containing 30% H O was added to
+2 2
+each well. Reactions were stopped after 10 to 15 minutes with ToconfirmthatpolyPwasresponsiblefortheprocoagulanteffects,
+0.83MH SO ,andabsorbancewasmeasuredat490nmbyusing plasma from wild-type or HRG 2/2 mice treated with IP polyP was
+2 4
+aSpectraMaxM3platereader(MolecularDevices,SanJose,CA). incubated with 0 to 20 U/mL of calf intestinal alkaline phosphatase
+28SEPTEMBER2021(cid:129)VOLUME5,NUMBER18 HRGATTENUATESpolyP-INDUCEDTHROMBOSIS 3541
+--- Page 3 ---
+0 100 200 300 400 500
+Concentration (nM)
+(Promega, Madison, WI) for 10 minutes at 37(cid:4)C before measuring opened,andtheremainingdyewasflushedfromtherightventricle
+clottingtimesandthrombingeneration. byinjectionof2mLsalineover1minutebyusingthesyringepump.
+Thelungsandheartwerecollected,rinsedwithwaterfor1minute,
+and then imaged at standardized exposure settings with a white
+Evansblue dyelung perfusion
+background. After weighing each lung, Evans blue dye was
+In one-half of the mice, Evans blue dye was used to assess lung extracted by incubating the lungs in formamide overnight at
+perfusion 1 hour after IP injection of polyP or saline. Briefly, 200 55(cid:4)C.21,22 The absorbance of the supernatants was then deter-
+mL of 1% sterile-filtered Evans blue dye solution was injected mined at 610 nm and compared with that of known amounts of
+intotherightventricleover30secondsusingasyringepump(Har- dye to calculate the concentration of dye extracted per milligram
+vard Apparatus, Holliston, MA).21-23 The right atrium was then oflungtissue.21
+A
+mn
+094
+3.0
+2.5
+2.0
+BSA
+1.5 HRG – Zn
+HRG + Zn
+FXII + Zn
+1.0 FXII – Zn
+FXIIa + Zn
+FXIIa – Zn
+0.5
+0.0
+0 20 40 60 80 100
+PolyP (µg/ml)
+500
+**
+400
+*
+*
+300
+200
+*
+100
+0
+Control 0 200 400 1000 2000 3000 4000 5000
+plasma
+HRG-depleted plasma + HRG (nM)
+)s(
+emit
+tolC
+)s(
+emit
+tolC
+)s(
+emit
+tolC
+A B
+1200
+Control plasma
+HRG-depleted plasma
+1000
+800
+600
+400
+200
+0
+C D
+1800
+Control plasma ****
+1600 HRG-depleted plasma
+****
+1400 NS
+NS
+1200
+1000
+800
+600
+400 * NS *
+200
+0
+– CTI + CTI – CTI + CTI – CTI + CTI
+APTT PT PolyP
+Figure1.InteractionofHRG,FXII,andFXIIawithpolyPandtheeffectsofHRGonpolyP-inducedclotting.(A)b-polyPwasimmobilizedinwellsofastreptavidin-
+coatedmulti-wellplate,andbindingofBSA,HRG,FXII,andFXIIawasquantifiedintheabsenceorpresenceof6mMZnCl2.Absorbancevaluesfortheassociatedligandcon-
+centrationsareplotted;thedatawereanalyzedbynonlinearregressionofarectangularhyperbola(lines).Symbolsrepresentmean6standarddeviation(SD)of5determinations.
+(B)Clottingafterrecalcificationofcontrol(closedcircleswithsolidredline)orHRG-depletedhumanplasma(opencircleswithdashedblueline)intheabsenceorpresenceof
+polyPattheindicatedconcentrationswasmonitoredbyabsorbance,andtheclottimewascalculatedasthetimetoachievehalf-maximumabsorbance.Linesrepresentnonlinear
+regressionanalysisofthedata.Symbolsrepresentmean6SDof5determinations.(C)polyP-inducedclottingtimesincontrol(redbar)andHRG-depletedhumanplasma(blue
+bars)containinghumanHRGattheindicatedconcentrationsweredetermined.Barsrepresentmean6SDof4determinations.*P,.05,**P,.01comparedwithnormal
+pooledcontrolplasma.(D)ControlandHRG-depletedplasmawereincubatedwithorwithout1mMCTIfor15minutesfollowedbytheadditionofeitheraPTT-SPreagent,
+RecombiPlasTinreagent(InstrumentationLaboratory,Bedford,MA),or40mg/mLofpolyP.Clottingwasinitiatedwith26mMCaCl2,andtheclottimewascalculatedasthe
+timetohalfmaximumincreaseinabsorbance.Barsrepresentmean6SDof4determinationseachdoneinduplicate.*P,.05,****P,.001comparisonbetweencontrol
+andHRG-depletedplasmaasindicatedbythelines.NS,notsignificant(analysisofvariance,Holm-S (cid:1)(cid:3)ıd(cid:3)akmethod);PT,prothrombintime.
+3542 MALIKetal 28SEPTEMBER2021(cid:129)VOLUME5,NUMBER18

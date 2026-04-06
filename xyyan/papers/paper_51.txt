@@ -1,0 +1,784 @@
+
+--- Page 1 ---
+Regular Article
+THROMBOSIS AND HEMOSTASIS
+fi
+Arterial thrombosis is accelerated in mice de cient in histidine-rich
+glycoprotein
+Trang T.Vu,1,2Ji Zhou,1,3 BeverlyA.Leslie,1,3AlanR. Stafford,1,3JamesC. Fredenburgh,1,3RanNi,1,2ShengjunQiao,1,3
+NimaVaezzadeh,1,2Willi Jahnen-Dechent,5BrettP. Monia,6 PeterL. Gross,1,2,3and JeffreyI. Weitz1,2,3,4
+1ThrombosisandAtherosclerosisResearchInstitute,2DepartmentofMedicalSciences,3DepartmentofMedicine,and4DepartmentofBiochemistryand
+BiomedicalSciences,McMasterUniversity,Hamilton,Ontario,Canada;5Helmholtz-InstituteforBiomedicalEngineering,BiointerfaceLaboratory,
+Rheinisch-Westfa¨lischeTechnischeHochschuleAachen(RWTH)AachenUniversity,Aachen,Germany;and6IsisPharmaceuticals,Inc.,Carlsbad,CA
+Key Points Factor(F)XII,akeycomponentofthecontactsystem,triggersclottingviatheintrinsic
+pathway,andisimplicatedinpropagatingthrombosis.Althoughnucleicacidsarepotent
+(cid:129) Mice deficient in HRG have activators,itisunclearhowthecontactsystemisregulatedtopreventuncontrolled
+normal hemostasis, but clotting.Previously,weshowedthathistidine-richglycoprotein(HRG)bindsFXIIaand
+demonstrate accelerated attenuatesitscapacitytotriggercoagulation.ToinvestigatetheroleofHRGasaregulator
+thrombosis via the contact oftheintrinsicpathway,wecomparedRNA-andDNA-inducedthrombingenerationin
+system. plasmafromHRG-deficientandwild-typemice.Thrombingenerationwasenhancedin
+plasmafromHRG-deficientmice,andacceleratedclottingwasrestoredtonormalwith
+(cid:129) HRG abrogates nucleic
+HRGreconstitution.AlthoughbloodlossaftertailtipamputationwassimilarinHRG-
+acid–driven coagulation and
+deficientandwild-typemice,carotidarteryocclusionafterFeCl injurywasacceleratedin
+serves as a novel modulator 3
+HRG-deficientmice,andHRGadministrationabrogatedthiseffect.ToconfirmthatHRG
+of the contact system in vivo.
+modulatesthecontactsystem,weusedDNase,RNase,andantisenseoligonucleotidesto
+characterizetheFeCl model.WhereasDNaseorFVIIknockdownhadnoeffect,carotid
+3
+occlusionwasabrogatedwithRNaseorFXIIknockdown,confirmingthatFeCl -inducedthrombosisistriggeredbyRNAinaFXII-
+3
+dependentfashion. Therefore, in a nucleicacid–driven model,HRG inhibitsthrombosisby modulating the intrinsicpathwayof
+coagulation.(Blood.2015;125(17):2712-2719)
+Introduction
+Bloodcoagulationisinitiatedvia2distinctpathways:(1)theex- TheintrinsicpathwayisinitiatedwhenFXIIisactivatedon
+trinsicpathway,whichisinitiatedbythetissuefactor(TF)/factor polyanionicsurfaces,aprocessenhancedbyPKandHK.FXIIa
+(F)VIIacomplex;and(2)theintrinsicpathway,whichisinitiated activates FXI, which propagates the procoagulant response and
+by FXII activation.1 Studies in knockout mice identify the TF/ culminatesinthrombingenerationandfibrinformation.5Recently,
+FVIIacomplexasanimportantdriverofhemostasisandmodulator naturallyoccurringpolyphosphates,suchasDNA,RNA,andinor-
+ofthrombosis.2-4Incontrast,thecontactsystemwithintheintrinsic ganic polyphosphate, were shown to activate the contact system.
+pathwayplayslittleornopartinhemostasis.Thus,patientswith DNAandRNAarereleasedfromstimulated,apoptotic,ornecrotic
+congenital deficiencyofFXII oritscofactors,prekallikrein(PK) cells,whereaspolyphosphateisreleasedfromactivatedplatelets.16-18
+andhigh-molecular-weightkininogen(HK),havenobleedingdi- Inpurifiedsystems,DNAandRNApromoteFXIIactivation,whereas
+athesis,andmostpatientswithFXIdeficiencyonlyexperience platelet polyphosphate is less potent.19,20 Plasma levels of cell-free
+bleeding with surgery or trauma.5However, thereismounting DNAareincreasedinmurinemodelsofischemicstrokeandvenous
+evidencethatthecontactsystemisimportantforthrombusstabi- thrombosis, and DNase treatment attenuates thrombosis in these
+lization and propagation.6 Thus, mice deficient in FXII or FXI models.21,22Likewise,RNase,butnotDNase,wasreportedtoattenuate
+exhibitattenuatedthrombosisatsitesofarterialorvenousinjury,7-9 FeCl -induced arterial thrombosis in mice, a finding that implicates 3
+and depletion of FXII or FXI with antisense oligonucleotides RNAasadriverofclottinginthismodel.19,23Withpotentialphys-
+(ASOs),orinhibitionofFXIIaorFXIawithantibodiesorinhibi- iologicactivatorsofthecontactsystemnowidentified,itisimpor-
+tors, reduces thrombosis in animal models.10-14 With increasing tanttounderstandhowthecontactsystemisdownregulated.
+evidencethattheycontributetothrombosis,buthavelittlerolein Histidine-richglycoprotein(HRG)isan;75kDaglycoprotein
+hemostasis, FXII and FXI have emerged as attractive targets for thatcirculatesinplasmaat1.5to2.0mM.Amodularproteinwith
+newanticoagulants.6,15 distinctstructuraldomains,HRGhasbeenimplicatedindiverse
+Submitted November 12, 2014; accepted February 2, 2015. Prepublished The publication costs of this article were defrayed in part by page charge
+onlineasBloodFirstEditionpaper,February17,2015;DOI10.1182/blood- payment. Therefore, and solely to indicate this fact, this article is hereby
+2014-11-611319. marked“advertisement”inaccordancewith18USCsection1734.
+T.T.V. and J.Z.contributed equally tothis studyand areconsideredcofirst
+authors.
+Theonlineversionofthisarticlecontainsadatasupplement. ©2015byTheAmericanSocietyofHematology
+2712 BLOOD,23APRIL2015xVOLUME125,NUMBER17
+Downloaded
+from
+http://ashpublications.org/blood/article-pdf/125/17/2712/1385474/2712.pdf
+by
+guest
+on
+24
+March
+2026
+--- Page 2 ---
+BLOOD,23APRIL2015xVOLUME125,NUMBER17 HISTIDINE-RICHGLYCOPROTEINREGULATESTHROMBOSIS 2713
+processes,includingcoagulation,immunity,andangiogenesis.24,25 usingaPTTreagentdiluted1:5in125mMimidazolebuffer,pH7.0,whereas
+HRGbindsmultipleligands,suchaszinc,fibrin(ogen),heparin,plas- theextrinsicpathwaywasevaluatedusingRecombiPlasTindiluted1:200
+min(ogen),DNA,kallikrein,andFXIIa.26-28Becauseofitsnumerous in20mMTris-HCl,pH7.4,150mMNaCl(Tris-bufferedsaline[TBS]).
+interactions,HRGishypothesizedtoserveasanadaptororaccessory
+FiftymLofdiluteaPTTreagentorRecombiPlasTinwasaddedtowellsof
+protein.26
+a96-wellplatecontaining50mLofcitratedplasmafromHRG2/2,HRG1/2,
+orwild-typemicesupplementedwith30mMPCPS.TheeffectofHRGon
+Previously,weshowedthattheactivatedpartialthromboplastin
+nucleicacid–inducedactivationoftheintrinsicpathwaywasexaminedby
+time(aPTT)isshortenedwhenhumanplasmaisimmunodepletedof incubating25mLofa30-mg/mLRNAorDNAsolutiondilutedinimidazole
+HRG,whereastheprothrombintime(PT)isunchanged,27findings
+bufferwith50mLofmurineplasmasupplementedwith60mMPCPSinthe
+that localize the HRG effect to the intrinsic pathway. HRG binds absenceorpresenceof25mLhumanHRGatconcentrationsupto3mM.
+FXIIawithhighaffinityandattenuatesitscapacitytoactivateFXI Clottingwasinitiatedbytheadditionof50mLofCaCl tofinalconcen-
+2
+andpropagatecoagulation.27Inthisstudy,weusedHRG-deficient trationsof8.3mMand7.5mMforthediluteaPTTandprothrombintime
+micetotestthehypothesisthatHRGmodulatesthrombosisinvivo (PT),respectively.ForplasmafrommicetreatedwithASOs,thediluteaPTT
+withoutaffectinghemostasis. wasperformedasdescribedbefore,exceptthevolumeofplasmawasreduced
+to30mLandclottingwasinitiatedbytheadditionof30mLofCaCl toafinal
+2
+concentrationof8.3mM.ThedilutePTinplasmafromASO-treatedmice
+wasperformedbyadding30mLofplasmaand30mLofa1:400dilutionof
+RecombiPlasTinandCaCl toafinalconcentrationof12.5mM.Absorbance
+Methods 2
+was monitored at 405 nm at 37°C using a SpectroMax Plus plate reader
+(MolecularDevices,Sunnyvale,CA),andclottimewastakenasthetimeto
+Materials
+half-maximalabsorbance.
+HRGwasisolatedfromhumanplasmabynickel-NTAchromatography.27 Thrombin generation. Thrombin generation wasquantifiedby cali-
+RecombiPlasTin and APTT-SP were obtained from Instrumentation Lab-
+bratedautomatedthrombography,32withsomemodifications.Toassessthe
+oratory(Bedford,MA).Polyclonalgoatanti-humanFXIIandanti-mouse
+intrinsicpathway,16mg/mLRNAor20mg/mLDNApreparedinimidazole
+FVIIIgG(GAFXII-APandAF3305,respectively)wereobtainedfrom
+buffer,or10mLofaPTTreagentat1:2dilutionwasaddedtowellsofablack
+Affinity Biologicals (Ancaster, ON) and R&D Systems (Abingdon, UK), 96-wellCostarplate(Lowell,MA)containing40mLofplasmafromwild-
+respectively. A sheep polyclonal antibody against human HRG (Affinity type, HRG1/2, or HRG2/2 mice supplemented with 30 mM PCPS. The
+Biologicals)wasaffinity-purifiedusinganHRG-Sepharosecolumn,asde- extrinsicpathwaywasevaluatedbyadding10mLofRecombiPlasTindiluted
+scribedinsupplementalMethodsavailableontheBloodWebsite.Antibodies 1:1000 in TBS and 50 mg/mL corn trypsin inhibitor (Enzyme Research
+were conjugated to horseradish peroxidase using Lightning-Link (Innova Laboratories)toinhibitcontactactivation.Thrombingenerationwasinitiated
+Biosciences,Cambridge,UK).Mouseanti-humanfibrinIgG(T2G1)and byadding50mLofsolutioncontaining15mMCaCl
+2
+and1mMZ-Gly-Gly-
+rat anti-mouse CD41 IgG (MWReg30) were obtained from Accurate Arg-AMC(Bachem,Torrance,CA),andsubstratehydrolysiswasmonitored
+Chemical and Scientific Co. (Westbury, NY) and BD Biosciences usingaSpectraMaxM5eplatereader(MolecularDevices).Thrombin-generation
+(Mississauga,ON,Canada),respectively.RNaseA(DNaseandprotease-
+profileswereanalyzedusingTechnothrombinTGAsoftware(Technoclone,
+free)wasobtainedfromThermoScientific(Waltham,MA)andwasheat- Vienna,Austria).
+inactivated for 15 minutes at 95°C. DNase I was kindly provided by FeCl 3 -inducedarterialthrombosis. Wild-type,HRG1/2,andHRG2/2
+Roche(Mississauga, ON, Canada).AlexaFluor350succinimidylester, mice and HRG2/2 mice supplemented with human HRG or saline were
+SytoxRNA-select,goatanti-mouseAlexaFluor647,goatanti-ratAlexaFluor anesthetized with 2% to 5% isoflurane (Baxter, Deerfield, IL) delivered
+647,andgoatanti-ratAlexaFluor488wereobtainedfromLifeTechnologies byfacemask.Therightcommoncarotidarterywasisolatedandinjurywas
+(Burlington,ON,Canada).Phosphatidylcholine-phosphatidylserine(3:1)vesicles inducedbyapplyinga131-mmfilterpaperpresoakedin7.5%FeCl 3 to
+(PCPS)werepreparedasdescribed.29 theexternalsurfacefor1minute;mildconditionswerechosentonotinduce
+Nucleicacidpreparations. RNAandDNAwereisolatedfromcultured thrombosisinwild-typemiceforatleast30minutesafterapplication.Where
+A549non–smallcelllungcancercells,agenerousgiftfromDr.P.Liaw,using indicated,theleftjugularveinwascannulatedwithP10Intramedicpoly-
+RNeasy Plus mini and DNeasy mini isolation kits, respectively (Qiagen, ethylenetubing(BDBiosciences),and5.8mg/kghumanHRGoranequiv-
+Mississauga,ON,Canada),accordingtothemanufacturer’sprotocol.RNA alentvolumeofsalinewasinjected40minutesbeforeFeCl
+3
+application.
+and DNA were quantified by measuring absorbance at 260 nm with a PlasmaHRGwasquantifiedbyimmunoassay.Briefly,plasmawasaddedto
+BioPhotometerPlusspectrophotometer(Eppendorf,Mississauga,ON,
+wellsofaNi-coatedplate(ThermoScientific)andHRGwasdetectedusingan
+Canada).
+affinity-purifiedHRG-directedIgGconjugatedtohorseradishperoxidase.27
+Mice. HRG2/2miceweremaintainedonapureC57BL/6background Inagreementwithapreviousreport,31theplasmaHRGconcentrationwas
+aftermorethan10generationsofbackcrossing.30Wild-typeC57BL/6mice 1.5 6 0.5 mM in wild-type mice, and in pilot studies, intravenous ad-
+(CharlesRiverLaboratories)werecrossedwithHRG2/2micetogenerate ministrationof5.8mg/kgofhumanHRGtoHRG2/2miceresultedinsimilar
+HRG1/2mice.Polymerasechainreactionanalysiswasusedforgenotyping plasmaHRGconcentrations.
+asdescribed.31Micewerehousedinmicroisolatorcagesexposedtoconstant RNase(8mg/kg),DNase(8mg/kg),oranequivalentvolumeofsaline
+light-darkcyclesandhadfreeaccesstofoodandwater.Murineplasmawas wasinjected15minutesbeforeFeCl 3 application.ConditionsinHRG2/2
+prepared and HRG levels were quantified by immunoblot analysis as mice(7.5%FeCl 3 appliedon131-mmfilterpaperfor1minute)wereless
+describedinsupplementalMethods.Weight-andage-matchedfemalemice stringentthanthoseinwild-typemice(7.5%FeCl 3 appliedon132-mmfilter
+wereusedforallexperiments.Animalutilizationprotocolswereapprovedby paper for 1.5 minutes)19,33 and were chosen to ensure that thrombosis
+theAnimalResearchEthicsBoardatMcMasterUniversity,andstudieswere occurredinasimilartimeframeinthesaline-treatedcontrols.Inmicetreated
+performedinaccordancewithCanadianCouncilonAnimalCareguidelines. withASOs,thrombosiswasinducedwith10%FeCl 3 appliedon132-mm
+Antisenseoligonucleotides(ASOs). Controlandmouse-specificFXII- filterpapersfor1.5or1minuteinwild-typeandHRG2/2mice,respectively.
+andFVII-directedASOsweresynthesizedbyIsisPharmaceuticals(Carlsbad, ThrombosiswasassessedbymonitoringbloodflowwithaT206ultra-
+CA)andpreparedasdescribedpreviously.11Wild-typeandHRG2/2mice soundflowprobe(TransonicSystemsInc.)interfacedwithaflowmeteranda
+were given20 mg/kgFXII, FVII,or control ASOvia twice-weekly sub- 0.5-mmflowprobe(0.5Vseries)beforeFeCl applicationandfor30minutes
+3
+cutaneousinjectionsforupto6weeks.TheeffectoftheASOsonprotein thereafter.Thetimetoocclusion(TTO)wascalculatedasthetimerequired
+expressionwasassessedbyimmunoblotanalysis,asdescribedinSupple- forblood flow to decrease to ,20% of thebaselinevalue for at least
+mentalmethods. 3minutes.34Theareaundertheplotofbloodflowvstimewasquantified
+Plasma clotting assays. Dilute clotting assays were performed as usingSigmaPlot(v.11;SPSS,IBM,Armonk,NY).Thrombiwereharvested
+described,27withsomemodifications.Theintrinsicpathwaywasassessed andsubjectedtohistologicanalysesasdescribedinsupplementalMethods.
+Downloaded
+from
+http://ashpublications.org/blood/article-pdf/125/17/2712/1385474/2712.pdf
+by
+guest
+on
+24
+March
+2026
+--- Page 3 ---
+2714 VUetal BLOOD,23APRIL2015xVOLUME125,NUMBER17
+Figure1.HRGattenuatesRNA-andDNA-induced
+thrombingenerationandclotting.(A-D)Thrombin
+generation in plasma from wild-type, HRG1/2, and
+HRG2/2micecontaining30mMPCPSwastriggered
+withRNA(16mg/mL)orDNA(20mg/mL)and15mM
+CaCl2.Thrombingeneratedwasquantifiedbymon-
+itoring hydrolysis ofZ-Gly-Gly-Arg-AMC.Experiments
+wereperformed3timesinduplicate.*P,.05,**P,.005
+forthrombingenerationinitiatedwithDNA;##P,.005
+forthrombininitiatedwithRNA,comparedwithwild-
+type plasma.(E-F) Clotting was initiated in plasma
+from wild-type (black bars) or HRG2/2 (gray bars)
+micecontaininghumanHRG(0-3mM)byadditionof
+30mg/mLofDNA(E)orRNA(F)and8.3mMCaCl2.
+Absorbancewasmonitoredandtheclottimewascal-
+culated asthe timetoachievehalf maximum absor-
+bance.Barsreflectthemeanof3experiments,each
+performedinduplicate,andthelinesabovethebars
+reflect the standard deviation (SD). *P , .05 and
+**P , .005 compared with HRG2/2 plasma without
+addedHRG;datawereanalyzedusingStudentttests.
+Tail bleeding. ToassesstheroleofHRGinhemostasis,cumulative
+themeanPTinHRG2/2andwild-typemice.31Incontrast,thedilute
+blood loss was quantified for 30 minutes after tail-tip amputation as de- aPTTinplasmafromHRG2/2micewassignificantlyshorterthan
+scribed.35,36Briefly,afteranesthetizingmicewithanintraperitonealinjection thatinwild-typemice,andwasintermediateinHRG1/2mice(sup-
+of10%ketamine,5%atropine,and5%xylazine,tailsweretransectedat plemental Figure 1A). To confirm the concept that HRG targets
+apositionwherethediameterwas1.5mm,andafterimmersionin30mLof
+theintrinsicpathway,thrombingenerationstudieswereperformed.
+salineprewarmedto37°C,shedbloodwascollectedfor30minutes.After WheninitiatedwithRecombiPlasTin,therewerenosignificantdif-
+subjectingtheredbloodcellstolysiswithZAP-OGLOBINII(Beckman ferencesinthrombingenerationvariablesinplasmafromHRG2/2,
+Coulter,Mississauga,ON,Canada)andmeasuringabsorbanceat405nm,
+hemoglobinwasquantifiedbycomparisonwithastandardcurvegenerated
+HRG1/2,andwild-typemice(supplementalFigure1B,D).Incon-
+withknownamountsofmouseblood. trast,whentriggeredwithaPTTreagent,thrombingenerationwas
+Surfaceplasmonresonance(SPR). SeesupplementalMethods. significantlyenhancedinplasmafromHRG2/2 micecompared
+Statisticalanalysis. Dataarepresentedasmean6SDorstandarderror withthatinwild-typemice,andwasintermediateinHRG1/2mice
+asindicated.SignificanceofdifferenceswasdeterminedusingtheStudent (supplemental Figure 1B-C). Therefore, HRG attenuates clotting
+ttestforpaireddataoranalysisofvariance(ANOVA;Holm-Sidakmethod) initiatedviatheintrinsicpathwaybuthasnoeffectonthatinitiated
+forgroupdata.Forallanalyses,P,.05wasconsideredstatisticallysig-
+viatheextrinsicpathway,consistentwithresultsobtainedinhuman
+nificant.GraphPadPrism4(LaJolla,CA)wasusedforstatisticalanalysesand
+plasma.27
+forcreatingscatterdiagrams.
+HRGattenuatesRNA-andDNA-inducedthrombingeneration
+andclotformation
+To determinewhethersimilar abrogation occurswithnucleicacid–
+Results
+inducedclotting,wecomparedRNA-andDNA-inducedthrombin
+generationinplasmafromwild-type,HRG1/2,andHRG2/2mice.
+Contactactivationandthrombingenerationareenhancedin
+When initiated with RNA, thrombin generation in plasma from
+plasmafromHRG-deficientmice
+HRG2/2 mice was enhanced compared with that in plasma from
+ThedilutePTvaluesinplasmafromHRG2/2,HRG1/2,andwild- wild-type mice and intermediate in HRG1/2 mice (Figure 1A-D).
+typemiceweresimilar(supplementalFigure1A),findingsconsis- Thus,thelagtimeandtimetopeakthrombininplasmafromHRG2/2
+tentwithapreviousreportofonlya1-seconddifferencebetween micewere1.5-andtwofoldshorter,respectively,thanthoseinplasma
+Downloaded
+from
+http://ashpublications.org/blood/article-pdf/125/17/2712/1385474/2712.pdf
+by
+guest
+on
+24
+March
+2026
+--- Page 4 ---
+BLOOD,23APRIL2015xVOLUME125,NUMBER17 HISTIDINE-RICHGLYCOPROTEINREGULATESTHROMBOSIS 2715
+Figure 2. RNA initiates thrombosis after FeCl3-
+inducedcarotidarteryinjury.Afterinjectionof8mg/kg
+ofRNaseorDNase,oranequivalentvolumeofsaline,
+7.5%FeCl3wasappliedtotherightcarotidarteriesof
+(A)wild-type(132-mmfilterpaperfor1.5minutes)or
+(C)HRG2/2mice(131-mmfilterpaperfor1minute)
+to induce vascular injury (n 5 6-7/group) and blood
+flowwascontinuouslymonitoredanddatawereplotted
+vstime.Symbolsrepresentthemean,andthebars
+reflectthestandarderror(SE).(B,D)RespectiveTTO
+dataarepresentedasascatterdiagram,wheresym-
+bols represent individual values and horizontal lines
+representthemeanineachofthe3groups.Values
+representmean6SD;*P,.001comparedwiththe
+salinecontrolgroup(ANOVA,Holm-Sidakmethod).
+from wild-type mice (Figure 1A-B), and peak thrombin and humanHRGto2mM(Figure1E-F).Therefore,HRGmodulatesthe
+endogenousthrombinpotential(ETP)wereincreasedby3.7-and capacityofRNAandDNAtoactivatetheintrinsicpathway.
+1.8-fold,respectively(Figure1C-D).Similarresultswereobserved
+RNAmediatesFeCl injury-inducedarterialthrombosis
+withDNAastheinitiator(Figure1A-D).ThedifferencesinRNA-and 3
+DNA-inducedclottinginplasmafromHRG2/2andwild-typemice
+TovalidateourinvitroobservationthatHRGmodulatesactivation
+wereabrogatedwhenHRG-deficientplasmawassupplementedwith of the contact system, we set out to examine the role of HRG in
+Figure 3. RNA is detected in thrombi harvested
+frommiceafterFeCl3-inducedcarotidarteryinjury.
+Representative thrombi harvested from the carotid
+arteryofwild-typemicepretreatedwith(A,C)saline,
+(B) RNase, or (D) DNase. Before injury, mice were
+infusedwithanRNA-orDNA-specificfluorescentstain
+toidentifyRNAandDNA,respectively,withinthe
+thrombus.Thrombiweresectionedandsubjectedto
+immunofluorescenceanalysisusingantibodiesagainst
+HRG,fibrin,orplatelets,orwerestainedwithhema-
+toxylinandeosin(H&E).Histologicsectionswerevisu-
+alizedwitha3100objectivelensfittedtoanOlympus
+BX41 microscope equipped with a DP72 camera.
+Scalebarsrepresent100mm.
+Downloaded
+from
+http://ashpublications.org/blood/article-pdf/125/17/2712/1385474/2712.pdf
+by
+guest
+on
+24
+March
+2026
+--- Page 5 ---
+2716 VUetal BLOOD,23APRIL2015xVOLUME125,NUMBER17
+uncertain.Toinvestigatethis,weusedASOstolowerthelevelsof
+FXIIorFVIIandexaminedtheireffectonFeCl -inducedthrombo-
+3
+sisinwild-typeandHRG2/2mice.Comparedwithuntreatedmice
+and those given control ASO, the FXII and FVII ASOs reduced
+plasma levels of their cognate proteins by99% and 90% to 95%,
+respectively,asdeterminedbyimmunoblotanalysis(supplemental
+Figure2A-B).Asexpected,FXIIknockdownsignificantly(P,.001)
+prolongedthediluteaPTTtwo-tothreefoldbuthadnoeffectonthe
+dilute PT (supplemental Figure 2C-D), whereas FVII knockdown
+significantly(P,.01)prolongedthedilutePTby1.4-to1.7-foldbut
+didnotinfluencethediluteaPTT.Toensurerapidocclusioninwild-
+typemicegiventhecontrolASO,FeCl wasappliedwithalarger
+3
+filterpaperforalongertime.WhereastheTTOinwild-typemice
+giventheFVIIASOwassimilartothatincontrols(P5.2),theTTO
+was significantly (P , .001) prolonged to .30 minutes in those
+given the FXII ASO (Figure 4A-B), findings consistent with the
+attenuatedthrombosisreportedinFXII2/2mice,7butatoddswith
+thereducedthrombosisobservedinmiceexpressingTFonvascular
+smooth muscle cells.38 Similar results were observed in HRG2/2
+mice (supplemental Figure 2E-F). Therefore, our results confirm
+that FXII contributes to arterial thrombosis in the FeCl model to
+3
+a greater extent than FVII. Because the knockdown of FVII was
+incomplete,wecannotexcludethepossibilitythattheextrinsicpath-
+waycontributestothrombosisintheFeCl model.
+3
+HRGattenuatesFeCl -inducedarterialthrombosis
+3
+TodeterminewhetherHRGdeficiencyresultsinaprothromboticphe-
+notype,wecomparedFeCl -inducedarterialthrombosisinwild-type
+Figure4.ThrombosisafterFeCl3-inducedcarotidarteryinjuryoccursmainly micewiththatinHRG2/2a 3 ndHRG1/2miceusingmilderFeCl con-
+viathecontactsystem.Wild-typemiceweregivenFXII,FVII,orcontrolASOby 3
+twiceweeklysubcutaneousinjectionforupto6weeks.A132-mmfilterpaper ditions.Whereasnoocclusionwasobservedforupto30minutesin
+presoakedin10%FeCl3wasappliedtotherightcarotidarteryfor1.5minutesto wild-typemice,themeanTTOinHRG2/2micewas7.262.6minutes
+inducevascularinjury(n56-10/group).(A)Bloodflowwascontinuouslymonitored
+treatedunderthesameFeCl conditions(Figure5A-B).Although
+b
+re
+e
+f
+f
+le
+o
+c
+re
+tt
+a
+h
+n
+e
+d
+S
+f
+E
+o
+.
+r
+(
+3
+B
+0
+)B
+m
+lo
+in
+o
+u
+d
+te
+fl
+s
+ow
+af
+a
+te
+n
+r
+d
+in
+T
+ju
+T
+r
+O
+y.
+w
+S
+e
+y
+r
+m
+e
+b
+d
+o
+e
+l
+t
+s
+er
+r
+m
+ep
+in
+r
+e
+e
+d
+se
+in
+nt
+w
+t
+i
+h
+ld
+e
+-t
+m
+yp
+e
+e
+an
+m
+,
+ic
+a
+e
+nd
+pr
+t
+e
+h
+t
+e
+re
+b
+a
+a
+te
+r
+d
+s meanTTOinHRG1/2micew 3 as26.7614.9minutes,bloodflowwas
+withFXII,FVII,orcontrolASO.TTOdataarepresentedasascatterdiagram,where reducedby60%within10minutesafterinjuryandremaineddecreased
+symbolsrepresentindividualvaluesandhorizontallinesrepresentthemeanineach thereafter.Furthermore,themeanareaunderthebloodflowvstime
+ofthe3groups.Valuesrepresentmean6SD;*P,.001comparedwiththecontrol
+curve was significantly (P , .001) reduced by 1.5- and 7.5-fold in
+ASOgroup(ANOVA,Holm-Sidakmethod).
+HRG1/2andHRG2/2mice,respectively,comparedwiththatinwild-
+typemice(1507.46452.3,304.46189.4,and 2252.7 6392.9%
+amurinemodelofarterialthrombosis.AlthoughFeCl
+3
+isthemost bloodflow×min,respectively).Therefore,thrombosisissignificantly
+frequentlyusedmodel,thereisconflictingevidenceaboutwhether acceleratedinHRG2/2mice,aneffectalsoobservedinHRG1/2mice.
+thrombosisinthismodelisDNA-orRNA-driven.19,37Toaddress ThesefindingssuggestthatHRGdeficiencyresultsinaprothrombotic
+this controversy, we compared the effect of DNase or RNase ad- phenotype,andeven50%residualHRGisnotfullyprotective.
+ministrationonFeCl -inducedarterialthrombosisinwild-typemice
+3
+with that of saline. Using conditions that ensured rapid occlusion
+HRGsupplementationabrogatestheprothromboticphenotype
+afterFeCl 3 applicationinwild-typemice,themeanTTOswithsaline inHRG2/2mice
+andDNaseweresimilar(10.862.9and9.468.5min,respectively;
+P5.7).Incontrast,withRNaseadministration,therewasnooc- TofurthervalidatetheroleofHRGinthismodel,HRG2/2micewere
+clusion after 30 minutes (Figure 2A-B). Similar results were ob- givenHRGorsalinebeforeFeCl 3 -inducedinjury.Whereasthemean
+servedinHRG2/2mice(Figure2C-D).Despitetheautofluorescence TTOwithsalinewas8.962.1minutes,themeanTTOinmicesup-
+surroundingtheartery,RNA(Figure3A)wasdetectedinthrombi plemented with HRG was .30 minutes (Figure 5A-B). Therefore,
+harvested from FeCl -treated mice, and RNase administration re- restoration of HRG to levels similar to those in wild-type mice ab-
+3
+ducedRNAstaining(Figure3B).Incontrast,DNAwasnotdetected
+rogatestheprothromboticphenotypeinHRG2/2mice.
+(Figure3C) andDNase administration hadno effect (Figure3D).
+TheseresultsconfirmthatFeCl -inducedthrombosisismediatedby ImmunostaininglocalizesHRGwithplateletsandfibrinin
+3
+RNA,andnotbyDNA.19 thrombiformedafterFeCl -inducedinjury
+3
+TolocalizeHRG,thrombifromFeCl -treatedwild-typemicewere
+FeCl -inducedarterialthrombosisoccursviathe 3
+3 harvestedandsubjectedtoimmunohistochemicalanalysis.Whereas
+contactsystem
+platelets were dispersed throughout the thrombi, fibrin deposition
+AlthoughothershaveshownthatFeCl -inducedarterialthrombosis waslocalizedtothevesselwall,likelyatthesiteofFeCl application
+3 3
+is attenuated in FXII-deficient mice, the relative contribution of (Figure5C).HRGisreportedtobestoredinplateleta-granulesand
+theintrinsicandextrinsicpathwaystothrombosisinthismodelis releaseduponplateletactivation.BecauseHRGbindstofibrin,28,39
+Downloaded
+from
+http://ashpublications.org/blood/article-pdf/125/17/2712/1385474/2712.pdf
+by
+guest
+on
+24
+March
+2026
+--- Page 6 ---
+BLOOD,23APRIL2015xVOLUME125,NUMBER17 HISTIDINE-RICHGLYCOPROTEINREGULATESTHROMBOSIS 2717
+Figure5.HRGdeficiencyisassociatedwithacceleratedthrombosisafterFeCl3-inducedarterialinjury.(A)ChangesinbloodflowafterFeCl3-inducedcarotidartery
+injuryinwild-type,HRG1/2,orHRG2/2mice,andHRG2/2micegivenhumanHRGto2mMorsaline(n56or7/group).Thrombosiswasinitiatedbyapplicationofa131-mmfilter
+paperpresoakedin7.5%FeCl3for1minutetotherightcarotidartery.Bloodflowwascontinuouslymeasuredbeforeandfor30minutesafterinjury.Flowmeasurements
+atthetimesindicatedwereexpressedasapercentageofbaselineflow.Symbolsrepresentthemean,andthebarsreflecttheSE.(B)TTOvaluesinwild-type,HRG1/2,
+orHRG2/2mice,andHRG2/2micegivenhumanHRGorsaline.TTOwasdefinedasthetimerequiredforbloodflowtodecreaseto,20%ofthebaselinevalueforat
+least3consecutiveminutes.TTOdataarepresentedasascatterdiagram,wheresymbolsrepresentindividualvalues,andhorizontallinesrepresentthemeanineachof
+the5groups.Valuesrepresentmean6SD;*P,.001comparedwithwild-typemice(ANOVA,Holm-Sidakmethod).(C)Representativethrombusharvestedfromthe
+carotidarteryofawild-typemouse30minutesafterFeCl3-inducedinjuryandsubjectedtoimmunofluorescenceanalysisusingantibodiesagainstHRG,platelets,or
+fibrin,orstainedwithhematoxylinandeosin(H&E).Histologicsectionswerevisualizedusinga3100objectivelensfittedtoanOlympusBX41microscopeequippedwith
+aDP72camera.Scalebarsrepresent100mm.
+wehypothesizedthatHRGwouldlocalizewithplateletsandfibrin.
+Consistentwiththis,HRGinthrombilocalizedwithplateletsand,to Discussion
+alesserextent,withfibrin(Figure5C).ThesedataconfirmthatHRG
+is found in thrombi formed after FeCl 3 -induced arterial injury in Emergingdatahighlighttheimportanceofthecontactsysteminthe
+mice. pathogenesis of thrombosis and identify naturally-occurring poly-
+phosphates,suchasnucleicacids,aspotentialinitiatorsofthis
+HemostasisisnormalinHRG2/2orHRG1/2mice pathway.However,itisunclearhowthecontactsystemisregulated
+topreventuncontrolledclotting.Previously,wedemonstratedthat
+ToexaminetheroleofHRGinhemostasis,tailbleedinginHRG2/2,
+HRGbindsFXIIawithhighaffinityandattenuatescontactactivation
+HRG1/2,andwild-typemicewascompared.Cumulativebloodloss
+ofcoagulationinplasma.27Wenowshowthat:(1)HRG-deficient
+after tail transection (Figure 6) was not significantly different in
+micehavesimilarPTbutshorteraPTTvaluesthantheirwild-type
+HRG2/2 and HRG1/2 mice from that in the wild-type controls
+counterparts, thereby localizing the in vivo HRG effect to the in-
+(24.963.9,19.163.1,and26.564.9mL,respectively).These
+trinsicpathway;(2)DNA-andRNA-inducedthrombingenerationis
+findingsareatoddswithpreviouswork,whichreportedamodestly
+enhancedinplasmafromHRG-deficientmice;(3)HRGbindsDNA
+shorter bleeding time in HRG2/2 mice than in wild-type mice.31 andRNAwithhighaffinity,afindingconsistentwiththeconceptthat
+The discrepancy may reflect differences in bleeding models; we HRGmodulatesnucleicacid–inducedcoagulation;and(4)although
+standardizedthesiteoftailtransectionat1.5mmandusedthemore
+sensitivemeasureofcumulativebloodlossinsteadofbleedingtime.
+Overall, our results suggest that HRG modulates thrombosis with
+minimaleffectsonhemostasis.
+HRGbindstoDNAandRNA
+TodeterminewhetherHRGbindstonucleicacids,SPRwasused
+toquantifythebindingofHRGtoimmobilizedbiotinylatedDNA
+or RNA. The sensorgrams revealed rapid association and slow
+dissociationofHRGfrombiotinDNAandbiotinRNA(Figure7,
+insets).Plotsofresponseunit(RU)valuesatequilibrium(Req)vs
+input HRG concentrations showed that HRG binds to DNA and
+RNAinaconcentration-dependentandsaturablefashion(Figure7).
+Kinetic analysis of the on- and off-rates of the sensorgrams dem-
+onstrated that HRG binds to both nucleic acids with identical K
+d
+valuesof1.360.8nM.ThehighaffinityofHRGforDNAsupports
+previous work40 and, collectively, these observations provide a Figure6.HRGdeficiencyhasnoimpactonhemostasis.Cumulativebloodloss
+wasquantifiedfor30minutesaftertail-tipamputationinwild-type,HRG1/2,andHRG2/2
+potentialmechanismbywhichnucleicacidsinducecontactactiva-
+mice(n59-11/group).Symbolsrepresentindividualvalues,whereashorizontallines
+tionofcoagulation,andHRGattenuatesthisprocess. representthemeanineachofthe3groups.Valuesrepresentmean6SD.
+Downloaded
+from
+http://ashpublications.org/blood/article-pdf/125/17/2712/1385474/2712.pdf
+by
+guest
+on
+24
+March
+2026
+--- Page 7 ---
+2718 VUetal BLOOD,23APRIL2015xVOLUME125,NUMBER17
+DNA in neutrophil extracellular traps and histones promote
+clottinginvitroandmaycontributetothrombosisinmurinemodels
+of deep-vein thrombosis and stroke.21,22,44,45 The role of DNA
+under the conditions of our FeCl model is uncertain because
+3
+DNaseadministrationdidnotinfluencearterialocclusion,andwe
+wereunabletodetectDNAinthrombi.Takentogether,theevidence
+thusfarsuggeststhatthetypeofnucleicacidreleasedintotheblood
+mayvarydependingonthemethodusedtoinducevascularinjury.
+OnceHRGbindstoFXIIa,thecapacityofFXIIatopropagate
+coagulation through autoactivation of FXII and activation of FXI
+isattenuated.27PlateletsarereportedtostorezincandHRGintheir
+a-granules, and both components are released upon platelet ac-
+tivation.39,46Inthepresenceofzinc,theaffinityofFXIIaforHRGis
+heightenedby1000-foldtoaK valueof7.5pM,27whichishigher
+d
+thantheaffinityofHRGforotherligands.26Thiscreatesapotential
+molecularswitchthatdirectsHRGtoFXIIa.Giventheabundanceof
+HRGandzincinplatelets,HRGismorelikelytobindFXIIainthe
+vicinity of platelet-rich thrombi than is C1-inhibitor, the putative
+physiologicalregulatorofFXIIa.27Furthermore,wehaveshown
+thatHRGbindsDNAandRNAwithK valuesof;1nM,which
+d
+localizesHRG to the site of contact activation, where it is poised
+to modulate FXIIa activity. Although FXIIa is protected from
+inhibition by C1-inhibitor when it associates with polyanionic
+surfaces,47HRGretainsitscapacitytomodulateFXIIaactivity,even
+whentheproteaseisassociatedwithnucleicacids.48Consequently,
+HRGislikelytobeamoreimportantmodulatorofFXIIaactivity
+thanC1-inhibitor,aconceptsupportedbytheenhancedDNA-and
+RNA-inducedthrombingenerationobservedinplasmafromHRG-
+deficientmice,whichisattenuatedwithHRGsupplementation.
+Therefore,byactingasamolecularbraketolimittheprocoagulant
+response, HRG is poised to serve as a dynamic regulator of the
+contactsystem,regardlessofwhetheritisinitiatedbyDNAorRNA.
+Figure7.BindingofHRGtoDNAorRNAasdeterminedusingSPR.(A)Biotin
+DNAor(B)biotinRNAwasadsorbedto200to300RUonseparateflowcells This is an important concept because the identification of several
+containing immobilized streptavidin. An unmodified streptavidin-containing cell novelphysiologicactivatorsofthecontactsystemdemandsacom-
+servedasthereferencecontrol.Afterinjecting0to0.125nMHRGintoflowcells pensatoryregulatorymechanism.
+for300secondstoassessbinding,bufferwasinjectedfor800secondstoassess
+dissociation.TheamountofHRGboundatequilibrium(Req)wascorrected
+for background and plotted vs input HRG concentrations. Data represent the
+mean 6 SD of3 determinationsand were fitbynonlinear regression analysis
+usingarectangularhyperbola(line).Insets,representativebindingsensorgramsfor
+Acknowledgments
+DNAandRNA,whereinputHRGconcentrationsareindicatedadjacenttoeachtracing.
+TheauthorsthankZakharLysovforassistancewithcellculture.
+tailbleedinginHRG2/2andwild-typemiceissimilar,thrombosis
+J.I.W.holdstheHeartandStrokeFoundation/J.FraserMustard
+is accelerated in HRG2/2 mice, a difference abrogated with HRG Endowed Chair in Cardiovascular Research and the Canada
+administration.Therefore,thesefindingssuggestthatHRGdeficiency ResearchChair(Tier1)inThrombosis.
+inducesaprothromboticphenotypewithoutinfluencinghemostasis. This work was supported in part by the Canadian Institutes of
+Severallinesofevidencesuggestthatthemodulatingeffectof HealthResearch(FRN-392,MOP-136820,CTP79846),theHeart
+HRGoncoagulationoccursviatheintrinsicpathway.First, HRG and Stroke Foundation (T6357), and the Ontario Research and
+binds DNA and RNA and attenuates DNA- and RNA-induced DevelopmentChallengeFund;aNaturalSciencesandEngineering
+thrombingeneration,whichistriggeredbyFXIIactivation.Second, ResearchCouncilofCanada,CanadaGraduateScholarships-Doctoral
+FeCl 3 -induced thrombosis is accelerated in HRG-deficient mice, Award(T.T.V.);andOntarioGraduateScholarships(R.N.,N.V.).
+a model that appears to be driven, at least in part, by RNA and
+is dependent on FXII. Although some reports suggest that DNA
+contributestoFeCl -inducedthrombosis,37HRGisauniversalmod-
+3
+ulatorbecauseitattenuatescoagulationregardlessofwhetheritis Authorship
+initiated by DNA or RNA. Third, HRG has little or no effect on
+hemostasis,whichismediatedprimarilybytheextrinsicpathway. Contribution:T.T.V.designedandperformedexperiments,analyzed
+The origin of RNA in the FeCl model is currently unknown. data,andwrotethepaper;J.Z.,B.A.L.,andA.R.S.designedand
+3
+ThereareconflictingdataaboutwhetherFeCl inducesendothelial performed experiments and analyzed data; R.N., S.Q., and N.V.
+3
+denudation or triggers thrombosis through othermechanisms.41,42 performed experiments; W.J.-D. and B.P.M., provided vital re-
+A recent report implicates red blood cells in the pathogenesis of agents;P.L.G.designedexperimentsandanalyzeddata;andJ.C.F.
+FeCl -inducedthrombosis,42andinvitrostudiessuggestthatwhen and J.I.W. designed experiments, analyzed data, and wrote the
+3
+activated,redbloodcellspromotethrombingeneration.43 paper.
+Downloaded
+from
+http://ashpublications.org/blood/article-pdf/125/17/2712/1385474/2712.pdf
+by
+guest
+on
+24
+March
+2026
+--- Page 8 ---
+BLOOD,23APRIL2015xVOLUME125,NUMBER17 HISTIDINE-RICHGLYCOPROTEINREGULATESTHROMBOSIS 2719
+Conflict-of-interestdisclosure:B.P.M.isanemployeeofIsis Correspondence:JeffreyI.Weitz,ThrombosisandAtheroscle-
+Pharmaceuticals. The remaining authors declare no competing rosisResearchInstitute,237BartonStE,Hamilton,ONL8L2X2,
+financialinterests. Canada;e-mail:weitzj@taari.ca.
+References
+1. MacFarlaneRG.Anenzymecascadeinthe 18. YippBG,KubesP.NETosis:howvitalisit?Blood. 34. OwensAP3rd,LuY,WhinnaHC,GachetC,Fay
+bloodclottingmechanism,anditsfunctionas 2013;122(16):2784-2794. WP,MackmanN.Towardsastandardizationof
+abiochemicalamplifier.Nature.1964;202:498-499. themurineferricchloride-inducedcarotidarterial
+19. KannemeierC,ShibamiyaA,NakazawaF,
+thrombosismodel.JThrombHaemost.2011;9(9):
+2. BuggeTH,XiaoQ,KombrinckKW,etal.Fatal etal.ExtracellularRNAconstitutesanatural
+embryonicbleedingeventsinmicelackingtissue procoagulantcofactorinbloodcoagulation.Proc 1862-1863.
+factor,thecell-associatedinitiatorofblood NatlAcadSciUSA.2007;104(15):6388-6393. 35. VaezzadehN,NiR,KimPY,WeitzJI,GrossPL.
+coagulation.ProcNatlAcadSciUSA.1996; 20. SmithSA,ChoiSH,Davis-HarrisonR,etal. Comparisonoftheeffectofcoagulationandplatelet 93(13):6258-6263. Polyphosphateexertsdifferentialeffectsonblood functionimpairmentsonvariousmousebleeding
+3. RosenED,ChanJC,IdusogieE,etal.Micelacking clotting,dependingonpolymersize.Blood.2010; models.ThrombHaemost.2014;112(2):412-418.
+factorVIIdevelopnormallybutsufferfatalperinatal 116(20):4353-4359. 36. RandML,WangH,PlutheroFG,etal.
+bleeding.Nature.1997;390(6657):290-294. 21. BrillA,FuchsTA,SavchenkoAS,etal.Neutrophil Diannexin,anannexinA5homodimer,binds
+4. MackmanN,TilleyRE,KeyNS.Roleofthe extracellulartrapspromotedeepveinthrombosis phosphatidylserinewithhighaffinityandis
+extrinsicpathwayofbloodcoagulationin inmice.JThrombHaemost.2012;10(1):136-144. apotentinhibitorofplatelet-mediatedevents
+hemostasisandthrombosis.ArteriosclerThromb duringthrombusformation.JThrombHaemost.
+VascBiol.2007;27(8):1687-1693. 22. DeMeyerSF,SuidanGL,FuchsTA,MonestierM, 2012;10(6):1109-1119.
+WagnerDD.Extracellularchromatinisanimportant
+5. ColmanRW,SchmaierAH.Contactsystem: mediatorofischemicstrokeinmice.Arterioscler 37. MassbergS,GrahlL,vonBruehlML,etal.
+avascularbiologymodulatorwithanticoagulant, ThrombVascBiol.2012;32(8):1884-1891. Reciprocalcouplingofcoagulationandinnate
+profibrinolytic,antiadhesive,andproinflammatory
+immunityvianeutrophilserineproteases.Nat
+attributes.Blood.1997;90(10):3819-3843. 23. FischerS,GerrietsT,WesselsC,etal. Med.2010;16(8):887-896.
+ExtracellularRNAmediatesendothelial-cell
+6. GailaniD,Renne´T.Intrinsicpathwayof permeabilityviavascularendothelialgrowth 38. WangL,MillerC,SwarthoutRF,RaoM,
+coagulationandarterialthrombosis.Arterioscler factor.Blood.2007;110(7):2457-2465. MackmanN,TaubmanMB.Vascularsmooth
+ThrombVascBiol.2007;27(12):2507-2513. muscle-derivedtissuefactoriscriticalforarterial
+24. LijnenHR,HoylaertsM,CollenD.Isolationand thrombosisafterferricchloride-inducedinjury.
+7. Renne´T,Pozgajova´M,Gru¨nerS,etal.Defective characterizationofahumanplasmaproteinwith Blood.2009;113(3):705-713.
+thrombusformationinmicelackingcoagulation affinityforthelysinebindingsitesinplasminogen.
+factorXII.JExpMed.2005;202(2):271-281. Roleintheregulationoffibrinolysisand 39. LeungLL,HarpelPC,NachmanRL,RabellinoEM.
+8. KleinschnitzC,StollG,BendszusM,etal. identificationashistidine-richglycoprotein. Histidine-richglycoproteinispresentinhuman
+TargetingcoagulationfactorXIIprovides
+JBiolChem.1980;255(21):10214-10222. p
+st
+la
+im
+te
+u
+le
+la
+t
+t
+s
+io
+a
+n
+n
+.
+d
+Bl
+i
+o
+s
+o
+r
+d
+e
+.
+le
+1
+a
+9
+s
+8
+e
+3
+d
+;6
+fo
+2
+l
+(
+l
+5
+o
+)
+w
+:1
+in
+0
+g
+16
+th
+-1
+ro
+0
+m
+21
+b
+.
+in
+protectionfrompathologicalthrombosisin 25. PoonIK,PatelKK,DavisDS,ParishCR,HulettMD.
+cerebralischemiawithoutinterferingwith Histidine-richglycoprotein:theSwissArmyknifeof 40. GorganiNN,SmithBA,KonoDH,Theofilopoulos
+hemostasis.JExpMed.2006;203(3):513-518. mammalianplasma.Blood.2011;117(7):2093-2101. AN.Histidine-richglycoproteinbindstoDNAand
+FcgammaRIandpotentiatestheingestionof
+9. WangX,SmithPL,HsuMY,etal.Effectsoffactor 26. JonesAL,HulettMD,ParishCR.Histidine-rich apoptoticcellsbymacrophages.JImmunol.2002;
+XIdeficiencyonferricchloride-inducedvenacava glycoprotein:Anoveladaptorproteininplasma
+thrombosisinmice.JThrombHaemost.2006;
+thatmodulatestheimmune,vascularand
+169(9):4745-4751.
+4(9):1982-1988. coagulationsystems.ImmunolCellBiol.2005; 41. EcklyA,HechlerB,FreundM,etal.Mechanisms
+10. ZhangH,Lo¨wenbergEC,CrosbyJR,etal. 83(2):106-118. underlyingFeCl3-inducedarterialthrombosis.
+Inhibitionoftheintrinsiccoagulationpathway 27. MacQuarrieJL,StaffordAR,YauJW,etal.
+JThrombHaemost.2011;9(4):779-789.
+factorXIbyantisenseoligonucleotides:anovel Histidine-richglycoproteinbindsfactorXIIa 42. BarrJD,ChauhanAK,SchaefferGV,HansenJK,
+antithromboticstrategywithloweredbleedingrisk. withhighaffinityandinhibitscontact-initiated MottoDG.Redbloodcellsmediatetheonsetof
+Blood.2010;116(22):4684-4692. coagulation.Blood.2011;117(15):4134-4141. thrombosisintheferricchloridemurinemodel.
+11. RevenkoAS,GaoD,CrosbyJR,etal.Selective 28. VuTT,StaffordAR,LeslieBA,KimPY,
+Blood.2013;121(18):3733-3741.
+depletionofplasmaprekallikreinorcoagulation FredenburghJC,WeitzJI.Histidine-rich 43. WhelihanMF,ZacharyV,OrfeoT,MannKG.
+factorXIIinhibitsthrombosisinmicewithout glycoproteinbindsfibrin(ogen)withhighaffinityand Prothrombinactivationinbloodcoagulation:the
+increasedriskofbleeding.Blood.2011;118(19): competeswiththrombinforbindingtothegamma’- erythrocytecontributiontothrombingeneration.
+5302-5311. chain.JBiolChem.2011;286(35):30314-30323. Blood.2012;120(18):3837-3845.
+12. YounisHS,CrosbyJ,HuhJI,etal.Antisense 29. KretzCA,CuddyKK,StaffordAR,Fredenburgh 44. SemeraroF,AmmolloCT,MorrisseyJH,etal.
+inhibitionofcoagulationfactorXIprolongsAPTT JC,RobertsR,WeitzJI.HD1,athrombin-and Extracellularhistonespromotethrombin
+withoutincreasedbleedingriskincynomolgus prothrombin-bindingDNAaptamer,inhibits generationthroughplatelet-dependent
+monkeys.Blood.2012;119(10):2401-2408. thrombingenerationbyattenuatingprothrombin mechanisms:involvementofplateletTLR2
+13. CrosbyJR,MarzecU,RevenkoAS,etal. activationandthrombinfeedbackreactions. andTLR4.Blood.2011;118(7):1952-1961.
+AntithromboticeffectofantisensefactorXI ThrombHaemost.2010;103(1):83-93. 45. FuchsTA,BrillA,DuerschmiedD,etal.
+oligonucleotidetreatmentinprimates.Arterioscler 30. ShannonO,Rydenga˚rdV,SchmidtchenA,etal. ExtracellularDNAtrapspromotethrombosis.Proc
+ThrombVascBiol.2013;33(7):1670-1678. Histidine-richglycoproteinpromotesbacterial NatlAcadSciUSA.2010;107(36):15880-15885.
+14. LarssonM,RayzmanV,NolteMW,etal. entrapmentinclotsanddecreasesmortalityin 46. MarxG,KornerG,MouX,GorodetskyR. AfactorXIIainhibitoryantibodyprovides amousemodelofsepsis.Blood.2010;116(13): Packagingzinc,fibrinogen,andfactorXIIIin
+thromboprotectioninextracorporealcirculation 2365-2372. plateletalpha-granules.JCellPhysiol.1993;
+withoutincreasingbleedingrisk.SciTranslMed.
+31. Tsuchida-StraetenN,EnsslenS,Scha¨ferC,etal. 156(3):437-442.
+2014;6(222):222ra17. Enhancedbloodcoagulationandfibrinolysisin 47. PixleyRA,SchmaierA,ColmanRW.Effectof
+15. Mu¨llerF,GailaniD,Renne´T.FactorXIandXIIas micelackinghistidine-richglycoprotein(HRG). negativelychargedactivatingcompoundson
+antithrombotictargets.CurrOpinHematol.2011; JThrombHaemost.2005;3(5):865-872. inactivationoffactorXIIabyClinhibitor.Arch
+18(5):349-355. 32. SwystunLL,MukherjeeS,LiawPC.Breast BiochemBiophys.1987;256(2):490-498.
+16. MorrisseyJH,ChoiSH,SmithSA. cancerchemotherapyinducesthereleaseof
+48. VuTT,ZhouJ,LeslieBA,StaffordAR,
+Polyphosphate:anancientmoleculethatlinks cell-freeDNA,anovelprocoagulantstimulus.
+FredenburghJC,WeitzJI.Histidinerich
+platelets,coagulation,andinflammation.Blood. JThrombHaemost.2011;9(11):2313-2321.
+glycoproteinbindstoDNA,RNAandFXIIawith
+2012;119(25):5972-5979.
+33. WangX,ChengQ,XuL,etal.EffectsoffactorIX highaffinityandattenuatescontact-mediated
+17. vanderVaartM,PretoriusPJ.CirculatingDNA. orfactorXIdeficiencyonferricchloride-induced coagulationinamousemodelofarterial
+Itsoriginandfluctuation.AnnNYAcadSci.2008; carotidarteryocclusioninmice.JThromb thrombosis.JThrombHaemost.2013;
+1137:18-26. Haemost.2005;3(4):695-702. 11(Supp2):AbstractAS13.1.
+Downloaded
+from
+http://ashpublications.org/blood/article-pdf/125/17/2712/1385474/2712.pdf
+by
+guest
+on
+24
+March
+2026

@@ -1,0 +1,723 @@
+
+--- Page 1 ---
+Review article
+Histidine-rich glycoprotein: the SwissArmy knife of mammalian plasma
+IvanK.H.Poon,1,2KrutiK.Patel,2DavidS.Davis,1*ChristopherR.Parish,1and*MarkD.Hulett1,2
+1TheJohnCurtinSchoolofMedicalResearch,AustralianNationalUniversity,Canberra,Australia;and2DepartmentofBiochemistry,LaTrobeInstitutefor
+MolecularScience,LaTrobeUniversity,Melbourne,Australia
+Histidine-rich glycoprotein (HRG), also HRG to interact with various ligands si- withafocusonrecentfindingsthathave
+known as histidine-proline-rich glyco- multaneously has suggested that HRG ledtoitsemergenceasakeyregulatorof
+protein, is an abundant and well- canfunctionasanadaptormoleculeand immunity and vascular biology. Also in-
+characterizedproteinofvertebrateplasma. regulatenumerousimportantbiologicpro- cluded is a discussion of the striking
+HRG has a multidomain structure that al- cesses, such as immune complex/ne- functional similarities between HRG and
+lows the molecule to interact with many croticcell/pathogenclearance,celladhe- other important multifunctional proteins
+ligands, including heparin, phospholipids, sion, angiogenesis, coagulation, and foundinplasma,suchasC-reactivepro-
+plasminogen, fibrinogen, immunoglobu- fibrinolysis. The present review covers tein, C1q, (cid:2) glycoprotein I, and throm-
+2
+linG,C1q,heme,andZn2(cid:1).Theabilityof theproposedmultifunctionalrolesofHRG bospondin-1.(Blood.2011;117(7):2093-2101)
+Introduction
+Histidine-richglycoprotein(HRG)isa(cid:1)75-kDasinglepolypep- the first section of this review focusing on the role of HRG in
+tidechainprotein.HRGwasfirstisolatedandcharacterizedfrom immunityandvascularbiology.
+humanserumin19721,2andlaterfoundtobepresentintheplasma
+ofmanyvertebrates3andinaquaticinvertebrates.4HumanHRGis
+synthesizedintheliver5andispresentinplasmaattherelatively
+high concentration of (cid:1)100-150(cid:2)g/mL ((cid:1)1.5(cid:2)M). HRG has TheroleofHRGinimmunity
+also been detected on the surface of leukocytes such as macro-
+phagesandmonocytes,6aswellasinthe(cid:3)-granulesofplateletsand HRGmodulatestheformationofimmunecomplexes
+megakaryocytes.7
+Theformationofimmunecomplexes(ICs)playsanimportantrole
+ThehumanHRGgenehasbeenmappedtoposition3q28-q29
+in a normal immune response, whereby specific antibodies form
+on chromosome 38 and is predicted to encode a 507-amino acid5
+complexes with target antigen and facilitate the clearance and
+multidomain protein consisting of 2 N-terminal regions with
+neutralizationofmicroorganismsorforeignsubstances.However,
+homologytocystatin-likedomains(termedN1andN2),acentral
+if ICs are not cleared properly from the circulation, their deposi-
+histidine-rich region (HRR) flanked by 2 proline-rich regions
+tions at target tissues could result in diseases such as arthritis,
+(PRR1 and PRR2), and a C-terminal domain, or C (Figure 1).
+vasculitis, and glomerulonephritis. Besides components of the
+Although HRG has been classified as a member of the cystatin
+complementsystem,HRGhasbeenshowntointeractwithIgGand
+supergene-family that are generally known as cysteine protease
+ICs, subsequently regulating the clearance and formation of
+inhibitors,9 no protease inhibitory activity has been reported for
+insolubleIC(IIC).18-20,28,29
+HRG. HRG also contains 4 intradomain and 2 interdomain
+HumanHRGwasfirstfoundtointeractwithbothrabbitand
+disulfidebridges,10and6predictedN-linkedglycosylationsites.2,5
+human IgG18 and later shown to bind different IgG subclasses
+The protein and gene structure of HRG have been reviewed in
+andIgGmoleculescontaining(cid:6)and(cid:7)lightchainswithdifferent
+detailbyJonesetal.3
+affinities.29HRGbindingtoIgGisdependentonitsN-terminal
+AvarietyofmoleculeshavebeenshowntointeractwithHRG,
+including heme,11 Zn2(cid:4),12 plasminogen,13 heparanase,14 fibrino- domain and possibly involves HRG interacting with the F(ab)
+gen,15 thrombospondin (TSP),16 vasculostatin,17 immunoglobulin regionofIgG.18Significantly,theHRG-IgGinteractionseemsto
+G (IgG),18 complement components,18,19 and heparin.1 HRG can play an important role in regulating IIC formation and clear-
+alsointeractwithcell-associatedmolecules,includingFc(cid:5)recep- ance. Studies by Gorgani et al18and Manderson et al19demon-
+tors (Fc(cid:5)R),20 heparan sulfate (HS),21 phospholipids,22 tropomy- strated that HRG is an important component in human plasma
+sin,23ATPsynthase,24 DNA,25 and cytoplasmic ligand(s) exposed that is able to inhibit the formation of IIC. Furthermore, HRG
+onnecroticcells.26HRGdomainsandthepredictedligandbinding canpreventtheformationofIICgeneratedbyrheumatoidfactor
+sites are depicted in Figure 1. On the basis of the modular (anauto-anti-Fcantibody)andhumanIgG,possiblybymasking
+architectureofHRG,ithasbeenproposedthatHRGmayactasan theepitopesonIgGrecognizedbyrheumatoidfactor.28HRGcan
+adaptor molecule that interacts with multiple ligands simulta- also aid the solubilization of IIC,28 enhance complement
+neouslythroughseveralindependentbindingsites.27Collectively, activation by IIC,19 as well as modulate the binding of IC to
+HRG can potentially regulate numerous biologic processes, with monocytes.20
+SubmittedSeptember12,2010;acceptedOctober12,2010.Prepublished *C.R.P.andM.D.H.contributedequallytothiswork.
+onlineasBloodFirstEditionpaper,October22,2010;DOI10.1182/blood-
+2010-09-303842. ©2011byTheAmericanSocietyofHematology
+(cid:1)
+BLOOD,17FEBRUARY2011 VOLUME117,NUMBER7 2093
+Downloaded
+from
+http://ashpublications.org/blood/article-pdf/117/7/2093/1491711/zh800711002093.pdf
+by
+guest
+on
+24
+March
+2026
+--- Page 2 ---
+(cid:1)
+2094 POONetal BLOOD,17FEBRUARY2011 VOLUME117,NUMBER7
+Figure1.Schematicrepresentationofproteindomains,posttranslationalmodifications,andproposedbindingpartnersofhumanHRG.HRGisamultidomain
+proteinconsistingof2cystatin-likeregionsattheN-terminus(N1andN2),acentralhistidine-richregion(HRR),2proline-richregions(PRR1andPRR2)flankingtheHRR,and
+aC-terminaldomain(C).Proposedcarbohydrateattachmentsites,disulfidebridges,bindingpartnersofHRG,andthecorrespondingbindingregionsofHRG(ie,N1N2,HRR,
+orC)aredepictedinthefigure.Notethatthebindingsitesforphospholipids,heparanase,fibrinogen,DNA,andcertaincomplementcomponentsonHRGhavenotbeen
+characterized.
+HRGregulatesFc(cid:3)Rfunction an Fc(cid:5)R-dependent mechanism. However, it is important to note
+that the presence of a small amount of IgG in HRG preparations
+LeukocyteFcreceptorsplayavitalroleinlinkingthehumoraland
+purified from human plasma22 raises doubts about the validity of
+cellular arms of the immune system by aiding the interaction of
+studies in which the authors demonstrated a direct interaction of
+antigen-specific antibodies with nonspecific effector cells that
+HRGwithFc(cid:5)R.
+expressFcreceptors.Inhumans,thereare3classesofIgGbinding
+Fc(cid:5)R, namely Fc(cid:5)RI, Fc(cid:5)RII, and Fc(cid:5)RIII. These Fc(cid:5)R are HRGfacilitatestheremovalofdying/deadcells
+expressed at differential levels on a variety of cell types and
+regulate diverse biologic processes. Interestingly, HRG has been Undernormalphysiologicconditions,rapidremovalofdying/dead
+showntoregulatetheexpressionandfunctionsofFc(cid:5)R.20,30,31 cells (eg, apoptotic and necrotic cells) from the circulation and
+Initially, HRG was demonstrated to modulate Fc(cid:5)R (mainly tissuesbyphagocyticcellsplaysacriticalroleinmaintainingtissue
+Fc(cid:5)RII)-mediated phagocytosis of IgG-opsonized sheep erythro- homeostasis and turnover. Impaired dying/dead cell clearance
+cyte in a biphasic manner depending on the duration of pretreat- could result in the exposure of antigenic intracellular molecules,
+mentofmacrophageswithHRG.31LaterstudiesbyChangetal30 whichcanleadtothedevelopmentofautoimmunediseasessuchas
+suggestedthattheeffectsofHRGonFc(cid:5)R-dependentphagocyto- systemiclupuserythematosus.32HRGwasshowntofacilitatethe
+sisisattributedtotheregulationofFc(cid:5)RIIexpressionandprotein removal of late (ie, plasma membrane permeabilized) apoptotic25
+synthesis by HRG. Furthermore, HRG was suggested to regulate andnecroticcells.22,26,33
+monomeric IgG binding to Fc(cid:5)RI through direct interaction with StudiesbyGorganietal25showedthatHRGbindsstronglyto
+Fc(cid:5)RI.20Although the in vivo role of HRG in modulating Fc(cid:5)R late apoptotic cells compared with viable or early (ie, plasma
+functionisunclear,investigatorshavedemonstratedtheimportance membrane intact) apoptotic cells, possibly by recognizing naked
+ofHRGinaidingtheclearanceofIC20anddying/deadcells22,25via DNA. Consistent with previous studies,20 HRG was suggested to
+Downloaded
+from
+http://ashpublications.org/blood/article-pdf/117/7/2093/1491711/zh800711002093.pdf
+by
+guest
+on
+24
+March
+2026
+--- Page 3 ---
+(cid:1)
+BLOOD,17FEBRUARY2011 VOLUME117,NUMBER7 HISTIDINE-RICHGLYCOPROTEIN 2095
+bindFc(cid:5)RIonmacrophagesandfunctionasabridgingmoleculeto impose a net positive charge on the molecule. Interestingly, a
+augmenttheuptakeoflateapoptoticcellsviaanFc(cid:5)RI-dependent syntheticpeptidecontainingthehistidine-richconsensussequence
+mechanism.25Theauthorsalsodemonstratedthat,likecomponents of HRG was able to neutralize the lipopolysaccharide (LPS)–
+of the complement system,34 HRG is involved in normal human induced proinflammatory response by dampening LPS-induced
+serum-dependentphagocytosisoflateapoptoticcells.25Similarly, IL-8 production by CD14-transfected THP-1 cells.42 Despite the
+studiesbyJonesetal26demonstratedthat,inadditiontocellsurface lack of direct evidence of an interaction between HRG and the
+HS, HRG binds strongly to cytoplasmic ligand(s) exposed on anionic bacterial component LPS, HRG may act as a PRM that
+permeabilized necrotic cells via its N1N2 domain. Recently, the recognizes anionic molecules, most likely anionic phospholipids,
+molecularmechanismsunderpinningenhancednecroticcelluptake exposed on microorganisms and facilitate their removal either
+byHRGwerecharacterizedindetail,withHRGfunctioningasa viadirectkillingand/orphagocytosisinananalogousfashionto
+patternrecognitionmolecule(PRM)thatbindsvariousintracellular the recently described recognition and clearance of necrotic
+phospholipids exposed on necrotic cells and acts as an adaptor cellsbyHRG.22
+protein to recruit IgG and aid the clearance of necrotic cells via
+Fc(cid:5)RI and HS on phagocytes.22,33 Furthermore, HRG has been HRGmodulatescelladhesion
+reported to interact with C1q18 and TSP,16,35,36 both of which are Immune cells use a variety of cell adhesion molecules to
+also involved in the uptake of apoptotic and necrotic cells.32 mediatecommunicationwithothercellsaswellasmigrationto
+Therefore, these opsonins may work in concert to potentiate the inflammatory sites. The authors of previous studies have
+removalofdying/deadcellsanddeterminethesubsequentimmune suggestedthatHRGmayplayeitherapositiveoranegativerole
+response.Indeed,recentstudiesbyMandersonetal19demonstrated in regulating cell adhesion of immune cells such as murine
+that HRG can regulate the activation of complement on necrotic Tcellsandmacrophages.6,31,43-45
+cells,possiblyviadirectinteractionwithcomplementcomponents In vitro studies with aT-cell line showed that the presence of
+suchasC1q,factorHandC4b-bindingprotein. HRGcanenhancetheadhesionandspreadingofactivatedTcells
+on plastic tissue culture plates.43 The combination of HRG and
+HRGexhibitsantimicrobialandendotoxin-neutralizing
+Zn2(cid:4) can also promote homotypic adhesion between Tcells in
+properties
+culture.44Therefore,HRGmaypositivelyregulatecelladhesion.In
+TheinnateimmunesystemoftenusesPRMs(eg,CD14,C-reactive contrast,otherinvestigatorshaveobservedaninhibitoryeffectof
+protein [CRP], C1q, and mannose binding lectin) that recognize HRG on the adhesion of immune cells, with HRG inhibiting the
+conservedmolecularpatternsonpathogensordying/deadcellsand formationofautorosettes(celladhesionbetweenmurinelympho-
+aidtheirclearancebyphagocytes.32Inadditiontodying/deadcell cytes and autologous erythrocytes).6,45 Furthermore, studies by
+removal,HRGandpeptidesderivedfromtheHRRofHRGhave Olsenetal44showedthatinthepresenceofZn2(cid:4),HRGinhibitsthe
+beenshowntoexertantimicrobialactivities.37-40 adherence of a T-cell line to tissue culture plastic, as well as to
+Similar to other histidine-rich and heparin-binding peptides, extracellularmatrix(ECM)components(eg,laminin,collagen,or
+peptidesderivedfromtheHRRofHRG,suchasthe20merpeptide fibronectin)coatedtoculturedishes.Similarly,Changetal31found
+(GHHPH),wereabletobindtoheparin37andexertantimicrobial thatprolongedtreatmentofmacrophageswithHRGreducestheir
+4
+activityagainsttheGram-positivebacteriaEnterococcusfaecalis, spreadingandadherencetoplasticwells.Althoughthemolecular
+the Gram-negative bacteria Escherichia coli,37 and the fungus mechanisms underlying the diverse effects of HRG on cell
+Candidaalbicans39,40underacidicconditionsorinthepresenceof adhesionareunclear,theauthorsofrecentstudieshavesuggested
+Zn2(cid:4).Furthermore,unlikethecloselyrelatedcystatinsuperfamily that HRG can directly interact with F-typeATP synthase on the
+member high-molecular-weight kininogen (HMWK), which re- surfaceofaT-cellline,possiblyviatheN1domain,topromotecell
+quires proteolytic cleavage by elastase to generate antimicrobial adhesionandmorphologicchangesinducedbyconcanavalinA.24,51
+fragments/peptides,41intactplasma-derivedandrecombinantHRG Inaddition,HRGandpeptidesderivedfromtheHRRofHRGwere
+were able to exert antibacterial37 and antifungal effects.40 In the demonstrated to modulate signal transduction events that are
+presenceofZn2(cid:4)oratlowpH,intactHRGwasabletobindand important in regulating cytoskeletal organization of endothelial
+trigger membrane destabilization, as well as the release of the cells,52,53 as well as interfering with (cid:3) V (cid:9) 3 integrin-mediated
+cytoplasmic contents of whole bacteria and fungi. However, the adhesionofendothelialcellstovitronectin.52
+HRR seems to be essential for this process as recombinant HRG
+containingonlythe2N-terminalcystatin-likeregionsshowedno
+antimicrobialactivity.37,40Recently,theantimicrobialroleofHRG
+wasvalidatedinvivobytheuseofHRG-deficient(HRG(cid:8)/(cid:8))mice, TheroleofHRGinvascularbiology
+withHRG(cid:8)/(cid:8)micebeingfoundtobemoresusceptibletoCandida
+RegulationofangiogenesisbyHRG
+albicans and Streptococcus pyogenes infections than their wild-
+typecounterparts(Table1).6,17-20,22,25,26,28,33,38,40,42-50 Angiogenesis,theformationofnewbloodvesselsfrompreexisting
+Thecationicityofmanyantimicrobialpeptidesisknowntobe vasculature, is essential in maintaining the delivery of sufficient
+critical for the initial electrostatic attraction of peptides to the oxygenandnutrientstoallcellswithinanorganism.Angiogenesis
+highlyelectronegativesurfaceofbacteriaandfungi,aswellasthe is tightly regulated by a multitude of endogenous activators and
+ability of peptides to traverse the microbial plasma membrane to inhibitors, and involves numerous cell types. HRG and peptides
+aid pathogen killing via either membrane- or nonmembrane- derived from the HRR of HRG have been shown to exhibit both
+disruptive mechanisms. Although no bacterial ligand(s) of HRG pro-and/oranti-angiogenicproperties,dependingontheexperimen-
+haveyetbeenidentified,onecouldspeculatethatthecationicityof talsystemsused.23,46,52-56
+the HRR may play an important role because the antimicrobial Onepotentialmolecularmechanismunderpinningtheproangio-
+effects of HRG and the HRR-derived peptides were highly geniceffectsofHRGinvolvesitsstronginteractionwithTSP.TSP
+dependentonlowpHorthepresenceofZn2(cid:4),37,40bothofwhich is a multifunctional homotrimeric (cid:3)-granule glycoprotein that
+Downloaded
+from
+http://ashpublications.org/blood/article-pdf/117/7/2093/1491711/zh800711002093.pdf
+by
+guest
+on
+24
+March
+2026
+--- Page 4 ---
+(cid:1)
+2096 POONetal BLOOD,17FEBRUARY2011 VOLUME117,NUMBER7
+Table1.InvivostudiesdemonstratingaroleforHRGinseveralphysiologicalandpathologicalconditions
+Properties Experimentalobservations/futuredirections Reference
+RoleofHRGinimmunity
+Antifungal IncreasedsusceptibilitytofungalinfectioninHRG-deficientmice 40
+AtpH5.5(pathologicalpHofthewoundedorinfectedfoci)andinthepresenceofzinc,HRG
+exhibitsantifungalactivityinaconcentration-dependantmanner.
+TheHRRtethersHRGtotheergosterol-containingcellwall,resultinginlysisofthetargetcell.
+HRG-deficientmiceexposedtoCandidaalbicanshaveasignificantlygreaterrateoffatality,
+withexaggeratedfungalloadinlymphoidorgans.
+Antibacterial HRGprotectsmicefromStreptococcuspryrogenesinfection 38
+AtpH5.5,HRGlysesStreptococcuspyrogenesviatheHRR.
+TheantifibrinolyticpropertiesofHRGenableittocontainbacteriainafibrinclotandits
+antibacterialactivitymaybeexerteddirectlyintheclot.
+HRGalsoorchestratesthecontainmentofbacteriaattheinfectionfocibymodulatingthe
+chemotaxisofneutrophils/macrophagesandtheefficientformationofanabscess.
+Endotoxin-neutralizingeffects InvitrodatasuggestthatHRG-deficientmicewillbemoresusceptibletosepticshock. 42
+RegulationofT-celladhesion InvitrodatasuggestthatHRG-deficientmicewillhaveanalteredimmuneresponseastheresult 6,43-45
+ofadysregulationinT-cellmigrationandinteractionwithantigenpresenting
+cells/endothelium.
+Apoptoticandnecroticcellclearance InvitrodatasuggestthatHRG-deficientmice(inparticularagedmice)arelikelytodevelop 22,25,26,33
+autoimmunityastheresultofimpairmentinapoptoticandnecroticcelluptake.
+InvitrodataalsosuggestthatHRG-deficientmicemayhaveadelayedresponsetonecrotic
+cell-inducedinflammation.
+Formationofimmunecomplexes InvitrodatasuggestthatHRG-deficientmicearelikelytodevelopdiseasessuchasarthritis, 18-20,28
+vasculitis,andglomerulonephritisastheresultofanaccumulationofinsolubleimmune
+complexes.
+RoleofHRGinvascularbiology
+Proangiogenic(indirect) HRGinhibitsantiangiogenicactivityofTSP-1 17,46
+InbothinvivocornealangiogenesisassayandMatrigelplugassayonC57BL/6mice,HRG
+reversestheinhibitoryeffectofTSP-1onbFGF-inducedneovascularization.
+InhibitionofvasculostatinbyCLESHmotifonHRGpromotesbraintumorformation
+Whencoexistingatthetumorsite,HRGabrogatestheantiangiogenicactivityofvasculostatin,
+resultinginenhancedglioblastomavolumeinathymicnudemiceimplantedwithLN229
+gliomacellssubcutaneouslyorintracranially.
+Histologicalanalysisofmousebraintumorspecimenshowsmarkedlevelof
+neovascularizationinthepresenceofHRG.
+Antiangiogenic HRGinhibitsvascularizationandtumorestablishment 47-49
+ThetumorvolumeofsubcutaneouslyinoculatedT241fibrosarcomacellsinC57BL/6miceis
+significantlyreducedby60%-70%afterHRGtreatment.ThepresenceofHRGincreases
+theincidenceofapoptosisandreducescellproliferationatthetumorsite.
+InaRCAS/TV-Ainvivomousebraintumormodel,HRGimpairsgrowthofexperimental
+glioblastomawithnonoticeableeffectoncellproliferation.
+Byabrogatingprimaryendothelialcelladhesionandrearrangementoffocaladhesionsinvitro,
+HRGmayinhibittumorvascularizationviathesamemechanisminvivo.
+ThereleaseofHRRfragmentsfromHRGviaproteolyticcleavageisessentialforits
+antichemotacticpropertiesinvivo.
+InaRip1-Tag2pancreatic(cid:9)-celltumormodel,tumorangiogenesisisenhancedinHRG-
+deficientmice.
+Anticoagulantandantifibrinolyticmodifier EnhancedbloodcoagulationandfibrinolysisinHRG-deficientmice 50
+TheformationofblotclotsisenhancedintheabsenceofplasmaHRGbecauseHRG-deficient
+miceexhibitshorterprothrombintimeandshorterbleedingtime.
+HRGisantifibrinolyticasthepresenceofHRGreducesthelysisoffibrinclots.
+bFGFindicatesbasicfibroblastgrowthfactor;HRG,histidine-richglycoprotein;HRR,histidine-richregion;andTSP-1,thrombospondin-1.
+inhibits angiogenesis through its interaction with the signaling mediated through the vasculostatin-CD36 interaction.17 For both
+receptorCD36,whichdeliversanantiangiogenicsignalthatblocks TSPandvasculostatin,theirinteractionwithHRGisthoughttobe
+basic fibroblast growth factor (bFGF)–induced angiogenesis.46 mediatedviathetype-1repeatsofTSP-1.17,46
+HRGwasinitiallyfoundtobindTSPwithhighaffinity16andwas Incontrast,HRGandpeptidesderivedfromtheHRRofHRG
+abletoformatrimolecularcomplexwithplasminogenandTSP.35 were able to induce potent antiangiogenic effects both in vitro
+StudiesbySimantovetal46showedthatHRGcontains2CLESH andinvivoviaseveralmechanisms.HRGwasshowntoinhibit
+motifs that resemble the TSPbinding motif on CD36, and HRG angiogenesis by modulating various signaling events that are
+was proposed to aid bFGF-induced angiogenesis by interfering important for endothelial cell survival, proliferation, and cell
+withTSP-CD36–mediatedantiangiogenicsignaling.46,56Similarly, migration. For example, HRG was demonstrated to inhibit
+HRGwasshownrecentlytobindspecificallytovasculostatin,the proliferation and induce apoptosis in endothelial cells in vitro
+soluble antiangiogenic domain of brain angiogenesis inhibitor 1, viatheactivationofcaspase-3.55AlthoughstudiesbyOlssonet
+viatheCLESHmotifonHRGandblocktheantiangiogeniceffects al47alsoshowedthattumorsinHRG-treatedmicehavereduced
+Downloaded
+from
+http://ashpublications.org/blood/article-pdf/117/7/2093/1491711/zh800711002093.pdf
+by
+guest
+on
+24
+March
+2026
+--- Page 5 ---
+(cid:1)
+BLOOD,17FEBRUARY2011 VOLUME117,NUMBER7 HISTIDINE-RICHGLYCOPROTEIN 2097
+vascularization, increased apoptosis, and decreased proliferation activators, inhibitors, cofactors, and receptors to ensure precise
+(Table1),HRGhadnoapparenteffectonthesurvivalorgrowthof prevention of blood loss and unnecessary blockage of vessels.
+endothelialcellsinvitro.Thiseffectwaspossiblyattributabletoan Duringcoagulation,exposureofdamagedvascularsurfacesresults
+unlimited supply of oxygen and nutrients in in vitro cultures intheinitialformationofa“plateletplug,”whichultimatelyleads
+comparedwiththevasculatureoftumorcellsinvivo.Furthermore, to the generation of thrombin and the formation of a thrombus
+HRG can directly transduce antiangiogenic signals by interacting throughthrombin-mediatedconversionoffibrinogentofibrin,and
+with tropomyosin expressed on endothelial cells after bFGF by platelet activation. During fibrinolysis, the key fibrinolytic
+activation.23HRGcanalsoreducechemotaxisofprimaryendothe- protease plasmin, is generated via proteolytic processing of the
+lial cells,47 possibly caused by rearrangement of focal adhe- plasmazymogenplasminogenbytissue-typeplasminogenactiva-
+sion,47,52,53disruptionofcytoskeletalorganization,52,53inhibitionof tor and urokinase-type plasminogen activator. Interestingly, HRG
+tubeformation,53andreductionincellattachment.47,52Themolecu- hasbeenshowntointeractwithcomponentsofboththecoagula-
+larmechanismsunderlyingtheeffectsofHRGontheendothelial tionandfibrinolyticsystems,thuspotentiallyplayinganimportant
+cellcytoskeletonwassuggestedtoinvolvesignalingeventsmedi- roleinregulatinghemostasis.1,13,15,57,64,65
+ated through integrin-linked kinase52 and focal adhesion ki- SecondtoantithrombinIII,HRGisoneofthemostabundant
+nase,47,52,53whichcouldmodulateprocessesthatareimportantfor heparin-binding proteins in human plasma. HRG binds heparin
+angiogenesis such as lamellopodia formation, polarization and withhighaffinity1,64andwasshowntoneutralizetheanticoagulant
+migration.52Importantly,theantiangiogenicpropertiesofHRGcan activity of heparin by preventing the formation of heparin-
+bemediatedsolelyviatheHRR/PRRregion55orpeptidesderived antithrombin III complexes that inhibit activated coagulation
+from the HRR of HRG.47,52-54 More recently, the presence of a factorssuchasthrombin.64,66-68Furthermore,thepresenceofZn2(cid:4)
+proteolyticderivedpeptidecorrespondingtotheHRRofHRGwas thatisreleasedbyactivatedplatelets,69canpotentiatetheinterac-
+identified in human tissues, supporting the notion that HRG can tion between HRG and heparin,21,64 and the ability of HRG to
+functionasanendogenousregulatorofangiogenesis.48 neutralize heparin.70,71 Interestingly, HRG can also interact with
+TheroleofHRGinregulatingangiogenesisisfurthercompli- fibrinogenandbeincorporatedintofibrinclots.15Althoughitwas
+catedbyitsabilitytomodulatetheactivityofdegradativeenzymes observed that HRG had no effect on the extent of fibrinogen
+such as the plasminogen/plasmin system that could in turn influ- conversion into fibrin by thrombin during the formation of fibrin
+encetheformationofnewvesselsduringangiogenesis.Extracellu- clots, the presence of HRG did retard the rate of conversion of
+larproteasessuchasmatrixmetalloproteasesandtheplasminogen/ fibrinogentofibrin.15
+plasmin system are critical in the remodeling of the ECM during As mentioned previously, HRG binds strongly to the lysine-
+vesselsproutingandtheresolutionphaseofangiogenesis.Numer- binding site on plasminogen,13 possibly via its C-terminal lysine
+ous investigators13,57-60 have demonstrated a strong interaction residues.57,60Initially,HRGwasproposedtobeanantifibrinolytic
+between HRG and plasminogen, which can either positively or agent by interfering with plasminogen interacting with binding
+negatively regulate the activation of plasminogen to the serine partnersthatareimportantforitsactivation,13suchasfibrinogen,
+protease plasmin via plasminogen activators. Furthermore, HRG fibrin, integrin (cid:3) (cid:9), and annexin 2. It is interesting to note that
+M 2
+can regulate the function of another important ECM remodeling HRGhasbeensuggestedtoinhibitfibrinogen-dependentplasmino-
+enzyme, the HS-degrading endo-(cid:9)-D-glucuronidase, Heparanase, gen activation58 or have no apparent effect on fibrin-dependent
+by both masking the cleavage sites of ECM HS61 and directly plasminogen activation72 in solution. In contrast, HRG has also
+regulatingtheenzymaticactivityofHeparanase.14 beensuggestedtofunctionasasolubleplasminogenreceptorthat
+In addition, it is possible that HRG could exhibit pro- or aidsplasminogenactivationbytetheringplasminogentoglycosami-
+antiangiogenic effects through controlling the availability of HS- noglycans-coated surfaces58 and cell surfaces.59 Interestingly, re-
+bindinggrowthfactorssuchasFGF(anangiogenesisactivator)to centstudiesbyPoonetal65demonstratedthatproteolyticcleavage
+endothelial cells. Studies by Brown and Parish62 have demon- of HRG by plasmin at specific sites may present a feedback
+strated that HRG can compete with FGF for binding HS on cell mechanism to regulate the effects of HRG on the plasminogen/
+surfaces, which results in inhibition of the mitogenic activity of plasminsystem.
+FGFbypreventingcellsurfaceHSservingasacoreceptorforFGF. ThephysiologicroleofHRGinhemostasiswastosomeextent
+Alternatively,HRGcouldaidangiogenesisbydisplacingbiologi- resolvedbythegenerationofHRG(cid:8)/(cid:8)micebyTsuchida-Straeten
+callyactiveFGFsequesteredbytheHScomponentoftheECM.62 etal.50ThisstudysuggestedthatHRGhasbothanticoagulationand
+TheabilityofHRGtoprotecttheHeparanase-sensitiveareasofHS antifibrinolyticpropertiesinvivo(Table1).HRG(cid:8)/(cid:8)miceshowed
+alsosuggestsapotentialroleforHRGineitherlimitingangiogen- asignificantlyshorterplasmaprothrombintimeandshorterbleed-
+esis by inhibiting Heparanase-mediated release of HS-binding ingtimesthanHRG(cid:4)/(cid:4)mice,whichindicatesacceleratedextrinsic
+growthfactorsfromtheECMHSorbyfacilitatingangiogenesisby clotting in HRG(cid:8)/(cid:8) mice.50 HRG(cid:8)/(cid:8) mice also have enhanced
+preventingcleavageofendothelialcellsurfaceHS,whichservesas fibrinolysis, whereby fibrin clots were lysed more rapidly in
+a coreceptor for FGF signaling.61 However, the observation that HRG(cid:8)/(cid:8)micecomparedwithHRG(cid:4)/(cid:4)mice.50
+HRGcanbinddirectlytoHeparanaseandpotentiateitsenzymatic
+TheroleofHRGincancerprogression
+activity14addsanotherlevelofcomplexitytotheregulationofthe
+bioactivityofHS-bindinggrowthfactorsbyHRG.Moreover,the Tumorigenesisisknowntobeamultistepprocessthatinvolvesa
+high-affinityinteractionbetweenHRGandheparinalsolimitsthe variety of genetic alterations, which can progressively transform
+formation and activities of proangiogenic HMGB1-heparin and normal cells into aggressive malignant derivatives. During the
+VEGF-A 165 -heparincomplexes.63 processoftransformation,cancercellsoftenhijacknormalphysi-
+ologic processes to facilitate growth and metastasis, such as the
+RegulationofcoagulationandfibrinolysisviaHRG
+ability to induce angiogenesis to maintain tumor survival and to
+Blood clotting (coagulation) and the dissolution of fibrin clots invade adjacent or distal tissues by modulating cell adhesion
+(fibrinolysis) are tightly regulated by a range of substrates, molecules and extracellular degradative enzymes. The ability of
+Downloaded
+from
+http://ashpublications.org/blood/article-pdf/117/7/2093/1491711/zh800711002093.pdf
+by
+guest
+on
+24
+March
+2026
+--- Page 6 ---
+(cid:1)
+2098 POONetal BLOOD,17FEBRUARY2011 VOLUME117,NUMBER7
+Table2.FunctionalsimilaritiesbetweenHRGandotherplasmaproteins
+Functions HRG HMWK (cid:2) 2-GPI CRP SAP C1q MBL TSP-1
+Heparinbinding (cid:2) (cid:2) (cid:2) ? (cid:2) (cid:2) $ (cid:2)
+Phospholipidbinding (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2)
+DNA/nuclearstructurebinding (cid:2) ? (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) ?
+Autoantibodybinding (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) ?
+Antimicrobialactivity (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2)
+Dying/deadcellclearance (cid:2) ? (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2)
+Regulatesangiogenesis (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) ? (cid:2)
+Regulatedbyplasmincleavage (cid:2) (cid:2) (cid:2) # # # # (cid:2)
+Regulatescoagulation/fibrinolysis (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2)
+Phosphorylatedligandbinding (cid:2) ? ? (cid:2) (cid:2) ? ? ?
+Regulatedbydivalentions Zinc Zinc ? Calcium Calcium Calcium Calcium Calcium
+TSP-1ispresentintheplasmaatarelativelowconcentrationandissecretedbyfibroblasts,monocytes,andactivatedplatelets.
+(cid:2)indicatesafunctionthathasbeenreportedintheliterature;#,regulatedbyotherproteases(notplasmin);$,bindstochondroitinsulfate;(cid:9) 2-GPI,(cid:9) 2glycoproteinI;CRP,
+C-reactiveprotein;HMWK,high-molecular-weightkininogen;HRG,histidine-richglycoprotein;MBL,mannosebindinglectin;SAP,serumamyloidprotein;andTSP-1,
+thrombospondin-1.
+HRGtoregulateangiogenesis,celladhesion,cellproliferation,and influenza virus,75 which have been shown to possess negatively
+remodelingoftheECMsuggeststhatthelevelofendogenousHRG charged surfaces. Of importance, the ability of multiple different
+willinfluencetumorprogression.Indeed,recentinvivostudiesin plasmaproteinstorecognizeabroadrangeofnegativelycharged
+which the authors used a number of murine tumor models have moleculesonpathogensmayprovideaneffectivemeanofclearing
+demonstrated the ability of HRG to inhibit the growth and pathogens via different molecular mechanisms (eg, complement-
+vascularization of fibrosarcoma tumors,47 as well as the develop- vs noncomplement-based mechanisms) and thus prevent immune
+mentofmalignantglioma(Table1).49Furthermore,HRG(cid:8)/(cid:8)mice evasionbypathogens.
+were shown to exhibit enhanced tumor angiogenesis when the Furthermore,theabilityofthesefunctionallyrelatedproteinsto
+Rip1-Tag2 pancreatic tumor model was used, indicating that interact with various phospholipids may play a vital role in
+endogenous HRG can function as an antiangogenic factor.48 dying/deadcellclearance,wherebytheexposureofanionicphos-
+Contrarytothesefindings,studiesbyKlenoticetal17demonstrated pholipidsisacommoncharacteristicofmostapoptoticandnecrotic
+thattheexpressionofHRGbygliomacellsinbothsubcutaneous cells.32 Indeed, most of the proteins listed in Table 2 have been
+andorthotopicbraintumormodelsresultedinanincreaseintumor reportedtoaidtheremovalofdying/deadcells.32Interestingly,the
+size and angiogenesis, possibly by blocking the antiangiogenic ability of (cid:9)GPI to bind to various phospholipids, especially to
+2
+activityofvasculostatin(Table1). phospholipidsexposedondying/deadcells,hasbeenproposedto
+trigger the generation of autoantibodies to (cid:9) GPI and (cid:9)GPI-
+2 2
+phospholipid complexes.76 Therefore, the production of autoanti-
+SimilaritiesbetweenHRGandother bodies against plasma proteins such as HMWK,77 CRP,78 and
+HRG22,79 could be initiated by the interaction between these
+functionallyrelatedplasmaproteins
+functionallyrelatedproteinsandphospholipidsexposedondying/
+Plasma proteins are essential for a variety of normal physiologic deadcells.Itwouldbeofgreatinterestinfuturestudiestoexamine
+processes, such as coagulation, fibrinolysis, angiogenesis, tissue
+whetherimmunizationofHRG(cid:8)/(cid:8)micewithHRG-coatednecrotic
+remodeling, transport of nutrients, as well as the detection and cells or simply challenging wild-type mice with necrotic cells
+clearance of unwanted materials such as pathogens, ICs, and couldinducetheproductionofautoantibodiesagainstHRG.
+dying/deadcells.Interestingly,severalwell-characterizedmultifunc- Althoughthepresenceofautoantibodiesagainstvariousplasma
+tionalproteinsintheplasmainvolvedininnateimmunityandtissue proteins can potentially lead to the onset and maintenance of
+repair,includingHMWK,(cid:9) glycoproteinI((cid:9)GPI),CRP,serum pathologicconditions(eg,byblockingthenormalfunctionofthe
+2 2
+amyloidprotein,C1q,mannosebindinglectin,andTSP-1,appear targetedprotein,generatingexcessamountsofICsinthecircula-
+tosharemanyofthesamefunctionalpropertiesasHRG.Although tion, or depositing autoantibodies on healthy tissues), tethering
+itisnotsurprisingthatproteinsbelongingtothesamesuperfamily antibodies to pathogens via various opsonins may be beneficial
+have similar biologic properties, it is becoming apparent from during infections. Of interest, IgG autoantibodies against C1q,80
+recentliteraturethatHRGsharesmanyfunctionalsimilaritieswith (cid:9) 2 GPI,81 and possibly HRG22 often are skewed toward the IgG2
+otherstructurallyunrelatedplasmaproteins(Table2). subclass, the IgG subclass that is associated with “natural”
+Although HRG and other functionally related serum proteins antibodiesthatrecognizecarbohydratestructuresonencapsulated
+listedinTable2donotshareanysignificantsequencehomology bacteria.82 Thus, the antibodies that recognize various plasma
+(unlesstheyarefromthesamesuperfamily),mostoftheseproteins opsoninsmayrepresent“natural”antibodies,whichcouldprovide
+were reported to bind to the same endogenous ligands. The an evolutionary advantage by forming a complex with plasma
+common ligands included negatively charged molecules like opsoninsthatdetectsabroadrangeofmolecularpatternsexposed
+heparin, anionic phospholipids, and DNA. Whether these serum on pathogens or dying/dead cells and subsequently aids their
+proteinsshareasimilarproteinmotiforsimplypossesspositively removalviaanFc(cid:5)R-dependentmechanism.Indeed,Poonetal22
+charged regions that mediate ligand binding requires further have demonstrated that the formation of HRG-IgG complexes is
+investigation.Nevertheless,theirabilitytointeractwithnegatively necessarytomediatenecroticcellremoval.
+charged molecules may facilitate their interaction with various Phospholipid asymmetry on the plasma membrane of dying/
+pathogens,suchasEscherichiacoli,73Candidaalbicans,74andthe dead cells plays an important role in exposing “eat-me” signals,
+Downloaded
+from
+http://ashpublications.org/blood/article-pdf/117/7/2093/1491711/zh800711002093.pdf
+by
+guest
+on
+24
+March
+2026
+--- Page 7 ---
+(cid:1)
+BLOOD,17FEBRUARY2011 VOLUME117,NUMBER7 HISTIDINE-RICHGLYCOPROTEIN 2099
+suchasphosphatidylserine,totriggerphagocyticuptake.32Recent proteases has been proposed as a potential mechanism for the
+studies by Poon et al22 have suggested that the exposure of generation of antiangiogenic and antimicrobial fragments.37,47
+intracellular phospholipids like phosphatidylinositol 4-phosphate Thus, the activation of proteases (eg, at sites of tissue injury and
+andphosphatidicacidmayfunctionasadditional“eat-me”signals remodeling)mayplayavitalroleincontrollingthemultifunctional
+to enhance necrotic cell clearance via HRG. Because most of the activities of these functionally related proteins. Because the
+proteinslistedinTable2caninteractwithphospholipids(eg,cardiolipin, proteolytic cleavage of these proteins is often found to produce
+phosphatidylethanolamine, and phosphatidylserine) and have been fragments with antiangiogenic and antimicrobial activities, it
+proposedtorecognizepermeabilizedcells,32itisofparticularinterestto would be of great interest to examine whether the cleaved
+investigatewhethertheseplasmaopsoninscanalsobindtophosphatidyl- fragmentsofthesefunctionallyrelatedproteinsexhibitoverlapping
+inositol4-phosphateandphosphatidicacid. ordistinctproperties.
+Besides simply binding negatively charged phospholipids, the
+abilityofHRGtointeractwithphosphatidylinositolmoleculesthat
+are phosphorylated at a specific position on the inositiol ring22 Concludingremarks
+suggests the potential role of the phospho-moiety in mediating
+HRG recognition. The ability of phosphorylated molecules to In healthy human adults, soluble proteins of the innate immune
+function as a novel “danger” signal to indicate the presence of systemandproteinsthatmaintainthehomeostasisofthevascular
+permeabilized cells, is an attractive hypothesis because protein system are often present at a relatively high concentration
+phosphorylation does not usually occur extracellularly except ((cid:10)100(cid:2)g/mL) in the plasma to provide immediate responses to
+during specific physiologic processes such as neurite outgrowth, foreignpathogensandvasculardamage.Likewise,HRGispresent
+synapse/bone formation, and myogenic differentiation.83 Thus, in human plasma at approximately 100-150(cid:2)g/mLand has been
+similar to a chemokine/cytokine gradient, the release of protein implicatedinnumerousbiologicfunctions.Interestingly,HRGwas
+complexes containing phosphorylated proteins and kinases that foundtobeanegativeacutephasereactant,94andcirculatingHRG
+mayphosphorylatethelocalextracellularenvironment,canpoten- levels are significantly lower during acute inflammation95 and in
+tiallygenerateaphosphorylationgradientthatmayaidtherecruit- patientswithsystemiclupuserythematosus.96Theseobservations
+mentofleukocytestothesiteofnecroticcelldeath.BecauseCRP84 suggest that HRG is actively involved in acute inflammation as
+and serum amyloid protein85 have also been shown to bind well as chronic autoimmune diseases. Although the authors of
+phosphorylated carbohydrates, possibly on the surface of patho- severalclinicalstudieshavereportedthatelevatedorreducedHRG
+gens,thesefunctionallyrelatedproteinsmayplayanimportantrole levels in patients also are associated with various thrombotic
+indetectingthepresenceofdying/deadcellsandmicroorganisms diseases,97,98familieswithcongenitalHRGdeficiencies(20%-35%
+viatherecognitionofphosphorylatedmolecules. ofnormalplasmalevel)failtoshowanyapparentabnormalitiesin
+In addition to pathogen and dying/dead cell recognition, routinelaboratoryassaysofhemostaticandimmunologicfunction,
+exposureofnegativelychargedsurfacesmayalsoaidtheactivation suggestingthatHRGat20%normalplasmalevelsisadequateto
+ofthekallikrein-kininsystem(KKS),whichmayplayanimportant maintain normal physiologic functions.99 Nevertheless, recent
+role in regulating coagulation at sites of tissue destruction or a studiesinwhichtheauthorsusedHRG(cid:8)/(cid:8)micehavedemonstrated
+developing thrombus, as well as other physiologic processes, that HRG is an important factor for efficient clearance of fungal
+includingbloodpressureandflow,cellproliferation,angiogenesis, andbacterialinfections38,40andmayplayaminorroleinregulating
+apoptosis, and inflammation.86 The KKS consists of 3 “contact hemostasis.50 In contrast, whether HRG plays a predominately
+factors,”namelythe2zymogens,factorXIIandprekallikrein,and proangiogenic or antiangiogenic role in vivo under normal and
+thesubstrate/cofactor,HMWK.86AlthoughtheKKSwasoriginally pathologicconditionsremainsuncertainbecauseconflictingresults
+describedasasurface-activatedcoagulationsystemthatoccurson havebeenreportedwiththeuseofavarietyofmousemodels.17,46-49
+negatively charged surfaces, the assembly and activation of the Furthermore,becausemostHRGfunctionshavebeenproposedon
+KKShasalsobeenshowntoinvolveothercellsurfacemolecules, the basis of in vitro observations in which purified native/
+suchasglobularheadsofcomplementC1q,urokinase-typeplasmin- recombinant protein, protein fragments, or synthetic peptides are
+ogenactivatorreceptor,cytokeratin1,andtropomysin.86Interest- used,itisimperativetovalidatewhetherHRGistrulyamultifunc-
+ingly, besides being identified as a member of the cystatin tional protein in both immunity and vascular biology using
+supergene-family,87HRGseemstosharesomestrikingsimilarities HRG(cid:8)/(cid:8) mice (Table 1). Of importance, whether HRG simply
+with HMWK, namely the ability of HRG to bind negatively functionsasaregulatororisakeymoleculeineitheranonredun-
+chargedmolecules1,21,22,25andtropomysin,54aswellasthesensitiv- dantorredundantpathwayremainstobedetermined.
+ity of HRG to kallikrein-mediated proteolytic cleavage.88 Thus, As described for the first time in this review, a picture is
+whether HRG participates in the KKS and regulates various emerging of HRG being one member of an array of structurally
+biologicprocessesthroughtheKKSwarrantsfurtherinvestigation. distinct but functionally related plasma molecules. This novel
+TheabilityofproteasestoregulatethefunctionofHRG65and familyofmultifunctionalplasmaproteinislikelytoplayacritical
+otherfunctionallyrelatedproteinsisanothercommonfeaturethat role in recognizing common molecular “danger” signals in the
+issharedbytheseplasmaproteins.Acombinationofplasmin-and innate response that protects against tissue damage and pathogen
+kallikrein-mediatedcleavageofHMWKmayaidthegenerationof invasionaswellasaidingwoundhealing.
+kinins,89 which are potent vasodilator oligopeptides that can
+regulatedbloodpressureandinflammation.90Proteolyticcleavage
+ofHMWKcanalsogenerate2-chainHMWKthatinhibitsangiogen- Acknowledgments
+esis.91Furthermore,cleavageof(cid:9) GPIbyplasmin92andpolymor-
+2
+phonuclear neutrophil-derived proteases93 has been shown to ThisworkwasfundedbythefollowingAustralianNationalHealth
+regulatetheabilityof(cid:9)GPItoexhibitantiangiogenicandantibac- andMedicalResearchCouncilResearchgrants:209618,455395,
+2
+terialactivities.Similarly,cleavageofHRGbyplasminandother 471424,and418008.
+Downloaded
+from
+http://ashpublications.org/blood/article-pdf/117/7/2093/1491711/zh800711002093.pdf
+by
+guest
+on
+24
+March
+2026
+--- Page 8 ---
+(cid:1)
+2100 POONetal BLOOD,17FEBRUARY2011 VOLUME117,NUMBER7
+Correspondence:ProfessorChristopherParish,TheJohnCurtin
+Authorship
+School of Medical Research, Bldg 131, Australian National
+Contribution:I.K.H.P.,C.R.P.,andM.D.H.designedandwrotethe University, Garran Rd,Acton, Canberra, 2601,Australia; e-mail:
+manuscript; and I.K.H.P., K.K.P., and D.S.D. performed the Christopher.Parish@anu.edu.au; and Mark Hulett, Department of
+literature review and designed the original figures and tables Biochemistry,LaTrobeInstituteforMolecularScience,LaTrobe
+describedinthemanuscript. University, Physical Sciences 4 Bldg, Kingsbury Dr, Bundoora,
+Conflict-of-interestdisclosure:Theauthorsdeclarenocompet- Melbourne,3086,Australia;e-mail:m.hulett@latrobe.edu.au.
+ingfinancialinterests.
+References
+1. HeimburgerN,HauptH,KranzT,BaudnerS.Hu- 16. LeungLL,NachmanRL,HarpelPC.Complex tor-mediatedphagocytosis.Immunology.1994;
+manserumproteinswithhighaffinitytocar- formationofplateletthrombospondinwithhisti- 81(2):296-302.
+boxymethylcellulose.II.Physicochemicalandim- dine-richglycoprotein.JClinInvest.1984;73(1): 31. ChangNS,LeuRW,RummageJA,AndersonJK,
+munologicalcharacterizationofahistidine-rich 5-12. MoleJE.RegulationofmacrophageFcreceptor
+3,8S-2-glycoportein(CM-proteinI)[inGerman]. 17. KlenoticPA,HuangP,PalomoJ,etal.Histidine- expressionandphagocytosisbyhistidine-rich
+HoppeSeylersZPhysiolChem.1972;353(7): richglycoproteinmodulatestheanti-angiogenic glycoprotein.Immunology.1992;77(4):532-538.
+1133-1140. effectsofvasculostatin.AmJPathol.2010; 32. PoonIK,HulettMD,ParishCR.Molecular
+2. HauptH,HeimburgerN.Humanserumproteins 176(4):2039-2050. mechanismsoflateapoptotic/necroticcellclear-
+withhighaffinityforcarboxymethylcellulose.I. 18. GorganiNN,ParishCR,EasterbrookSmithSB, ance.CellDeathDiffer.2010;17(3):381-397.
+Isolationoflysozyme,C1qand2hithertoun-
+AltinJG.Histidine-richglycoproteinbindstohu- 33. PoonIK,ParishCR,HulettMD.Histidine-richgly-
+known–globulins[inGerman].HoppeSeylersZ
+manIgGandC1qandinhibitstheformationof coproteinfunctionscooperativelywithcellsurface
+PhysiolChem.1972;353(7):1125-1132.
+insolubleimmunecomplexes.Biochemistry. heparansulfateonphagocytestopromotene-
+3. JonesAL,HulettMD,ParishCR.Histidine-rich 1997;36(22):6653-6662. croticcelluptake.JLeukocBiol.2010;88(3):559-
+glycoprotein:anoveladaptorproteininplasma 19. MandersonGA,MartinM,OnnerfjordP,etal.In- 569.
+thatmodulatestheimmune,vascularandcoagu-
+teractionsofhistidine-richglycoproteinwithim- 34. MevorachD,MascarenhasJO,GershovD,ElkonKB.
+lationsystems.ImmunolCellBiol.2005;83(2):
+munoglobulinsandproteinsofthecomplement Complement-dependentclearanceofapoptotic
+106-118.
+system.MolImmunol.2009;46(16):3388-3398. cellsbyhumanmacrophages.JExpMed.1998;
+4. NairPS,RobinsonWE.Purificationandcharac- 188(12):2313-2320.
+20. GorganiNN,AltinJG,ParishCR.Histidine-rich
+terizationofahistidine-richglycoproteinthat
+glycoproteinregulatesthebindingofmonomeric 35. SilversteinRL,LeungLL,HarpelPC,NachmanRL.
+bindscadmiumfromthebloodplasmaofthebi-
+IgGandimmunecomplexestomonocytes.Int Plateletthrombospondinformsatrimolecularcom-
+valveMytilusedulis.ArchBiochemBiophys.
+Immunol.1999;11(8):1275-1282. plexwithplasminogenandhistidine-richglycopro-
+1999;366(1):8-14.
+tein.JClinInvest.1985;75(6):2065-2073.
+21. JonesAL,HulettMD,ParishCR.Histidine-rich
+5. KoideT,FosterD,YoshitakeS,DavieEW.Amino glycoproteinbindstocell-surfaceheparansulfate 36. WalzDA,Bacon-BaguleyT,Kendra-FranczakS,
+acidsequenceofhumanhistidine-richglycopro- viaitsN-terminaldomainfollowingZn2(cid:4)chela- DePoliP.Bindingofthrombospondintoimmobi-
+teinderivedfromthenucleotidesequenceofits tion.JBiolChem.2004;279(29):30114-30122. lizedligands:specificinteractionwithfibrinogen,
+cDNA.Biochemistry.1986;25(8):2220-2225. plasminogen,histidine-richglycoprotein,andfi-
+6. SiaDY,RylattDB,ParishCR.Anti-selfreceptors. 22. PoonIK,HulettMD,ParishCR.Histidine-richgly- bronectin.SeminThrombHemost.1987;13(3):
+V.Propertiesofamouseserumfactorthatblocks coproteinisanovelplasmapatternrecognition 317-325.
+autorosettingreceptorsonlymphocytes.Immu- moleculethatrecruitsIgGtofacilitatenecroticcell 37. RydengårdV,OlssonAK,MorgelinM,SchmidtchenA.
+nology.1982;45(2):207-216. clearanceviaFc{gamma}RIonphagocytes. Histidine-richglycoproteinexertsantibacterial
+Blood.2010;115(12):2473-2482.
+7. LeungLL,HarpelPC,NachmanRL,RabellinoEM. activity.FEBSJ.2007;274(2):377-389.
+Histidine-richglycoproteinispresentinhumanplate- 23. GuanX,JuarezJC,QiX,etal.Histidine-proline 38. ShannonO,RydengårdV,SchmidtchenA,etal.
+letsandisreleasedfollowingthrombinstimulation. richglycoprotein(HPRG)bindsandtransduces Histidine-richglycoproteinpromotesbacterialen-
+Blood.1983;62(5):1016-1021. anti-angiogenicsignalsthroughcellsurfacetro- trapmentinclotsanddecreasesmortalityina
+pomyosinonendothelialcells.ThrombHaemost.
+8. vandenBergEA,leClercqE,KluftC,etal.As- mousemodelofsepsis.Blood.2010;116(13):
+2004;92(2):403-412.
+signmentofthehumangeneforhistidine-richgly- 2365-2372.
+coproteintochromosome3.Genomics.1990; 24. OhtaT,IkemotoY,UsamiA,KoideT,WakabayashiS. 39. KacprzykL,RydengårdV,MorgelinM,etal.Anti-
+7(2):276-279. Highaffinityinteractionbetweenhistidine-rich microbialactivityofhistidine-richpeptidesisde-
+glycoproteinandthecellsurfacetypeATPsyn-
+9. KoideT,OdaniS.Histidine-richglycoproteinis pendentonacidicconditions.BiochimBiophys
+thaseonT-cells.BiochimBiophysActa.2009;
+evolutionarilyrelatedtothecystatinsuperfamily. Acta.2007;1768(11):2667-2680.
+1788(5):1099-1107.
+PresenceoftwocystatindomainsintheN-termi- 40. RydengårdV,ShannonO,LundqvistK,etal.
+nalregion.FEBSLett.1987;216(1):17-21. 25. GorganiNN,SmithBA,KonoDH,Theofilopoulos Histidine-richglycoproteinprotectsfromsys-
+10. SørensenCB,Krogh-PedersenH,PetersenTE. AN.Histidine-richglycoproteinbindstoDNAand temicCandidainfection.PLoSPathog.2008;
+Determinationofthedisulphidebridgearrange- FcgammaRIandpotentiatestheingestionof 4(8):e1000116.
+mentofbovinehistidine-richglycoprotein.FEBS apoptoticcellsbymacrophages.JImmunol. 41. NordahlEA,RydengårdV,MorgelinM,
+Lett.1993;328(3):285-290. 2002;169(9):4745-4751. SchmidtchenA.Domain5ofhighmolecular
+11. KatagiriM,TsutsuiK,YamanoT,ShimonishiY, 26. JonesAL,PoonIK,HulettMD,ParishCR. weightkininogenisantibacterial.JBiolChem.
+IshibashiF.Interactionofhemewithasynthetic Histidine-richglycoproteinspecificallybindsto 2005;280(41):34832-34839.
+peptidemimickingtheputativeheme-bindingsite necroticcellsviaitsamino-terminaldomainand 42. BosshartH,HeinzelmannM.Endotoxin-neutralizing
+ofhistidine-richglycoprotein.BiochemBiophys facilitatesnecroticcellphagocytosis.JBiol effectsofhistidine-richpeptides.FEBSLett.2003;
+ResCommun.1987;149(3):1070-1076. Chem.2005;280(42):35733-35741. 553(1-2):135-140.
+12. MorganWT.Interactionsofthehistidine-richgly- 27. BorzaDB,TatumFM,MorganWT.Domainstruc- 43. Lamb-WhartonRJ,MorganWT.Inductionof
+coproteinofserumwithmetals.Biochemistry. tureandconformationofhistidine-proline-rich T-lymphocyteadhesionbyhistidine-proline-rich
+1981;20(5):1054-1061. glycoprotein.Biochemistry.1996;35(6):1925- glycoproteinandconcanavalinA.CellImmunol.
+13. LijnenHR,HoylaertsM,CollenD.Isolationand 1934. 1993;152(2):544-555.
+characterizationofahumanplasmaproteinwith 28. GorganiNN,AltinJG,ParishCR.Histidine-rich 44. OlsenHM,ParishCR,AltinJG.Histidine-richgly-
+affinityforthelysinebindingsitesinplasminogen. glycoproteinpreventstheformationofinsoluble coproteinbindingtoT-celllinesanditseffecton
+Roleintheregulationoffibrinolysisandidentifica- immunecomplexesbyrheumatoidfactor.Immu- T-cellsubstratumadhesionisstronglypotentiated
+tionashistidine-richglycoprotein.JBiolChem. nology.1999;98(3):456-463. byzinc.Immunology.1996;88(2):198-206.
+1980;255(21):10214-10222. 29. GorganiNN,ParishCR,AltinJG.Differential 45. RylattDB,SiaDY,MundyJP,ParishCR.Autoro-
+14. PoonIK,YeeDY,JonesAL,etal.Histidine-rich bindingofhistidine-richglycoprotein(HRG)to setteinhibitionfactor:isolationandpropertiesof
+glycoproteinbindsheparanaseandregulatesits humanIgGsubclassesandIgGmoleculescon- thehumanplasmaprotein.EurJBiochem.1981;
+enzymaticactivityandcellsurfaceinteractions. tainingkappaandlambdalightchains.JBiol 119(3):641-646.
+IntJBiochemCellBiol.2010;42(9):1507-1516. Chem.1999;274(42):29633-29640. 46. SimantovR,FebbraioM,CrombieR,etal.
+15. LeungLL.Interactionofhistidine-richglycopro- 30. ChangNS,LeuRW,AndersonJK,MoleJE.Role Histidine-richglycoproteininhibitstheantiangio-
+teinwithfibrinogenandfibrin.JClinInvest.1986; ofN-terminaldomainofhistidine-richglycoprotein geniceffectofthrombospondin-1.JClinInvest.
+77(4):1305-1311. inmodulationofmacrophageFcgammarecep- 2001;107(1):45-52.
+Downloaded
+from
+http://ashpublications.org/blood/article-pdf/117/7/2093/1491711/zh800711002093.pdf
+by
+guest
+on
+24
+March
+2026
+--- Page 9 ---
+(cid:1)
+BLOOD,17FEBRUARY2011 VOLUME117,NUMBER7 HISTIDINE-RICHGLYCOPROTEIN 2101
+47. OlssonAK,LarssonH,DixeliusJ,etal.Afrag- ingpropertiesofhumanhistidine-richglycopro- anoveltargetforpharmacologicalmanipulation?
+mentofhistidine-richglycoproteinisapotentin- tein.Mechanismandroleintheneutralizationof TrendsPharmacolSci.1999;20(11):453-459.
+hibitoroftumorvascularization.CancerRes. heparininplasma.JBiolChem.1983;258(6): 84. CulleyFJ,HarrisRA,KayePM,McAdamKP,
+2004;64(2):599-605. 3803-3808. RaynesJG.C-reactiveproteinbindstoanovel
+48. ThulinA,RingvallM,DimbergA,etal.Activated 65. PoonIK,OlssonAK,HulettMD,ParishCR. ligandonLeishmaniadonovaniandincreases
+plateletsprovideafunctionalmicroenvironment Regulationofhistidine-richglycoprotein(HRG) uptakeintohumanmacrophages.JImmunol.
+fortheantiangiogenicfragmentofhistidine-rich functionviaplasmin-mediatedproteolyticcleav- 1996;156(12):4691-4696.
+glycoprotein.MolCancerRes.2009;7(11):1792- age.BiochemJ.2009;424(1):27-37. 85. LovelessRW,Floyd-O’SullivanG,RaynesJG,
+1802. 66. LijnenHR,VanHoefB,CollenD.Histidine-rich YuenCT,FeiziT.HumanserumamyloidPisa
+49. Ka¨rrlanderM,LindbergN,OlofssonT,etal. glycoproteinmodulatestheanticoagulantactivity multispecificadhesiveproteinwhoseligandsin-
+Histidine-richglycoproteincanpreventdevelop- ofheparininhumanplasma.ThrombHaemost. clude6-phosphorylatedmannoseandthe3-sul-
+mentofmouseexperimentalglioblastoma.PLoS 1984;51(2):266-268. phatedsaccharidesgalactose,N-acetylgalac-
+ONE.2009;4(12):e8536. 67. LijnenHR,vanHoefB,CollenD.Interactionof tosamineandglucuronicacid.EMBOJ.1992;
+50. Tsuchida-StraetenN,EnsslenS,SchaferC,etal. heparinwithhistidine-richglycoproteinandwith 11(3):813-819.
+Enhancedbloodcoagulationandfibrinolysisin antithrombinIII.ThrombHaemost.1983;50(2): 86. SchmaierAH,McCraeKR.Theplasmakallikrein-
+micelackinghistidine-richglycoprotein(HRG). 560-562. kininsystem:itsevolutionfromcontactactivation.
+JThrombHaemost.2005;3(5):865-872. 68. LijnenHR,HoylaertsM,CollenD.Neutralization JThrombHaemost.2007;5(12):2323-2329.
+51. OhtaT,IkemotoY,SaekiK,KoideT,WakabayashiS. ofheparinactivitybybindingtohumanhistidine- 87. KoideT.Humanhistidine-richglycoproteingene:
+Histidine-richglycoproteinandconcanavalinA richglycoprotein.ThrombRes.1983;29(4):443- evidenceforevolutionaryrelatednesstocystatin
+synergisticallystimulatethephosphatidylinositol 446. supergenefamily.ThrombResSuppl.1988;8:91-
+3-kinase-independentsignalingpathwayinleuko- 97.
+69. AktulgaA,UlutinON.Normalhumanplateletzinc
+cytesleadingtoincreasedcelladhesionand contentanditsrelease.In:UlutinON,JonesJV, 88. SmithA,NuiryI,MorganWT.Proteolysisof
+changesincellmorphology.CellImmunol.2009; eds.RecentAdvancesinBasicResearchand histidine-richglycoproteininplasmaandinpa-
+259(1):5-12. ClinicalAspects.Amsterdam:ExcerptaMedica; tientsundergoingthrombolytictherapy.Thromb
+52. DixeliusJ,OlssonAK,ThulinA,etal.Minimalac- 1974:185-191. Res.1985;40(5):653-661.
+tivedomainandmechanismofactionofthean- 89. KleniewskiJ,BlankenshipDT,CardinAD,
+70. FuCL,HornMK.III.Histidine-richglycoprotein
+giogenesisinhibitorhistidine-richglycoprotein. DonaldsonV.Mechanismofenhancedkininre-
+pluszinctoneutralizeheparin.JLabClinMed.
+CancerRes.2006;66(4):2089-2097. leasefromhighmolecularweightkininogenby
+2002;139(4):211-217.
+53. LeeC,DixeliusJ,ThulinA,etal.Signaltransduc- plasmakallikreinafteritsexposuretoplasmin.
+tioninendothelialcellsbytheangiogenesisinhib- 71. KluszynskiBA,KimC,FaulkWP.Zincasacofac- JLabClinMed.1992;120(1):129-139.
+torforheparinneutralizationbyhistidine-richgly-
+itorhistidine-richglycoproteintargetsfocaladhe- 90. CampbellDJ.Towardsunderstandingthe
+coprotein.JBiolChem.1997;272(21):13541-
+sions.ExpCellRes.2006;312(13):2547-2556. kallikrein-kininsystem:insightsfrommeasure-
+13547.
+54. Don˜ateF,JuarezJC,GuanX,etal.Peptidesde- mentofkininpeptides.BrazJMedBiolRes.
+rivedfromthehistidine-prolinedomainofthehis- 72. HorneMK,GoadJL,MerrymanPK,Cullinane 2000;33(6):665-677.
+AM.Comparisonoftheeffectofhistidine-richgly-
+tidine-proline-richglycoproteinbindtotropomyo- 91. ZhangJC,ClaffeyK,SakthivelR,etal.Two-chain
+coproteinand6-aminohexanoicacidonplasmin
+sinandhaveantiangiogenicandantitumor highmolecularweightkininogeninducesendo-
+productionandfibrinolysisinvitro.ThrombRes.
+activities.CancerRes.2004;64(16):5812-5817. thelialcellapoptosisandinhibitsangiogenesis:
+2000;99(2):179-186.
+55. JuarezJC,GuanX,ShipulinaNV,etal. partialactivitywithindomain5.FASEBJ.2000;
+Histidine-proline-richglycoproteinhaspotent 73. ShermanP,SoniR,PetricM,KarmaliM.Surface 14(15):2589-2600.
+antiangiogenicactivitymediatedthroughthe propertiesoftheVerocytotoxin-producingEsche- 92. SakaiT,BalasubramanianK,MaitiS,HalderJB,
+histidine-proline-richdomain.CancerRes.2002; richiacoliO157:H7.InfectImmun.1987;55(8): SchroitAJ.Plasmin-cleavedbeta-2-glycoprotein
+62(18):5344-5350. 1824-1829. 1isaninhibitorofangiogenesis.AmJPathol.
+74. ParkSE,ChaoM,RajPA.Mechanicalproperties 2007;171(5):1659-1669.
+56. SimantovR,FebbraioM,SilversteinRL.Theanti-
+angiogeniceffectofthrombospondin-2ismedi- ofsurface-chargedpoly(methylmethacrylate)as 93. NilssonM,WasylikS,MorgelinM,etal.Theanti-
+atedbyCD36andmodulatedbyhistidine-rich dentureresins.IntJDent.2009;2009:841431. bacterialactivityofpeptidesderivedfromhuman
+glycoprotein.MatrixBiol.2005;24(1):27-34. 75. HuangRT.Adsorptionofinfluenzavirusto beta-2glycoproteinIisinhibitedbyproteinHand
+chargedgroupsonnaturalandartificialsurfaces. M1proteinfromStreptococcuspyogenes.Mol
+57. BorzaDB,MorganWT.Accelerationofplasmino-
+MedMicrobiolImmunol.1974;159(2):129-135. Microbiol.2008;67(3):482-492.
+genactivationbytissueplasminogenactivatoron
+surface-boundhistidine-proline-richglycoprotein. 76. LevineJS,SubangR,KohJS,RauchJ.Induction 94. SaigoK,YoshidaA,RyoR,YamaguchiN,LeungLL.
+JBiolChem.1997;272(9):5718-5726. ofanti-phospholipidautoantibodiesbybeta2- Histidine-richglycoproteinasanegativeacutephase
+glycoproteinIboundtoapoptoticthymocytes. reactant.AmJHematol.1990;34(2):149-150.
+58. BorzaDB,ShipulinaNV,MorganWT.Effectsof
+histidine-proline-richglycoproteinonplasmino- JAutoimmun.1998;11(5):413-424. 95. SaigoK,YoshidaA,SuganoW,RyoR,YamaguchiN.
+genactivationinsolutionandonsurfaces.Blood 77. SugiT,McIntyreJA.Autoantibodiestophosphati- Histidine-richglycoproteininbloodduringinflam-
+CoagulFibrinolysis.2004;15(8):663-672. dylethanolamine(PE)recognizeakininogen-PE mation,surgicaloperationorhemodialysis[in
+complex.Blood.1995;86(8):3083-3089. Japanese].RinshoKetsueki.1990;31(12):1914-
+59. JonesAL,HulettMD,AltinJG,HoggP,ParishCR.
+1919.
+Plasminogenistetheredwithhighaffinitytothecell 78. Sjo¨wallC,WetteroJ.Pathogenicimplicationsfor
+surfacebytheplasmaprotein,histidine-richglycop- autoantibodiesagainstC-reactiveproteinand 96. CastelM,HorellouMH,ConradJ,SamamaM.
+rotein.JBiolChem.2004;279(37):38267-38276. otheracutephaseproteins.ClinChimActa.2007; Immunochemicaldeterminationofhistidine-rich
+378(1-2):13-23. glycoproteininhealthysubjectsandinaclinical
+60. SaezCT,JansenGJ,SmithA,MorganWT.Inter-
+population.In:DavisdonJF,BachmannF,
+actionofhistidine-proline-richglycoproteinwith 79. Ball-RosenC,Primak-RubinoviczH,KorczynAD,
+BouvierCA,KruithofEKO,eds.ProgressinFibri-
+plasminogen:effectofligands,pH,ionicstrength, etal.Identificationofhistidine-richglycoprotein,a nolysis.Vol.6.ChurchillLivingstone:Edinburgh;
+andchemicalmodification.Biochemistry.1995; potentialautoantigen,inhumanandratbrain
+1988:370. 34(8):2496-2503. preparations.AnnNYAcadSci.2007;1109:473-
+61. FreemanC,ParishCR.Arapidquantitativeassay 483. 97. S ca o s u e to o J f C he , r G e a d r it i a M ry ,F hi a s l t k id o i n ne L - , r F ic o h n g tc ly u c b o e p r r ta ot J e . in A d n e e fi w -
+forthedetectionofmammalianheparanaseactiv- 80. HaseleyLA,WisnieskiJJ,DenburgMR,etal.An- ciencywithfamilialthrombophilia.ThrombHae-
+ity.BiochemJ.1997;325(Pt1):229-237. tibodiestoC1qinsystemiclupuserythematosus: most.1996;75(2):374-375.
+62. B an ro d w p n la K te J l , e P tf a a r c is to h r C 4 R m . a H s is k ti h d e in p e a - r r a ic n h s g u l l y fa c t o e p p ro ro te - in c a h lle a l r e a s c . te K r i i d s n ti e cs y a In n t d .1 r 9 e 9 la 7 ti ; o 5 n 2( t 5 o ): F 1 c 3 g 7 a 5 m -1 m 38 a 0 R . IIA 98. A Fa n m gl i e li s a - l C a a s n s o oc E ia , t G io r n is o J f C h , ig L h oy le a v u el S s , o S f c h h is v t e id d in J e F - . rich
+teoglycansrecognizedbyacidicandbasicfibro- 81. ArvieuxJ,RousselB,PonardD,ColombMG. glycoproteinandplasminogenactivatorinhibi-
+blastgrowthfactor.Biochemistry.1994;33(46): IgG2subclassrestrictionofanti-beta2glycopro- tor-1withvenousthromboembolism.JLabClin
+13918-13927. tein1antibodiesinautoimmunepatients.Clin Med.1993;121(5):646-653.
+63. WakeH,MoriS,LiuK,TakahashiHK,NishiboriM. ExpImmunol.1994;95(2):310-315. 99. ShigekiyoT,KanazukaM,AzumaH,etal.Con-
+Histidine-richglycoproteininhibitedhighmobility 82. BuckleyRH.ImmunoglobulinGsubclassdefi- genitaldeficiencyofhistidine-richglycoprotein:
+groupbox1incomplexwithheparin-inducedangio- ciency:factorfancy?CurrAllergyAsthmaRep. failuretoidentifyabnormalitiesinroutinelabora-
+genesisinmatrigelplugassay.EurJPharmacol. 2002;2(5):356-360. toryassaysofhemostaticfunction,immunologic
+2009;623(1-3):89-95. 83. RedegeldFA,CaldwellCC,SitkovskyMV.Ecto- function,andtraceelements.JLabClinMed.
+64. LijnenHR,HoylaertsM,CollenD.Heparinbind- proteinkinases:ecto-domainphosphorylationas 1995;125(6):719-723.
+Downloaded
+from
+http://ashpublications.org/blood/article-pdf/117/7/2093/1491711/zh800711002093.pdf
+by
+guest
+on
+24
+March
+2026

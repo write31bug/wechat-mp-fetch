@@ -1,0 +1,338 @@
+
+--- Page 1 ---
+THEJOURNALOFBIOLOGICALCHEMISTRY Vol.279,No.37,IssueofSeptember10,pp.38267–38276,2004
+©2004byTheAmericanSocietyforBiochemistryandMolecularBiology,Inc. PrintedinU.S.A.
+Plasminogen Is Tethered with High Affinity to the Cell Surface
+by the Plasma Protein, Histidine-rich Glycoprotein*
+Receivedforpublication,June1,2004,andinrevisedform,June25,2004
+Published,JBCPapersinPress,June25,2004,DOI10.1074/jbc.M406027200
+AllisonL.Jones‡,MarkD.Hulett‡§,JosephG.Altin¶,PhillipHogg(cid:1),
+andChristopherR.Parish‡**
+Fromthe‡CancerandVascularBiologyGroup,DivisionofImmunologyandGenetics,JohnCurtinSchoolof
+MedicalResearch,andthe¶SchoolofBiochemistryandMolecularBiology,AustralianNationalUniversity,
+Canberra,AustralianCapitalTerritory2601,andthe(cid:1)CentreforThrombosisandVascularResearch,
+UniversityofNewSouthWales,Sydney,NewSouthWales2033,Australia
+Plasminogenhasbeenimplicatedinextracellularma- gradeanumberofextracellularmatrixproteinsdirectlyorto
+trixdegradationbyinvadingcells,butfewhighaffinity activate other proteases with matrix-degrading capabilities
+cell surface receptors for the molecule have been iden- (10–14). Efficient cell migration and/or invasion usually re-
+tified. Previous studies have reported that the plasma quiresthatdegradativeenzymesbeexpressedonthesurface
+protein, histidine-rich glycoprotein (HRG), interacts of cells rather than being secreted into the extracellular
+withplasminogenandcellsurfaces,raisingthepossibil- environment.However,fewhighaffinityplasminogenrecep-
+ity that HRG may immobilize plasminogen/plasmin to torshavebeenidentifiedoncells,whichraisesthequestionof
+cellsurfaces.Hereweshow,basedonopticalbiosensor howplasminogenistetheredontothecellsurface.Anumber
+a p n la a s l m ys i e n s o , g t e h n at w i i m th m h o i b g i h liz a e f d fin H i R ty G a i n n d te w ra it c h ts a w n it e h xt s r o e l m ub el l y e o b f ee l n ow de a f f i f n in ed it , y s ( u K c d h (cid:1) as 1 (cid:2)- (cid:1) e M n ) ol r a e s c e ep (1 to 5 r ) s , g fo a r ng p l l i a o s s m id i e n s og (1 e 6 n ), h a a n v d e
+slow dissociation rate. Furthermore, the HRG-plasmin-
+annexin-II(17).Indeed,resultsarisingfrominvivostudiesin
+ogen interaction is lysine-dissociable and involves pre-
+annexin-II-deficientmicedemonstratedthatannexin-IIisan
+dominatelytheamino-terminaldomainofHRG,andthe
+important regulator of cell surface plasmin generation, par-
+fifthkringledomainofplasminogen,butnotthecarbox-
+ticularly in the absence of fibrin (18). Furthermore, it has
+yl-terminallysineofHRG.HRGwasalsoshowntotether
+been argued that because plasminogen is present in plasma
+plasminogentocellsurfaces,withthisinteractionbeing
+potentiated by elevated Zn2(cid:1) levels and low pH, condi- at(cid:1)2(cid:1) M,itcouldtheoreticallyassociatewithcellsviathese
+tionsthatprevailatsitesoftissueinjury,tumorgrowth, low affinity receptors. It is known, however, that plasmin is
+andangiogenesis.Basedonthesedataweproposethat inactivated rapidly unless it remains bound to cells (1), and
+HRG acts as a soluble adaptor molecule that binds to thusalowaffinityinteractionwithhighratesofdissociation
+cells at sites of tissue injury, tumor growth, and angio- would result in plasminogen being inactivated rapidly. This
+genesis,providingahighaffinityreceptorfortethering would suggest that high affinity plasminogen receptors are
+plasminogentothecellsurfaceandtherebyenhancing essential if plasmin is to aid cell migration effectively.
+themigratorypotentialofcells. Histidine-richglycoprotein(HRG)1isa75-kDaplasmapro-
+tein of relatively high abundance (100–200 (cid:1)g/ml, (cid:1)2 (cid:1) M)
+characterizedbyitshighcontentofhistidineandprolineresi-
+Plasminogenisaplasmaprotein,which,whenconvertedto dues,eachaccountingfor(cid:1)13%oftotalaminoacids(19).Itis
+plasmin,isknowntoplayapivotalroleinfibrinolysis(1,2). amultidomainmoleculeconsistingoftwocystatin-likedomains
+Plasminogenisa92-kDamodularglycoproteinconsistingofa attheaminoterminus(termedN1andN2),acentralhistidine-
+preactivation peptide, five kringle domains, and a catalytic richregion(HRR)flankedbytwoproline-richsequences,anda
+carboxyl-terminalserineproteinasedomain(3),withhealthy carboxyl-terminal domain. Interestingly, HRG is reported to
+adults having a plasma concentration of 150–200 (cid:1)g/ml bindavarietyofligands,includingplasminogen(20,21),Zn2(cid:2)
+((cid:1)1.5–2 (cid:1) M) (4). Plasmin, the active form of plasminogen, is and heme (22–24), fibrinogen (25), thrombospondin (26), IgG
+the proteolytic enzyme responsible for degrading fibrin clots (27,28),C1q(28,29),andheparin(20,30–32),andcaninteract
+andplaysanimportantroleinmaintainingvascularhomeo- withvariouscellsurfacereceptors(33–35).Significantly,HRG
+stasis(5).Earlierstudiesalsoindicatethattheplasminogen isknowntointeractwithbothplasminogenandcellsurfaces,
+systemaidsdirectionalcellmigrationassociatedwithembry- raisingthepossibilitythatHRGmayimmobilizeplasminogen/
+ogenesis, development, tissue remodeling (6–8), inflamma- plasmintothecellsurface.
+tion,angiogenesis,andtumormetastasis(9).Thisroleincell In the present study we examined the interaction between
+migration depends on the capacity of plasmin either to de- HRG and plasminogen using both optical biosensor and cell
+surfacebindingassays.Ourfindingsprovidethefirstevidence
+*ThisworkwassupportedinpartbyaNationalHealthandMedical that HRG can tether plasminogen to the surface of cells, spe-
+ResearchCouncilofAustraliaprogramgrantandaNewSouthWales cificallyatlowpHandinthepresenceof20(cid:1) MZn2(cid:2),conditions
+CancerCouncilprogramgrant.Thecostsofpublicationofthisarticle
+weredefrayedinpartbythepaymentofpagecharges.Thisarticlemust
+therefore be hereby marked “advertisement” in accordance with 18 1The abbreviations used are: HRG, histidine-rich glycoprotein;
+U.S.C.Section1734solelytoindicatethisfact. ABTS,2,2(cid:3)-azinobis(3-ethylbenzthiazolinesulfonicacid;BSA,bovinese-
+§RecipientofaViertelseniormedicalresearchfellowship. rum albumin; EDC, 1-ethyl-3-(3-dimethylaminopropyl)carbodiimide;
+**Towhomcorrespondenceshouldbeaddressed:DivisionofImmu- ELISA, enzyme-linked immunosorbent assay; His , hexahistidine;
+6
+nologyandGenetics,JohnCurtinSchoolofMedicalResearch,Austra- HRR, histidine-rich region of HRG; LBS, ligand binding sites; mAb,
+lianNationalUniversity,Canberra,ACT2601,Australia.Tel.:61-261- monoclonal antibody; Ni-NTA, nickel-nitrilotriacetic acid; N1N2, the
+252-604;Fax:61-261-252-595;E-mail:christopher.parish@anu.edu.au. amino-terminaldomainofHRG;PBS,phosphate-bufferedsaline.
+Thispaperisavailableonlineathttp://www.jbc.org 38267
+Downloaded
+from
+http://www.jbc.org/
+by
+guest
+on
+March
+4,
+2015
+--- Page 2 ---
+38268 HRG Acts as a Plasminogen Receptor
+thatusuallyoccuratsitesoftissueinjury,inflammation,tumor through a Ni-NTA-agarose column (Qiagen). Recombinant full-length
+growth,andangiogenesis.Basedonthesefindingswepropose HRG,C-mutantHRG,andrecombinantH 6 -taggedN1andN1N2were
+thatunderconditionsoflowpHandelevatedfreeZn2(cid:2),HRG thenelutedfromtheNi-NTA-agarosewith200mMimidazole.Proteins
+werestoredat(cid:4)70°Cuntiluse.
+binds to cell surfaces and acts as a high affinity receptor for
+WesternBlotting—Recombinantproteinswereboiledfor10minin20
+plasminogen. This would, in theory, enhance the efficiency of (cid:1)l of SDS reducing sample buffer (125 mM Tris-HCl, pH 6.8, 20%
+conversion of plasminogen to plasmin, protect plasmin from glycerol,10%dithiothreitol,4%SDS)andthensubjectedtoSDS-PAGE
+inactivation,andprovidesamechanismforpolarizingthepro- analysis on a 4–20% gradient (w/v) precast polyacrylamide MiniGel
+teolytic activity of plasmin on the cell surface, resulting in (Gradipore, Sydney, Australia). Proteins were transferred electro-
+phoreticallyusingaMini-ProteanIIapparatus(Bio-Rad)ontoanitro-
+enhancedmigratorypotential.
+cellulosemembraneusingatransferbuffercontaining48mMTris,39
+mM glycine in 20% (v/v) methanol. The membrane was blocked over-
+EXPERIMENTALPROCEDURES
+night with 5% (w/v) skim milk powder in PBS. Full-length HRG, C-
+Cell Lines—B16F1 cells were cultured in RPMI 1640 medium (In- mutant HRG, and the N1N2 domain were detected using a HRG-
+vitrogen) supplemented with 10% fetal calf serum and incubated at specific(HRG-4;AGEN,Brisbane,Australia)mAb,andN1andN1N2
+37°Cinahumidifiedatmospherecontaining5%CO .TheSpodoptera were detected using a His -specific (Roche Diagnostics) mAb (His ).
+2 6 6
+frugiperda-derivedinsectcelllineSf9wasculturedinSf-900IIserum- Chemiluminescence was detected using ECL Western blotting detec-
+freemedium(Invitrogen)at27°C. tionreagents(AmershamBiosciences).
+PurificationofHumanHRG,Plasminogen,andAngiostatin—Native Enzyme-linked Immunoadsorbent Assays (ELISAs)—ELISAs were
+humanHRGwaspurifiedfromfreshhumanplasmaasdescribedpre- performed by coating 96-well PVC microtiter plastic plates (Dynax
+viously (36). Briefly, a phosphocellulose column was prepared and TechnologiesInc.,Chantilly,VA)overnightat4°Cwithplasminogenor
+equilibratedwithloadingbuffer(0.5MNaCl,10mMsodiumphosphate, recombinantfull-lengthHRG,C-mutantHRG,N1fragment,orN1N2
+1mMEDTA,pH6.8)for24h.FreshhumanplasmawasprovidedbyRed domain (50 (cid:1)l/well, (cid:1)5 (cid:1)g/ml) diluted in a 0.05 M Na 2 CO 3 /NaHCO 3
+CrossHouse,TheCanberraHospital,Canberra,Australia,andmixed buffer, pH 9.6 (Sigma). Plates were then washed in PBS and 0.01%
+withtheproteaseinhibitorsaprotinin(2(cid:1)g/ml),phenylmethylsulfonyl Tween20(Sigma)andblockedfor120minatroomtemperaturewith
+fluoride (100 (cid:1)g/ml) and 4-(2-aminoethyl)-benzensulfonyl fluoride hy- 3%(w/v)BSAdilutedinPBS.Fortheplasminogen-pretreatedplates,
+drochloride (100 (cid:1)g/ml). The plasma was passed through the equili- recombinantformsofHRGdilutedinPBSand1%BSA(50(cid:1)l/well,(cid:1)5
+brated column, unbound protein was removed by extensive washing (cid:1)g/ml) were added to the plates, allowed to bind for 60 min at room
+withloadingbuffer,andboundHRGwaselutedwith2.0MNaCl,10mM temperature,andthenwashedinPBSand0.01%Tween20.HRGand
+sodium phosphate, 1 mM EDTA, pH 6.8. Native human plasminogen HRGfragmentbindingtoemptyblockedplateswasusedasthenega-
+waspurifiedfromfreshhumanplasma,asdescribedpreviously(37–39), tivebackgroundcontrol.Boundfull-lengthHRG,C-mutantHRG,and
+by passage of plasma through a lysine-Sepharose 4B column (Amer- the N1N2 domain were detected using HRG-4, whereas bound N1
+sham Biosciences). The column was equilibrated with 0.1 M sodium fragment was detected using His 6 , followed by secondary antibody
+phosphate, pH 7.4, and was washed extensively with 0.3 M sodium detectionwithasheepanti-mouseIghorseradishperoxidaseconjugate
+phosphate, pH 7.4, before elution of bound plasminogen with 0.1 M (Amrad Biotech, Melbourne, Australia). Plate-bound peroxidase was
+(cid:3)-aminocaproicacid,pH7.4.Purifiedproteinswerestoredat(cid:4)70°C. detectedusingABTSperoxidasesubstrate(KirkegaardandPerryLab-
+Angiostatinwaspurifiedasdescribedpreviously(40). oratoriesInc.Gaithersburg,MD)bymeasuringabsorbanceat405nm
+PlasmidConstructs—UsingthepUC9-HRGplasmidconstructasa (referencewavelength490nm)onaThermomaxmicroplatereader.The
+template(19),PCRwitholigonucleotidesALJ-1andALJ-5wasusedto data were analyzed using SoftMaxPro software (Molecular Devices
+amplifyacDNAencodingthefull-lengthhumanHRGcomprisedofthe Corp.,Sunnyvale,CA).
+leader, first cystatin (N1) domain, second cystatin (N2) domain, the Immunofluorescence Flow Cytometry—Cell lines were analyzed for
+HRR,andcarboxyl-terminaldomaincodingregions.Amutantformof HRGorplasminogen/angiostatincellsurfacebindingbyflowcytometry.
+HRG(C-mutantHRG)cDNAconsistingofthefull-lengthHRGcoding Typically,100(cid:1)g/mlplasma-derivedorrecombinantHRGand/or150
+region lacking the carboxyl-terminal lysine codon was generated by (cid:1)g/ml plasma-derived plasminogen/angiostatin was added to 5 (cid:5) 105
+amplification with oligonucleotides ALJ-1 and ALJ-4. The N1 coding cellsinPBSand0.1%BSA,pH7.2,(cid:6)20(cid:1) MZn2(cid:2)for60minat4°Cand
+regionwasgeneratedbyamplificationwitholigonucleotidesALJ-1and washedthreetimeswithPBSand0.1%BSA.Zincacetatewasusedas
+ALJ-2,andacDNAencodingthefirsttwocystatindomains(N1N2)was a source of Zn2(cid:2), and Zn2(cid:2) was added after BSA to PBS to prevent
+generated by amplification with oligonucleotides ALJ-1 and ALJ-3. precipitation. Cell-bound HRG was detected using the HRG-4 mAb
+BoththeN1andN1N2cDNAswereengineeredtoencodeaHis tagat followedbysecondarydetectionwithsheepanti-mouseIgfluorescein
+6
+their3(cid:3)-endthroughinclusionof6tandemhistidinecodonsinoligonu- isothiocyanate (Amrad Biotech), and cell-bound plasminogen or an-
+cleotidesALJ-2andALJ-3.Theoligonucleotideprimersequencesused giostatin was detected using a rabbit polyclonal plasminogen Ab
+wereasfollows:ALJ-1,5(cid:3)-TTGAATTCTAAAGGGATGGTTTAACAAA- (DAKOA/S,Glostrup,Denmark)followedbysecondarydetectionwith
+ATG-3(cid:3); ALJ-2, 5(cid:3)-AAGGTACCTTAGTGATGGTGATGGTGATGAG- sheepanti-rabbitIgfluoresceinisothiocyanate(AmradBiotech).Sam-
+AACTTGTGGTGCAGTTATTAAAG-3(cid:3); ALJ-3, 5(cid:3)-AAGGTACCTTAGT- plesincubatedwiththerelevantprimaryandsecondarydetectionan-
+GATGGTGATGGTGAATGCTGAGGGTCGAAGACTTCAC-3(cid:3); ALJ-4, tibodies and/or conjugates in the absence of HRG or plasminogen/
+5(cid:3)-AAGGTACCTTATGGAAATGTATGTGTAAAAAACATG-3(cid:3); ALJ-5, angiostatin served as a background binding control. Cells were
+5(cid:3)-AAGGTACCTTATTTTGGAAATGTATGTGTAAAAAAC-3(cid:3). The am- analyzed by immunofluorescence flow cytometry using a LSR Flow
+plified HRG and HRG fragment cDNAs were cloned into the EcoRI/ Cytometer (BD Biosciences), and the resultant data were analyzed
+KpnIsitesinthedonorvectorconstructpFastBac(Invitrogen),gener- using Cell Quest Pro software (BD Biosciences). Each condition was
+ating pFastBac-HRG, pFastBac-C-mutHRG, pFastBac-N1, and typicallyperformedintriplicate,andeachexperimentwasrepeatedtwo
+pFastBac-N1N2expressionconstructs,respectively.Thenucleotidein- orthreetimes.Insomeexperiments,cellswereincubatedwithHRGin
+tegrityofeachclonewasconfirmedbyautomatedsequencingusinga PBS and 0.1% BSA with different Zn2(cid:2) concentrations in the range
+3730DNAAnalyzer(AppliedBiosystems). 0–100(cid:1) M,and/orpHintherangepH6.0–8.0.
+TransfectionsandRecombinantProteinProductionUsingtheBacu- SurfacePlasmonResonance—ABIAcore2000(PharmaciaBiosensor)
+lovirusExpressionSystem—Recombinantproteinsoffull-lengthHRG, instrumentwasusedtomeasurebindingbysurfaceplasmonresonance.
+C-mutantHRG,theN1fragment,andtheN1N2domainofhumanHRG CM5sensorchipsandcouplingreagentswerepurchasedfromPharma-
+were produced using the “Bac-to-Bac” baculovirus expression system ciaBiosensor.Thecarboxylmethylateddextransurfacesofflow-cellson
+(Invitrogen).Recombinantbacmidconstructsweregeneratedusingthe theCM5chipwereactivatedbyinjecting35(cid:1)lof0.05MEDCand0.05
+pFastBac-HRG, pFastBac-C-mutHRG, pFastBac-N1, or pFastBac- MN-hydroxysuccinimdedilutedindoubledistilledMilli-Qwaterat5
+N1N2constructsaccordingtothemanufacturer’sinstructions.Briefly, (cid:1)l/min.Plasma-derivedandrecombinantHRGeachwereimmobilized
+Sf9 cells were transfected using Cellfectin reagent (Invitrogen), with ontotheN-hydroxysuccinimdeester-activatedsurfacebyinjecting(cid:1)10
+1–2(cid:1)gofrecombinantbacmidDNAbeingtransfected/9(cid:5)105cellsfor (cid:1)lofHRG(100(cid:1)g/ml)dilutedin10mMsodiumacetate,pH4.5,at5
+5 h at 27°C. Supernatant containing recombinant baculovirus was (cid:1)l/min. Remaining N-hydroxysuccinimde esters were deactivated by
+harvested 72 h post-transfection and was amplified for 3–4 days by injecting35(cid:1)lof1Methanolamine,pH8.5,at5(cid:1)l/min.Typically,a
+infectingSf9cellswithamultiplicityofinfectionof(cid:1)0.01–0.1.Typi- flowrateof10(cid:1)l/minwasusedthroughoutthebindingassays.Differ-
+cally,recombinantbaculoviruswasamplifiedthreetimesbeforebeing entconcentrationsofplasminogen/angiostatin(0–2,000nM,30–100(cid:1)l)
+usedtoproducerecombinantprotein.Recombinantproteinwaspurified were injected into the flow-cells of the biosensor, with binding and
+fromharvestedSf9cellsupernatantsbypassageofthesupernatants dissociationeachmonitoredfor3–10min.Plasminogen-HRGcomplexes
+Downloaded
+from
+http://www.jbc.org/
+by
+guest
+on
+March
+4,
+2015
+--- Page 3 ---
+HRG Acts as a Plasminogen Receptor 38269
+wereeffectivelydisruptedbyinjecting100mML-lysinefor1minata andk ),andbindingtothesecondHRGmoleculeisdefinedby
+flow rate of 100 (cid:1)l/min. Experiments used an automated program to aseco d n 1 dsetofrateconstants(k andk ),thusallowingthe
+control triplicate injections of each binding protein. Flow-cell 1 was a2 d2
+model to take cooperative effects into account (Table I). Such
+used as a blank reference cell, with the background binding to the
+cooperative effects could well explain the extremely slow off-
+dextranmatrixdetectedinflow-cell1beingsubtractedfromresponses
+inflow-cells2,3,and4.BindingcurveswereanalyzedusingtheBIA rates that are observed (Fig. 2). The two-state conformation
+Evaluationprogram(PharmaciaBiosensor). model, on the other hand, assumes that one molecule of plas-
+minogenbindstooneormoremoleculesofimmobilizedHRG,
+RESULTS and that this is then followed by a conformation change (rep-
+EffectofZn2(cid:2)andpHontheBindingofHumanHRGtoCell
+resented as * in the reactions below) in the complex, which
+Surfaces—Previous studies have shown that the binding of stabilizestheinteraction.Again,twosetsofkineticconstants
+HRG to surface-immobilized heparin is dependent on both areproduced(TableI),involvingtwo-stepassociationanddis-
+Zn2(cid:2) and pH, with Borza and Morgan (41) suggesting that sociation,shownbelow.
+Zn2(cid:2)andpHactsynergisticallytoaffecttheconformationand
+thusfunctionofHRG.Thisobservationpromptedustotestthe A(cid:2)B3AB (Step1)
+effectofZn2(cid:2)andpHonHRGbindingtocellsurfaces.Weused
+REACTION1
+the metastatic mouse melanoma cell line, B16F1, in the cell
+surface binding studies. Dose-response experiments indicated AB3AB* (Step2)
+thatthepotentiatingeffectofZn2(cid:2)onHRGbindingtoB16F1
+cellsplateauedbetween5and50(cid:1) Mbutwasnearmaximalat REACTION2
+e
+(cid:1)
+n
+2
+h
+0
+an
+(cid:1)
+c
+M
+ed
+Z
+(cid:1)
+n
+6
+2(cid:2)
+-fol
+(
+d
+F
+.
+ig
+S
+.
+uc
+1
+h
+,
+c
+A
+on
+a
+c
+n
+en
+d
+tr
+B
+a
+)
+t
+,
+io
+w
+ns
+it
+o
+h
+fZ
+H
+n
+R
+2(cid:2)
+G
+ca
+b
+n
+in
+o
+d
+c
+i
+c
+n
+u
+g
+r
+b
+p
+e
+h
+i
+y
+n
+s
+g
+-
+AB*3AB (Step1)
+iologically (42). In contrast, at high Zn2(cid:2) concentrations (100 REACTION3
+(cid:1) M),HRGbindingwasdecreasedtolessthanthatobservedin
+the absence of any added Zn2(cid:2) (Fig. 1B). A similar effect of AB3A(cid:2)B (Step2)
+Zn2(cid:2) concentration on HRG binding was observed with
+REACTION4
+CHO-KIcells(datanotshown).Wealsoinvestigatedtheeffect
+of pH on HRG binding to cell surfaces in the presence of an Both the bivalent analyte and two-state conformation models
+optimalZn2(cid:2)concentration(20(cid:1) M)andfoundthatbindingwas estimateanapparentK
+d
+valuefortheinteractionof(cid:1)200–300
+minimal at pH 8.0 but increased steadily as the pH was re- nM, with the most notable feature of the interaction between
+duced to 6.0 (Fig. 1, C and D). In fact, there was a (cid:1)250-fold immobilized HRG and soluble plasminogen being the ex-
+increaseinthelevelofcellsurface-boundHRGacrossthispH tremely slow dissociation/off-rate, indicating a high affinity,
+range.Thus,itappearsthatbothZn2(cid:2)andpHdirectlyaffect highlystableinteraction.
+the interaction of HRG with cell surfaces, with optimal HRG Plasminogen Binding to the Surface of B16F1 Cells Is En-
+binding occurring in the presence of (cid:1)20 (cid:1) M Zn2(cid:2) and at pH hanced Dramatically in the Presence of HRG—Although plas-
+6.0. minogen has been reported to interact with HRG, there has
+Soluble Plasminogen Binds to Immobilized HRG—Previous beennopreviousindicationthatHRGcanpotentiatetheinter-
+studies identified plasminogen as an important HRG ligand actionofplasminogenwiththecellsurface.Usingflowcytom-
+(20,21).Usingtheopticalbiosensor,wefurthercharacterized etry, we found that 150 (cid:1)g/ml plasminogen binding to the
+this interaction by monitoring the binding and dissociation of surfaceofB16F1cellsisenhancedgreatly(upto14-fold)when
+solubleplasminogentoimmobilizedHRG(Fig.2A).Thesebind- the cells have been either precoated with 100 (cid:1)g/ml plasma-
+ingstudiesshowedthattheinteractionofsolubleplasminogen derived HRG (Fig. 3A, HRG/plasminogen) or when plasmino-
+with immobilized HRG is dependent on the plasminogen con- gen is coincubated with HRG (Fig. 3A, HRG(cid:2)plasminogen).
+centrationovertherangetestedof32–2,000nM(3–185(cid:1)g/ml). TheeffectofHRGonplasminogenbindingtoB16F1cellswas
+The almost flat dissociation curve (Fig. 2A) indicates an ex- maximal when the cells were coincubated with a mixture of
+tremely slow off-rate or dissociation between HRG and plas- plasminogen and HRG, rather than precoating the cells with
+minogen, reflecting a high affinity interaction (see analysis HRGpriortoplasminogenexposure(p(cid:7)0.01,Fig.3B).HRG
+below).Infact,evenwhendissociationwasallowedtooccurfor alsoenhancedthebindingofplasminogentocellsoverawide
+many hours, plasminogen remained tightly bound to HRG rangeofplasminogenconcentrations(0.1–200(cid:1)g/ml)(datanot
+(data not shown). Nevertheless, bound plasminogen could be shown),althoughthesestudiesshowedthatinthepresenceof
+veryeffectivelydisplacedbyexposureto100mML-lysine,indi- physiologicalconcentrationsofHRG(100(cid:1)g/ml,1.3(cid:1) M),max-
+cating that lysine can disrupt HRG-plasminogen complexes, imal plasminogen binding occurred with 150 (cid:1)g/ml ((cid:1)1.6 (cid:1) M)
+and hence the interaction is likely to be mediated by lysine plasminogen,whichisthephysiologicalplasmaconcentration
+residues(Fig.2B).Alternatively,lysinemaydisrupttheplas- of this molecule. Further studies aimed at characterizing the
+minogen-HRG complex by binding to plasminogen and induc- effect of soluble HRG on plasminogen cell surface binding
+ingaconformationchangethatresultsinthecomplexdissoci- showed that excess soluble HRG ((cid:8)5 times molar excess of
+ating. Similar association-dissociation results were obtained HRG over plasminogen) (1.6 (cid:1) M plasminogen, 8 (cid:1) M HRG) did
+withplasminogen-Iandplasminogen-II(datanotshown),iso- not inhibit cell surface plasminogen binding (Fig. 3C). Even
+forms of the molecule that differ by one glycosylation site relativelylowconcentrationsofHRG(0.3(cid:1) M)weresufficient
+(43–45). to support near maximum plasminogen binding, suggesting
+Ananalysisofthebindingcurvesfortheinteractionbetween that HRG is an efficient adaptor molecule for binding plas-
+soluble plasminogen and immobilized HRG using the Bia- minogentothecellsurface.Ourinitialstudiesindicatedthat
+Evaluationprogramshowedthatthedatacouldbedescribedby pHaffectsHRGcellsurfacebinding(Fig.1,CandD).Using
+both a bivalent analyte model and a two-state conformation flowcytometry,wefoundthattheabilityofHRGtopotenti-
+model.Thebivalentanalytemodelassumesthateachmolecule ate the binding of plasminogen to cells was pH-dependent
+oftheanalyte(plasminogen)caninteractbivalentlywithoneor (Fig.3D).Thus,plasminogenbindingsteadilyincreasedwith
+twoimmobilizedligand(HRG)molecule(s).Bindingtothefirst decreasing pH, the lowest plasminogen binding occurring at
+HRGmoleculeisdefinedbyasinglesetofrateconstants(k pH 8.0, and the highest at pH 6.0. At all pH values tested,
+a1
+Downloaded
+from
+http://www.jbc.org/
+by
+guest
+on
+March
+4,
+2015

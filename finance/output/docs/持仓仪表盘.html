@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>持仓仪表盘</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: "PingFang SC", "Microsoft YaHei", "Helvetica Neue", Arial, sans-serif;
+    background: #0f1117;
+    color: #e0e6f0;
+    padding: 20px;
+    font-size: 14px;
+  }
+  h1 { color: #fff; font-size: 20px; margin-bottom: 4px; }
+  .subtitle { color: #6b7280; font-size: 12px; margin-bottom: 20px; }
+
+  /* summary cards */
+  .summary-row {
+    display: flex;
+    gap: 14px;
+    margin-bottom: 22px;
+    flex-wrap: wrap;
+  }
+  .card {
+    background: #1a1d27;
+    border-radius: 12px;
+    padding: 18px 22px;
+    flex: 1;
+    min-width: 160px;
+    border: 1px solid #252836;
+  }
+  .card-label { color: #6b7280; font-size: 11px; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 6px; }
+  .card-value { font-size: 22px; font-weight: 700; }
+  .card-sub { color: #6b7280; font-size: 11px; margin-top: 3px; }
+  .up { color: #f04343; }
+  .down { color: #22c55e; }
+  .neutral { color: #9ca3af; }
+
+  /* grid layout */
+  .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 16px; }
+  .grid-3 { display: grid; grid-template-columns: 2fr 1fr; gap: 16px; margin-bottom: 16px; }
+
+  .panel {
+    background: #1a1d27;
+    border-radius: 12px;
+    border: 1px solid #252836;
+    overflow: hidden;
+  }
+  .panel-header {
+    padding: 14px 18px 10px;
+    border-bottom: 1px solid #252836;
+    font-size: 13px;
+    font-weight: 600;
+    color: #9ca3af;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .panel-header .dot {
+    width: 8px; height: 8px;
+    border-radius: 50%;
+    background: #3b82f6;
+  }
+  .panel-body { padding: 10px 16px 14px; }
+
+  /* table */
+  table { width: 100%; border-collapse: collapse; font-size: 12px; }
+  th {
+    color: #6b7280;
+    font-weight: 500;
+    text-align: left;
+    padding: 5px 8px;
+    border-bottom: 1px solid #252836;
+    font-size: 11px;
+    white-space: nowrap;
+  }
+  td { padding: 7px 8px; border-bottom: 1px solid #1e2130; }
+  tr:last-child td { border-bottom: none; }
+  .right { text-align: right; }
+  .name { font-weight: 500; color: #e0e6f0; }
+  .tag {
+    display: inline-block;
+    padding: 1px 6px;
+    border-radius: 4px;
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 0.3px;
+  }
+  .tag-hk { background: #1e3a5f; color: #60a5fa; }
+  .tag-a { background: #1a3a2a; color: #4ade80; }
+  .tag-us { background: #2d1f4e; color: #a78bfa; }
+  .tag-bond { background: #3a2d1a; color: #fbbf24; }
+  .tag-sector { background: #2a1a2a; color: #f472b6; }
+
+  /* bar */
+  .bar-wrap { margin-bottom: 8px; }
+  .bar-label { display: flex; justify-content: space-between; font-size: 11px; color: #9ca3af; margin-bottom: 3px; }
+  .bar-bg { background: #252836; border-radius: 4px; height: 8px; overflow: hidden; }
+  .bar-fill { height: 100%; border-radius: 4px; transition: width 0.6s ease; }
+  .bar-hk { background: #3b82f6; }
+  .bar-a { background: #22c55e; }
+  .bar-us { background: #a78bfa; }
+  .bar-bond { background: #fbbf24; }
+  .bar-sector { background: #f472b6; }
+
+  /* section title */
+  .sec-title { font-size: 12px; color: #6b7280; margin: 14px 0 8px; padding-left: 4px; border-left: 3px solid #3b82f6; }
+
+  /* profit/loss pill */
+  .pl { font-weight: 600; font-size: 12px; }
+  .pl-pos { color: #f04343; }
+  .pl-neg { color: #22c55e; }
+
+  /* recent activity */
+  .activity-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 0;
+    border-bottom: 1px solid #1e2130;
+    font-size: 12px;
+  }
+  .activity-item:last-child { border-bottom: none; }
+  .act-name { font-weight: 500; }
+  .act-tag { margin-left: 6px; }
+  .act-info { color: #6b7280; font-size: 11px; text-align: right; }
+  .add { color: #22c55e; }
+  .reduce { color: #f04343; }
+
+  .badge-add { background: #0d2d1a; color: #22c55e; padding: 1px 6px; border-radius: 4px; font-size: 10px; font-weight: 600; }
+  .badge-reduce { background: #2d0d0d; color: #f04343; padding: 1px 6px; border-radius: 4px; font-size: 10px; font-weight: 600; }
+
+  @media (max-width: 900px) {
+    .grid-2, .grid-3 { grid-template-columns: 1fr; }
+    .summary-row { flex-direction: column; }
+  }
+</style>
+</head>
+<body>
+
+<h1>📊 持仓仪表盘</h1>
+<div class="subtitle" id="updated">数据加载中…</div>
+
+<!-- 总览卡片 -->
+<div class="summary-row">
+  <div class="card">
+    <div class="card-label">总持仓</div>
+    <div class="card-value" id="totalAmt">—</div>
+  </div>
+  <div class="card">
+    <div class="card-label">累计盈亏</div>
+    <div class="card-value" id="totalPL">—</div>
+    <div class="card-sub" id="totalPLRate">—</div>
+  </div>
+  <div class="card">
+    <div class="card-label">今日盈亏</div>
+    <div class="card-value" id="todayPL">—</div>
+    <div class="card-sub" id="todayPLRate">—</div>
+  </div>
+  <div class="card">
+    <div class="card-label">本月盈亏</div>
+    <div class="card-value" id="monthPL">—</div>
+  </div>
+  <div class="card">
+    <div class="card-label">品种数量</div>
+    <div class="card-value" id="totalCount">—</div>
+    <div class="card-sub">不含汇总行</div>
+  </div>
+</div>
+
+<!-- 亏损TOP5 + 盈利TOP5 -->
+<div class="grid-2">
+  <div class="panel">
+    <div class="panel-header"><span class="dot" style="background:#f04343"></span>亏损 TOP5</div>
+    <div class="panel-body">
+      <table id="lossTable"><thead><tr><th>名称</th><th class="right">持有金额</th><th class="right">持有盈亏</th><th class="right">盈亏率</th></tr></thead><tbody></tbody></table>
+    </div>
+  </div>
+  <div class="panel">
+    <div class="panel-header"><span class="dot" style="background:#22c55e"></span>盈利 TOP5</div>
+    <div class="panel-body">
+      <table id="gainTable"><thead><tr><th>名称</th><th class="right">持有金额</th><th class="right">持有盈亏</th><th class="right">盈亏率</th></tr></thead><tbody></tbody></table>
+    </div>
+  </div>
+</div>
+
+<!-- 板块分布 + 近期加减仓 -->
+<div class="grid-3">
+  <div class="panel">
+    <div class="panel-header"><span class="dot" style="background:#a78bfa"></span>板块分布</div>
+    <div class="panel-body">
+      <div id="sectorBars" style="margin-top:8px;"></div>
+      <div id="sectorLegend" style="margin-top:12px; font-size:11px; color:#6b7280;"></div>
+    </div>
+  </div>
+  <div class="panel">
+    <div class="panel-header"><span class="dot" style="background:#fbbf24"></span>近期加减仓（30天内）</div>
+    <div class="panel-body">
+      <div id="recentActivity"></div>
+    </div>
+  </div>
+</div>
+
+<script>
+// ── 原始数据 ──────────────────────────────────────────────
+const RAW = {
+  headers: ["代码","名称","持有金额","当日盈亏","当日盈亏率","持有盈亏","持有盈亏率","累计盈亏","累计盈亏率","本周盈亏","本月盈亏","今年盈亏","仓位占比","持有数量","持仓天数","最新涨幅","最新价","单位成本","回本涨幅","近1月涨幅","近3月涨幅","近6月涨幅","近1年涨幅"],
+  rows: [
+["159797","医疗器材","1845","-15","-0.0081","-277.15","-0.1306","-277.15","-0.1306","0","-127.5","-181.02","0.0081","2500","155","-0.0081","0.738","0.849","0.1504","-0.0646","-0.02","-0.1108","-0.0173"],
+["159731","石化ETF","4391.2","-96.8","-0.0216","-317.44","-0.0674","-317.44","-0.0674","-48.4","-240.07","-317.18","0.0192","4400","46","-0.0216","0.998","1.07","0.0721","-0.0733","0.0836","0.2746","0.457"],
+["001965","招商公路","7888","-64","-0.008","-493.39","-0.0589","-493.39","-0.0589","-128","-33","-179.34","0.0344","800","189","-0.008","9.86","10.477","0.0626","0.0175","-0.0199","-0.001","-0.2235"],
+["159518","标普油气ETF嘉实","143.5","-8.1","-0.0534","305.8","","504.84","0.0145","-1.4","287.68","253.24","0.0006","100","37","-0.0534","1.435","-1.623","","0.3628","0.6051","0.4855","0.5298"],
+["517520","黄金股","225.1","-1.9","-0.0084","-319.49","-0.5867","-319.49","-0.5867","6.8","-520.84","-319.39","0.001","100","36","-0.0084","2.251","5.446","1.4194","-0.1553","0.104","0.152","0.7118"],
+["159934","黄金ETF","3041.1","12","0.004","119.42","0.0409","119.42","0.0409","64.5","119.6","119.6","0.0133","300","7","0.004","10.137","9.739","","-0.1124","0.0361","0.1754","0.3988"],
+["159559","机器人基","3543.8","-40.6","-0.0113","136.73","0.0401","136.73","0.0401","-55.1","-618.65","-635.15","0.0155","2900","137","-0.0113","1.222","1.175","","-0.1345","-0.1461","-0.1853","0.0116"],
+["001202","炬申股份","3354","-62","-0.0181","-204.59","-0.0575","-204.59","-0.0575","-58","-357.91","-201.91","0.0146","200","39","-0.0181","16.77","17.794","0.0611","-0.0895","0.0621","0.0647","0.3818"],
+["510310","HS300ETF","5613.4","-50.7","-0.009","-164.23","-0.0284","-164.23","-0.0284","-58.5","-248.85","-230.35","0.0245","1300","76","-0.009","4.318","4.444","0.0292","-0.0553","-0.0396","-0.0301","0.1697"],
+["513180","恒指科技","3311","-44","-0.0131","-1372.06","-0.2928","-1256.06","-0.268","-110","-248.56","-460.15","0.0145","5500","160","-0.0131","0.602","0.852","0.4153","-0.1015","-0.1887","-0.2975","-0.2048"],
+["515220","煤炭ETF","1098","-43.2","-0.0379","-50.6","-0.0441","-50.6","-0.0441","-51.3","-50.5","-50.5","0.0048","900","14","-0.0379","1.22","1.276","0.0459","0.015","0.1787","0.1828","0.2347"],
+["516270","新能源50","487.9","-17.5","-0.0346","227.93","0.8777","227.93","0.8777","-26.6","112.38","276.13","0.0021","700","102","-0.0346","0.697","0.371","","-0.0043","0.0387","0.0434","0.5185"],
+["512170","医疗ETF","2277","0","0","-221.09","-0.0885","-221.09","-0.0885","20.7","-165.6","-220.95","0.0099","6900","38","0","0.33","0.362","0.097","-0.0678","-0.0351","-0.1406","-0.0323"],
+["508016","华电REIT","1717.08","-0.8","-0.0005","-117.43","-0.064","-117.43","-0.064","6.01","-25.78","-23.37","0.0075","401","160","-0.0005","4.282","4.575","0.0684","-0.0005","-0.0005","-0.0005","-0.0005"],
+["159660","纳指100","1974.5","-17.6","-0.0088","-324.72","-0.1412","-324.72","-0.1412","-48.4","-164.9","-268.1","0.0086","1100","102","-0.0088","1.795","2.09","0.1643","-0.0823","-0.146","-0.0719","0.1389"],
+["164906","中国互联","7123.49","-77.89","-0.0108","-2478.78","-0.2582","-2454.88","-0.2557","-198.27","-914.97","-2203.71","0.0311","7081","19","-0.0108","1.006","1.356","0.3479","-0.1168","-0.2003","-0.3004","-0.1965"],
+["159327","半导材料","2537.6","-101.4","-0.0384","-160.45","-0.0595","-160.45","-0.0595","-32.5","-206.1","-160.3","0.0111","1300","50","-0.0384","1.952","2.075","0.063","-0.1401","0.0603","0.0563","0.5974"],
+["159985","豆粕ETF","207","-6.5","-0.0304","104.76","1.025","104.76","1.025","-5.2","104.86","104.86","0.0009","100","18","-0.0304","2.07","1.022","","0.0263","0.054","0.0682","0.0855"],
+["159567","HK创新药","1129.5","-9","-0.0079","-465.16","-0.2917","-465.16","-0.2917","1.5","294.76","-465.06","0.0049","1500","51","-0.0079","0.753","1.063","0.4117","0.0054","-0.0039","-0.1842","0.2284"],
+["513330","恒生互联","3229.2","-31.2","-0.0096","-1539.45","-0.323","-1062.85","-0.1017","-109.2","-276.26","-615.38","0.0141","7800","145","-0.0096","0.414","0.611","0.4758","-0.1172","-0.2069","-0.3157","-0.1851"],
+["161725","白酒基金","1025.6","3.2","0.0031","-38.3","-0.036","-38.3","-0.036","6.4","-38.2","-38.2","0.0045","1600","16","0.0031","0.641","0.665","0.0374","-0.067","-0.1072","-0.1907","-0.2323"],
+["600900","长江电力","16224","-60","-0.0037","179.19","0.0112","179.19","0.0112","-126","220.06","190.95","0.0708","600","42","-0.0037","27.04","26.741","","0.0384","-0.0023","-0.0016","-0.0031"],
+["560860","工业有色","2431.5","-31.5","-0.0128","1763.47","2.6419","1763.47","2.6419","9","-1079.46","1493.95","0.0106","1500","120","-0.0128","1.621","0.445","","-0.2127","0.0331","0.2537","0.8719"],
+["159867","畜牧ETF","1830","-27","-0.0145","-189.23","-0.0937","-189.23","-0.0937","-30","-189.12","-189.12","0.008","3000","13","-0.0145","0.61","0.673","0.1033","-0.0572","-0.0543","-0.0827","0.0499"],
+["516020","化工ETF","5060","-143","-0.0275","-285.69","-0.0534","-285.69","-0.0534","-104.5","-377.19","-285.39","0.0221","5500","35","-0.0275","0.92","0.972","0.0565","-0.1016","0.0491","0.2169","0.4768"],
+["159928","消费ETF","2745.4","-40.7","-0.0146","-187.68","-0.064","-187.68","-0.064","-37","-117.4","-187.52","0.012","3700","54","-0.0146","0.742","0.793","0.0687","-0.0426","-0.0702","-0.125","-0.0962"],
+["000703","恒逸石化","2438","-32","-0.013","798.05","0.4867","798.05","0.4867","-48","403.7","800.27","0.0106","200","34","-0.013","12.19","8.198","","-0.0507","0.1102","0.8113","1.0212"],
+["513070","HK消费50","1197","-6","-0.005","-90.7","-0.0704","-90.7","-0.0704","-22","-90.6","-90.6","0.0052","1000","11","-0.005","1.197","1.288","0.076","-0.1269","-0.0828","-0.1874","-0.1308"],
+["601919","中远海控","1501","-36","-0.0234","14.99","0.0101","14.99","0.0101","-16","-87.07","-60.87","0.0066","100","88","-0.0234","15.01","14.86","","0","-0.0171","0.0941","0.1523"],
+["513090","香港证券","170.2","-2.8","-0.0162","-746.2","-0.8143","-746.2","-0.8143","-5.4","-72.15","-115.75","0.0007","100","163","-0.0162","1.702","9.164","4.3843","-0.1383","-0.1698","-0.2604","0.0792"],
+["515070","AI智能","3636","-84","-0.0226","742.34","0.2565","742.34","0.2565","-102","-474.6","-506.52","0.0159","2000","141","-0.0226","1.818","1.447","","-0.1119","-0.0734","-0.0681","0.4951"],
+["512710","军工龙头","75.7","-0.3","-0.0039","78.04","","231.7","0.0532","0.8","-12.9","24.6","0.0003","100","59","-0.0039","0.757","-0.024","","-0.1456","-0.0027","0.0861","0.2369"],
+["601288","农业银行","4020","126","0.0324","1113.97","0.3834","1113.97","0.3834","132","180","-588","0.0176","600","237","0.0324","6.7","4.843","","0.0469","-0.1196","0.028","0.3616"],
+["002155","湖南黄金","3090","50","0.0164","823.19","0.3632","823.19","0.3632","165","28.23","825.74","0.0135","100","35","0.0164","30.9","22.664","","-0.1803","0.4507","0.4136","0.7521"],
+["159399","现金流","16056","14.4","0.0009","-884.04","-0.0522","-850.98","-0.0503","-86.4","-1101.18","-883.08","0.0701","14400","39","0.0009","1.115","1.176","0.0547","-0.0816","-0.0181","0.0077","0.1333"],
+["600036","招商银行","11796","-48","-0.0041","-264.06","-0.0219","-264.06","-0.0219","-36","251.69","-388.53","0.0515","300","114","-0.0041","39.32","40.201","0.0224","0.0147","-0.0459","-0.0084","-0.0256"],
+["601665","齐鲁银行","1152","8","0.007","339.99","0.4187","339.99","0.4187","6","12","28.2","0.005","200","948","0.007","5.76","4.06","","0.0105","0.0423","0.0135","-0.0043"],
+["008163","南方标普红利低波50ETF联接A","2965.81","-1.09","-0.0004","-34.19","-0.0114","-42.4","-0.0114","1.37","-42.4","-42.4","0.013","2735.23","12","","","1.0968","0.0115","0.0124","0.0236","0.0532","0.065"],
+["016466","国泰君安量化选股混合发起A","4808.46","-88.28","-0.018","-184.04","-0.0369","-184.04","-0.0184","-68.63","-395.84","-184.04","0.021","3119.34","75","","","1.6005","0.0383","-0.0591","0.0602","0.0635","0.3477"],
+["004424","汇添富文体娱乐主题混合A","1166.69","-1.18","-0.001","166.69","0.1667","166.69","0.1667","-8.26","-116.2","-139.8","0.0051","621.04","522","","","1.6102","","-0.0906","-0.107","-0.195","-0.016"],
+["000727","融通健康产业灵活配置混合A/B","2018.85","-8.44","-0.0042","14.42","0.0072","14.43","0.0072","7.67","-148.81","6.9","0.0088","767.04","522","","","2.6132","","-0.0686","0.0034","-0.0752","0.1031"],
+["001316","安信稳健增值混合A","45768.42","-47.91","-0.001","2768.11","0.0644","2765.29","0.0586","-50.43","-158.64","706.48","0.1999","25216.76","522","","","1.7052","","-0.0032","0.0173","0.0282","0.0513"],
+["110022","易方达消费行业","4443.32","-10","-0.0022","-553.77","-0.1108","-549.18","-0.1277","-40","-207.54","-383.08","0.0194","1428.72","190","","","3.4976","0.1246","-0.0559","-0.0967","-0.1472","-0.1397"],
+["019524","华泰柏瑞纳斯达克100ETF发起式联接(QDII)A","2473.83","-15.67","-0.0063","473.8","0.2369","895.8","0.2369","-58.95","-211.72","-301.63","0.0108","1865.35","356","","","1.0722","","-0.0763","-0.1087","-0.0971","0.1311"],
+["162412","华宝医疗ETF联接A","4927.88","-1.71","-0.0003","-71.88","-0.0144","-72.12","-0.0144","30.8","-355.96","-139.48","0.0215","8556.83","522","","","0.5843","0.0146","-0.0674","-0.0275","-0.1501","-0.0192"],
+["000369","广发全球医疗保健指数人民币(QDII)A","10449.72","0","0","-50.36","-0.0048","-50.31","-0.0025","-101.8","-953.24","-831.47","0.0456","4425.97","523","","","2.3724","0.0048","-0.0968","-0.0756","0.041","-0.0125"],
+["012323","华宝医疗ETF联接C","3859.44","-1.35","-0.0004","-390.41","-0.0919","-149.84","-0.0919","24.36","-279.44","409.35","0.0169","6766.2","522","","","0.6281","0.1012","-0.0675","-0.0279","-0.1509","-0.0213"],
+["001180","广发医药卫生联接A","2893.23","-11.66","-0.004","-106.81","-0.0356","-106.77","-0.0356","12.39","-83.48","-57.23","0.0126","3645.25","522","","","0.823","0.0369","-0.028","-0.0194","-0.1372","0.0236"],
+["519915","富国消费主题混合A","1877.14","-6.61","-0.0035","-122.88","-0.0614","-122.86","-0.0614","-9.44","-151","-174.6","0.0082","943.76","522","","","2.1192","0.0655","-0.0745","-0.0851","-0.2009","-0.1226"],
+["011309","富国消费主题混合C","5198.52","-18.87","-0.0036","-801.35","-0.1336","-801.48","-0.1336","-26.96","-423.32","-493.43","0.0227","2696.33","522","","","2.2252","0.1541","-0.0753","-0.0867","-0.203","-0.128"]
+  ]
+};
+
+// ── 工具函数 ──────────────────────────────────────────────
+const fmt = (n, dec=2) => (typeof n === 'number' ? n.toLocaleString('zh-CN', {minimumFractionDigits: dec, maximumFractionDigits: dec}) : n);
+const fmtPct = (v) => (typeof v === 'number' && !isNaN(v) ? (v >= 0 ? '+' : '') + (v*100).toFixed(2) + '%' : '—');
+
+function num(v) {
+  const n = parseFloat(v);
+  return isNaN(n) ? 0 : n;
+}
+
+// ── 持仓分类 ──────────────────────────────────────────────
+function classify(code, name) {
+  const c = String(code);
+  // 港股ETF
+  if (/^159[56]\d{2}$/.test(c) || /^159[89]\d{2}$/.test(c)) return 'hk';
+  // 港股证券/互联/消费/创新药/科技
+  if (/^513[0-9]{3}$/.test(c)) {
+    if (['恒指科技','恒生互联','香港证券','HK消费50','HK创新药'].includes(name)) return 'hk';
+  }
+  // A股个股
+  if (/^(60|00|30)\d{4}$/.test(c)) return 'a';
+  // A股ETF（510/512/515/516）
+  if (/^(510|512|515|516)\d{3}$/.test(c)) return 'sector';
+  // 美股基金
+  if (/^019524$/.test(c) || name.includes('纳斯达克') || name.includes('标普')) return 'us';
+  // 债券/REIT/货币
+  if (/^508016$/.test(c) || /^159399$/.test(c) || name.includes('REIT') || name.includes('债券') || name.includes('货币')) return 'bond';
+  // 混合基金
+  if (/^(008163|016466|004424|000727|001316|110022|162412|000369|012323|001180|519915|011309)$/.test(c)) return 'sector';
+  return 'sector';
+}
+
+function tagColor(t) {
+  return {hk:'tag-hk', a:'tag-a', us:'tag-us', bond:'tag-bond', sector:'tag-sector'}[t] || 'tag-sector';
+}
+function tagName(t) {
+  return {hk:'港股', a:'A股', us:'美股', bond:'债券/REIT/货基', sector:'行业/主题'}[t] || '行业/主题';
+}
+
+// ── 过滤汇总行 ────────────────────────────────────────────
+const rows = RAW.rows.filter(r => String(r[0]) !== '汇总');
+const totalRow = RAW.rows.find(r => String(r[0]) === '汇总');
+
+// ── 总览数据 ──────────────────────────────────────────────
+document.getElementById('updated').textContent = '数据截至：' + new Date().toLocaleDateString('zh-CN', {year:'numeric',month:'2-digit',day:'2-digit'});
+document.getElementById('totalAmt').textContent = '¥' + fmt(num(totalRow[2]));
+document.getElementById('totalCount').textContent = rows.length;
+
+const totalPL = num(totalRow[6]);
+const totalPLRate = num(totalRow[7]);
+document.getElementById('totalPL').innerHTML = `<span class="${totalPL >= 0 ? 'up' : 'down'}">${totalPL >= 0 ? '+' : ''}${fmt(totalPL)}</span>`;
+document.getElementById('totalPLRate').textContent = fmtPct(totalPLRate);
+
+const todayPL = num(totalRow[3]);
+const todayPLRate = num(totalRow[4]);
+document.getElementById('todayPL').innerHTML = `<span class="${todayPL >= 0 ? 'up' : 'down'}">${todayPL >= 0 ? '+' : ''}${fmt(todayPL)}</span>`;
+document.getElementById('todayPLRate').textContent = fmtPct(todayPLRate);
+
+const monthPL = num(totalRow[10]);
+document.getElementById('monthPL').innerHTML = `<span class="${monthPL >= 0 ? 'up' : 'down'}">${monthPL >= 0 ? '+' : ''}${fmt(monthPL)}</span>`;
+
+// ── 亏损 TOP5 & 盈利 TOP5 ──────────────────────────────────
+const sorted = rows.map(r => ({
+  code: r[0], name: r[1], amt: num(r[2]),
+  pl: num(r[5]), plRate: num(r[6]),
+})).sort((a, b) => a.pl - b.pl);
+
+const loss5 = sorted.slice(0, 5);
+const gain5 = sorted.slice(-5).reverse();
+
+function renderTable(tbody, data) {
+  data.forEach(item => {
+    const tr = document.createElement('tr');
+    const plColor = item.pl >= 0 ? 'pl-pos' : 'pl-neg';
+    tr.innerHTML = `
+      <td><span class="name">${item.name}</span></td>
+      <td class="right">${fmt(item.amt)}</td>
+      <td class="right ${plColor} pl">${item.pl >= 0 ? '+' : ''}${fmt(item.pl)}</td>
+      <td class="right ${plColor} pl">${fmtPct(item.plRate)}</td>
+    `;
+    tbody.appendChild(tr);
+  });
+}
+
+renderTable(document.querySelector('#lossTable tbody'), loss5);
+renderTable(document.querySelector('#gainTable tbody'), gain5);
+
+// ── 板块分布 ──────────────────────────────────────────────
+const buckets = {hk:0, a:0, us:0, bond:0, sector:0};
+const totalAmt = num(totalRow[2]);
+
+rows.forEach(r => {
+  const amt = num(r[2]);
+  const t = classify(r[0], r[1]);
+  buckets[t] += amt;
+});
+
+const bucketColors = {
+  hk: '#3b82f6',
+  a: '#22c55e',
+  us: '#a78bfa',
+  bond: '#fbbf24',
+  sector: '#f472b6'
+};
+
+const barColors = {hk:'bar-hk', a:'bar-a', us:'bar-us', bond:'bar-bond', sector:'bar-sector'};
+const barsEl = document.getElementById('sectorBars');
+const legendEl = document.getElementById('sectorLegend');
+
+Object.entries(buckets)
+  .filter(([,v]) => v > 0)
+  .sort((a, b) => b[1] - a[1])
+  .forEach(([t, v]) => {
+    const pct = (v / totalAmt * 100).toFixed(1);
+    const wrap = document.createElement('div');
+    wrap.className = 'bar-wrap';
+    wrap.innerHTML = `
+      <div class="bar-label">
+        <span><span class="tag ${tagColor(t)}" style="margin-right:4px;">${tagName(t)}</span></span>
+        <span>¥${fmt(v)} <span style="color:#6b7280">(${pct}%)</span></span>
+      </div>
+      <div class="bar-bg"><div class="bar-fill ${barColors[t]}" style="width:${pct}%"></div></div>
+    `;
+    barsEl.appendChild(wrap);
+
+    const dot = document.createElement('span');
+    dot.style.display = 'inline-block';
+    dot.style.width = '8px'; dot.style.height = '8px';
+    dot.style.borderRadius = '50%'; dot.style.background = bucketColors[t];
+    dot.style.marginRight = '4px';
+    legendEl.appendChild(dot);
+    legendEl.appendChild(document.createTextNode(`${tagName(t)} `));
+  });
+
+// ── 近期加减仓（持仓天数 ≤ 30 视为近期新操作）─────────────
+const recentRows = rows
+  .filter(r => {
+    const days = num(r[14]);
+    const pl = num(r[5]);
+    const plRate = num(r[6]);
+    // 近期建仓/加仓：持仓天数 <= 30 且持有盈利尚可
+    // 用本月盈亏判断：正数可能加仓，负数可能减仓
+    const monthChange = num(r[10]);
+    return days <= 30;
+  })
+  .map(r => ({
+    code: r[0], name: r[1],
+    days: num(r[14]),
+    pl: num(r[5]), plRate: num(r[6]),
+    amt: num(r[2]),
+    monthChange: num(r[10]),
+    weekChange: num(r[9]),
+  }))
+  .sort((a, b) => a.days - b.days);
+
+const actEl = document.getElementById('recentActivity');
+
+// 判断加仓/减仓：看本月盈亏方向 + 持仓天数短
+recentRows.slice(0, 10).forEach(item => {
+  const isAdd = item.monthChange >= 0 || item.weekChange >= 0;
+  const badge = isAdd
+    ? '<span class="badge-add">加仓</span>'
+    : '<span class="badge-reduce">减仓</span>';
+  const sign = item.monthChange >= 0 ? '+' : '';
+  const div = document.createElement('div');
+  div.className = 'activity-item';
+  div.innerHTML = `
+    <div>
+      <span class="act-name">${item.name}</span>
+      <span class="act-tag">${badge}</span>
+      <div style="font-size:11px;color:#6b7280;margin-top:2px;">持仓 ${item.days} 天</div>
+    </div>
+    <div class="act-info">
+      <div>持有盈亏 <span class="${item.pl >= 0 ? 'add' : 'reduce'}">${item.pl >= 0 ? '+' : ''}${fmt(item.pl)}</span></div>
+      <div>本月 <span class="${item.monthChange >= 0 ? 'add' : 'reduce'}">${item.monthChange >= 0 ? '+' : ''}${fmt(item.monthChange)}</span></div>
+    </div>
+  `;
+  actEl.appendChild(div);
+});
+
+if (recentRows.length === 0) {
+  actEl.innerHTML = '<div style="color:#6b7280;font-size:12px;text-align:center;padding:20px;">暂无30天内操作记录</div>';
+}
+</script>
+</body>
+</html>

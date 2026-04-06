@@ -1,0 +1,217 @@
+
+--- Page 1 ---
+Acta Med. Okayama, 2019
+Vol. 73, No. 5, pp. 379-382
+CopyrightⒸ 2019 by Okayama University Medical School.
+Review
+http ://escholarship.lib.okayama-u.ac.jp/amo/
+Histidine-rich Glycoprotein Modulates the Blood-vascular
+System in Septic Condition
+Hidenori Wake＊§
+Department of Pharmacology, Okayama University Graduate School of Medicine, Dentistry,
+and Pharmaceutical Sciences, Okayama 700-8558, Japan
+Histidine-rich glycoprotein (HRG) is a 75kDa glycoprotein synthesized in the liver whose plasma concentra-
+tion is 100-150μg/ml. HRG has been shown to modulate sepsis-related biological reactions by binding to sev-
+eral substances and cells, including heparin, factor XII, fibrinogen, thrombospondin, plasminogen, C1q,
+IgG, heme, LPS, dead cells, bacteria, and fungi. Therefore, reduction of plasma HRG levels in sepsis leads to
+dysregulation of coagulation, fibrinolysis, and immune response, resulting in disseminated intravascular coag-
+ulation and multiple organ failure. This review summarizes the binding and functional properties of HRG in
+sepsis.
+Key words: htidine-rich glycoprotein, septic pathogenesis, immunothrombosis
+H istidine-rich glycoprotein (HRG), first isolated pathogens [29-32]. In addition, our recent studies have
+as histidine-rich 3.8S α2-glycoprotein in 1972 reported that the plasma concentration of HRG was
+[1,2], is a 75kDa plasma glycoprotein mainly pro- strikingly reduced during severe systemic inflammatory
+duced by the liver at approximately 100-150μg/ml in and septic condition triggered by infection, leading to
+human blood [3,4]. It is composed of 4 domains: cys- immunothrombosis and tissue damage, and subse-
+tatin-like domain 1; cystatin-like domain 2; histidine- quent disseminated intravascular coagulation (DIC) and
+proline rich domain, which has a unique 12 GHHPH multiple organ failure (MOF) (Fig.1) [33-40]. These
+tandem repeat amino acid sequence; and a C-terminal results suggest that HRG is involved in the regulation of
+domain [5,6]. HRG is present in the blood of verte- coagulation and fibrinolysis and the immune system in
+brates such as humans, rats, mice, rabbits, and chick- septic condition. This review is focused on the function
+ens, and a few invertebrates [3,6,7]. HRG can bind a of HRG in these systems.
+variety of ligands such as heparin, factor XII (FXII),
+Functions of HRG in Coagulation and
+fibrinogen, thrombospondin, plasminogen, C1q, IgG,
+Fibrinolysis
+heme, and lipopolysaccharide (LPS), and can interact
+with dead cells, bacteria, and fungi. These binding Coagulation and fibrinolysis are rigorously regulated
+properties indicate that HRG modulates coagulation by several biological substances to prevent blood loss
+[8-14] and fibrinolysis [15-18], helps to scavenge toxic and unnecessary thrombus formation. HRG is reported
+substances [19-25] and dead cells [26-28], and kills to bind to coagulation and fibrinolysis-related mole-
+cules such as heparin, FXII, fibrinogen, thrombos-
+Received February 28, 2019 ; accepted April 26, 2019. pondin, and plasminogen [8-18].
+＊Corresponding author. Phone & Fax : +81-86-235-7138
+E-mail : wake-h@cc.okayama-u.ac.jp (H. Wake)
+§The winner of the 2017 Incentive Award of the Okayama Medical Association Conflict of Interest Disclosures: No potential conflict of interest relevant
+in General Medical Science. to this article was reported.
+--- Page 2 ---
+380 Wake Acta Med. Okayama Vol. 73, No. 5
+Heparin. The anti-coagulant activity of anti- of pathogens to the systemic blood stream and their
+thrombin III (ATIII) is enhanced in the presence of disposal in physiological conditions. However, impair-
+heparin. HRG binds to heparin with high affinity, ment of this regulation in sepsis causes immunothrom-
+blocking the interaction between heparin and ATIII, bus formation to lead to DIC and subsequent MOF [37-
+and inhibiting its anti-coagulant activity [8-10]. 40]. Our recent study revealed that HRG inhibits
+FXII. HRG also modulates the intrinsic pathway immunothrombus formation by keeping circulating
+through high-affinity binding to FXII, inhibiting FXII neutrophils quiescent (Fig.1) [35,36].
+autoactivation and FXIIa-mediated activation of FXI
+Functions of HRG in Immunity and
+[11].
+Inflammation
+Fibrinogen and thrombospondin. Although HRG
+interaction with fibrinogen, the platelet-bridging mole- Insoluble immune complexes (IICs). Although
+cule, and subsequent incorporation into a fibrin clot immune complexes promote the clearance of pathogens
+does not induce the conversion of fibrinogen to fibrin and foreign substances, when IICs form and deposit in
+within the clot, this interaction influences the structure several organs, they lead to tissue injury and inflamma-
+of the fibrin gel [12]. HRG inhibits the interaction tion. C1q enhances IIC formation by directly binding
+between GPIIb/IIIa and fibrinogen via its histidine-rich and inducing the cross-linking of IgG molecules [19].
+domain in a Zn2+-dependent manner and inactivates the The N-terminal domain of HRG binds to C1q and the
+platelet-aggregation promoter thrombospondin on the F(ab) region of IgG, inhibiting the formation of IICs
+surface of platelets, thereby interfering with plate- composed of ovalbumin and the anti-ovalbumin anti-
+let-platelet interactions [13,14]. body [20]. This domain binding also inhibits IIC for-
+Plasminogen. HRG inhibits the interaction of mation by preventing Fc-Fc interactions by masking
+plasminogen with fibrin/fibrinogen and retards fibrino- IgG epitopes recognized by rheumatoid factor.
+lysis due to its binding to the plasminogen lysine-bind- Furthermore, HRG promotes the solubilization and
+ing site competing with fibrin binding [15]. Contrarily, clearance of IICs [21].
+immobilized HRG on cell surface heparan sulfate results Heme and LPS. Heme and LPS are damage-asso-
+in 30-fold increase in the conversion of plasminogen to ciated molecular pattern (DAMP)/pathogen-associated
+plasmin by the fibrinolysis promoter tPA [16-18]. molecular pattern (PAMP) molecules, respectively, that
+Immunothrombosis. Immunothrombosis is a key promote tissue injury. HRG binds heme, neutralizing
+phenomenon in the development of septic pathogene- heme cytotoxicity and inhibiting hemolysis [22-24].
+sis, which is triggered by activated-neutrophil adhesion Synthetic peptides derived from the histidine-rich
+to vascular endothelial cells, and subsequent platelet domain of HRG also bind and neutralize LPS, inhibit-
+accumulation and fibrin polymer deposition on their ing LPS-stimulated IL-8 production of CD14-
+surface. Immunothrombosis helps prevent the diffusion transfected THP-1 cells [25].
+Reduction of HRG Secondary infection
+Infection
+DIC
+MOF
+Systemic inflammation
+Dysregulated immunothrombus formation
+Fig. 1 Scheme of septic pathogenesis. DIC, disseminated intravascular coagulation; MOF, multiple organ failure.
+--- Page 3 ---
+October 2019 Histidine-rich Glycoprotein in Sepsis 381
+Dying and dead cells. Rapid removal of apoptotic advanced liver cirrhosis. Possible implications for enhanced fibri-
+nolysis. Am J Med (1982) 73: 179-182.
+and necrotic cells from blood stream and tissue by
+5. Jones AL, Hulett MD and Parish CR: Histidine-rich glycoprotein:
+phagocytes is necessary to maintain tissue homeostasis.
+a novel adaptor protein in plasma that modulates the immune, vas-
+Impairing clearance of these cells leads to the release of cular and coagulation systems. Immunol Cell Biol (2005) 83: 106-
+DAMP molecules, which induce inflammation and 118.
+6. Koide T, Foster D, Yoshitake S and Davie EW: Amino acid
+tissue damage. HRG can aid in the phagocytosis of
+sequence of human histidine-rich glycoprotein derived from the
+apoptotic cells by macrophages, by acting as a bridge nucleotide sequence of its cDNA. Biochemistry (1986) 25: 2220-
+between FcγRI on macrophages and DNA on the sur- 2225.
+7. Drasin T and Sahud M: Blood-type and age affect human plasma
+face of apoptotic cells [26]. Additionally, HRG recog-
+levels of histidine-rich glycoprotein in a large population. Thromb
+nizes intracellular phospholipids exposed in necrotic
+Res (1996) 84: 179-188.
+cells and aids in the recruitment of IgG, leading to the 8. Koide T, Odani S and Ono T: The N-terminal sequence of human
+phagocytosis of necrotic cells via FcγRI and heparan plasma histidine-rich glycoprotein homologous to antithrombin with
+high affinity for heparin. FEBS Lett (1982) 141: 222-224.
+sulfate on phagocytes [27,28].
+9. Lijnen HR, van Hoef B and Collen D: Interaction of heparin with
+Antimicrobial activity. Moreover, HRG exerts histidine-rich glycoprotein and with antithrombin III. Thromb
+antimicrobial activity by binding to the surface of the Haemost (1983) 50: 560-562.
+10. Lijnen HR, Van Hoef B and Collen D: Histidine-rich glycoprotein
+Gram-positive bacteria Enterococcus faecalis and
+modulates the anticoagulant activity of heparin in human plasma.
+Streptococcus pyogenes, the Gram-negative bacteria
+Thromb Haemost (1984) 51: 266-268.
+Escherichia coli, and the fungus Candida albicans under 11. MacQuarrie JL, Stafford AR, Yau JW, Leslie BA, Vu TT,
+acidic conditions or in the presence of Zn2+ and induc- Fredenburgh JC and Weitz JI: Histidine-rich glycoprotein binds
+factor XIIa with high affinity and inhibits contact-initiated coagula-
+ing membrane destabilization [29-32].
+tion. Blood (2011) 117: 4134-4141.
+12. Leung LL: Interaction of histidine-rich glycoprotein with fibrinogen
+Concluding Remarks and fibrin. J Clin Invest (1986) 77: 1305-1311.
+13. Leung LL, Nachman RL and Harpel PC: Complex formation of
+platelet thrombospondin with histidine-rich glycoprotein. J Clin
+Septic pathogenesis can result from systemic coagu-
+Invest (1984) 73: 5-12.
+lation, fibrinolysis, and inflammation. This review 14. Wakabayashi S and Koide T: Histidine-rich glycoprotein: a possi-
+revealed that HRG can ameliorate septic condition by ble modulator of coagulation and fibrinolysis. Semin Thromb Hemost
+(2011) 37: 389-394.
+modulating these biological reactions through high-af-
+15. Lijnen HR, Hoylaerts M and Collen D: Isolation and characteriza-
+finity binding to several key molecules and cells (Fig.1). tion of a human plasma protein with affinity for the lysine binding
+Thus, HRG has potential value as a therapeutic drug for sites in plasminogen. Role in the regulation of fibrinolysis and
+identification as histidine-rich glycoprotein. J Biol Chem (1980)
+the treatment of sepsis.
+255: 10214-10222.
+16. Borza D-B and Morgan WT: Acceleration of plasminogen activa-
+Acknowledgments. This work was supported by grant from the Japan tion by tissue plasminogen activator on surface-bound histidine
+Agency for Medical Research and Development, AMED (18lk0201085h0001). proline-rich glycoprotein. J Biol Chem (1997) 272: 5718-5726.
+We would like to thank Editage (www.editage.jp) for English language edit- 17. Jones AL, Hulett MD, Altin JG, Hogg P and Parish CR:
+ing. Plasminogen is tethered with high affinity to the cell surface by the
+plasma protein, histidine-rich glycoprotein. J Biol Chem (2004)
+References 279: 38267-38276.
+18. Silverstein RL, Nachman RL, Leung LL and Harpel PC: Activation
+of immobilized plasminogen by tissue activator. Multimolecular
+1. Haupt H and Heimburger N: Human serum proteins with high affin-
+complex formation. J Biol Chem (1985) 260: 10346-10352.
+ity for carboxymethylcellulose. I. Isolation of lysozyme, C1q and 2
+19. Gorgani NN, Parish CR, Easterbrook Smith SB and Altin JG:
+hitherto unknown globulins. Hoppe Seylers Z Physiol Chem (1972)
+Histidine-rich glycoprotein binds to human IgG and C1q and inhib-
+353: 1125-1132.
+its the formation of insoluble immune complexes. Biochemistry
+2. Heimburger N, Haupt H, Kranz T and Baudner S: Human serum
+(1997) 36: 6653-6662.
+proteins with high affinity to carboxymethylcellulose. II. Physico-
+20. Gorgani NN, Easterbrook-Smith SB and Altin JG: The formation of
+chemical and immunological characterization of a histidinerich
+insoluble immune complexes between ovalbumin and anti-ovalbu-
+3,8S-2-glycoprotein (CM-protein I). Hoppe Seylers Z Physiol Chem
+min IgG occurs in at least two distinct phases dependent on reac-
+(1972) 353: 1133-1140.
+tant concentration and ionic strength. Biochim Biophys Acta (1996)
+3. Corrigan JJ, Jeter MA, Bruck D and Feinberg WM: Histidine-rich
+1317: 45-54.
+glycoprotein levels in children: the effect of age. Thromb Res
+21. Gorgani NN, Altin JG and Parish CR: Histidine-rich glycoprotein
+(1990) 59: 681-686.
+prevents the formation of insoluble immune complexes by rheuma-
+4. Saito H, Goodnough LT, Boyle JM and Heimburger N: Reduced
+toid factor. Immunology (1999) 98: 456-463.
+histidine-rich glycoprotein levels in plasma of patients with
+--- Page 4 ---
+382 Wake Acta Med. Okayama Vol. 73, No. 5
+22. Katagiri M, Tsutsui K, Yamano T, Shimonishi Y and Ishibashi F: 32. Shannon O, Rydengård V, Schmidtchen A, Mörgelin M, Alm P,
+Interaction of heme with a synthetic peptide mimicking the putative Sørensen OE and Björck L: Histidine-rich glycoprotein promotes
+heme-binding site of histidine-rich glycoprotein. Biochem Biophys bacterial entrapment in clots and decreases mortality in a mouse
+Res Commun (1987) 149: 1070-1076. model of sepsis. Blood (2010) 116: 2365-2372.
+23. Morgan WT: Human serum histidine-rich glycoprotein. I. 33. Kuroda K, Wake H, Mori S, Hinotsu S, Nishibori M and
+Interactions with heme, metal ions and organic ligands. Biochim Morimatsu H: Decrease in histidine-rich glycoprotein as a novel
+Biophys Acta (1978) 535: 319-333. biomarker to predict sepsis among systemic inflammatory response
+24. Zhong H, Wake H, Liu K, Gao Y, Teshigawara K, Sakaguchi M, syndrome. Crit Care Med (2018) 46: 570-576.
+Mori S and Nishibori M: Effects of Histidine-rich glycoprotein on 34. Saigo K, Yoshida A, Ryo R, Yamaguchi N and Leung LL:
+erythrocyte aggregation and hemolysis: Implications for a role Histidine-rich glycoprotein as a negative acute phase reactant. Am
+under septic conditions. J Pharmacol Sci (2018) 136: 97-106. J Hematol (1990) 34: 149-150.
+25. Bosshart H and Heinzelmann M: Endotoxin-neutralizing effects of 35. Terao K, Wake H, Adachi N, Liu K, Teshigawara K, Takahashi H,
+histidine-rich peptides. FEBS Lett (2003) 553: 135-140. Mori S and Nishibori M: Histidine-rich glycoprotein suppresses
+26. Gorgani NN, Smith BA, Kono DH and Theofilopoulos AN: hyperinflammatory responses of lung in a severe acute pancreatitis
+Histidine-rich glycoprotein binds to DNA and Fc gamma RI and mouse model. Pancreas (2018) 47: 1156-1164.
+potentiates the ingestion of apoptotic cells by macrophages. J 36. Wake H, Mori S, Liu K, Morioka Y, Teshigawara K, Sakaguchi M,
+Immunol (2002) 169: 4745-4751. Kuroda K, Gao Y, Takahashi H, Ohtsuka A, Yoshino T,
+27. Poon IK, Hulett MD and Parish CR: Histidine-rich glycoprotein is Morimatsu H and Nishibori M: Histidine-rich glycoprotein prevents
+a novel plasma pattern recognition molecule that recruits IgG to septic lethality through regulation of immunothrombosis and inflam-
+facilitate necrotic cell clearance via FcγRI on phagocytes. Blood mation. EBioMedicine (2016) 9: 180-194.
+(2010) 115: 2473-2482. 37. Seymour CW, Liu VX, Iwashyna TJ, Brunkhorst FM, Rea TD,
+28. Poon IK, Parish CR and Hulett MD: Histidine-rich glycoprotein Scherag A, Rubenfeld G, Kahn JM, Shankar-Hari M, Singer M,
+functions cooperatively with cell surface heparan sulfate on phago- Deutschman CS, Escobar GJ and Angus DC: Assessment of clin-
+cytes to promote necrotic cell uptake. J Leukoc Biol (2010) 88: ical criteria for sepsis: for the Third International Consensus
+559-569. Definitions for Sepsis and Septic Shock (Sepsis-3). JAMA (2016)
+29. Kacprzyk L, Rydengård V, Mörgelin M, Davoudi M, Pasupuleti M, 315: 762-774.
+Malmsten M and Schmidtchen A: Antimicrobial activity of histi- 38. Delabranche X, Helms J and Meziani F: Immunohaemostasis: a
+dine-rich peptides is dependent on acidic conditions. Biochim new view on haemostasis during sepsis. Ann Intensive Care (2017)
+Biophys Acta (2007) 1768: 2667-2680. 7: 117.
+30. Rydengård V, Olsson A-K, Mörgelin M and Schmidtchen A: 39. Frantzeskaki F, Armaganidis A and Orfanos SE: Immunothrombosis
+Histidine-rich glycoprotein exerts antibacterial activity. FEBS J in acute respiratory distress syndrome: cross talks between inflam-
+(2007) 274: 377-389. mation and coagulation. Respiration (2017) 93: 212-225.
+31. Rydengård V, Shannon O, Lundqvist K, Kacprzyk L, Chalupka A, 40. Iba T and Levy JH: Inflammation and thrombosis: roles of neutro-
+Olsson AK, Mörgelin M, Jahnen-Dechent W, Malmsten M and phils, platelets and endothelial cells and their interactions in
+Schmidtchen A: Histidine-rich glycoprotein protects from systemic thrombus formation during sepsis. J Thromb Haemost (2018) 16:
+Candida infection. PLoS Pathog (2008) 4: e1000116. 231-241.

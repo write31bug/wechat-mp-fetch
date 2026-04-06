@@ -1,0 +1,729 @@
+
+--- Page 1 ---
+Immunology and Cell Biology (2005) 83, 106–118 doi:10.1111/j.1440-1711.2005.01320.x
+Review Article
+Histidine-rich glycoprotein: A novel adaptor protein in plasma that
+modulates the immune, vascular and coagulation systems
+ALLISON L JONES, MARK D HULETT and CHRISTOPHER R PARISH
+Cancer and Vascular Biology Group, Division of Immunology and Genetics, John Curtin School of Medical Research,
+Australian National University, Canberra, Australian Capital Territory, Australia
+Summary Histidine-rich glycoprotein (HRG) is an abundant plasma glycoprotein that has a multidomain
+structure, interacts with many ligands, and has been shown to regulate a number of important biological processes.
+HRG ligands include Zn2+ and haem, tropomyosin, heparin and heparan sulphate, plasminogen, plasmin, fibrinogen,
+thrombospondin, IgG, FcγR and complement. In many cases, the histidine-rich region of the molecule enhances
+ligand binding following interaction with Zn2+ or exposure to low pH, conditions associated with sites of tissue
+injury or tumour growth. The multidomain nature of HRG indicates that it can act as an extracellular adaptor protein,
+bringing together disparate ligands, particularly on cell surfaces. HRG binds to most cells primarily via heparan
+sulphate proteoglycans, binding which is also potentiated by elevated free Zn2+ levels and low pH. Recent reports
+have shown that HRG can modulate angiogenesis and additional studies have shown that it may regulate other
+physiological processes such as cell adhesion and migration, fibrinolysis and coagulation, complement activation,
+immune complex clearance and phagocytosis of apoptotic cells. This review outlines the molecular, structural,
+biological and clinical properties of HRG as well as describing the role of HRG in various physiological processes.
+Key words: angiogenesis, histidine–proline-rich glycoprotein, histidine-rich glycoprotein, inflammation, tumour
+metastasis.
+Introduction disease such as advanced liver cirrhosis,9,14 AIDS, renal
+disease, asthma and pulmonary disease.15 High plasma HRG
+Histidine rich glycoprotein (HRG), a single polypeptide chain
+levels have also been associated with thrombotic disorders.16,17
+α-plasma glycoprotein of approximately 75 kDa, was first
+2 HRG can interact with different cell surface receptors, bind a
+isolated in 1972.1,2 HRG is found in the plasma of many
+wide range of ligands, and it has been implicated in the
+vertebrates, including humans, mice, rabbits, rats, chickens
+regulation of numerous biological functions, notably angio-
+and cows. It is synthesized in liver parenchymal cells,3–5
+genesis, immune complex clearance and coagulation. Many
+although some studies suggest that HRG may also be pro-
+biological properties of HRG have been thoroughly investi-
+duced by immune cells such as monocytes and macrophages,6
+gated, and this review summarizes the molecular, structural,
+and by megakaryocytes.7 The molecule is present in human
+biological and clinical properties of HRG as well as review-
+plasma at the relatively high concentration of 100–150 µg/mL
+ing the role of HRG in various physiological processes.
+(∼1.5 µmol/L);5,8,9 plasma HRG levels at birth are approxi-
+mately 20% that of adults, and levels gradually increase with
+age.5 Clinical studies have shown that families with con- HRG protein structure
+genital HRG deficiencies (20–35% of normal plasma levels)
+HRG was first isolated and characterized from human serum
+fail to show any abnormalities in routine laboratory assays
+by Heimburger et al.2 and was subsequently isolated and
+of haemostatic and immunological function, suggesting that
+characterized from human plasma18,19 and platelets.7,20 Both
+a plasma HRG level 20% of normal is probably sufficient
+plasma and platelet HRG appear immunohistochemically
+for physiological function.10 Interestingly, HRG is one of the
+identical.7 The primary structure of human HRG is predicted
+few plasma proteins reported to show a marked reduction
+to be a 507 amino acid3 multidomain polypeptide consisting
+(approximately 50%) during the last trimester of pregnancy.11
+of two cystatin-like regions at the N-terminus, a histidine-rich
+HRG acts as a negative acute phase reactant whereby
+region (HRR) flanked by proline-rich regions (PRR), and a
+plasma levels are markedly reduced during the acute non-
+C-terminal domain (Fig. 1). The modular domain structure of
+specific response to tissue injury.12,13 Thus, levels of plasma
+HRG, the location of internal disulphide bonds and predicted
+HRG have been found to decrease during acute states of
+carbohydrate attachment sites are represented as a schematic
+diagram in Figure 1. Perhaps the most striking feature of
+HRG is its unusually high content of histidine and proline
+Correspondence: Christopher R Parish, Division of Immunology
+residues, each constituting approximately 13% of total amino
+and Genetics, John Curtin School of Medical Research, Australian
+National University, Canberra, ACT 2601, Australia. acids, which are concentrated within the HRR and PRR.1,18,21
+Email: christopher.parish@anu.edu.au The high content of both histidine and proline residues has
+Received 6 December 2004; accepted 8 December 2004. resulted in HRG also being termed ‘histidine–proline-rich
+© 2005 Australasian Society for Immunology Inc.
+--- Page 2 ---
+AL Jones et al. 107
+Figure 1 Modular structure of histidine-rich glycoprotein (HRG). Human HRG is comprised of three principal domains; namely, an
+amino-terminal domain (N1 and N2 regions), a central histidine-rich region (HRR) and a C-terminal domain. The HRR is flanked by two
+proline-rich sequences (PRR). Two internal disulphide bonds link the domains (represented by black solid lines); residue 6 in the N1 region
+links to residue 486 in the C-terminal domain and residue 185 in the N2 region links to residue 399 in PRR2. There are four intradomain
+disulphide bonds: between residues 60 and 71 in the N1 region, residues 87 and 108 in the N1 region, residues 200 and 223 in the N2 region
+and possibly residues 306 and 308 in PRR1. These disulphide bonds render various domains of the molecule resistant to proteolytic
+cleavage. In most humans, six glycosylation sites are conserved (HRG form-1), with three being present in the N1 region, one in the N2
+region and two in the HRR. A polymorphism exists whereby Ser186 is substituted with Pro186, resulting in the loss of a glycosylation site
+(Asn184) in the N2 region (HRG form-2). The amino acid residues that comprise the different domains of the human HRG molecule are
+listed in the figure.
+glycoprotein’ (HPRG).22 Human HRG is also composed of chains of histidine are known to be important for coordination
+approximately 14% carbohydrate attached to six predicted with metal ions.26 Modelling studies predict imidazole
+N-linked glycosylation sites (Fig. 1).1,3 binding units (within histidine) that protrude outward from
+The amino acid sequence of human HRG contains internal the elongated helical structure of the HRR, allowing access
+repeat sequences that can be classified into five different for the binding of metal ions22 (Fig. 2B). At physiological pH,
+types (I–V). Type V repeats include 12 tandem repeats of five HRG is likely to remain negatively charged, but can acquire a
+consensus amino acids.3 The striking repetition of the consen- positive charge either through binding Zn2+ via non-charged
+sus sequence is highlighted when the 12 tandem repeats of the histidine residues, or by direct protonation of histidines under
+pentapeptide sequence (between amino acids 330 and 389) mild acidic conditions,27 a process that causes a conformation
+are arranged in blocks (Fig. 2A). Of the 12 tandem amino acid change in the molecule that is transmitted through the disul-
+repeats, the last five repeated sequences are identical, repre- phide bond (Cys399–Cys185) to the N- and C-terminal
+senting exact repetitions of a consensus GHHPH motif. It is domains.22 The observation that the interaction between HRG
+likely this region evolved via successive duplication of a short and metals or haem is dependent both on pH and intact
+stretch of 15 nucleotides (1328–1342) encoding for the histidine residues further supports the idea that the histidine
+GHHPH motif.3 residues constitute the metal binding unit within HRG.28 Even
+Histidine residues are highly concentrated in the small though HRG binds metal ions in the presence of other metal
+region between amino acids 330 and 389 forming the ‘histidine- binding serum proteins such as albumin and transferrin, HRG
+rich’ region of the protein.3 Proline residues are more widely does not appear to play a critical role in serum transport of
+distributed, although many are concentrated in the ‘proline- these ligands under normal physiological conditions. Both in
+rich’ region immediately before and after the HRR. These normal human plasma and plasma from a family with ele-
+PRR and HRR contain very few hydrophobic or basic amino vated Zn2+ levels, the majority of Zn2+ ions were found to
+acids and are predicted to form a structural framework remain bound to albumin and not to HRG.29 It appears more
+supporting a twisted and elongated histidine-rich core.3 likely that the metal binding function of HRG is to modify the
+Amino acid sequence comparison between the HRR of HRG conformation of the molecule and thereby regulate subse-
+and HRR of high molecular weight kininogen reveals quent biological activity.
+approximately 50% identity. The isoelectric point of HRG The cystatin supergene family are more generally known
+is approximately 6.45, suggesting that at physiological pH, as cysteine proteinase inhibitors (CPI) and are widely distrib-
+HRG remains negatively charged. Amino acid sequence com- uted in mammalian tissues and body fluids. CPI and HRG
+parison between PRR of HRG and proline-rich proteins and share approximately 17% amino acid sequence identity,
+peptides23–25 from parotid saliva also show up to approxi- approximately 32% nucleotide sequence identity, and con-
+mately 50% sequence homology. The characteristic sequence served disulphide bonds in the N-terminal region.30 HRG is
+of QGPPP in proline-rich regions of saliva proteins also exists often classified as a kininogen-like member of the CPI,
+in HRG as Q/HGPPP. although some researchers suggest that HRG should be clas-
+Metal and haem binding to HRG is mediated via the sified as a new family within the cystatin superfamily.30 HRG
+numerous histidine residues within the HRR. Imidazole side also shares N-terminal sequence homology with antithrombin
+--- Page 3 ---
+108 Histidine-rich glycoprotein
+Figure 2 Structure of the histidine-rich region (HRR) of histidine-rich glycoprotein (HRG). (A) Tandem repeats in the HRR of human
+HRG cDNA and the derived amino acid sequences. Amino acid residues between 330 and 389 are arranged into a block of sequences of
+five columns and 12 rows, highlighting conservation within the tandem repeat sequences. Amino acids identical with the consensus amino
+acid sequence ‘Gly-His-His-Pro-His’ are enclosed in a black background. Nucleotides between 1163 and 1342 are arranged into a block of
+sequences of 15 columns (five codons) and 12 rows. Nucleotides identical with the consensus sequence ‘GGA CAC CAT CCC CAT’ are
+enclosed in a black background. Adapted from Koide et al.3 (B) Structure of a histidine amino acid and projected structure of the HRR of
+human HRG. With the chemical structure of histidine, note the imidazole ring formed from two nitrogens within the ring structure. Two
+of these imidazoles form the basic metal binding unit. The helical structure of the HRR of HRG is also depicted, demonstrating that the
+imidazole side chains protrude from the outer edge of the structure and form the numerous metal binding sites.
+III, although no protease inhibitory activity has been reported modular domains rendering numerous multifunctional proper-
+for HRG.19,31 ties.3 Studies indicate that HRG is readily cleaved by serine
+The secondary structure of HRG has not been entirely proteases such as plasmin from its native form (75 kDa) into
+determined, however, the N-terminal region appears to be fragments ranging in size from 10 to 65 kDa.32 Plasmin
+primarily composed of β-sheets, with some α-helix content.22 cleavage results in the release of the HRR, leaving N- and
+The hydrophilic HRR generates polyproline (II) helical struc- C-terminal fragments connected by a disulphide bridge between
+tures, while the C-terminal domain consists of random coil residues 6 and 486,22 which can be separated by further
+structures.22 Overall, the predicted secondary structure sug- denaturation and reduction. The C-terminal region is easily
+gests that the HRG molecule is organized into separate digested into smaller fragments, whereas the N-terminal
+--- Page 4 ---
+AL Jones et al. 109
+Table 1 Histidine-rich glycoprotein (HRG) ligands
+Ligand ∼K Stoichiometry HRG domain Reference
+d
+Haem 1.5 µmol/L 1:1–1:10 HRR 8,43
+Zn2+ 1–4 µmol/L 1:1–1:10 HRR 44
+Tropomyosin 2.5 nmol/L ? HRR 27,90
+Plasminogen 0.5–1.1 µmol/L† 1:1 N-, C- 67,70
+60 nmol/L‡
+Plasmin 0.9 µmol/L 1:1 N-, C- 72
+Fibrinogen 6.7 nmol/L ? ? 72
+Thrombospondin ? 3:1 ? 75
+IgG 0.6–250 nmol/L ? N- 80
+FcγR ? 3:1 N- 83
+C1q 7.8 nmol/L ? N- 81
+Heparin and heparan sulphate 7 nmol/L 1:1 N- 48
+†Soluble HRG; ‡immobilized HRG.
+HRR, histidine-rich region.
+domain remains relatively resistant to further proteolysis due and contains two different protein species; one is the deami-
+to the stabilizing effect of two intradomain disulphide bridges. nase catalytic subunit, while the other subunit shows similar-
+ity to plasma HRG.41 A small degree of divergence occurs
+between AMP-HRG and human HRG in the region contain-
+HRG gene structure and evolution
+ing residues 472–477 and thus the polypeptide is identified as
+The human HRG gene has been mapped to chromosome 3, a muscle specific form of HRG, herein referred to as muscle-
+position 3q28–q2933,34 and spans approximately 11 kb. Two HRG.41 It has been suggested that muscle-HRG may be an
+other members of the human cystatin gene superfamily, α- alternative splice product of the HRG primary transcript,
+2
+Heremans-Schmid (HS) glycoprotein and kininogen also map producing a unique N-terminal splice variant.41 Muscle-
+to this region,35 supporting suggestions that HRG is evolu- specific HRG is clearly localized in type IIB (fast-twitch
+tionarily related to the cystatin gene superfamily. A single glycolytic) muscle fibres. It is unknown whether muscle-
+gene is predicted to encode HRG in humans and mice,3,36 HRG contributes to the structure of skeletal muscle AMP
+with the human gene consisting of eight exons and seven deaminase or whether it simply binds the enzyme.42
+introns.3,33,34,37 Each of the N1 and N2 domains is encoded by Comparisons between human,3 mouse and rat,36 and
+three exons, while a single exon encodes the HRR, PRR and rabbit22 HRG amino acid and nucleotide sequences provides
+C-terminal domain.3,34 Several evolutionary implications arise insights into conserved regions within HRG that are likely to
+from an analysis of the HRG gene and protein. The many have an important role in the structure and function of the
+tandem repeats strongly suggest that the HRG gene arose by molecule. Alignment of amino acid sequences from mouse,
+endoduplication of primordial mini-domains or modules that rat, rabbit and human HRG show a high degree of sequence
+correspond with previously described type I–V repeats.34 conservation between species. The overall domain structure
+The location of introns within cystatin domains of HRG and of mouse, rat and rabbit HRG is similar to that proposed for
+members of the cystatin supergene family (cystatin and human HRG. The PRR are generally the most divergent of the
+kininogens) occur in essentially the same positions, suggest- defined regions within HRG. Interestingly, there is very little
+ing that the HRG gene is evolutionarily related to the cystatin sequence identity between species in regions that intervene
+supergene family.34,37 Thus, both homologous gene structure between domains such as between N2 and PRR1 and also
+and the fact that the HRG and kininogen genes co-localize to between PRR1 and HRR, implying that these regions are
+a similar region of the human genome supports an evolution- unlikely to have an important functional role and may act as a
+ary link between HRG and the cystatin superfamily.37 spacer region between the domains.36
+Two common isoforms of HRG have been found in
+humans, differing by a molecular weight of approximately
+HRG ligands
+2 kDa due to a polymorphism occurring in exon 5.38 Form-1
+HRG (77 kDa) contains a serine residue at amino acid posi- HRG is known to bind a variety of ligands, including haem
+tion 186, whereas form-2 HRG (75 kDa) contains a proline and divalent cations such as Zn2+, tropomyosin, plasminogen,
+residue at position 186. The presence of serine at position 186 plasmin, fibrinogen, thrombospondin, IgG, FcγR, C1q, heparin
+introduces an N-glycosylation site at Arg184, making form-1 and heparan sulphate. Table 1 lists the various HRG ligands,
+more highly glycosylated than form-2 and accounting for the indicating the affinity and stoichiometry with which they bind
+2 kDa difference.38 The frequency of the polymorphisms HRG, as well as the domain of HRG with which they interact.
+within the population (N = 36) was found to be 0.35 and 0.65
+for form-1 HRG and form-2 HRG, respectively.
+Haem, Zn2+ and other divalent metal cations
+A novel polypeptide of approximately 85 kDa with a
+striking similarity to HRG has been isolated from purified Early studies revealed that HRG interacts with haem with a
+human skeletal muscle adenosine monophosphate (AMP) stoichiometry of approximately 1:1 to 1:10 and K of ∼1.5 µmol/L.8
+d
+deaminase. AMP deaminase is composed of four subunits,39,40 The 12 repeats of the GHHPH motif is approximately equal to
+--- Page 5 ---
+110 Histidine-rich glycoprotein
+the number of haem binding sites, suggesting that each factors potentially play a role in tumour pathogenesis and
+consensus sequence represents a haem binding unit.43 The metastasis. Furthermore, HRG has been shown to bind to cell
+haem–HRG interaction is highly dependent on pH, with surface heparan sulphate,48,55,56 with maximal binding occur-
+maximum binding occurring between pH 6.5 and 7.0, pre- ring in the presence of 20 µmol/L Zn2+ and/or under condi-
+cisely when histidine side chains become protonated.22,43 tions of slightly acidic pH.48 Although the location of the
+Although HRG binds to haem, the physiological relevance of heparin/heparan sulphate binding site in the HRG molecule
+this interaction remains unclear. has been a matter of debate for many years, a recent study
+HRG interacts with Zn2+ with a K between 1 and 4 µmol/L provides direct evidence that the heparin-binding site is
+d
+and a stoichiometry of approximately 1:1 to 1:10.8 Studies located in the N-terminal domain. In this study, a recombinant
+indicate the HRR of HRG is most likely the domain responsi- HRG N-terminal domain was shown to interact with immobi-
+ble for Zn2+ binding due to its high level of histidine residues, lized heparin and cell surface heparan sulphate,48 whereas
+with two histidine residues forming each metal binding unit. peptides corresponding to the HRR did not bind to cell
+The interaction between HRG and Zn2+ is abolished when surfaces. These data are consistent with the earlier observa-
+histidine residues are chemically removed from HRG, tion that the heparin binding site of antithrombin III shares
+supporting the model that histidine residues are essential for high sequence homology with the N-terminal domain of
+Zn2+ binding.44 Haem and metal ions most likely compete for HRG.3,31
+the same histidine binding unit within the HRR.8 It appears It is well documented that the interaction between HRG
+that HRG undergoes a conformational change under specific and heparin is also dependent on pH, Zn2+ and histidine
+inducible conditions, such as Zn2+ binding or low pH, provid- residues.48,55–59 Jones et al.48 suggested a model whereby full-
+ing a regulatory mechanism for the function of HRG.45 HRG length HRG binds via its N-terminal domain with low affinity
+interacts in vitro with a variety of other divalent metal cations, to cell surface heparan sulphate in the absence of Zn2+, free
+including copper, mercury, cadmium, nickel and cobalt, with Zn2+ levels increasing at sites of platelet degranulation to
+a lower affinity of K (∼1 µmol/L). HRG does not interact concentrations that promote heparan sulphate binding. Following
+d
+with magnesium, manganese or lead.44 HRG can also inhibit chelation of Zn2+ or protonation of the HRR, a change is
+the formation of spontaneous apatite calcifications formed induced in HRG that results in the protein binding with higher
+from calcium and phosphate ions in vitro,46 presumably by affinity to cell surface heparan sulphate. Thus, the N-terminal
+interacting with these divalent cations. Thus, under physio- domain of HRG interacts with heparin and heparan sulphate,
+logical conditions, it is possible that HRG may accumulate at whereas the HRR modulates this binding by reacting to
+sites of tissue damage and prevent ectopic calcification by changes in local pH and Zn2+ concentration.
+inhibiting apatite precipitation.
+Tropomyosin
+Heparin and heparan sulphate
+Tropomyosin forms part of the actin cytoskeleton60 and has
+Heparan sulphate proteoglycans are ubiquitously expressed been identified on the surface of fibroblast growth factor
+on animal cell surfaces, and in the extracellular matrix (ECM) (FGF)-2-activated human umbilical vein endothelial cells
+and vascular basement membrane. Heparin is derived from (HUVEC).27,61 HRG binds with high affinity (K ∼2.5 nmol/L)
+d
+the heparan sulphate proteoglycans within mast cell granules to immobilized tropomyosin in a Zn2+ (10 µmol/L)- or pH
+and is more highly sulphated than heparan sulphate.47 HRG (pH < 6.5)-dependent manner. The HRR domain appears to
+interacts with heparin with high affinity, and can neutralize interact with negatively charged tropomyosin only when the
+the anticoagulant activity of heparin.2,48,49 In purified systems, HRR domain acquires a positive charge either through
+HRG and heparin interact with a 1:1 stoichiometry to form a binding to Zn2+ via non-charged histidine residues or by direct
+high affinity complex with a K of ∼7 nmol/L.50 HRG (in the protonation of histidines induced under mild acidic condi-
+d
+presence of physiologically attainable concentrations of Zn2+) tions,27 suggesting that there is a large electrostatic contribu-
+has the ability to reverse heparin-induced inhibition of tion to binding. The levels of free Zn2+ in plasma are tightly
+smooth muscle cell (SMC) proliferation by binding heparin regulated and are usually too low to promote binding of HRG
+in vivo. Thus, it is possible that HRG may be one of the to endothelial cells.27 Only during coagulation, when acti-
+unidentified factors that reverses the inhibitory effect of vated platelets release free Zn2+ from α-granules,62 is the local
+heparin on SMC proliferation in arterial microenvironments concentration of free Zn2+ likely to reach the levels (approxi-
+in vivo.51,52 In fact, the high affinity of HRG for heparin has mately 10–50 µmol/L) needed to support the binding of HRG
+resulted in HRG being investigated as an alternative antidote to tropomyosin on endothelial cells, with this interaction
+for heparin overdose.53 believed to mediate antiangiogenic effects.27
+HRG interacts with heparan sulphate and masks the
+cleavage site on heparan sulphate chains recognized by the
+Plasminogen
+β-D-endoglycosidase heparanase.54 Thus, in a physiological
+environment, soluble HRG may bind to and mask the vascular Plasminogen plays a key role in the fibrinolytic system and is
+wall and ECM heparan sulphate, thereby preventing heparan also a HRG ligand. Plasmin activity has been implicated in
+sulphate degradation by heparanase. Heparanase not only wound healing, tissue remodelling, angiogenesis, embryo-
+cleaves heparan sulphate chains, but also has the important genesis, pathogen and tumour cell invasion, and tumour
+role of regulating the release of growth factors from the ECM. metastasis.63 Plasminogen contains lysine binding sites that
+Thus, HRG may block heparanase-mediated liberation of are involved in its interaction with fibrin and HRG.18,64–68 The
+growth factors from heparan sulphate matrices. Such growth plasminogen binding site within HRG is likely to involve the
+--- Page 6 ---
+AL Jones et al. 111
+N- and C-terminal domains, because immobilized N- and the efficient activation of plasminogen to plasmin by tPA in
+C-terminal domains (but not the HRR domain) can bind microenvironments that do not contain fibrin, and thus
+plasminogen and stimulate tissue-type plasminogen activator potentially facilitates plasmin-mediated physiological and
+(tPA)-mediated cleavage of plasminogen to plasmin.67,69 In pathological events such as ovulation, implantation, inflam-
+particular, lysine residues in the C-terminal domain of HRG mation and tumour cell invasion.76
+are known to be essential for plasminogen binding,68,69
+although the C-terminal lysine residue does not appear to
+IgG, FcγR and complement
+have an important role in plasminogen binding.67
+HRG interacts with both plasmin and plasminogen with a Immunoglobulin (Ig) molecules consist of two identical
+K of ∼1.0 µmol/L,18,70 making HRG one of the most impor- heavy (H)- and light (L)-chains. In many species, two types of
+d
+tant plasminogen binding proteins in plasma, where it has L-chain exist, termed κ and λ, which exhibit little amino acid
+been estimated that approximately 50% of plasminogen circu- homology and, unlike H-chains, their function remains
+lates bound to HRG. Plasminogen appears to bind to HRG unknown. Gorgani et al.80 showed that HRG can interact with
+independently of heparin, indicating that the plasminogen soluble IgG, although the affinity of this interaction is
+binding sites on HRG are probably distinct from the heparin enhanced up to fivefold by Zn2+ (20 µmol/L), is dependent
+binding sites.68 Numerous studies have confirmed an approxi- upon the IgG subclass, and is influenced by whether the IgG
+mate 1:1 to 1:2 stoichiometry of binding between HRG and molecule contains κ or λ L-chains. Thus, IgG1 and IgG2 κ
+plasminogen.67,68 Several studies67,69,71 have found that immo- L-chain containing forms have a 50–200-fold greater affinity
+bilized HRG (as opposed to soluble HRG) has a much higher for HRG than the IgG1 and IgG2 λ L-chain forms, providing
+affinity for plasminogen (K ∼60 nmol/L) resulting in an up the first evidence for a functional difference between these
+d
+to approximately 100-fold enhancement in plasminogen two L-chains. The HRG–IgG interaction is thought to occur
+activation by tPA. Interestingly, 70% of the plasmin formed predominantly via the F region of IgG, and the N-terminal
+(ab)
+remained surface associated where it was protected from domain of HRG.81 It has also been reported that HRG
+inhibition by α-antiplasmin.71 These findings are consistent interacts with Fc receptors, suggested to be FcγRI and FcγRII,
+2
+with a physiological model where HRG has a higher affinity via its N-terminal domain and possibly C-terminal domains in
+for plasminogen when HRG is immobilized on cells via a Zn2+-independent manner.82,83
+interaction with cell surface heparan sulphate.67 HRG was first discovered by Heimburger et al.2 when it
+copurified with the first component of complement (C1q).
+The N-terminal domain of HRG interacts with C1q via two
+Fibrinogen
+distinct high affinity binding sites (K ∼7.8 nmol/L and
+d
+HRG specifically interacts with fibrinogen with high affinity ∼37 nmol/L).81 Interestingly, Zn2+ (20 µmol/L) appears to
+(K ∼6.7 nmol/L),72 with HRG also being incorporated into inhibit the interaction between HRG and C1q. The inhibitory
+d
+fibrin clots with an apparent K of ∼0.25 µmol/L. The incor- effect of Zn2+ may be due to an induced conformational
+d
+poration of HRG into clots has no effect on the conversion of change in the HRG molecule resulting in a loss of C1q
+fibrinogen to fibrin, although interestingly, the presence of binding sites. Immobilized HRG also binds many of the
+HRG in fibrin clots significantly affects the final structure membrane attack complex (MAC) components,84 suggesting
+of the fibrin gel by causing the formation of thinner fibrils. that HRG may play a role in regulating the formation of the
+The biological significance of HRG interacting with fibrinogen MAC and modulating complement functional efficiency.
+and fibrin may not be limited to the fibrin polymerization
+process. Fibrin has been shown to form on the surface of
+HRG cell surface receptors
+thrombin-activated platelets,7 and has also been detected on
+the surface of macrophages,28 thus it is possible that the HRG binds many cell types, including T lymphocytes,85,86
+interaction of HRG with fibrinogen may extend to a role in murine erythrocytes,87 EBV-transformed human B cells86 and
+cell–cell interactions involving platelets and macrophages.72 platelets88,89 as well as endothelial,27 melanoma, ovarian,67
+fibroblast,55 lymphoma56 and myeloid cell lines.80 Despite the
+ability of HRG to bind to a diverse range of cell types, HRG
+Thrombospondin
+cell surface receptors in many cases are not clearly defined.
+Thrombospondin (TSP) is a 450 kDa filamentous multi- Nevertheless, four broad classes of cell surface receptors have
+functional α-granule ‘adhesive’ glycoprotein of human platelets been identified: (i) heparan sulphate, (ii) tropomyosin, (iii) an
+that binds to fibrinogen, fibronectin, heparin and HRG.73,74 unidentified 50–55 kDa protein on T cells and (iv) FcR.
+TSP forms a high affinity complex with HRG75 and plas- Heparan sulphate glycosaminoglycans are ubiquitously
+minogen (K ∼35 nmol/L) both via lysine binding sites,75,76 expressed on most cells surfaces. Most HRG cell surface
+d
+and interestingly the HRG–TSP complex is still able to bind binding appears to be mediated via cell surface heparan
+plasminogen and heparin. In fact, HRG can form a tri- sulphate. Indeed, early studies by Parish et al.87 concluded
+molecular complex with plasminogen, TSP and cell surface that human HRG interacts with anionic carbohydrates, proba-
+heparan.75,77 It has been suggested that the complex contains bly heparan sulphates, on murine erythrocytes. Jones et al.48
+approximately three HRG and approximately three plasmino- provided clear evidence that HRG interacts with cell surfaces
+gen molecules per molecule of TSP,78 with TSP containing via heparan sulphate, with treatment of cells with mammalian
+independent binding sites for plasminogen and HRG.79 The heparanase destroying HRG binding sites. Similarly, HRG
+physiological significance of a surface associated plasminogen– was shown to bind to CHO-KI cells, but not to a mutant form
+HRG–TSP complex is unclear, although it appears to allow of CHO-KI cells that lacks cell surface heparan sulphate,
+--- Page 7 ---
+112 Histidine-rich glycoprotein
+providing further support for heparan sulphate being one of process that may result in plasmin generation within a con-
+the primary HRG cell surface ligands. In addition, Guan fined and regulated local environment. Subsequent studies67
+et al.27 showed that HRG binds to heparan sulphate proteogly- have confirmed that HRG can target plasminogen/plasmin to
+cans expressed on the surface of HUVEC. the surface of cells under conditions of elevated free Zn2+
+Recent studies have identified tropomyosin as a novel cell (∼20 µmol/L) or low pH (pH < 6.5). Because plasmin has an
+surface receptor for HRG.27,90 Fibroblast growth factor (FGF)-2 important role in aiding ECM degradation by invading cells,
+stimulation of HUVEC causes translocation of tropomyosin HRG may potentiate leucocyte entry into inflammatory sites,
+to the cell surface. Guan et al.27 observed that HRG binds with angiogenesis and tumour metastasis via this mechanism.
+higher affinity to FGF-2 stimulated HUVEC (K ∼6 nmol/L) The pH dependence of the HRG–GAG interaction is likely
+d
+than to non-stimulated cells (K ∼55 nmol/L), with subse- to be physiologically relevant as the local pH can drop by as
+d
+quent work revealing that tropomyosin is the high affinity much as one pH unit under conditions of hypoxia or
+binding site for HRG on FGF-2 stimulated HUVEC. Interest- ischemia,92,93 or 0.5 of a pH unit during an inflammatory
+ingly, the binding of HRG to immobilized tropomyosin and response due to lactic acidosis.94 Thus, HRG may function as
+FGF-2 stimulated HUVEC requires Zn2+ at pH 7.5.27 How- a pH sensor that binds cell surface GAG only when local pH
+ever, binding can occur in the absence of Zn2+ at pH 6.0. decreases or when local Zn2+ increases, such as during tissue
+Thus, at physiological pH, binding is dependent on the injury or tumour metastasis.45,67 Due to the HRR of HRG
+presence of Zn2+ whereas binding can also occur in the acquiring a positive charge upon protonation, HRG can be
+absence of Zn2+ at slightly acidic pH (pH < 6.5). described as a facultative polycation.69 It seems likely that
+Studies with human peripheral blood T lymphocytes many of the biological actions of HRG are related to its
+suggests that heparan sulphate-independent binding of HRG polycationic nature, implying that the functional effects of
+to cell surfaces can occur.86 Kinetic analyses suggested both HRG are regulated by pH and expressed only under physio-
+high affinity (K ∼19 nmol/L) and low affinity (K ∼500 nmol/L) logical conditions that produce local acidosis.
+d d
+binding sites on human T cells for HRG. Furthermore, unlike
+HRG binding to most other cell types, the presence of Zn2+
+Modulator of cell proliferation and cell adhesion
+did not significantly enhance HRG binding to T lymphocytes.86
+An unidentified 50–55 kDa protein isolated from T lympho- Studies suggest that HRG modulates cell proliferation by
+cyte lysates was identified as the specific HRG T-cell surface interacting with cell surface GAG. HRG has been reported to
+receptor. More recent studies by Olsen et al.56 further induce proliferation of cultured arterial smooth muscle cells
+investigated HRG binding to T cells using human and mouse by inhibiting the antiproliferative effects of heparin.51,52 Other
+T cell lines, and found that Zn2+ profoundly potentiated HRG studies however, indicate that HRG inhibits cell proliferation.
+binding to T lymphocytes, and that heparin inhibited binding, Shatsky et al.85 showed that HRG was capable of suppressing
+contrary to the results of Saigo et al.86 Thus, perhaps heparan T-cell proliferation. Brown and Parish55 also showed that
+sulphate may be a more important ligand on activated and/or HRG inhibits proliferating fibroblasts by interacting with cell
+transformed T lymphocytes56 than on resting peripheral blood surface heparan sulphate and subsequently inhibiting the
+T lymphocytes.86 binding of acidic and basic FGF to these cells. These findings
+Finally, Fc receptors have been shown to be a ligand for support a role for HRG in modulating the release of FGF from
+HRG on a number of different cell types. Chang et al.91 the ECM and basement membranes and also in inhibiting the
+demonstrated that HRG binds to inflammatory peritoneal interaction of FGF with cell surface heparan sulphates. Thus
+macrophages via the low affinity Fc receptor, FcγRII, whereas HRG has been reported to both inhibit and enhance cell
+studies by Gorgani et al.82 suggested that HRG can interact proliferation by interacting with heparan sulphate on cell
+with FcγRI, a high affinity Fc receptor on myeloid cells. surfaces.
+Long-term treatment of peritoneal macrophages with
+Functional effects of HRG physiological concentrations of HRG results in the loss of cell
+adherence, probably mediated via reduced synthesis of cell
+pH sensor and Zn2+ detector
+surface adhesive proteins.91 Olsen et al.56 also found that
+Numerous studies indicate that the interaction between HRG HRG inhibits the adhesion properties of murine T-cell lines to
+and Zn2+ is highly dependent on pH. Morgan44 hypothesized plastic culture dishes, but that HRG promoted homotypic
+that the unique, conserved HRR domain of HRG acts as a pH adhesion between the cells. In contrast, Lamb-Wharton and
+sensor, providing a mechanism for regulating HRG activity. Morgan95 reported that HRG promotes T-cell adhesion, whilst
+In their model, histidine side chains of HRG become proto- also inducing a change in morphology. HRG induced MOLT-3
+nated when local pH falls during conditions such as ischemia cells either to produce extended cellular processes or to
+or hypoxia. The HRR becomes positively charged, allowing become elongated at the poles. The changes in adherence
+HRG to subsequently strongly bind negatively charged GAG status and morphology observed in MOLT-3 cells are similar
+on cell surfaces. This pH sensor phenomenon may become to those of leucocytes preparing to migrate though the micro-
+physiologically relevant as it allows HRG to function as an vascular system to sites of inflammation, and suggest that
+adaptor molecule, co-immobilizing soluble proteins, such as HRG may be involved in regulating early adhesion events of
+plasminogen, onto cell surface GAG only under specific T lymphocytes during immune responses and at sites of
+conditions. In support of this concept, in vitro studies showed inflammation.95 In addition, HRG has the ability to inhibit
+that immobilized, but not soluble, HRG stimulates plasmino- autorosetting (cell adhesion between autologous murine lym-
+gen activation.69 Thus, in a physiological setting, cell surface phocytes and erythrocytes), and thus HRG is also known as
+GAG can bind HRG in vivo when the local pH is lowered, a ‘autorosette inhibition factor’.6,96–98
+--- Page 8 ---
+AL Jones et al. 113
+Table 2 Multiple effects of histidine-rich glycoprotein (HRG) on angiogenesis
+Enhancing effects
+Over-rides the antiangiogenic effects of thrombospondin-1113†
+May tether plasminogen/plasmin to the surface of endothelial cells and aid cell migration and invasion67‡
+Inhibitory effects
+Blocks FGF-1 and FGF-2 action by preventing FGF binding to heparan sulphate in the ECM and on endothelial cell surfaces55‡
+Prevents heparanase-mediated release of angiogenic growth factors from the ECM by masking heparanase cleavage sites in ECM heparan
+sulphate54‡
+Delivers an antiangiogenic signal to endothelial cells by binding to cell surface tropomyosin via its HRR27,90†,‡
+†Probably an angiogenesis-specific effect; ‡processes that are likely to be enhanced by elevated extracellular free Zn2+ levels (usually provided by
+degranulating platelets) and by acidosis (pH < 6.5).
+ECM, extracellular matrix; FGF, fibroblast growth factor; HRR, histidine-rich region.
+Regulator of coagulation and fibrinolysis formation of IIC. Hence, evidence suggests that HRG may
+have an important role in the formation, solubilization and
+HRG has been found to modulate various components of the
+subsequent clearance of IIC in vivo.
+coagulation cascade. HRG can bind to heparin (a potent anti-
+HRG has also been shown to biphasically modulate the
+coagulant), resulting in a failure of mast cell-released heparin
+expression of FcγR and its associated phagocytic function by
+to inhibit the procoagulant activity of monocytes at sites of
+murine peritoneal macrophages. After 1–2 h of HRG treat-
+inflammation and thrombosis.99,100 Clinical studies also support
+ment, FcγR expression is rapidly upregulated on inflam-
+an interaction between HRG and heparin in vivo, HRG
+matory peritoneal macrophages, resulting in enhanced
+blocking the normal interaction between heparin and anti-
+phagocytosis of opsonized sheep erythrocytes, but after
+thrombin III.78,101,102 Other studies have investigated whether
+16–48 h of treatment, FcγR expression is downregulated,
+HRG can act as an antifibrinolytic agent due to its high
+resulting in significantly reduced phagocytosis of opsonized
+affinity interaction (K ∼0.5–1.1 µmol/L) with plasminogen.
+d sheep erythrocytes.83,91 Both the N-terminal and C-terminal
+HRG reportedly binds to lysine binding sites on plasminogen,
+domains of HRG appear to be important for regulating
+thus preventing plasminogen from interacting with fibrinogen
+macrophage phagocytic function.83
+and α-antiplasmin. Although there is no direct evidence to
+2 Recent studies by Gorgani et al.107 demonstrated that
+support this view, it has been proposed by numerous groups
+HRG can increase the rate of phagocytosis of apoptotic cells
+that HRG inhibits the interaction of plasminogen with fibrin
+by human monocyte derived macrophages (HMDM). Based
+clots, thus indirectly inhibiting plasmin mediated fibrino-
+on these observations, the authors postulated that HRG forms
+lysis.18 This proposed antifibrinolytic effect of HRG would be
+a bridge between monocytic and apoptotic cells via FcγRI on
+expected to potentiate clot formation and persistence in the
+HMDM and naked DNA on apoptotic cells. Thus, HRG may
+vasculature and in tissues. In contrast to the antifibrinolytic
+assist in the removal of apoptotic cells under normal physio-
+effect of HRG, other studies69,71 have demonstrated that surface
+logical conditions, whereas other proteins such as C-reactive
+immobilized HRG can act as a pro-fibrinolytic agent by
+protein take over during more pathological or chronic
+enhancing fibrinolysis. Immobilized HRG binds plasminogen
+inflammatory disorders.107 Gorgani et al.107 suggest that HRG
+with high affinity resulting in an approximately 30-fold
+may protect individuals from the development of systemic
+increase in the conversion of plasminogen to plasmin by tPA,
+autoimmunity by promoting the efficient removal of apop-
+with theoretically a concomitant increase in fibrinolytic
+totic cells. This theory is supported by HRG levels being low
+potential in the microenvironment of fibrin clots.69 Collec-
+in the sera of human SLE patients.108 However, future work
+tively, these data suggest that HRG can regulate coagulation
+with HRG knockout mice and mice predisposed to SLE
+and fibrinolysis, but whether this represents a major func-
+should provide more data to evaluate this hypothesis.
+tion of HRG in vivo remains to be established.
+Regulator of angiogenesis
+Modulator of immune complex clearance and
+It has been reported that HRG exhibits both enhancing and
+FcγR-mediated phagocytosis
+inhibitory effects on angiogenesis, which are summarized in
+Certain autoimmune diseases such as systemic lupus erythe- Table 2; some of these effects are highly specific to angio-
+matosus (SLE) are associated with the production of insoluble genesis. During angiogenesis, new capillary blood vessels are
+immune complexes (IIC) and consequent tissue injury.103,104 formed from pre-existing vessels in response to angiogenic
+Gorgani et al.81,105 found that physiological concentrations stimuli. TSP is known to be a potent inhibitor of angiogenesis
+of the N-terminal domain of HRG can inhibit the first stage of by binding to a CLESH-1 (CD36, LIMPII, emp, SR-BI
+formation of IIC,106 suggesting that HRG may have a role in homology sequence 1) motif in CD36.109,110 The TSP
+regulating IIC formation in vivo. HRG probably inhibits IIC sequence ‘CSVTCG’ is thought to be responsible for deliver-
+formation by preventing Fc–Fc interactions and by masking ing the antiangiogenic signal to CD36, this peptide having
+epitopes on IgG recognized by rheumatoid factors.81,105 been shown to possess antiangiogenic activity as a free
+Although HRG was also found to promote solubilization of peptide.111,112 There are two regions of HRG with significant
+already formed IIC, HRG was more effective at inhibiting the homology to the CLESH-1 motif, between amino acid
+--- Page 9 ---
+114 Histidine-rich glycoprotein
+Figure 3 Model of inhibition of the antiangiogenic effect of thrombospondin (TSP)-1 by histidine-rich glycoprotein (HRG). Angio-
+genesis induced by basic fibroblast growth factor (bFGF) is inhibited by TSP-1 through the interaction of the TSP type-1 repeat with the
+CLESH-1 domain of the signalling receptor CD36 (centre). HRG also contains a CLESH-1 motif and upon binding TSP-1, inhibits the
+interaction of TSP-1 with CD36, thereby inhibiting the antiangiogenic effect of TSP (right). Adapted from Simantov et al.113
+residues 155–213 in the N2 domain, and between residues HRR.90 In addition, Olsson et al.115 showed that treatment of
+428–503 in the C-terminal domain.113 Simantov et al.113 pro- fibrosarcoma-bearing mice with HRG resulted in decreased
+posed a model in which HRG inhibits the antiangiogenic tumour angiogenesis and a decrease in tumour volume. Simi-
+effects of TSP by blocking the interaction between TSP and larly, peptides derived from the HRR have also been shown to
+CD36, thereby preventing delivery of the antiangiogenic inhibit angiogenesis and tumour growth in vivo.90 Additional
+signal (Fig. 3). Thus, HRG may act as a natural modulator of studies also identified tropomyosin to be the key HRR
+angiogenesis by antagonizing the effect of endogenous TSP.113 binding molecule on human endothelial cells, with binding
+Interestingly, HRG may also provide a mechanism by which being optimal under conditions of elevated Zn2+ and/or acidic
+tumours escape or become resistant to the antiangiogenic pH (Fig. 4).27 Because tropomyosin lacks a transmembrane
+effects of TSP. Immunohistochemical studies of breast cancer domain, it is likely that other proteins in the endothelial cell
+specimens show HRG co-localizes with TSP in the tumour membrane may associate with tropomyosin and play a role in
+matrix and that the interaction masks the antiangiogenic the antiangiogenic signalling. It has been suggested that HRG
+epitope of TSP. Therefore, in areas where TSP is an important mediates its antiangiogenic activity by inducing apoptosis in
+inhibitor of angiogenesis, HRG may serve as a modulator activated endothelial cells and reducing cell proliferation.114
+of TSP activity by promoting angiogenesis.113 Furthermore, Olsson et al.115 also suggested that HRG acts by decreasing
+it has also been reported that HRG may tether plasminogen/ the attachment of endothelial cells to vitronectin and reducing
+plasmin to the surface of cells and potentially aid endothelial endothelial cell migration. The potent antiangiogenic effects
+cell migration and invasion during angiogenesis, although this of specific peptide sequences derived from the HRR of HRG
+phenomenon may also aid the invasion of many different cell are currently being pursued for possible development as
+types.67 antiangiogenic agents.90
+Conversely, other studies indicate that HRG exhibits
+antiangiogenic activity by various mechanisms.27,54,55,90,114,115
+First, HRG binds to heparan sulphate on the surface of
+Conclusion
+endothelial cells and prevents the heparan sulphate serving as
+a coreceptor for various FGF.55 Clearly this inhibitory effect HRG is a multidomain molecule that interacts with many
+is not restricted to angiogenesis, but could also block FGF- ligands. The multidomain structure of HRG suggests that the
+dependent proliferation of many cell types. Second, HRG molecule may act as an adaptor protein that can bring together
+prevents heparanase-mediated release of angiogenic growth different ligands under specific conditions. Furthermore, the
+factors, such as FGF, from the ECM by masking heparanase HRR of HRG is highly responsive to Zn2+ and pH, which
+cleavage sites in ECM heparan sulphate.54 Again, this inhibi- causes a conformation change within the HRR that can be
+tory effect is probably not restricted to angiogenesis. Third, transmitted to other domains of the molecule to regulate their
+the HRR of HRG has been shown to deliver antiangiogenic function. The HRR is also the domain of the molecule that
+signals to endothelial cells.27,90,114,115 Initially HRG was shown can interact with tropomyosin on tumour cells, resulting in the
+to inhibit tube formation and the proliferation of endothelial production of an antiangiogenic signal. Thus, although HRG
+cells,114 as well as blocking angiogenesis in in vivo models.27 has been shown to interact with a variety of ligands, and to
+The antiangiogenic effect of HRG appeared to be mediated regulate numerous biological activities, much more remains
+specifically through the GHHPH consensus region within the to be discovered about this intriguing molecule.
+--- Page 10 ---
+AL Jones et al. 115
+Figure 4 Model of the antiangiogenic effect mediated via the histidine-rich region (HRR) of histidine-rich glycoprotein (HRG).
+Fibroblast growth factor (FGF)-2 binds to its cell surface receptor and stimulates higher levels of expression of tropomyosin on the surface
+of endothelial cells. The HRR domain of HRG then binds with high affinity to cell surface tropomyosin and delivers an antiangiogenic
+signal to the endothelial cells. Tropomyosin lacks a transmembrane domain, suggesting that it may require a coreceptor to mediate the
+antiangiogenic signal. The binding of the HRR to tropomyosin is dependent on pH and Zn2+. At physiological pH, binding of the HRR to
+tropomyosin is dependent on the presence of Zn2+, with local elevated free Zn2+ concentrations (10–50 µmol/L) being provided by
+degranulating platelets, although binding can also occur in the absence of Zn2+ at slightly acidic pH (pH = 6.5). The antiangiogenic signal
+causes increased apoptosis, decreased cell proliferation and cell migration. This schematic diagram was based on results discussed in
+Donate et al.,90 Guan et al.27 and Olsson et al.115
+Acknowledgements
+6 Sia DY, Rylatt DB, Parish CR. Anti-self receptors. V. Properties
+This work was supported in part by a NHMRC Program of a mouse serum factor that blocks autorosetting receptors on
+Grant and a NSW Cancer Council Program Grant. MDH lymphocytes. Immunology 1982; 45: 207–16.
+7 Leung LL, Harpel PC, Nachman RL, Rabellino EM. Histidine-
+is the recipient of a Viertel Senior Medical Research
+rich glycoprotein is present in human platelets and is released
+Fellowship.
+following thrombin stimulation. Blood 1983; 62: 1016–21.
+8 Morgan WT. Human serum histidine-rich glycoprotein. I. Inter-
+actions with heme, metal ions and organic ligands. Biochim. Bio-
+References
+phys. Acta 1978; 535: 319–33.
+1 Haupt H, Heimburger N. [Human serum proteins with high 9 Saito H, Goodnough LT, Boyle JM, Heimburger N. Reduced
+affinity for carboxymethylcellulose. I. Isolation of lysozyme, histidine-rich glycoprotein levels in plasma of patients with
+C1q and 2 hitherto unknown globulins.] Hoppe Seylers Z. Phys- advanced liver cirrhosis. Possible implications for enhanced
+iol. Chem. 1972; 353: 1125–32 (in German). fibrinolysis. Am. J. Med. 1982; 73: 179–82.
+2 Heimburger N, Haupt H, Kranz T, Baudner S. [Human serum 10 Shigekiyo T, Kanazuka M, Azuma H, Ohshima T, Kusaka K,
+proteins with high affinity to carboxymethylcellulose. II. Physico- Saito S. Congenital deficiency of histidine-rich glycoprotein:
+chemical and immunological characterization of a histidine- failure to identify abnormalities in routine laboratory assays of
+rich 3,8S-2-glycoprotein (CM–protein I).] Hoppe Seylers Z. hemostatic function, immunologic function, and trace elements
+Physiol. Chem. 1972; 353: 1133–40 (in German). [see comments]. J. Lab. Clin. Med. 1995; 125: 719–23.
+3 Koide T, Foster D, Yoshitake S, Davie EW. Amino acid sequence 11 Halbmayer WM, Hopmeier P, Feichtinger C, Rubi K, Fischer M.
+of human histidine-rich glycoprotein derived from the nucleotide Histidine-rich glycoprotein (HRG) in uncomplicated pregnancy
+sequence of its cDNA. Biochemistry 1986; 25: 2220–25. and mild and moderate preeclampsia. Thromb. Haemost. 1992;
+4 Drasin T, Sahud M. Blood-type and age affect human plasma 67: 585–6.
+levels of histidine-rich glycoprotein in a large population. 12 Saigo K, Yoshida A, Ryo R, Yamaguchi N, Leung LL. Histidine-
+Thromb. Res. 1996; 84: 179–88. rich glycoprotein as a negative acute phase reactant. Am. J. Hema-
+5 Corrigan JJ, Jeter MA, Bruck D, Feinberg WM. Histidine-rich tol. 1990; 34: 149–50.
+glycoprotein levels in children: the effect of age. Thromb. Res. 13 Jespersen J, Gram J, Bach E. A sequential study of plasma
+1990; 59: 681–6. histidine-rich glycoprotein and plasminogen in patients with
+--- Page 11 ---
+116 Histidine-rich glycoprotein
+acute myocardial infarction and deep vein thrombosis. Thromb. 33 van den Berg EA, le Clercq E, Kluft C et al. Assignment of the
+Haemost. 1984; 51: 99–102. human gene for histidine-rich glycoprotein to chromosome 3.
+14 Leebeek FW, Kluft C, Knot EA, De Maat MP. Histidine-rich Genomics 1990; 7: 276–9.
+glycoprotein is elevated in mild liver cirrhosis and decreased in 34 Koide T. Human histidine-rich glycoprotein gene: evidence for
+moderate and severe liver cirrhosis. J. Lab. Clin. Med. 1989; evolutionary relatedness to cystatin supergene family. Thromb.
+113: 493–7. Res. 1988; 8 (Suppl.): 91–7.
+15 Morgan WT. Serum histidine-rich glycoprotein levels are 35 Rizzu P, Baldini A. Three members of the human cystatin gene
+decreased in acquired immune deficiency syndrome and by superfamily, AHSG, HRG, and KNG, map within one megabase
+steroid therapy. Biochem. Med. Metab. Biol. 1986; 36: 210–13. of genomic DNA at 3q27. Cytogenet. Cell Genet. 1995; 70:
+16 Kuhli C, Scharrer I, Koch F, Hattenbach LO. Recurrent retinal 26–8.
+vein occlusion in a patient with increased plasma levels of 36 Hulett MD, Parish CR. Murine histidine-rich glycoprotein: Clon-
+histidine-rich glycoprotein. Am. J. Ophthalmol. 2003; 135: 232–4. ing, characterization and cellular origin. Immunol. Cell Biol.
+17 Engesser L, Kluft C, Briet E, Brommer EJ. Familial elevation of 2000; 78: 280–87.
+plasma histidine-rich glycoprotein in a family with throm- 37 Hennis BC, Frants RR, Bakker E et al. Evidence for the absence
+bophilia. Br. J. Haematol. 1987; 67: 355–8. of intron H of the histidine-rich glycoprotein (HRG) gene:
+18 Lijnen HR, Hoylaerts M, Collen D. Isolation and characteriza- genetic mapping and in situ localization of HRG to chromosome
+tion of a human plasma protein with affinity for the lysine 3q28-q29. Genomics 1994; 19: 195–7.
+binding sites in plasminogen. Role in the regulation of fibrino- 38 Hennis BC, van Boheemen PA, Wakabayashi S et al. Identifica-
+lysis and identification as histidine-rich glycoprotein. J. Biol. tion and genetic analysis of a common molecular variant of
+Chem. 1980; 255: 10 214–22. histidine-rich glycoprotein with a difference of 2kD in apparent
+19 Koide T, Odani S, Ono T. The N-terminal sequence of human molecular weight. Thromb. Haemost. 1995; 74: 1491–6.
+plasma histidine-rich glycoprotein homologous to antithrombin 39 Boosman A, Chilson OP. Subunit structure of AMP-deaminase
+with high affinity for heparin. FEBS Lett. 1982; 141: 222–4. from chicken and rabbit skeletal muscle. J. Biol. Chem. 1976;
+20 Leung LL, Harpel PC, Nachman RL. Platelet histidine-rich 251: 1847–52.
+glycoprotein. Methods Enzymol. 1989; 169: 268–76. 40 Coffee CJ, Kofke WA. Rat muscle 5′-adenylic acid aminohydro-
+21 Koide T, Odani S, Ono T. Human histidine-rich glycoprotein: lase. I. Purification and subunit structure. J. Biol. Chem. 1975;
+simultaneous purification with antithrombin III and characteriza- 250: 6653–8.
+tion of its gross structure. J. Biochem. (Tokyo) 1985; 98: 41 Ranieri-Raggi M, Montali U, Ronca F et al. Association of puri-
+1191–200. fied skeletal-muscle AMP deaminase with a histidine-proline-
+22 Borza DB, Tatum FM, Morgan WT. Domain structure and rich-glycoprotein-like molecule. Biochem. J. 1997; 326: 641–8.
+conformation of histidine-proline-rich glycoprotein. Biochemis- 42 Sabbatini AR, Ranieri-Raggi M, Pollina L et al. Presence in
+try 1996; 35: 1925–34. human skeletal muscle of an AMP deaminase-associated
+23 Saitoh E, Isemura S, Sanada K. Complete amino acid sequence protein that reacts with an antibody to human plasma histidine-
+of a basic proline-rich peptide, P-D, from human parotid saliva. proline-rich glycoprotein. J. Histochem. Cytochem. 1999; 47:
+J. Biochem. (Tokyo) 1983; 93: 495–502. 255–60.
+24 Saitoh E, Isemura S, Sanada K. Complete amino acid sequence 43 Katagiri M, Tsutsui K, Yamano T, Shimonishi Y, Ishibashi F.
+of a basic proline-rich peptide, P-F, from human parotid saliva. Interaction of heme with a synthetic peptide mimicking the
+J. Biochem. (Tokyo) 1983; 93: 883–8. putative heme-binding site of histidine-rich glycoprotein. Bio-
+25 Azen E, Lyons KM, McGonigal T et al. Clones from the human chem. Biophys. Res. Commun. 1987; 149: 1070–76.
+gene complex coding for salivary proline-rich proteins. Proc. 44 Morgan WT. Interactions of the histidine-rich glycoprotein of
+Natl Acad. Sci. USA 1984; 81: 5561–5. serum with metals. Biochemistry 1981; 20: 1054–61.
+26 Sundberg RJ, Martin RB. Interactions of histidine and other 45 Borza DB, Morgan WT. Histidine-proline-rich glycoprotein as
+imidazole derivatives with transition metal ions in chemical and a plasma pH sensor. Modulation of its interaction with glyco-
+biological systems. Chemical Reviews 1974; 74: 471–517. saminoglycans by pH and metals. J. Biol. Chem. 1998; 273:
+27 Guan X, Juarez JC, Qi X et al. Histidine-proline rich glycopro- 5493–9.
+tein (HPRG) binds and transduces anti-angiogenic signals 46 Schinke T, Koide T, Jahnen-Dechent W. Human histidine-rich
+through cell surface tropomyosin on endothelial cells. Thromb. glycoprotein expressed in SF9 insect cells inhibits apatite forma-
+Haemost. 2004; 92: 403–12. tion. FEBS Lett. 1997; 412: 559–62.
+28 Morgan WT. The histidine-rich glycoprotein of serum has a 47 Bernfield M, Gotte M, Park PW et al. Functions of cell surface
+domain rich in histidine, proline, and glycine that binds heme heparan sulfate proteoglycans. Annu. Rev. Biochem. 1999; 68:
+and metals. Biochemistry 1985; 24: 1496–501. 729–77.
+29 Guthans SL, Morgan WT. The interaction of zinc, nickel and 48 Jones AL, Hulett MD, Parish CR. Histidine-rich glycoprotein
+cadmium with serum albumin and histidine-rich glycoprotein binds to cell-surface heparan sulfate via its N-terminal domain
+assessed by equilibrium dialysis and immunoadsorbent chroma- following Zn2+ chelation. J. Biol. Chem. 2004; 279: 30 114–22.
+tography. Arch. Biochem. Biophys. 1982; 218: 320–28. 49 Lijnen HR, Hoylaerts M, Collen D. Neutralization of heparin
+30 Koide T, Odani S. Histidine-rich glycoprotein is evolutionarily activity by binding to human histidine-rich glycoprotein.
+related to the cystatin superfamily. Presence of two cystatin Thromb. Res. 1983; 29: 443–6.
+domains in the N-terminal region. FEBS Lett. 1987; 216: 17–21. 50 Lijnen HR, Hoylaerts M, Collen D. Heparin binding properties
+31 Koide T, Foster D, Odani S. The heparin-binding site(s) of of human histidine-rich glycoprotein. Mechanism and role in the
+histidine-rich glycoprotein as suggested by sequence homology neutralization of heparin in plasma. J. Biol. Chem. 1983; 258:
+with antithrombin III. FEBS Lett. 1986; 194: 242–4. 3803–8.
+32 Smith A, Nuiry I, Morgan WT. Proteolysis of histidine-rich 51 Mori S, Shinohata R, Renbutsu M et al. Histidine-rich glyco-
+glycoprotein in plasma and in patients undergoing thrombolytic protein plus zinc reverses growth inhibition of vascular smooth
+therapy. Thromb. Res. 1985; 40: 653–61. muscle cells by heparin. Cell Tissue Res. 2003; 312: 353–9.
+--- Page 12 ---
+AL Jones et al. 117
+52 Hajjar DP, Boyd DB, Harpel PC, Nachman RL. Histidine-rich 69 Borza DB, Morgan WT. Acceleration of plasminogen activation
+glycoprotein inhibits the antiproliferative effect of heparin on by tissue plasminogen activator on surface-bound histidine-
+smooth muscle cells. J. Exp. Med. 1987; 165: 908–13. proline-rich glycoprotein. J. Biol. Chem. 1997; 272: 5718–26.
+53 Fu CL, Horn MK 3rd. Histidine-rich glycoprotein plus zinc to 70 Kluft C, Los P. Modified crossed immunoelectrophoresis to
+neutralize heparin. J. Lab. Clin. Med. 2002; 139: 211–17. study with whole plasma the reversible complex formation of
+54 Freeman C, Parish CR. A rapid quantitative assay for the detec- histidine-rich glycoprotein with plasminogen. Thromb. Haemost.
+tion of mammalian heparanase activity. Biochem. J. 1997; 325: 1988; 60: 411–14.
+229–37. 71 Silverstein RL, Nachman RL, Leung LL, Harpel PC. Activation
+55 Brown KJ, Parish CR. Histidine-rich glycoprotein and platelet of immobilized plasminogen by tissue activator. Multimolecular
+factor 4 mask heparan sulfate proteoglycans recognized by acidic complex formation. J. Biol. Chem. 1985; 260: 10 346–52.
+and basic fibroblast growth factor. Biochemistry 1994; 33: 13 72 Leung LL. Interaction of histidine-rich glycoprotein with fibrin-
+918–27. ogen and fibrin. J. Clin. Invest. 1986; 77: 1305–11.
+56 Olsen HM, Parish CR, Altin JG. Histidine-rich glycoprotein 73 Lawler JW, Slayter HS, Coligan JE. Isolation and characteriza-
+binding to T-cell lines and its effect on T-cell substratum adhe- tion of a high molecular weight glycoprotein from human blood
+sion is strongly potentiated by zinc. Immunology 1996; 88: platelets. J. Biol. Chem. 1978; 253: 8609–16.
+198–206. 74 Baenziger NL, Brodie GN, Majerus PW. A thrombin-sensitive
+57 Burch MK, Blackburn MN, Morgan WT. Further characteriza- protein of human platelet membranes. Proc. Natl Acad. Sci. USA
+tion of the interaction of histidine-rich glycoprotein with heparin: 1971; 68: 240–43.
+evidence for the binding of two molecules of histidine-rich 75 Walz DA, Bacon-Baguley T, Kendra-Franczak S, DePoli P.
+glycoprotein by high molecular weight heparin and for the Binding of thrombospondin to immobilized ligands: specific
+involvement of histidine residues in heparin binding. Biochemis- interaction with fibrinogen, plasminogen, histidine-rich glyco-
+try 1987; 26: 7477–82. protein, and fibronectin. Semin. Thromb. Hemost. 1987; 13:
+58 Peterson CB, Morgan WT, Blackburn MN. Histidine-rich glyco- 317–25.
+protein modulation of the anticoagulant activity of heparin. 76 Silverstein RL, Leung LL, Harpel PC, Nachman RL. Complex
+Evidence for a mechanism involving competition with both anti- formation of platelet thrombospondin with plasminogen. Modu-
+thrombin and thrombin for heparin binding. J. Biol. Chem. 1987; lation of activation by tissue activator. J. Clin. Invest. 1984; 74:
+262: 7567–74. 1625–33.
+59 Lane DA, Pejler G, Flynn AM, Thompson EA, Lindahl U. 77 Silverstein RL, Nachman RL. Thrombospondin-plasminogen
+Neutralization of heparin-related saccharides by histidine-rich interactions: modulation of plasmin generation. Semin. Thromb.
+glycoprotein and platelet factor 4 [published erratum appears in Hemost. 1987; 13: 335–42.
+J. Biol. Chem. 1986; 261: 13 387]. J. Biol. Chem. 1986; 261: 78 Leung LL, Nachman RL, Harpel PC. Complex formation of
+3980–86. platelet thrombospondin with histidine-rich glycoprotein. J. Clin.
+60 Lin JJ, Warren KS, Wamboldt DD, Wang T, Lin JL. Tropo- Invest. 1984; 73: 5–12.
+myosin isoforms in nonmuscle cells. Int. Rev. Cytol. 1997; 170: 79 Silverstein RL, Leung LL, Harpel PC, Nachman RL. Platelet
+1–38. thrombospondin forms a trimolecular complex with plasminogen
+61 Zhang JC, Donate F, Qi X et al. The antiangiogenic activity of and histidine-rich glycoprotein. J. Clin. Invest. 1985; 75: 2065–73.
+cleaved high molecular weight kininogen is mediated through 80 Gorgani NN, Parish CR, Altin JG. Differential binding of
+binding to endothelial cell tropomyosin. Proc. Natl Acad. Sci. histidine-rich glycoprotein (HRG) to human IgG subclasses and
+USA 2002; 99: 12 224–9. IgG molecules containing kappa and lambda light chains. J. Biol.
+62 Gorodetsky R, Mou X, Blankenfeld A, Marx G. Platelet multi- Chem. 1999; 274: 29 633–40.
+elemental composition, lability, and subcellular localization. Am. 81 Gorgani NN, Parish CR, Easterbrook Smith SB, Altin JG.
+J. Hematol. 1993; 42: 278–83. Histidine-rich glycoprotein binds to human IgG and C1q and
+63 Parry MA, Zhang XC, Bode I. Molecular mechanisms of plas- inhibits the formation of insoluble immune complexes. Biochem-
+minogen activation: bacterial cofactors provide clues. Trends istry 1997; 36: 6653–62.
+Biochem. Sci. 2000; 25: 53–9. 82 Gorgani NN, Altin JG, Parish CR. Histidine-rich glycoprotein
+64 Landmann H. Studies on the mechanism of action of synthetic regulates the binding of monomeric IgG and immune complexes
+antifibrinolytics. A comparison with the action of derivatives of to monocytes. Int. Immunol. 1999; 11: 1275–82.
+benzamidine on the fibrinolytic process. Thromb. Diath. Haem- 83 Chang NS, Leu RW, Anderson JK, Mole JE. Role of N-terminal
+orrh. 1973; 29: 253–75. domain of histidine-rich glycoprotein in modulation of macro-
+65 Thorsen S. Differences in the binding to fibrin of native plas- phage Fc gamma receptor-mediated phagocytosis. Immunology
+minogen and plasminogen modified by proteolytic degradation. 1994; 81: 296–302.
+Influence of omega-aminocarboxylic acids. Biochim. Biophys. 84 Chang NS, Leu RW, Rummage JA, Anderson JK, Mole JE.
+Acta 1975; 393: 55–65. Regulation of complement functional efficiency by histidine-rich
+66 Wiman B, Wallen P. The specific interaction between plasmino- glycoprotein. Blood 1992; 79: 2973–80.
+gen and fibrin. A physiological role of the lysine binding site in 85 Shatsky M, Saigo K, Burdach S, Leung LL, Levitt LJ. Histidine-
+plasminogen. Thromb. Res. 1977; 10: 213–22. rich glycoprotein blocks T cell rosette formation and modulates
+67 Jones AL, Hulett MD, Altin JG, Hogg P, Parish CR. Plasmino- both T cell activation and immunoregulation. J. Biol. Chem.
+gen is tethered with high affinity to the cell surface by the plasma 1989; 264: 8254–9.
+protein, histidine-rich glycoprotein. J. Biol. Chem. 2004; 279: 38 86 Saigo K, Shatsky M, Levitt LJ, Leung LK. Interaction of
+267–76. histidine-rich glycoprotein with human T lymphocytes. J. Biol.
+68 Saez CT, Jansen GJ, Smith A, Morgan WT. Interaction of Chem. 1989; 264: 8249–53.
+histidine-proline-rich glycoprotein with plasminogen: effect of 87 Parish CR, Rylatt DB, Snowden JM. Demonstration of lym-
+ligands, pH, ionic strength, and chemical modification. Biochem- phocyte surface lectins that recognize sulphated polysaccharides.
+istry 1995; 34: 2496–503. J. Cell Sci. 1984; 67: 145–58.

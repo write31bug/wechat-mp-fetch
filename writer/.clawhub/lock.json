@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "skills": {
+    "human-writing": {
+      "version": "1.0.0",
+      "installedAt": 1775378658618
+    },
+    "content-writer": {
+      "version": "1.0.0",
+      "installedAt": 1775378658696
+    }
+  }
+}

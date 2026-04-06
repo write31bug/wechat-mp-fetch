@@ -1,0 +1,306 @@
+
+--- Page 1 ---
+British Journal of Huematology. 1995, 89, 845-852
+A specific allele of the histidine-rich glycoprotein (HRG) locus
+is linked with elevated plasma levels of HRG in a Dutch family
+with thrombosis
+B. C. HENNISP, . A. VANB OHEEMEBN. , P. C. KOELEMAND,.* I . BOOMSMA,t L. ENGESSERA, . G. M. VAN WEES,
+I. NOVAKOVAE,.$ J . P. BROMMEARN D C. KLUFTG aubius Laboratory, Leiden; *Haemostasis and Thrombosis
+Research Centre, Academic Hospital Leiden; TDepartment of Psychonomics, Free University, Amsterdam;
+$Department of Haematology, St Radboud Hospital, Nijmegen, The Netherlands
+Received 10 August 1994; accepted for publication 5 December 1994
+Summary. Recent studies describe families with both a recombination fraction of 0, indicating linkage. Consider-
+elevated plasma HRG levels and thrombosis. In order to ing the pedigree, an association was found between the
+study the possibility that allelic variants of the HRG locus are presence of a specific allele (no. 6) of the dinucleotide repeat
+associated with differences in HRG level, we studied linkage polymorphism and plasma HRG levels. Family members
+between HRG levels and a dinucleotide repeat polymorphism carrying allele 6 were found to have higher HRG plasma
+in a Dutch family which was selected on the presence of both levels compared with family members lacking allele 6 (14 9%
+thrombosis and elevated plasma HRG levels. No other v 109% respectively). We conclude that in this family,
+known risk factors from thrombosis were found in this linkage is found between the HRG locus and the HRG level,
+family. Linkage was calculated between the dinucleotide and that a HRG gene coupled to allele 6 of the dinucleotide
+repeat and the HRG level considering the HRG level as a polymorphism is associated with elevated plasma HRG
+quantitative phenotype assuming a population prevalence of levels. No evidence was found for a causal relationship
+elevated HRG of 5%. Two classes of HRG levels were defined between elevated plasma HRG levels and thrombosis in this
+by a mean and a variance: one class with normal HRG levels family.
+and a second class with high HRG levels. Using a mean HRG
+level of 99% for individuals with a normal HRG level and
+145% for individuals with high HRG, a maximum lod score Keywords family, linkage, histidine-rich glycoprotein, HRG,
+of 4.1 7 (odds in favour of linkage of 22 000 : 1)w as found at thrombosis, polymorphism.
+Histidine-rich glycoprotein (HRG) is a single-chain glyco- fibrinogen (Leung. 1986) and plasminogen (Lijnen et al,
+protein which is found in human plasma at a concentration 1980). The ability of HRG to bind plasminogen is thought to
+of 100 pg/ml (Heimburger et al, 197 2). A pool of HRG is also affect fibrinolysis by reducing the amount of fibrin-bound
+stored in the a-granules of platelets at a concentration of plasminogen which is available for activation into plasmin.
+about 0.4pg/109 platelets (Leung et al, 1983; Hoffmann An elevation of the HRG level in plasma may therefore
+et al, 1993). Plasma HRG is produced by the parenchymal reduce the fibrinolytic potency.
+cells of the liver (Hennis et al, 1991) and the source of Supporting evidence for this hypothesis is presented in
+platelet HRG is probably the megakaryocyte (Leung et al, several studies of patients with thrombosis (Samama et al,
+1983). Up to now, the exact physiological function ofHRG is 1983; Engesser et aI, 1988: Ehrenforth et al, 1994).I n these
+unknown, but it has been proposed that HRG can act as a patients a higher prevalence of elevated HRG levels has been
+modulator of coagulation and fibrinolysis (Koide, 1988). observed. Moreover, in recent years six families have
+HRG has been shown to interact with a variety of been described in which both thromboembolic disease and
+haemostatic factors such as heparin (Koide et al. 1982), elevation of plasma HRG was observed (Falkon et al, 1992;
+AnglCs-Cano et al. 1993; Castaman et al, 1993; Hoffmann
+Correspondence: Dr B. C. Hennis, Gaubius Laboratory, "0-PG, et al, 1993; Engesser et al, 1987). All members of these
+P.O. Box 2215, 2301 CE Leiden. The Netherlands. families with a history of thrombosis had elevated levels of
+845
+--- Page 2 ---
+I
+2
+1
+n
+02
+91
+81
+71
+61
+51
+41
+31
+21
+11
+101
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+521
+08
+451
+19
+.A.N
+781
+601
+591
+841
+321
+101
+201
+.A.N
+171
+f
+9-2
+5-2
+6-4
+4-2
+9-6
+8-2
+9-6
+01-2
+4-2
+4-2
+4-2
+6-4
+4-4
+9-6
+9-6
+2-1
+6
+4
+Ereprr-AC
+I
+m
+22
+12
+b2
+91
+811
+71
+61
+51
+41
+3
+21
+11
+01
+9
+8
+1
+7
+6
+5
+4
+3
+2
+1 1
+ils
+I
+37
+121
+321
+59
+201
+251
+901
+49
+601
+311.A.N
+27
+.A.N
+821
+531
+.A.N
+171
+29
+901
+.A.N
+031
+.A.N
+5-4
+6-2
+6-2
+2-2
+01-2
+01-2
+4-2
+4-4
+4-2
+2-2
+5-4
+6-4
+6-4
+6-1
+4-2
+4-2
+6-2
+noitagitsevni
+ro.f
+elb
+~~aliava
+ton
+erew
+ohw
+srebmem
+y . l . imaF
+~ .siso
+b .
+mo
+rh . t ^
+to
+yrotsih
+a et
+ac
+. id . ni
+_ slob
+. my
+s
+. de
+h . s ~ ad
+:)oY5
+41
+3( ,
+s . lev
+e . l
+ams
+a
+. lp
+- itKH
+detavele
+etac
+i .. dn
+.i
+s . lo
+b .
+mys
+d ~elliF
+. y . l . ima
+^f^
+fo
+eergideP
+.1
+giF
+.worra
+na
+yb
+detacidni
+si
+dnaborp
+ehT
+.laudividni
+hcae
+woleb
+nwohs
+era
+taeper
+editoelcunid
+eht
+ot
+tcepser
+htiw
+epytoneg
+eht
+dna
+level
+GRH
+ehT
+.A.N
+htiw
+detacidni
+era
+--- Page 3 ---
+Elevated HRG Levels associated with a Specific HRG Allele 847
+HRG, allhough a few family members had elevated HRG France) with sodium citrate as anticoagulant. Samples
+levels and no history of thrombosis. However, up to now were kept on ice and centrifuged immediately at 30008
+it is unknown whether the relationship between congeni- for 30min at 4°C. Plasma was separated and stored at
+tally elevated HRG levels and thrombosis is causal or -80°C until use. The remaining blood cells and buffy coat of
+coincidental. the samples were used for isolation of genomic DNA.
+Recently, a twin study was presented in which genetic Coagulation assays. Assays of activated partial thrombo-
+factors were found to explain 69% of the variance in plasma plastin time, prothrombin time, thrombin clotting time,
+HRG levels (Boomsma et al, 1993). From this study it is clear fibrinogen (Clauss method) and factor VIII coagulant activity
+that a familial elevation of HRG levels cannot be attributed were performed according to established procedures.
+to common environmental influences shared by family Coagulant activities of factor V and VII were measured by
+members, but has to be attributed to genetic influences one-stage clotting assays, using factor V and VII deficient
+shared by parents and children. Several genes, among them plasma and rabbit brain thromboplastin (Simplastin-plus,
+the HRG gene which is localized on chromosome 3q28-q29 General Diagnostics, Morris Plains, U.S.A.). Protein S
+(Hennis et al, 1994), may be responsible for this genetic antigen was measured by a radioimmunoassay previously
+influence. In some reports it has been speculated that the described by Bertina et a1 (1985). Antithrombin I11 activity
+inherited elevated HRG levels find their cause in an abnormal was determined by a spectrophotometric assay (Coatest,
+HRG gene (Hoffmann et al, 1993: Schved et al, 1991), but up Kabivitrum, Sweden). Von Willebrand factor antigen, factor
+to now no association has been reported between elevated I1 and factor X antigen, heparin cofactor antigen (Bertina
+HRG levels and a specific allele of the HRG gene. et al, 1987) and protein C antigen (Bertina et al, 1982)w ere
+To investigate the role of the HRG locus in congenital measured by Laurel1 rocket electroimmunoassay. The
+elevation of HRG, we studied the inheritance pattern of a anticoagulant response to activated protein C (APC) was
+multi-allelic dinucleotide repeat polymorphism within the measured using CoatestO APC resistance (Chromogenix,
+HRG gene (Hennis et al, 1994) in a Dutch family with both Sweden). Protein C activity was determined using a new
+elevated HRG levels and thrombosis. Quantitative linkage assay based on the measurement of coagulation times on a
+analysis suggested involvement of the HRG locus. One allele Coag-A-Mate@R A-4 (Organon Teknika, The Netherlands).
+of the highly informative dinucleotide repeat was found to be The assay has been developed by Organon Teknika and will
+linked with high plasma HRG levels. be available in the near future. The procedure was started
+by the reconstitution of a vial of Protac (Pentapharm,
+Switzerland) in 6 ml APTT-L (Platelin-L@,O rganon Teknika)
+METHODS
+reagent (Protac concentration: 0.5 U/ml). The APTT/Protac
+Case report and family history. The proband with solution was allowed to stand for 15min at 0°C. A
+thromboembolic disease and elevated HRG came to our calibration curve was made by diluting Verify@ Reference
+attention in a previous study (Engesser et al, 1988). The Plasma (Organon Teknika) 0, 5 and 10 times in Protein C
+proband (11-18, see pedigree in Fig 1)w as a 46-year-old man depleted plasma. Plasma of patients was diluted 10 times in
+seen for episodes of recurrent thromboembolism; deep protein C depleted plasma. Cuvets containing 100 p1 of the
+venous thrombosis (DVT) in the right leg and pulmonary calibration solutions or the diluted samples were inserted
+embolism after groin rupture surgery at the age of 32; 1y ear into the RA-4 and the measurement was started. After a
+later DVT in the left leg after stopping oral anticoagulant fixed heating time, which cannot be influenced, 125p1
+therapy with coumarin. At the age of 35 a spontaneous of APTT/Protac solution was added via the Coag-A-Mate@'
+thrombosis was diagnosed in the right leg. In all three RA-4. Following an incubation time of 220 s at 3 7"C, 100 pl
+episodes DVT was confirmed by phlebography. CaClz solution (Platelin@,O rganon Teknika) was added and
+The pedigree is shown in Fig 1. Persons with a history of coagulation times were registered. Protein S activity was
+thrombosis are indicated. Both parents of the patient suffered determined with essentially the same procedure using
+from DVT. The father (1-1) had DVT in the right leg at the however protein S deficient plasma, 125pl CaClz and
+age of 77. The mother (1-2) had DVT in the right leg at 100 p1 of APTT/Protac.
+the age of 75. One of the proband's sisters (11-1) had Fibronolysis assays. Plasminogen (Plg) activity was
+recurrent DVT after an operation at the age of 40. A brother determined on a MLA l00OC (Medical Laboratory Automa-
+ofthe proband (11-3) had DVT in the right leg at the age of 29 tion, Pleasantville, New York, U.S.A.) using a chromogenic
+after a trauma. One family member (11-14) who is related by assay (Daden, Baxter, Miami, U.S.A.). For calibration Dade'
+marriage had postoperative DVT in a leg. Another family CoagCal@N (Lot no. 540.046, Baxter, U.S.A.) was used. The
+member (11-12) who is related by marriage was treated with assigned value of the plasminogen level in this plasma is
+percutane transluminal coronary angiography (PTCA). 106%.a 2-antiplasmin activity was measured by a chromo-
+Oral contraceptives were used by four females in genic assay according to Friberger et al (1978). Tissue-type
+generation 111 (11. 15, 17 and 18). plasminogen activator (t-PA) activity was measured accord-
+Blood collection. This study was approved by the Medical ing to Verheijen et a1 (1982). Urokinase-type plasminogen
+Ethical Committee of HGO-TNO and informed consent was activator (u-PA) antigen and activity were determined using
+obtained from patients and controls. an ELISA (Binnema et al, 1986) and a biological immuno-
+Blood was collected from family members by a single assay (van Hinsbergh et al, 1990), respectively. Fibrinolytic
+venipuncture into vacutainer tubes (Becton Dickinson, activity of the intrinsic plasminogen activating system was

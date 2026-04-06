@@ -1,0 +1,89 @@
+
+--- Page 1 ---
+(cid:0) (cid:2) (cid:2) (cid:3) (cid:4) (cid:5) (cid:3) (cid:6) (cid:7) (cid:8) (cid:9) (cid:10) (cid:11) (cid:2) (cid:12) (cid:13) (cid:4) (cid:5)
+Histidine-richglycoproteinblockscollagen-bindingintegrinsandadhesionof
+endothelialcellsthroughlow-affinityinteractionwithα2integrin
+Francis Roche, Kalle Sipila¨, Satoshi Honjo, Staffan Johansson, So`nia
+Tugues,JyrkiHeino,LenaClaesson-Welsh
+PII: S0945-053X(15)00120-1
+DOI: doi: 10.1016/j.matbio.2015.06.002
+Reference: MATBIO1179
+Toappearin: MatrixBiology
+Receiveddate: 11March2015
+Reviseddate: 2June2015
+Accepteddate: 2June2015
+Please cite this article as: Roche, Francis, Sipil¨a, Kalle, Honjo, Satoshi, Johansson,
+Staffan, Tugues, So`nia, Heino, Jyrki, Claesson-Welsh, Lena, Histidine-rich glycoprotein
+blocks collagen-binding integrins and adhesion of endothelial cells through low-affinity
+interaction with α2 integrin, MatrixBiology (2015), doi: 10.1016/j.matbio.2015.06.002
+This is a PDF file of an unedited manuscript that has been accepted for publication.
+As a service to our customers we are providing this early version of the manuscript.
+The manuscript will undergo copyediting, typesetting, and review of the resulting proof
+before it is published in its final form. Please note that during the production process
+errors may be discovered which could affect the content, and all legal disclaimers that
+apply to the journal pertain.
+--- Page 2 ---
+ACCEPTED MANUSCRIPT
+1
+Histidine-rich glycoprotein blocks collagen-binding integrins and adhesion of
+endothelial cells through low-affinity interaction with 2 integrin
+T
+Francis Roche1)*, Kalle Sipilä2)*, Satoshi Honjo1), Staff P an Johansson3),
+I
+Sònia Tugues1)¶, Jyrki Heino2)*, Lena ClaeRsson-Welsh1)*
+C
+S
+1) Uppsala University, Department of Immunology, Genetics and Pathology, The Rudbeck Laboratory,
+Dag Hammarskjöldv. 20, 751 85 Uppsala, Sweden U
+N
+2) University of Turku, Department of Biochemistry and MediCity Research Laboratory, FI-20014 Turku,
+Finland A
+3) Uppsala University, Department of MedicaMl Biochemistry and Microbiology, Biomedical Center, Box
+582, 751 23 Uppsala, Sweden
+D
+*) Equal contribution by first and last authors
+E
+¶) Current affiliation: Institute of Experimental Immunology, University of Zurich, Zurich, Switzerland
+T
+Correspondence to Francis RoPche: Department of Immunology, Genetics and Pathology, The Rudbeck
+Laboratory, Dag Hammarskjöldv. 20, 751 85 Uppsala, Sweden. frank.roche@igp.uu.se
+E
+C
+C
+A
+--- Page 3 ---
+ACCEPTED MANUSCRIPT
+2
+Abstract
+The plasma protein histidine-rich glycoprotein (HRG) affects the morphology and function of both
+endothelial cells (ECs) and monocytes/macrophages in cancer. Here, we examined the mechanism of
+T
+action of HRG’s effect on ECs. HRG suppressed adhesion, spreading and migration of ECs specifically on
+collagen I (COL I) whereas ECs seeded on other extracellular matrix Pproteins were insensitive to HRG.
+HRG did not bind specifically to COL I or to the -integrin binding site on collagen, GFOGER.
+I
+Furthermore, HRG’s inhibition of EC adhesion was not dependentR upon heparan sulfate (HS) moieties as
+heparitinase-treated ECs remained sensitive to HRG. C2C12 cells expressing 2 integrin, the major
+C
+collagen-binding -integrin subunit in ECs, showed increased binding of HRG compared with wild type
+S
+C2C12 cells lacking the 2 subunit. Recombinant 2 I-domain protein bound HRG and to a higher extent
+when in active conformation. However, the 2 I-domaUin bound weakly to HRG compared to COL I and
+the purified 21 ectodomain complex failed to retain HRG. We conclude that HRG binds to 2 integrin
+N
+through low-affinity interactions in a HS-independent manner, thereby blocking EC-adhesion to COL I.
+A
+M
+Keywords:
+D
+HRG, adhesion, integrin, endothelial cells, collagen.
+E
+T
+Abbreviations: P
+E
+HRG – Histidine-rich Glycoprotein
+HUVEC – Human UmbiliCcal Cord Endothelial Cell
+EC – Endothelial Cell
+C
+COL I – Type I Collagen
+HS – Heparan SulAfate

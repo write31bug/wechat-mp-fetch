@@ -1,0 +1,223 @@
+
+--- Page 1 ---
+Glycobiology and Extracellular Matrices:
+Histidine-rich Glycoprotein Binds to
+Cell-surface Heparan Sulfate via Its
+2
+N-terminal Domain following Zn +
+Chelation
+Allison L. Jones, Mark D. Hulett and
+Christopher R. Parish
+J. Biol. Chem. 2004, 279:30114-30122.
+doi: 10.1074/jbc.M401996200 originally published online May 11, 2004
+Access the most updated version of this article at doi: 10.1074/jbc.M401996200
+Find articles, minireviews, Reflections and Classics on similar topics on the JBC Affinity Sites.
+Alerts:
+• When this article is cited
+• When a correction for this article is posted
+Click here to choose from all of JBC's e-mail alerts
+This article cites 36 references, 14 of which can be accessed free at
+http://www.jbc.org/content/279/29/30114.full.html#ref-list-1
+DDoowwnnllooaaddeedd
+ffrroomm
+hhttttpp::////wwwwww..jjbbcc..oorrgg//
+aatt
+MMoonnaasshh
+UUnniivveerrssiittyy
+((CCAAUULL))
+oonn
+MMaarrcchh
+66,,
+22001155
+--- Page 2 ---
+THEJOURNALOFBIOLOGICALCHEMISTRY Vol.279,No.29,IssueofJuly16,pp.30114–30122,2004
+©2004byTheAmericanSocietyforBiochemistryandMolecularBiology,Inc. PrintedinU.S.A.
+Histidine-rich Glycoprotein Binds to Cell-surface Heparan Sulfate
+via Its N-terminal Domain following
+Zn2(cid:1)
+Chelation*
+Receivedforpublication,February24,2004,andinrevisedform,May10,2004
+Published,JBCPapersinPress,May11,2004,DOI10.1074/jbc.M401996200
+AllisonL.Jones,MarkD.Hulett‡,andChristopherR.Parish§
+FromtheCancerandVascularBiologyGroup,DivisionofImmunologyandGenetics,JohnCurtinSchoolofMedical
+Research,AustralianNationalUniversity,Canberra,AustralianCapitalTerritory2601,Australia
+Histidine-rich glycoprotein (HRG) is an (cid:2)-glycopro- liverandfoundintheplasmaofmostvertebratesatarelatively
+2
+teinfoundinmammalianplasmaathighconcentrations high concentration of 100–200 (cid:2)g/ml ((cid:1)2 (cid:2) M). The most dis-
+((cid:1)150(cid:3)g/ml)andisdistinguishedbyitshighcontentof tinctivefeatureofHRGarisesfromitshighcontentofhistidine
+histidine and proline. Structurally, HRG is a modular andprolineresidues,whicheachaccountfor(cid:1)13%ofthetotal
+proteinconsistingofanN-terminalcystatin-likedomain aminoacids(1).HRGispredictedtobeamultidomainprotein
+(N1N2),acentralhistidine-richregion(HRR)flankedby consisting of two cystatin-like domains at the N terminus
+proline-rich sequences, and a C-terminal domain. HRG (termed N1 and N2), a central histidine-rich region (HRR)
+binds to cell surfaces and numerous ligands such as flanked by two proline-rich sequences, and a C-terminal do-
+plasminogen, fibrinogen, thrombospondin, C1q, hepa-
+main. HRG is known to bind a variety of ligands, including
+rin, and IgG, suggesting that it may act as an adaptor hemeandZn2(cid:2)(2–4),plasminogen(5,6),fibrinogen(7),throm-
+proteineitherbytargetingligandstocellsurfacesorby
+bospondinandIgG(8,9),C1q(9),andheparin(10–12),andcan
+cross-linking soluble ligands. Despite the suggested
+interact with various cell-surface receptors, including Fc(cid:3)re- functionalimportanceofHRG,thecell-bindingcharac-
+ceptors (13, 14) and an undefined T-cell receptor (15). Thus,
+teristics of the molecule are poorly defined. In this
+HRG may potentially regulate numerous biological processes
+study, HRG was shown to bind to most cell lines in a
+Zn2(cid:1)-dependentmanner,butfailedtointeractwiththe suchashemostasis,fibrinolysis,thrombosis,angiogenesis,leu-
+Chinese hamster ovary cell line pgsA-745, which lacks kocytemigration,andcancermetastasis.
+cell-surface glycosaminoglycans (GAGs). Subsequent Despite considerable interest in HRG, many of the funda-
+treatmentofGAG-positiveChinesehamsterovarycells mentalcharacteristicsregardingHRGcell-surfacebindingre-
+with mammalian heparanase or bacterial heparinase mainundefined.Forexample,despitetheidentificationofnu-
+III,butnotchondroitinaseABC,abolishedHRGbinding. merous soluble ligands for HRG, the cell-surface ligands are
+Furthermore, blocking studies with various GAG spe- not well characterized. Indirect evidence suggests that nega-
+ciesindicatedthatonlyheparinwasapotentinhibitor tivelychargedglycosaminoglycans(GAGs)maymediateHRG
+ofHRGbinding.Thesedatasuggestthatheparansulfate cell-surface binding, as heparin is a potent inhibitor of HRG
+isthepredominatecell-surfaceligandforHRGandthat binding to cells (16, 17). Zn2(cid:2) is also known to interact with
+mammalianheparanaseisapotentialregulatorofHRG HRG, most probably with the proposed metal chelation sites
+binding. Using recombinant forms of full-length HRG locatedwithintheHRR(2–4),withthisinteractionenhancing
+andtheN-terminalN1N2domain,itwasshownthatthe thebindingofHRGtocells(18).Similarly,thelocationofthe
+N1N2domainboundspecificallytoimmobilizedheparin cellsurface-bindingdomainwithinHRGisunclear.Theability
+and cell-surface heparan sulfate. In contrast, synthetic of Zn2(cid:2) to enhance cell-surface binding and the assumption
+peptides corresponding to the Zn2(cid:1)-binding HRR of
+thatheparinbindstotheHRRandinhibitsbindinghaveledto
+HRGdidnotinteractwithcells.Furthermore,thebind-
+thehypothesisthattheHRRinteractswithcellssurfaces(10,
+ing of full-length HRG, but not the N1N2 domain, was
+12, 16, 19). In contrast, it has also been suggested that a
+greatly potentiated by physiological concentrations of
+Zn2(cid:1). Based on these data, we propose that the N1N2 heparin-bindingsequencemaybelocatedintheN1N2domain,
+which raises the possibility that this domain of HRG may
+domain binds to cell-surface heparan sulfate and that
+the interaction of Zn2(cid:1) with the HRR can indirectly interactwithcells(17,20,21).
+enhancecell-surfacebinding. Inthisstudy,wehavecharacterizedthecellsurface-binding
+propertiesofHRGusingrecombinantfull-lengthHRGandthe
+recombinant N1N2 domain together with various approaches
+Histidine-rich glycoprotein (HRG)1 is an (cid:1)75-kDa single toremoveGAGsfromcellsurfaces.Weprovideclearevidence
+polypeptide chain (cid:1)-plasma glycoprotein synthesized in the that heparan sulfate is the dominant cell-surface ligand for
+2 HRG, with the interaction being mediated though the N1N2
+domainofHRG.Indeed,enzyme-linkedimmunosorbentassay
+*ThisworkwassupportedinpartbyaNationalHealthandMedical (ELISA)studiesconfirmedthattheN1N2domainspecifically
+ResearchCouncilprogramgrantandaNewSouthWalesCancerCoun- bindstoimmobilizedheparinwithcomparableaffinitytofull-
+cilprogramgrant.Thecostsofpublicationofthisarticleweredefrayed length HRG. Furthermore, cell-surface binding of full-length
+inpartbythepaymentofpagecharges.Thisarticlemustthereforebe
+HRG,butnottheN1N2domain,wasgreatlypotentiatedbythe
+hereby marked “advertisement” in accordance with 18 U.S.C. Section
+1734solelytoindicatethisfact. presence of physiological concentrations of Zn2(cid:2). Based on
+‡RecipientofaViertelseniormedicalresearchfellowship.
+§Towhomcorrespondenceshouldbeaddressed:Div.ofImmunology
+and Genetics, John Curtin School of Medical Research, Australian histidine-richregion;GAG,glycosaminoglycan;ELISA,enzyme-linked
+NationalUniversity,Canberra,ACT2601,Australia.Tel.:61-2-6125- immunosorbentassay;Ni-NTA,nickel-nitrilotriaceticacid;PBS,phos-
+2604;Fax:61-2-6125-2595;E-mail:christopher.parish@anu.edu.au. phate-bufferedsaline;mAb,monoclonalantibody;BSA,bovineserum
+1Theabbreviationsusedare:HRG,histidine-richglycoprotein;HRR, albumin;CHO,Chinesehamsterovary.
+30114 Thispaperisavailableonlineathttp://www.jbc.org
+Downloaded
+from
+http://www.jbc.org/
+at
+Monash
+University
+(CAUL)
+on
+March
+6,
+2015
+--- Page 3 ---
+HRG N-terminal Domain Binds to Cell-surface Heparan Sulfate 30115
+these data, we propose a model whereby HRG binds to cell- (Gradipore, Sydney, Australia). Proteins were transferred electro-
+surfaceheparansulfateviaitsN1N2domainwithlowaffinity, phoreticallyusingaMini-ProteanIIapparatus(Bio-Rad)ontoanitro-
+which is enhanced following Zn2(cid:2) binding to the HRR. Thus, cellulosemembraneusingatransferbuffercontaining48mMTrisand
+39 mM glycine in 20% (v/v) methanol. The membrane was blocked
+HRGmayplayanimportantphysiologicaland/orpathological
+overnightwith5%(w/v)skimmilkpowderdilutedinphosphate-buff-
+role by binding to cell surfaces in local environments that ered saline (PBS). Full-length HRG and the N1N2 domain were de-
+contain high levels of Zn2(cid:2) such as sites of inflammation or tected using the HRG-specific monoclonal antibody (mAb) HRG-4
+duringtumormetastasisandangiogenesis. (AGEN, Brisbane, Australia) and by chemiluminescence using ECL
+Westernblottingdetectionreagents(AmershamBiosciences,Bucking-
+EXPERIMENTALPROCEDURES hamshire,UnitedKingdom).
+Cell Lines—B16F1, COS-7, MT4, HT1080, and Jurkat cells were Immunofluorescence Flow Cytometry—Cell lines were analyzed for
+culturedinRPMI1640medium(Invitrogen)supplementedwith10% HRGbindingorcell-surfaceheparansulfateexpressionbyimmunoflu-
+fetalcalfserum.CHO-K1andpgsA-745cellswereculturedinDulbec- orescence flow cytometry. Typically, plasma-purified or recombinant
+co’smodifiedEagle’smedium(Invitrogen)supplementedwith21(cid:2)g/ml HRGortherecombinantN1N2domain(100(cid:2)g/ml)wasaddedto5(cid:4)
+L-proline and 10% fetal calf serum. Mammalian cell lines were incu- 105cellsinPBSand0.1%bovineserumalbumin(BSA)withorwithout
+bated at 37°C in a humidified atmosphere containing 5% CO . The 20(cid:2) MZn2(cid:2)for60minat4°CandwashedthreetimeswithPBSand
+2
+Spodopterafrugiperda-derivedinsectcelllineSf9wasculturedinSf- 0.1% BSA. Cell-bound HRG or N1N2 was detected using the HRG-
+900IIserum-freemedium(Invitrogen)at27°C. specificmAbHRG-4,andcell-surfaceheparansulfatewasdetectedby
+PurificationofHRG—NativehumanHRGwaspurifiedfromfresh mAbF58-10E4(SeikagakuCorp.,Tokyo,Japan),followedbysecondary
+humanplasmaasdescribedpreviously(22).Briefly,aphosphocellulose detectionwithfluoresceinisothiocyanate-labeledsheepanti-mouseIg
+columnwasequilibratedwithloadingbuffer(0.5MNaCl,10mMsodium (AmradBiotech,Melbourne,Australia).Cellswereanalyzedbyimmu-
+phosphate,and1mMEDTA(pH6.8))for24h.Freshhumanplasma nofluorescenceflowcytometryusinganLSRflowcytometer(BDBio-
+was provided by Red Cross House of Canberra Hospital (Canberra, sciences), with forward scatter, side scatter, and Fl-1 data being col-
+Australia) and mixed with NaCl and EDTA to final concentrations lected. Flow cytometry data were analyzed using CellQuest Pro soft-
+similartothoseoftheloadingbufferandwiththeproteaseinhibitors ware (BD Biosciences). Each treatment condition was typically
+aprotinin (2 (cid:2)g/ml), phenylmethylsulfonyl fluoride (100 (cid:2)g/ml), and repeatedintriplicate,andeachexperimentwasrepeatedtwotothree
+4-(2-aminoethyl)benzenesulfonyl fluoride hydrochloride (100 (cid:2)g/ml). timesunlessstatedotherwise.Insomeexperiments,cellsweretreated
+The plasma was passed through the equilibrated column; unbound withmammalianheparanase(2units/ml),bacterialheparinaseIII(2
+protein was removed by extensive washing with loading buffer; and units/ml;Sigma),orchondroitinaseABC(2units/ml;Sigma)dilutedin
+boundHRGwaselutedwith2.0MNaCl,10mMsodiumphosphate,and PBSand0.1%BSAfor2hat37°C.Inotherexperiments,humanHRG
+1mMEDTA(pH6.8). (100 (cid:2)g/ml) was co-incubated with different GAGs (0.5–100 (cid:2)g/ml),
+SynthesisofL1–L5Peptides—TheHRRwithinhumanHRGiscom- includingbovinelungheparin(3.1,4.5,10.6,12.5,and16.7kDa)and
+posed of 12 tandem repeats, with the dominant consensus repeat se- chondroitinsulfatesA,B,C,andE(Sigma).Also,insomecases,cells
+quencebeingthe5-aminoacidmotifGHHPH.Syntheticpeptidescom- were incubated with the biotinylated L1–L3 peptides (100 (cid:2) M), with
+posedofonetofiverepeatsofthis5-aminoacidmotif(termedL1–L5, peptide binding to the cells being detected by R-phycoerythrin-conju-
+respectively)wereproduced.L1–L3peptidesbiotinylatedattheNter- gatedstreptavidin(CaltagLaboratories,Burlingame,CA).
+minuswerealsoprepared.TheL1–L5peptideswereprovidedasakind ELISAs—ELISAswereperformedbycoating96-wellpolyvinylchlo-
+gift by Dr. Joe Altin (School of Biochemistry and Molecular Biology, ridemicrotiterplasticplates(DynexTechnologiesInc.,Chantilly,VA)
+AustralianNationalUniversity). overnightat4°Cwithrecombinantfull-lengthHRGorN1N2(50(cid:2)l/
+PlasmidConstructs—UsingthepUC9-HRGplasmidconstructasa well,(cid:1)5(cid:2)g/ml)in0.05MNa
+2
+CO
+3
+/NaHCO
+3
+buffer(pH9.6)(Sigma)or
+template(1),PCRwitholigonucleotidesALJ-1andALJ-5wascarried withstreptavidin(50(cid:2)l/well,10(cid:2)g/ml;Sigma)dilutedinPBS.Plates
+outtoamplifyacDNAencodingfull-lengthhumanHRGcomprisingthe werethenwashedwithPBSand0.02%Tween20andblockedfor120
+leader,firstcystatin(N1)domain,secondcystatin(N2)domain,HRR, minatroomtemperaturewith3%(w/v)BSAdilutedinPBS.Insome
+andC-terminaldomaincodingregions.TheN1N2codingregioncDNA experiments, biotinylated heparin (10 (cid:2)g/ml) diluted in PBS and 1%
+wasgeneratedbyamplificationwitholigonucleotidesALJ-1andALJ-3. BSA was added to the streptavidin-coated plates for 60 min at room
+N1N2wasengineeredtocontainahexahistidinetagatthe3(cid:3)-endofthe temperaturebeforeadditionofHRGortheN1N2domain(50(cid:2)l/well,
+moleculethroughinclusionofsixtandemhistidinecodonsinoligonu- (cid:1)0.1–100nM)dilutedinPBSintheabsenceorpresenceof20(cid:2) MZn2(cid:2)
+cleotideALJ-3.Theoligonucleotideprimersequencesusedareasfol- and/or 1 mM EDTA. Bound HRG and N1N2 were detected using the
+lows: ALJ-1, 5(cid:3)-TTGAATTCTAAAGGGATGGTTTAACAAAATG-3(cid:3); HRG-specific mAb HRG-4, followed by secondary antibody detection
+ALJ-3, 5(cid:3)-AAGGTACCTTAGTGATGGTGATGGTGATGCTGAGGGTC- with horseradish peroxidase-conjugated sheep anti-mouse Ig (Amrad
+GAAGACTTCAC-3(cid:3); and ALJ-5, 5(cid:3)-AAGGTACCTTATTTTGGAAATG- Biotech). Plate-bound peroxidase was detected using 2,2(cid:3)-azinobis(3-
+TATGTGTAAAAAAC-3(cid:3). The amplified HRG and N1N2 cDNAs were ethylbenzothiazoline-6-sulfonicacid)peroxidasesubstrate(Kirkegaard
+clonedintotheEcoRI/KpnIsitesinthedonorvectorconstructpFastBac &PerryLaboratoriesInc.,Gaithersburg,MD)andmeasuringtheab-
+(Invitrogen), generating the pFastBac-HRG and pFastBac-N1N2 con- sorbanceat405nm(referencewavelengthof490nm)onaThermomax
+structs, respectively. The nucleotide integrity of each clone was con- microplate reader. Data were analyzed using SoftMax Pro software
+firmed by automated sequencing using an Applied Biosystems 3730 (MolecularDevices,Sunnyvale,CA).
+DNAanalyzer.
+TransfectionsandRecombinantProteinProductionUsingtheBacu- RESULTS
+lovirusExpressionSystem—Recombinantproteinsoffull-lengthhuman HRGBindingtoCellSurfacesIsZn2(cid:2)-dependent—Previous
+HRGandtheN2N2domainofhumanHRGwereproducedusingthe
+studieshavesuggestedthatthebindingofHRGtocellsurfaces
+“Bac-to-Bac”baculovirusexpressionsystem(Invitrogen).Recombinant ishighlyZn2(cid:2)-dependent,withphysiologicalconcentrationsof
+bacmidconstructsweregeneratedusingthepFastBac-HRGorpFast-
+Bac-N1N2 construct according to the manufacturer’s instructions. Zn2(cid:2)((cid:1)20(cid:2) M)beingparticularlyefficacious(18).Initialexper-
+Briefly,Sf9cellsweretransfectedusingCellfectinreagent(Invitrogen), imentsusedimmunofluorescenceflowcytometrytoanalyzethe
+with1–2(cid:2)gofrecombinantbacmidDNAbeingtransfectedper9(cid:4)105 effectsof20(cid:2) MZn2(cid:2)onthebindingofplasma-derivedHRGto
+cellsfor5hat27°C.Supernatantcontainingrecombinantbaculovirus sixdifferentmammaliancelllineswithwidelydifferingtissue
+washarvested72hpost-transfectionandwasamplifiedfor3–4daysat
+andspeciesorigins,viz.mousemelanomacells(B16F1),human
+27°CbyinfectingSf9cellswithamultiplicityofinfectionof(cid:1)0.01–0.1.
+T-cells(MT4andJurkat),monkeykidneyfibroblasts(COS-7),
+Typically, recombinant baculovirus was amplified three times before
+beingusedtoproducerecombinantprotein.HarvestedSf9supernatant humanfibrosarcomacells(HT1080),andhumanumbilicalvein
+containingrecombinantproteinwaspurifiedusingnickel-nitrilotriace- endothelial cells (Fig. 1A). HRG bound to five of the six lines
+ticacid(Ni-NTA)-agarose(QIAGENInc.,Hilden,Germany).Recombi- testedinahighlyZn2(cid:2)-dependentmanner,withtheexception
+nantfull-lengthHRGandhexahistidine-taggedN1N2wereelutedfrom ofhumanumbilicalveinendothelialcells,whichexhibitedneg-
+Ni-NTA-agarosewith200mMcoldimidazole. ligibleHRGbindinginboththepresenceandabsenceofZn2(cid:2).
+WesternBlotting—Recombinantproteinswereboiledfor10minin20
+(cid:2)l of SDS reducing sample buffer (125 mM Tris-HCl (pH 6.8), 20% Human HRG Interacts with Cell-surface Heparan Sul-
+glycerol,10%dithiothreitol,and4%SDS)andthensubjectedtoelec- fate—Ithasbeenpostulatedpreviouslythatcell-surfaceGAGs
+trophoresisona4–20%(w/v)gradientprecastpolyacrylamideminigel suchasheparansulfateareabletointeractwithHRG(16,17).
+Downloaded
+from
+http://www.jbc.org/
+at
+Monash
+University
+(CAUL)
+on
+March
+6,
+2015
