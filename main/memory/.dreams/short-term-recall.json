@@ -1,0 +1,157 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-07T10:10:09.970Z",
+  "entries": {
+    "memory:memory/2026-03-29.md:1:32": {
+      "key": "memory:memory/2026-03-29.md:1:32",
+      "path": "memory/2026-03-29.md",
+      "startLine": 1,
+      "endLine": 32,
+      "source": "memory",
+      "snippet": "# 2026-03-29 工作日志 ## auto-xxyan（小研）启动 ### 身份确认 - 角色：auto-xxyan（小研） - 使命：专注主动搜索脓毒症（sepsis）最新文献 - 启动时间：2026-03-29 00:10 ### 首次文献调研结果 --- ## 🔬 脓毒症最新文献速报（2026-03-29） ### 1. ANDROMEDA-SHOCK-2（JAMA, 2025年10月）⭐ 重磅 - **规模**：1501例患者，86家ICU，19个国家 - **设计**：CRT-PHR（以毛细血管再充盈时间≤3秒为目标）vs 常规治疗 - **结果**：个性化血流动力学复苏方案在28天复合终点（死亡率+器官支持天数+住院时长）**优于常规治疗** - **核心获益**：器官支持时间缩短1天（中位数3天 vs 4天） - **意义**：挑战了传统以乳酸为目标的复苏策略，微循环灌注指导优于血清乳酸 - **文献**：[PubMed 41159835](https://pubmed.ncbi.nlm.nih.gov/41159835/) ### 2. 2026版《Surviving Sepsis Campaign》指南（SCCM/ESICM） - **发布时间**：2026年3月 - **规模**：129条推荐意见，46条为全新内容 - **核心更新**： - **1小时内抗生素**（immediate，<1小时）适用范围扩展到所有可疑脓毒症（含休克和非休克） - 强调院前识别和早期干预",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "totalScore": 1.6919077354905339,
+      "maxScore": 0.8462625702992668,
+      "firstRecalledAt": "2026-04-06T22:50:23.132Z",
+      "lastRecalledAt": "2026-04-06T22:50:27.010Z",
+      "queryHashes": [
+        "5d086c14fc7e",
+        "864ab5bfe222"
+      ],
+      "recallDays": [
+        "2026-04-07"
+      ],
+      "conceptTags": [
+        "auto-xxyan",
+        "andromeda-shock-2",
+        "crt-phr",
+        "pubmed.ncbi.nlm.nih.gov/41159835",
+        "sccm/esicm",
+        "工作",
+        "日志",
+        "auto"
+      ]
+    },
+    "memory:memory/2026-04-01.md:74:105": {
+      "key": "memory:memory/2026-04-01.md:74:105",
+      "path": "memory/2026-04-01.md",
+      "startLine": 74,
+      "endLine": 105,
+      "source": "memory",
+      "snippet": "- 2周试运行期内收集真实漏洞，不要急于强制 --- ## 下午：任务看板升级 + 团队协作演练 ### 任务看板从 Markdown 升级到 SQLite **背景**：Markdown 文件存在并发写入互相覆盖的问题（dev + writer 同时写 ask_board.md，结果互相覆盖） **解决**：社区搜索方案 → 选定 SQLite 数据库 **落地成果：** - `E:\\openclaw\\tasks\\board.db` — SQLite 数据库（WAL模式，支持多进程并发） - `E:\\openclaw\\tasks\\ask_board.py` — 共享函数库（create_task / claim_task / block_task / complete_task / get_all_tasks） - 并发测试通过：dev 写 T005 ✅ + writer 写 T006 ✅，无覆盖无丢失 - `ask_board.md` 已删除（废弃） **协作规范更新：** - 所有 agent 通过 exec Python 调用 `ask_board.py` 更新状态 - 小金负责监督和汇总 - 旧版任务看板规范已从各人 SOUL.md 中更新为 SQLite 方案 ### T003 持仓分析演练（团队协调测试） - 金哥问持仓操作建议 → 小金派活 → finance 接单 - 问题：finance 漏写了看板（第一次真实任务暴露的漏洞） - 实时行情 vs 收盘数据，金哥要求实时 → finance 重新拉实时数据 - 结论：农业银行/黄金ETF持",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "totalScore": 0.8549256372052098,
+      "maxScore": 0.8549256372052098,
+      "firstRecalledAt": "2026-04-07T01:08:43.499Z",
+      "lastRecalledAt": "2026-04-07T01:08:43.499Z",
+      "queryHashes": [
+        "4693c12672c4"
+      ],
+      "recallDays": [
+        "2026-04-07"
+      ],
+      "conceptTags": [
+        "ask-board.md",
+        "board.db",
+        "ask-board.py",
+        "create-task",
+        "claim-task",
+        "block-task",
+        "complete-task",
+        "get-all-tasks"
+      ]
+    },
+    "memory:memory/2026-04-04.md:39:71": {
+      "key": "memory:memory/2026-04-04.md:39:71",
+      "path": "memory/2026-04-04.md",
+      "startLine": 39,
+      "endLine": 71,
+      "source": "memory",
+      "snippet": "- `.gitignore.knowledge`：knowledge 仓专用过滤规则 ### DesktopCal 日历清单集成 **背景**：金哥不用企业微信了，改用 DesktopCal（桌面日历）管理个人待办。 **定位**： - CalendarTask 日历清单 = 金哥个人\"应该做什么\"的记录 - board.db 看板 = 团队任务流转中枢 - 两者独立，互补替代 **数据库路径**：`C:\\Users\\Administrator\\AppData\\Roaming\\CalendarTask\\Db\\calendar.db` - `item_table`：存储每日待办（`dkcal_mdays_YYYYMMDD` UID = 当天条目） - 内容格式：多行文本，`[+] 前缀` = 已完成状态 - `it_history`：JSON 历史记录 **技术关键发现**： - DesktopCal widget（dkdockhost）有内存缓存，直接 SQL 写入后不自动刷新 - 必须重启 desktopcal 主程序才能让 widget 重新读数据库 - Widget 渲染时 `[+]` 前缀会被隐藏（正常行为） **脚本**：`E:\\openclaw\\main\\scripts\\desktopcal_todo.py` ``` python desktopcal_todo.py add <任务> # 添加 python desktopcal_todo.py list # 查看 python desktopcal_todo.",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "totalScore": 0.8558376606378623,
+      "maxScore": 0.8558376606378623,
+      "firstRecalledAt": "2026-04-07T01:11:40.446Z",
+      "lastRecalledAt": "2026-04-07T01:11:40.446Z",
+      "queryHashes": [
+        "1aa69a580311"
+      ],
+      "recallDays": [
+        "2026-04-07"
+      ],
+      "conceptTags": [
+        "gitignore.knowledge",
+        "board.db",
+        "calendar.db",
+        "item-table",
+        "dkcal-mdays-yyyymmdd",
+        "it-history",
+        "desktopcal-todo.py",
+        "desktopcal-todo"
+      ]
+    },
+    "memory:memory/2026-04-04.md:64:76": {
+      "key": "memory:memory/2026-04-04.md:64:76",
+      "path": "memory/2026-04-04.md",
+      "startLine": 64,
+      "endLine": 76,
+      "source": "memory",
+      "snippet": "python desktopcal_todo.py del <行号> # 删除 python desktopcal_todo.py modify <行号> <新内容> # 修改 ``` **对接早报**：cron `daily-morning-brief` 已改为读 DesktopCal（`read_desktopcal_todos.py`） **待做**：自然语言解析 + 接入对话（直接理解\"加个任务 XX\"等指令） ### 其他 - 金哥让各小弟每人想一个\"空闲时想做的事\"，说明团队开始在文化建设上做思考 - 没有装专门的 Gitee skill（搜了一圈没有 push 专用 skill，用 git 原生命令即可） - 金哥确认以后主用 webchat/微信，不用企业微信",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "totalScore": 0.8425142594303874,
+      "maxScore": 0.8425142594303874,
+      "firstRecalledAt": "2026-04-07T01:11:40.446Z",
+      "lastRecalledAt": "2026-04-07T01:11:40.446Z",
+      "queryHashes": [
+        "1aa69a580311"
+      ],
+      "recallDays": [
+        "2026-04-07"
+      ],
+      "conceptTags": [
+        "desktopcal-todo.py",
+        "daily-morning-brief",
+        "read-desktopcal-todos.py",
+        "webchat/微信",
+        "python",
+        "删除",
+        "modify",
+        "内容"
+      ]
+    },
+    "memory:memory/2026-03-31.md:1:33": {
+      "key": "memory:memory/2026-03-31.md:1:33",
+      "path": "memory/2026-03-31.md",
+      "startLine": 1,
+      "endLine": 33,
+      "source": "memory",
+      "snippet": "# 2026-03-31 Daily Memory ## 企业微信多 Bot 配置问题 ### 做了什么 - 读取了金哥桌面 `机器人.md`（4个企业微信机器人配置） - 配置了 wecom 插件多账号结构（accounts: dev/finance/writer/auto-xyyan） - 添加了对应 bindings - 测试后发现官方 `wecom-openclaw-plugin` 多 Bot 路由有 bug ### Bug 确认 - 根因：OpenClaw framework `pi-embedded-helpers` 的 `resolveSessionKey` 硬编码 `DEFAULT_AGENT_ID`，不看 bindings - 症状：多 Bot DM 全路由到 default agent，不是各自绑定的 agent - 同类问题也存在于 Feishu 插件（GitHub Issue #8692） - 链接：https://github.com/openclaw/openclaw/issues/8692 - 已投票 ✅ ### 解决方案 - **sunnoy/openclaw-plugin-wecom**（社区增强版）：原生支持多账号 + Bindings 路由 - npm: `@sunnoy/wecom` - 安全评估：🟡 MEDIUM（可装，非官方） - 当前不急，等官方修好再装 - **回滚**：删除了 wecom 配置，恢复原状 ### 最终状态 - wecom 插件已卸载（`ch",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "totalScore": 0.8307440835498463,
+      "maxScore": 0.8307440835498463,
+      "firstRecalledAt": "2026-04-07T10:10:09.970Z",
+      "lastRecalledAt": "2026-04-07T10:10:09.970Z",
+      "queryHashes": [
+        "6c93fa914fa2"
+      ],
+      "recallDays": [
+        "2026-04-07"
+      ],
+      "conceptTags": [
+        "机器人.md",
+        "dev/finance/writer/auto-xyyan",
+        "wecom-openclaw-plugin",
+        "pi-embedded-helpers",
+        "default-agent-id",
+        "sunnoy/openclaw-plugin-wecom",
+        "sunnoy/wecom",
+        "企业"
+      ]
+    }
+  }
+}

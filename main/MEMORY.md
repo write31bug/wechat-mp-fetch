@@ -46,6 +46,15 @@
 
 main 的 subagents: [dev, writer, finance, community]
 
+## DesktopCal 日历清单
+
+**用途**：金哥个人"应该做什么"的记录，即"日历清单"
+**数据库**：`C:\Users\Administrator\AppData\Roaming\CalendarTask\Db\calendar.db`
+**查看脚本**：`python E:\openclaw\main\scripts\desktopcal_todo.py list`
+**触发词**："日历清单"、"今天任务"、"待办"
+
+---
+
 ## 技术备忘
 
 ### Subagent Session 清理
