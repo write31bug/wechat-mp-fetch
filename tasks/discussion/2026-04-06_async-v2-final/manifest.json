@@ -1,0 +1,15 @@
+{
+  "id": "2026-04-06-async-v2-final",
+  "topic": "v2 方案修复后复审",
+  "background": "v2 方案评审中发现了 6 个问题，现已全部修复：\n1. [P0] ask_board.py WAL 模式已显式启用（PRAGMA journal_mode=WAL + busy_timeout=5000）\n2. [P0] init_db() 已补全 3 张建表语句 + 外键索引\n3. [P0] busy_timeout=10s 防止 database locked\n4. [P1] confidence 参考标准已写入 workflow 文档\n5. [P1] .md 存放路径规范（base_path + {agent}.md）已定义\n6. [P1] discussion_log 默认关闭，按需开启\n\nask_board.py 已通过测试验证（create_discussion/get_contributions/update_contribution 全部正常）\n\n方案文档：E:\\openclaw\\tasks\\discussion-workflow-v2.md\n\n本次讨论任务：验证修复是否到位，对 v2 最终结论。",
+  "goal": "复审修复后的 v2 方案：之前提出的问题是否真正解决了？还有什么遗漏？最终是否值得升级？",
+  "agents": ["dev", "writer", "finance", "community"],
+  "status": "in_progress",
+  "created": "2026-04-06T21:52:00+08:00",
+  "contributions": {
+    "dev": { "status": "done", "file": "dev.md" },
+    "writer": { "status": "done", "file": "writer.md" },
+    "finance": { "status": "done", "file": "finance.md" },
+    "community": { "status": "done", "file": "community.md" }
+  }
+}

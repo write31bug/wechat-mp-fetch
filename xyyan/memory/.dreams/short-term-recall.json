@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-07T12:32:58.126Z",
+  "entries": {
+    "memory:memory/2026-04-01.md:1:22": {
+      "key": "memory:memory/2026-04-01.md:1:22",
+      "path": "memory/2026-04-01.md",
+      "startLine": 1,
+      "endLine": 22,
+      "source": "memory",
+      "snippet": "# 2026-04-01 ## 今天发生的事 ### 两个 Agent 协作讨论 - 鹤鹤让我们两个商量下一步学习方向 - 小弟（auto-xyyan）整理了四个核心通路，我们商量的结论是： - **首选方向**：H3K18la 乳酸酰化通路在凝血病（SIC/DIC）中的延伸 - **完整假说框架**：Eno1 → 糖酵解↑ + 乳酸↑ → H3K18la（Egr1依赖）→ Heparanase激活 → 糖萼降解 + TF暴露 → 凝血激活；下游 NETosis/CIT-HIST-H3 放大免疫血栓 → SIC/DIC - ⚠️ 建议先确认临床样本可及性，再定基础机制 vs 临床标志物路线 ### 鹤鹤指令 - 鹤鹤说：**直接去学习吧，多方面去学习** - 小弟下一步任务：多方向深入搜索 H3K18la + 凝血病、Eno1、NETosis 等 - 我（xyyan）：同步精读相关文献，两边一起推进 ### 讨论文件 - 小弟整理的报告：`E:\\openclaw\\auto-xyyan\\output\\discussion_with_xyyan.md`",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "totalScore": 0.6194470191103308,
+      "maxScore": 0.6194470191103308,
+      "firstRecalledAt": "2026-04-07T12:32:58.126Z",
+      "lastRecalledAt": "2026-04-07T12:32:58.126Z",
+      "queryHashes": [
+        "c24385ca5d22"
+      ],
+      "recallDays": [
+        "2026-04-07"
+      ],
+      "conceptTags": [
+        "auto-xyyan",
+        "sic/dic",
+        "netosis/cit-hist-h3",
+        "discussion-with-xyyan.md",
+        "今天",
+        "发生",
+        "协作",
+        "讨论"
+      ]
+    },
+    "memory:memory/2026-03-31.md:1:33": {
+      "key": "memory:memory/2026-03-31.md:1:33",
+      "path": "memory/2026-03-31.md",
+      "startLine": 1,
+      "endLine": 33,
+      "source": "memory",
+      "snippet": "# 2026-03-31 ## 今天发生的事 ### 文件来源分工（重要！已确认） | 来源 | 谁放 | 存在哪 | |------|------|--------| | 鹤鹤下载的文献 | 你 | `E:\\openclaw\\xyyan\\document\\` | | 小弟网上搜的文献 | auto-xyyan | `E:\\openclaw\\auto-xyyan\\papers\\` | 之前我（xyyan）一直把两个 Agent 的文献来源搞反了，已纠正。 ### 两个 Agent 职责 - **xyyan（我）**：不主动搜索，只读 `document\\` 里鹤鹤放进去的文献，帮你整理、分析、写作 - **auto-xyyan（小弟）**：主动上网搜索学习，文献存自己那边 ### 统一说法 - 你说\"**主动学习**\" = 小弟去网上搜 → 存 `auto-xyyan\\papers\\` - 你说\"**精读**\" = 我来读 `xyyan\\document\\` 里的文献 ### 小弟今日成果 - 小弟精读 8 篇 HRG + 脓毒症内皮损伤/凝血病文献 - 笔记存于：`E:\\openclaw\\xyyan\\papers\\精读笔记_HRG与脓毒症内皮损伤凝血病.md` - 这些文献来源是鹤鹤的 `E:\\document`，不是小弟自己搜的 ### 小弟今日成果（第二次主动学习） - 小弟再次主动出击，搜索并精读了 **10篇** 脓毒症内皮损伤 & 凝血病最新文献（2024-2025年） - 笔记",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "totalScore": 0.5804426741177663,
+      "maxScore": 0.5804426741177663,
+      "firstRecalledAt": "2026-04-07T12:32:58.126Z",
+      "lastRecalledAt": "2026-04-07T12:32:58.126Z",
+      "queryHashes": [
+        "c24385ca5d22"
+      ],
+      "recallDays": [
+        "2026-04-07"
+      ],
+      "conceptTags": [
+        "auto-xyyan",
+        "脓毒症内皮损伤/凝血病文献",
+        "精读笔记-hrg与脓毒症内皮损伤凝血病.md",
+        "2024-2025年",
+        "今天",
+        "发生",
+        "文件",
+        "来源"
+      ]
+    }
+  }
+}

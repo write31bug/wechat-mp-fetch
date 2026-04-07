@@ -1,0 +1,14 @@
+{
+  "id": "2026-04-06-openclaw-update",
+  "topic": "OpenClaw 版本更新评估（2026.4.x 系列）",
+  "background": "金哥当前运行版本 2026.4.5 (3e72c03)。2026.4.x 系列主要更新：\n1. 内置视频/音乐生成（bundled provider）\n2. 本地化 Control UI\n3. 新插件安装流程（ClawHub 正式上线，13700+ skills）\n4. exec 权限加固 + 安全修复\n5. Agent failover（rate-limit 跨 provider fallback）\n6. Session 路由改进（Telegram topic routing、Feishu scoped inheritance）\n7. Compaction model 配置修复\n8. 错误处理优化（不再向外部渠道泄露原始错误）\n9. 2026.4.2：Task Flows 恢复 + Android Google Assistant 集成\n\n已知破坏性变更：XAI xsearch config 需要迁移（openclaw doctor fix 可修复）",
+  "goal": "评估 OpenClaw 2026.4.x 更新对金哥的使用价值，判断是否值得升级或关注哪些功能",
+  "agents": ["dev", "writer", "finance"],
+  "status": "in_progress",
+  "created": "2026-04-06T21:34:00+08:00",
+  "contributions": {
+    "dev": { "status": "done", "file": "dev.md" },
+    "writer": { "status": "done", "file": "writer.md" },
+    "finance": { "status": "done", "file": "finance.md" }
+  }
+}

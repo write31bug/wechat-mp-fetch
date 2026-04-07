@@ -1,0 +1,14 @@
+{
+  plugins: {
+    entries: {
+      "memory-core": {
+        config: {
+          dreaming: {
+            enabled: true,
+            frequency: "0 3 * * *"
+          }
+        }
+      }
+    }
+  }
+}

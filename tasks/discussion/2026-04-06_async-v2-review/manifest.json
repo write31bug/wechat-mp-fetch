@@ -1,0 +1,15 @@
+{
+  "id": "2026-04-06-async-v2-review",
+  "topic": "异步讨论方案 v2（数据库版）评审",
+  "background": "金哥提出将 manifest/status 从文件迁移到 SQLite 数据库，与现有的 board.db 合并。\n\n核心思路：\n- 内容（观点）继续存 .md 文件（可读可分享）\n- 状态和元数据存 SQLite（ACID + 并发安全）\n- 新增 discussion_log 表做审计\n- 新增 confidence 字段（各 agent 自评结论可信度）\n- 复用 board.db，不另起炉燎\n\n方案文档：E:\\openclaw\\tasks\\discussion-workflow-v2.md",
+  "goal": "评审 v2 方案：相比 v1（纯文件）是否值得升级？ schema 设计是否合理？与 board.db 合并要注意什么？",
+  "agents": ["dev", "writer", "finance", "community"],
+  "status": "in_progress",
+  "created": "2026-04-06T21:46:00+08:00",
+  "contributions": {
+    "dev": { "status": "done", "file": "dev.md" },
+    "writer": { "status": "done", "file": "writer.md" },
+    "finance": { "status": "done", "file": "finance.md" },
+    "community": { "status": "done", "file": "community.md" }
+  }
+}

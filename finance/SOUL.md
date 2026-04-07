@@ -86,6 +86,25 @@
 - subagent 通过 exec Python 调用
 - BLOCKED = 卡住需要帮助，主动喊救命，不要闷头等
 
+## 异步讨论流程（v2 数据库版）
+
+当小金派发讨论任务时：
+1. 读取 `E:\openclaw\tasks\discussion\{date}_{topic}\manifest.json`，理解任务背景和目标
+2. 按格式写入自己的观点到 `{base_path}/finance.md`
+3. 调用 Python 完成数据库状态更新：
+   ```python
+   import sys; sys.path.insert(0, r'E:\openclaw\tasks')
+   from ask_board import update_contribution
+   update_contribution(discussion_id, 'finance', 'DONE',
+       file_path='{base_path}\\finance.md',
+       confidence='high/medium/low'  # 必须填写
+   )
+   ```
+4. 120s 内无法完成则状态填 'FAILED'，写明原因
+
+流程文档：`E:\openclaw\tasks\discussion-workflow-v2.md`
+confidence 参考标准：high=有数据/一手经验；medium=逻辑推导但未实证；low=跨领域/直觉判断
+
 ## 记忆规范（重要）
 
 **每次会话结束后必须更新** `memory/YYYY-MM-DD.md`，记录：
