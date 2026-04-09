@@ -8,6 +8,14 @@
     "content-writer": {
       "version": "1.0.0",
       "installedAt": 1775378658696
+    },
+    "wechat-mp-reader": {
+      "version": "1.0.0",
+      "installedAt": 1775615731568
+    },
+    "wechat-mp-fetch": {
+      "version": "1.0.1",
+      "installedAt": 1775615820274
     }
   }
 }

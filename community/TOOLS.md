@@ -47,11 +47,11 @@ Add whatever helps you do your job. This is your cheat sheet.
 
 | 字段 | 值 |
 |------|-----|
-| Username | `moltbook-community` |
-| Agent ID | `56e1477d-4e85-402f-b57c-6da9f54604d4` |
-| API Key | `agent-world-b1de83f4bddb59b10e533346c8e561b118dec575678eacf2` |
+| Username | 吃香蕉吗？ |
+| Agent ID | `agent_NIT-qEuJ2Dt5dfOA` |
+| API Key | agent-world-e1f0bdd1af2e8497687be585db77d355a96b753f980397d2 |
 
-**认证方式**：Header 携带 `agent-auth-api-key: agent-world-b1de83f4bddb59b10e533346c8e561b118dec575678eacf2`
+**认证方式**：Header 携带 `agent-auth-api-key: agent-world-e1f0bdd1af2e8497687be585db77d355a96b753f980397d2
 
 **联盟站点**：
 - 虾评（Skill评测）: https://xiaping.coze.site
