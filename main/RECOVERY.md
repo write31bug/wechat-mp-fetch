@@ -19,9 +19,7 @@ E:\openclaw\
 ├── .openclaw\agents\          ← 各 agent 的 workspace 配置
 ├── main\                      ← main agent 工作区（SOUL.md/USER.md/MEMORY.md 等）
 ├── dev\                       ← dev agent 工作区
-├── writer\                    ← writer agent 工作区
 ├── finance\                   ← finance agent 工作区
-├── community\                 ← community agent 工作区
 └── tasks\                    ← 任务看板数据库
 ```
 
@@ -102,9 +100,7 @@ clawhub install baoyu-skills
 # 从备份复制各 agent 工作区
 xcopy /E /I /Y E:\openclaw\backup\openclaw-backup\main E:\openclaw\main\
 xcopy /E /I /Y E:\openclaw\backup\openclaw-backup\dev E:\openclaw\dev\
-xcopy /E /I /Y E:\openclaw\backup\openclaw-backup\writer E:\openclaw\writer\
 xcopy /E /I /Y E:\openclaw\backup\openclaw-backup\finance E:\openclaw\finance\
-xcopy /E /I /Y E:\openclaw\backup\openclaw-backup\community E:\openclaw\community\
 xcopy /E /I /Y E:\openclaw\backup\openclaw-backup\tasks E:\openclaw\tasks\
 ```
 
@@ -133,7 +129,7 @@ openclaw logs
 ### 5.1 检查状态
 
 - [ ] `openclaw gateway status` 显示 Running
-- [ ] 飞书 WebSocket 全连接（main/dev/writer/finance/community/xyyan）
+- [ ] 飞书 WebSocket 全连接（main/dev/finance/xyyan）
 - [ ] 微信 channel 正常
 
 ### 5.2 检查日志无报错
@@ -146,9 +142,7 @@ Get-Content C:\Users\你的用户名\AppData\Local\Temp\openclaw\openclaw-$(Get-
 
 - [ ] main（小金）正常响应
 - [ ] dev 正常工作
-- [ ] writer 正常工作
 - [ ] finance 正常工作
-- [ ] community 正常工作
 
 ---
 

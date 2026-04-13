@@ -1,0 +1,24 @@
+# 敏感文件
+.credentials.md
+.env
+
+# Community workspace（含大量敏感配置）
+community/config/
+community/data/
+community/.learnings/
+community/memory/
+
+# OpenClaw 运行时
+.openclaw/
+
+# Node
+node_modules/
+
+# 临时文件
+temp/
+ttemp/
+*.tmp
+
+# 系统文件
+.DS_Store
+Thumbs.db
